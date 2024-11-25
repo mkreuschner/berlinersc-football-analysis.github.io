@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Team selector</title>
+    <style>
+        /* Global Styles */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #000; /* Black background */
+            color: #fff; /* White text */
+            text-align: center;
+            margin: 0;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+
+        h1 {
+            font-size: 2rem; /* Dynamic font size */
+        }
+
+        p {
+            font-size: 1.2rem; /* Dynamic font size */
+        }
+
+        /* Dropdown menu */
+        select {
+            padding: 10px;
+            font-size: 1rem;
+            background-color: #333; /* Dark dropdown background */
+            color: #fff; /* White text in dropdown */
+            border: 1px solid #555; /* Gray border */
+            width: 100%; /* Full width on smaller devices */
+            max-width: 400px; /* Max width for larger screens */
+            margin: 10px auto; /* Centered */
+        }
+
+        select:focus {
+            outline: none;
+            border: 1px solid #fff; /* White border on focus */
+        }
+
+        /* Button */
+        button {
+            padding: 10px 20px;
+            margin-top: 20px;
+            font-size: 1rem;
+            background-color: #444; /* Dark button background */
+            color: #fff; /* White text */
+            border: 1px solid #666; /* Gray border */
+            cursor: pointer;
+            width: 100%; /* Full width on smaller devices */
+            max-width: 400px; /* Max width for larger screens */
+        }
+
+        button:hover {
+            background-color: #555; /* Lighter color on hover */
+        }
+
+        /* Logo */
+        #teamLogoContainer {
+            display: flex;
+            justify-content: center; /* Center horizontally */
+            align-items: center; /* Center vertically */
+            margin-top: 20px;
+        }
+
+        #teamLogo {
+            width: 50px; /* Fixed size for the logo */
+            height: 50px; /* Fixed size for the logo */
+            display: none; /* Hidden by default */
+        }
+
+        /* Media Queries for iPhones */
+        @media (max-width: 480px) {
+            h1 {
+                font-size: 1.8rem;
+            }
+
+            p {
+                font-size: 1rem;
+            }
+
+            button, select {
+                font-size: 1rem;
+                padding: 8px 16px;
+            }
+
+            #teamLogo {
+                width: 50px; /* Ensure fixed size remains consistent */
+                height: 50px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Data Analysis</h1>
+    <p>Choose a team to navigate to its page:</p>
+
+    <!-- Dropdown menu -->
+    <select id="teamSelect" onchange="showLogo()">
+        <option value="">-- Select a Team --</option>
+        <option value="BSC.html" data-logo="images/BSC.png">Berliner SC</option>
+        <option value="Rudow.html" data-logo="images/TSVRudow.png">TSV Rudow Berlin</option>
+        <option value="SternBritz.html" data-logo="images/SternBritz.png">Stern Britz</option>
+    </select>
+    <br>
+    <!-- Logo placeholder -->
+    <div id="teamLogoContainer">
+        <img id="teamLogo" src="" alt="Team Logo">
+    </div>
+    <button onclick="navigateToTeam()">Go</button>
+
+
+
+    <script>
+        function navigateToTeam() {
+            // Get the selected team's value
+            const selectedTeam = document.getElementById("teamSelect").value;
+            
+            if (selectedTeam) {
+                // Redirect to the selected page
+                window.location.href = selectedTeam;
+            } else {
+                alert("Please select a team!");
+            }
+        }
+
+        function showLogo() {
+            // Get the selected option in the dropdown
+            const teamSelect = document.getElementById("teamSelect");
+            const selectedOption = teamSelect.options[teamSelect.selectedIndex];
+
+            // Get the logo's path from the data-logo attribute
+            const logoPath = selectedOption.getAttribute("data-logo");
+
+            // Update the image or hide it
+            const teamLogo = document.getElementById("teamLogo");
+            if (logoPath) {
+                teamLogo.src = logoPath;
+                teamLogo.style.display = "block";
+            } else {
+                teamLogo.style.display = "none";
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,699 @@
+---
+title: "main_page"
+output: html_document
+date: "2024-11-25"
+---
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Team selector</title>
+    <style>
+        /* Global Styles */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #000; /* Black background */
+            color: #fff; /* White text */
+            text-align: center;
+            margin: 0;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+
+        h1 {
+            font-size: 2rem; /* Dynamic font size */
+        }
+
+        p {
+            font-size: 1.2rem; /* Dynamic font size */
+        }
+
+        /* Dropdown menu */
+        select {
+            padding: 10px;
+            font-size: 1rem;
+            background-color: #333; /* Dark dropdown background */
+            color: #fff; /* White text in dropdown */
+            border: 1px solid #555; /* Gray border */
+            width: 100%; /* Full width on smaller devices */
+            max-width: 400px; /* Max width for larger screens */
+            margin: 10px auto; /* Centered */
+        }
+
+        select:focus {
+            outline: none;
+            border: 1px solid #fff; /* White border on focus */
+        }
+
+        /* Button */
+        button {
+            padding: 10px 20px;
+            margin-top: 20px;
+            font-size: 1rem;
+            background-color: #444; /* Dark button background */
+            color: #fff; /* White text */
+            border: 1px solid #666; /* Gray border */
+            cursor: pointer;
+            width: 100%; /* Full width on smaller devices */
+            max-width: 400px; /* Max width for larger screens */
+        }
+
+        button:hover {
+            background-color: #555; /* Lighter color on hover */
+        }
+
+        /* Logo */
+        #teamLogoContainer {
+            display: flex;
+            justify-content: center; /* Center horizontally */
+            align-items: center; /* Center vertically */
+            margin-top: 20px;
+        }
+
+        #teamLogo {
+            width: 50px; /* Fixed size for the logo */
+            height: 50px; /* Fixed size for the logo */
+            display: none; /* Hidden by default */
+        }
+
+        /* Media Queries for iPhones */
+        @media (max-width: 480px) {
+            h1 {
+                font-size: 1.8rem;
+            }
+
+            p {
+                font-size: 1rem;
+            }
+
+            button, select {
+                font-size: 1rem;
+                padding: 8px 16px;
+            }
+
+            #teamLogo {
+                width: 50px; /* Ensure fixed size remains consistent */
+                height: 50px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Data Analysis</h1>
+    <p>Choose a team to navigate to its page:</p>
+    <!-- Dropdown menu -->
+    <select id="teamSelect" onchange="showLogo()">
+        <option value="">-- Select a Team --</option>
+        <option value="BSC.html" data-logo="images/BSC.png">Berliner SC</option>
+        <option value="Rudow.html" data-logo="images/TSVRudow.png">TSV Rudow Berlin</option>
+        <option value="SternBritz.html" data-logo="images/SternBritz.png">Stern Britz</option>
+    </select>
+    <br>
+    <!-- Logo placeholder -->
+    <div id="teamLogoContainer">
+        <img id="teamLogo" src="" alt="Team Logo">
+    </div>
+    <button onclick="navigateToTeam()">Go</button>
+```{r setup, include=FALSE}
+# Setzt den Cache auf FALSE für alle Chunks im Dokument
+knitr::opts_chunk$set(cache = FALSE)
+library(tidyverse)
+library(dplyr)
+library(data.table)
+library(ggplot2)
+library(knitr)
+library(ggforce)
+# Install and load formattable if not already installed
+devtools::install_github("haozhu233/kableExtra")
+if (!require(formattable)) install.packages("formattable")
+library(formattable)
+library("kableExtra")
+
+matchday_data <- read_csv("/Users/mkreuschnervsp/Desktop/BSC/Spieltag11.csv")
+
+```
+    
+```{r include=FALSE}
+# Define the URL of the csv.gz file and the destination file path
+matchday_data <- read_csv("/Users/mkreuschnervsp/Desktop/BSC/Spieltag11.csv")
+player_data <- read.table("/Users/mkreuschnervsp/Desktop/BSC/fupa2425_player_data_11.csv", sep=",", header=TRUE, stringsAsFactors = FALSE, fileEncoding = "UTF-8")
+player_number <- read.csv("/Users/mkreuschnervsp/Desktop/BSC/player_number.csv")  # Replace with your CSV file path
+max_matchday <- max(matchday_data$matchday)  # Calculate max matchday
+# Calculate the new columns and add them to the player data
+player_number_info <- player_number %>%
+  select(ID, Nummer) 
+player_data <- merge(player_data, player_number_info, by = "ID", all.x = TRUE)
+
+player_data <- player_data %>%
+  mutate(
+    # First column: Spielzeit divided by (90 * max_matchday), or 0 if Spiele is 0
+    playtime_ratio = ifelse(Spiele == 0, 0, round(Spielzeit / (90 * max_matchday), 3)),
+    
+    # Second column: Spielzeit divided by Spiele, then by 90, or 0 if Spiele is 0
+    avg_playtime_per_game = ifelse(Spiele == 0, 0, round(Spielzeit / (Spiele * 90), 3)),
+    
+    # Third column: (Tore + Assists) divided by Spiele, or 0 if Spiele is 0
+    scorerpoints_per_game = ifelse(Spiele == 0, 0, round((Tore + Assists) / Spiele, 3))
+  )
+
+# Step 1: Extract last names from `Name` in `player_data`
+player_data <- player_data %>%
+  mutate(last_name = word(Name, -1))  # Extract last word from Name as last name
+
+# Step 2: Extract best players and count appearances from games_data
+# Split 'best_players' by comma, remove leading/trailing spaces, and count each player's occurrences
+best_player_counts <- matchday_data %>%
+  filter(!is.na(best_players)) %>%
+  mutate(best_players = str_split(best_players, ",\\s*")) %>%  # Split by comma and trim whitespace
+  unnest(best_players) %>%                                      # Expand each player into separate rows
+  group_by(best_players) %>%
+  summarise(best_player_appearances = n())                      # Count each player's "best player" appearances
+
+# Step 3: Join with player_data using last names and calculate the ratio of "best player" appearances to total games played
+player_data <- player_data %>%
+  left_join(best_player_counts, by = c("last_name" = "best_players")) %>%  # Join by last name
+  mutate(
+    best_player_appearances = coalesce(best_player_appearances, 0),        # Replace NA with 0 for players with no appearances
+    best_player_ratio = ifelse(Spiele == 0, 0,                             # Calculate ratio; if Spiele is 0, set to 0
+                               round(best_player_appearances / Spiele, 3))
+  ) %>%
+  select(-last_name)  # Remove the last_name helper column if it's no longer needed
+
+# Step 1: Calculate team points based on game results
+data <- matchday_data %>%
+  mutate(
+    team_points = case_when(
+      goals_s > goals_c ~ 3,    # 3 points for a win
+      goals_s == goals_c ~ 1,   # 1 point for a draw
+      goals_s < goals_c ~ 0     # 0 points for a loss
+    )
+  )
+
+# Step 2: Extract player participation, handling both main players and substitutes
+player_participation <- data %>%
+  select(matchday, team, squad, team_points) %>%
+  
+  # Step 2.1: Extract all player names inside parentheses, remove numbers and symbols, and store them
+  mutate(substitute_names = str_extract_all(squad, "\\([A-Za-z\\s]+\\)")) %>%
+  mutate(substitute_names = lapply(substitute_names, function(x) {
+    x <- str_replace_all(x, "[()]", "")           # Remove parentheses
+    x <- str_trim(str_squish(x))                  # Trim whitespace
+    x <- str_split(x, ",\\s*")                    # Split multiple names by commas
+    unlist(x)                                     # Unlist to get all names in a single vector
+  })) %>%
+  
+  # Step 2.2: Remove all content inside parentheses from the original squad string
+  mutate(squad = str_remove_all(squad, "\\([^\\)]+\\)")) %>%
+  
+  # Step 2.3: Split the squad by commas and "–" to get main player names
+  mutate(squad = str_split(squad, ",\\s*|–")) %>%
+  
+  # Step 2.4: Combine main and substitute player names into a single column
+  rowwise() %>%
+  mutate(all_players = list(c(squad, substitute_names))) %>%
+  unnest(all_players) %>%                                # Expand each player into a separate row
+  mutate(
+    all_players = str_trim(all_players)                  # Ensure no whitespace issues
+  ) %>%
+  
+  # Step 2.5: Remove duplicates and calculate participation
+  distinct(all_players, matchday, .keep_all = TRUE) %>%  # Ensure unique player names for each match
+  group_by(all_players) %>%
+  summarise(
+    total_points = sum(team_points, na.rm = TRUE),       # Sum points for each player's games
+    matches_played = n_distinct(matchday)                # Count unique matches played
+  ) %>%
+  
+  # Rename 'all_players' to 'squad' to reflect player names for compatibility with joining
+  rename(squad = all_players)
+
+# Step 1: Ensure `last_name` is correctly extracted from `Name` in `player_data`
+player_data <- player_data %>%
+  mutate(last_name = str_trim(word(Name, -1)))  # Extract and trim last names for matching
+
+# Verify that `last_name` was added correctly
+print(head(player_data$last_name))  # Check if `last_name` exists as expected
+
+# Check unique last names in both tables before joining
+print("Unique last names in player_data:")
+print(unique(player_data$last_name))
+
+print("Unique squad names in player_participation:")
+print(unique(player_participation$squad))
+
+# Step 2: Perform the left join and handle missing columns
+player_data <- player_data %>%
+  left_join(player_participation, by = c("last_name" = "squad")) %>%  # Join on last name
+  mutate(
+    # Add missing columns if they do not exist after the join
+    matches_played = ifelse(is.na(matches_played), 0, matches_played),  # Set to 0 if missing
+    total_points = ifelse(is.na(total_points), 0, total_points),        # Set to 0 if missing
+    match_diff = Spiele - matches_played,                               # Difference between Spiele and matches_played
+    points_per_game = ifelse(matches_played == 0, 0,                    # Calculate points per game
+                             round(total_points / matches_played, 3)),
+    normalized_points_per_game = round(points_per_game / 3, 3)          # Divide by 3 and round to 3 decimals
+  ) %>%
+  select(-last_name)  # Remove helper last_name column
+```
+
+```{r include=FALSE}
+# Define weights for Score
+weight_playtime_ratio <- 0.3
+weight_avg_playtime_ratio <- 0.2
+weight_scorerpoints_per_game <- 0.1
+weight_best_player_ratio <- 0.3
+weight_normalized_points_per_game <- 0.1
+```
+
+```{r include=FALSE}
+# Define formation positions and coordinates for plotting (rotated 90 degrees)
+formation_positions <- list(
+  "4-4-2" = data.frame(
+    Position = c("TW", "RV", "IV", "IV", "LV", "RM", "ZM", "ZM", "LM", "ST", "ST"),
+    x = c(50, 30, 40, 60, 70, 25, 40, 60, 75, 40, 60),  # New x coordinates (original y)
+    y = c(5, 15, 25, 25, 15, 35, 50, 50, 35, 70, 70)    # New y coordinates (original x)
+  ),
+  "4-3-3" = data.frame(
+    Position = c("TW", "RV", "IV", "IV", "LV", "RM", "ZM", "LM", "ST", "ST", "ST"),
+    x = c(50, 30, 40, 60, 70, 50, 30, 70, 25, 50, 75),
+    y = c(5, 15, 25, 25, 15, 35, 50, 50, 65, 70, 65)
+  ),
+  "3-5-2" = data.frame(
+    Position = c("TW", "IV", "IV", "IV", "RM", "ZM", "ZM", "ZM", "LM", "ST", "ST"),
+    x = c(50, 30, 25, 30, 25, 40, 50, 60, 75, 40, 60),
+    y = c(5, 20, 25, 20, 35, 35, 50, 65, 75, 70, 70)
+  ),
+  "4-2-3-1" = data.frame(
+    Position = c("TW", "RV", "IV", "IV", "LV", "ZDM", "ZDM", "RM", "ZOM", "LM", "ST"),
+    x = c(60, 100, 75, 45, 20, 46, 76, 90, 60, 30, 60),
+    y = c(17, 55, 50, 50, 55, 70, 70, 90, 90, 90, 110)
+  )
+)
+
+
+
+# Calculate the new columns and weighted sum
+player_data <- player_data %>%
+  mutate(
+    # Assume these columns already exist or are calculated as part of previous steps
+    # playtime_ratio: Spielzeit / (90 * max_matchday)
+    # avg_playtime_per_game: Spielzeit / (Spiele * 90)
+    # points_per_game: (Tore + Assists) / Spiele
+    # best_player_ratio: "best player" appearances / Spiele
+    # normalized_points_per_game: points_per_game / 3
+    
+    # Calculate the weighted sum of the specified metrics
+    weighted_score = round(
+      (playtime_ratio * weight_playtime_ratio) +
+        (avg_playtime_per_game * weight_avg_playtime_ratio) +
+        (points_per_game * weight_scorerpoints_per_game) +
+        (best_player_ratio * weight_best_player_ratio) +
+        (normalized_points_per_game * weight_normalized_points_per_game),
+      3  # Round to 3 decimal places
+    )
+  )
+
+
+# Function to determine formation based on the 'squad' column
+extract_formation_and_subs <- function(squad) {
+  
+  # Step 1: Count the number of substitutions, including multiple names in parentheses
+  substitution_count <- sum(str_count(str_extract_all(squad, "\\([^\\)]+\\)")[[1]], ",") + 1)
+  
+  # Step 2: Remove all names and symbols within parentheses
+  squad_cleaned <- str_remove_all(squad, "\\([^\\)]+\\)")
+  
+  # Step 3: Split the cleaned squad string by "–" to separate each line of players
+  lines <- str_split(squad_cleaned, "–")[[1]]
+  
+  # Step 4: Initialize a list to store player counts for each line
+  player_counts <- c()
+  
+  # Step 5: Process each line to count players based on commas
+  for (line in lines[-1]) {  # Exclude the goalkeeper (first element)
+    players_in_line <- str_count(line, ",") + 1
+    player_counts <- c(player_counts, players_in_line)
+  }
+  
+  # Step 6: Check if the player count adds up to 10
+  if (sum(player_counts) == 10) {
+    formation <- paste(player_counts, collapse = "-")
+  } else {
+    formation <- "formation unclear"
+  }
+  
+  return(list(formation = formation, substitutions = substitution_count))
+}
+
+# Apply the function to the dataset
+# Assuming 'data' is the name of your dataset with a 'squad' column
+matchday_data <- matchday_data %>%
+  mutate(
+    formation = sapply(squad, function(x) extract_formation_and_subs(x)$formation),
+    substitutions = sapply(squad, function(x) extract_formation_and_subs(x)$substitutions)
+  )
+
+
+# Define common formations and corresponding position mappings
+formations <- list(
+  "4-4-2" = c("TW", "RV", "IV", "IV", "LV", "RM", "ZM", "ZM", "LM", "ST", "ST"),
+  "4-4-1-1" = c("TW", "RV", "IV", "IV", "LV", "RM", "ZM", "ZM", "LM", "ST", "ST"),
+  "4-2-2-2" = c("TW", "RV", "IV", "IV", "LV", "ZM", "ZM", "RM", "LM", "ST", "ST"),
+  "4-3-3" = c("TW", "RV", "IV", "IV", "LV", "ZM", "ZM", "ZM", "RF", "CF", "LF"),
+  "3-5-2" = c("TW", "IV", "IV", "IV", "RM", "ZM", "ZM", "ZM", "LM", "ST", "ST"),
+  "4-2-3-1" = c("TW", "RV", "IV", "IV", "LV", "ZDM", "ZDM", "RM", "ZOM", "LM", "ST"),
+  "4-1-3-2" = c("TW", "RV", "IV", "IV", "LV", "ZDM","RM", "ZOM", "LM", "ST", "ST"),
+  "5-3-2" = c("TW", "RV", "IV", "IV", "IV", "LV", "ZM", "ZM", "ZM", "ST", "ST"),
+  "3-4-3" = c("TW", "IV", "IV", "IV", "RM", "ZM", "ZM", "LM", "ST", "ST", "ST"),
+  "4-1-4-1" = c("TW", "RV", "IV", "IV", "LV", "ZDM", "RM", "ZOM", "ZOM", "LM", "ST"),
+  "3-4-1-2" = c("TW", "IV", "IV", "IV", "RM", "ZDM", "ZDM", "LM", "ZOM", "ST", "ST"),
+  "4-5-1" = c("TW", "RV", "IV", "IV", "LV", "RM", "ZM", "ZM", "ZM", "LM", "ST"),
+  "5-4-1" = c("TW", "RV", "IV", "IV", "IV", "LV", "RM", "ZM", "ZM", "LM", "ST"),
+  "5-2-1-2" = c("TW", "RV", "IV", "IV", "IV", "LV", "ZDM", "ZDM", "ZOM", "ST", "ST"),
+  "5-1-2-2" = c("TW", "RV", "IV", "IV", "IV", "LV", "ZDM", "ZOM", "ZOM", "ST", "ST"),
+  "3-2-3-2" = c("TW", "IV", "IV", "IV", "ZDM", "ZDM", "RM", "ZOM", "LM", "ST", "ST"),
+  "3-6-1" = c("TW", "IV", "IV", "IV", "RM", "ZM", "ZM", "ZM", "ZM", "LM", "ST")
+)
+
+# # Step 1: Get unique formations played in the dataset
+# played_formations <- unique(data$formation)
+# 
+# # Step 2: Identify formations not in the current `formations` list
+# missing_formations <- setdiff(played_formations, names(formations))
+# 
+# # Step 3: Automatically add missing formations to `formations` with placeholders
+# for (formation in missing_formations) {
+#   # Split formation string (e.g., "4-2-3-1") into numbers
+#   formation_counts <- as.numeric(str_split(formation, "-")[[1]])
+#   
+#   # Create a placeholder position list with generic positions
+#   position_names <- c("TW", rep("DF", formation_counts[1] - 1),    # Goalkeeper and defenders
+#                       rep("MF", formation_counts[2]),              # Midfielders
+#                       ifelse(length(formation_counts) > 2,         # Optional attacking midfielders/wingers
+#                              rep("AM", formation_counts[3]), NULL),
+#                       rep("ST", formation_counts[length(formation_counts)]))  # Strikers
+#   
+#   # Add this placeholder formation to the formations list
+#   formations[[formation]] <- position_names
+# }
+# 
+# print(missing_formations)
+# 
+# # Check to see all formations are now included
+# print("All formations covered in the formations list:")
+# print(formations)
+
+
+
+# Step 1: Assign positions based on the formation
+assign_positions_by_formation <- function(formation, squad) {
+  positions <- formations[[formation]]
+  if (is.null(positions)) {
+    return(rep(NA, length(str_split(squad, ",\\s*|–")[[1]])))
+  }
+  
+  # Split players and remove everything inside parentheses for each player
+  players <- str_split(squad, ",\\s*|–")[[1]]
+  players <- str_trim(str_remove_all(players, "\\(.*?\\)"))  # Remove text inside parentheses for each player
+  
+  # Assign positions up to the length of players
+  positions[1:length(players)]
+}
+
+# Step 2: Process each match to assign positions to players
+player_positions <- matchday_data %>%
+  filter(formation != "formation unclear") %>%
+  rowwise() %>%
+  mutate(
+    positions = list(assign_positions_by_formation(formation, squad)),
+    players = list(str_split(squad, ",\\s*|–")[[1]])
+  ) %>%
+  unnest(c(players, positions)) %>%
+  mutate(players = str_trim(str_remove(players, "\\(.*\\)"))) %>%
+  select(matchday, team, players, positions)
+
+# Step 3: Determine each player's most and second most frequent positions
+position_frequencies <- player_positions %>%
+  group_by(players, positions) %>%
+  summarise(n = n(), .groups = "drop") %>%                  # Count occurrences of each position for each player
+  arrange(players, desc(n), positions) %>%
+  group_by(players) %>%
+  slice_head(n = 2) %>%                                     # Keep only the top 2 positions per player
+  mutate(rank = row_number()) %>%                           # Rank the top positions
+  ungroup() %>%
+  spread(key = rank, value = positions, fill = NA) %>%      # Create separate columns for the top 2 positions
+  rename(most_position = `1`, second_position = `2`) %>%
+  group_by(players) 
+position_frequencies <- position_frequencies %>%
+  group_by(players) %>%
+  summarise(
+    most_position = last(most_position),                 # Most frequently played position
+    most_position_count = last(n),                       # Count of appearances in most_position
+    second_position = first(second_position),             # Second most frequently played position
+    second_position_count = ifelse(is.na(second_position), 0, first(n)) # Count of appearances in second_position or 0 if NA
+  ) %>%
+  arrange(players)  # Arrange by player names
+
+
+# Step 4: Join with `player_data` and calculate the position percentages
+player_data <- player_data %>%
+  mutate(last_name = word(Name, -1)) %>%
+  left_join(position_frequencies, by = c("last_name" = "players")) %>%
+  mutate(
+    position_percentage = ifelse(Spiele == 0, 0, paste0(round((most_position_count / Spiele) * 100), "%")),
+    second_position_percentage = ifelse(Spiele == 0 | is.na(second_position_count), 
+                                        "0%", paste0(round((second_position_count / Spiele) * 100), "%"))
+  ) %>%
+  select(-last_name, -most_position_count, -second_position_count)  # Remove helper columns
+
+# Function to create an accurate league table by ignoring "away" rows and renaming columns
+create_league_table <- function(matchday_data) {
+  
+  # Rename columns for clarity
+  colnames(matchday_data) <- c("matchday", "team", "opponent", "goals_for", "goals_against", "location")
+  
+  # Filter to only include "home" rows to avoid double counting games
+  data <- matchday_data[matchday_data$location == "home", ]
+  
+  # Initialize the league table with all teams and renamed columns
+  teams <- unique(c(matchday_data$team, matchday_data$opponent))
+  league_table <- data.frame(
+    team = teams,
+    S = 0,
+    G = 0,
+    U = 0,
+    V = 0,
+    G_h = 0,
+    U_h = 0,
+    V_h = 0,
+    G_a = 0,
+    U_a = 0,
+    V_a = 0,
+    T = 0,
+    GT = 0,
+    Dif = 0,
+    Pkt = 0,
+    stringsAsFactors = FALSE
+  )
+  
+  # Process each unique match to update stats for both teams
+  for (i in 1:nrow(matchday_data)) {
+    match <- data[i, ]
+    
+    # Check if both home team and away team are in league_table
+    if (!(match$team %in% league_table$team) || !(match$opponent %in% league_table$team)) {
+      next # Skip this iteration if team names are missing
+    }
+    
+    # Update stats for the home team
+    league_table[league_table$team == match$team, "S"] <- league_table[league_table$team == match$team, "S"] + 1
+    league_table[league_table$team == match$team, "T"] <- league_table[league_table$team == match$team, "T"] + match$goals_for
+    league_table[league_table$team == match$team, "GT"] <- league_table[league_table$team == match$team, "GT"] + match$goals_against
+    
+    # Update stats for the away team
+    league_table[league_table$team == match$opponent, "S"] <- league_table[league_table$team == match$opponent, "S"] + 1
+    league_table[league_table$team == match$opponent, "T"] <- league_table[league_table$team == match$opponent, "T"] + match$goals_against
+    league_table[league_table$team == match$opponent, "GT"] <- league_table[league_table$team == match$opponent, "GT"] + match$goals_for
+    
+    # Determine the outcome and update win/draw/loss for both teams
+    if (match$goals_for > match$goals_against) {
+      # Home team wins, Away team loses
+      league_table[league_table$team == match$team, "G"] <- league_table[league_table$team == match$team, "G"] + 1
+      league_table[league_table$team == match$team, "Pkt"] <- league_table[league_table$team == match$team, "Pkt"] + 3
+      league_table[league_table$team == match$opponent, "V"] <- league_table[league_table$team == match$opponent, "V"] + 1
+      
+      # Update home/away distinctions
+      league_table[league_table$team == match$team, "G_h"] <- league_table[league_table$team == match$team, "G_h"] + 1
+      league_table[league_table$team == match$opponent, "V_a"] <- league_table[league_table$team == match$opponent, "V_a"] + 1
+      
+    } else if (match$goals_for < match$goals_against) {
+      # Home team loses, Away team wins
+      league_table[league_table$team == match$team, "V"] <- league_table[league_table$team == match$team, "V"] + 1
+      league_table[league_table$team == match$opponent, "G"] <- league_table[league_table$team == match$opponent, "G"] + 1
+      league_table[league_table$team == match$opponent, "Pkt"] <- league_table[league_table$team == match$opponent, "Pkt"] + 3
+      
+      # Update home/away distinctions
+      league_table[league_table$team == match$team, "V_h"] <- league_table[league_table$team == match$team, "V_h"] + 1
+      league_table[league_table$team == match$opponent, "G_a"] <- league_table[league_table$team == match$opponent, "G_a"] + 1
+      
+    } else {
+      # Draw for both teams
+      league_table[league_table$team == match$team, "U"] <- league_table[league_table$team == match$team, "U"] + 1
+      league_table[league_table$team == match$team, "Pkt"] <- league_table[league_table$team == match$team, "Pkt"] + 1
+      league_table[league_table$team == match$opponent, "U"] <- league_table[league_table$team == match$opponent, "U"] + 1
+      league_table[league_table$team == match$opponent, "Pkt"] <- league_table[league_table$team == match$opponent, "Pkt"] + 1
+      
+      # Update home/away distinctions for draws
+      league_table[league_table$team == match$team, "U_h"] <- league_table[league_table$team == match$team, "U_h"] + 1
+      league_table[league_table$team == match$opponent, "U_a"] <- league_table[league_table$team == match$opponent, "U_a"] + 1
+    }
+  }
+  
+  # Calculate Goal Difference
+  league_table$Dif <- league_table$T - league_table$GT
+  
+  # Sort the table by Points (Pkt), Goal Difference (Dif), Goals For (T)
+  league_table <- league_table[order(-league_table$Pkt, -league_table$Dif, -league_table$T), ]
+  
+  # Add Rank column as the first column
+  league_table <- data.frame(rank = 1:nrow(league_table), league_table)
+  
+  return(league_table)
+}
+
+# Generate the league table from your data
+league_table <- create_league_table(data)
+
+```
+    
+```{r, echo = FALSE, results='markup'}
+
+MeinTeam <- "Berliner SC II"
+Gegner <- "TSV Rudow Berlin"
+
+print(paste0(MeinTeam," vs. ",Gegner))
+today_date <- Sys.Date()
+format(Sys.Date(), "%d-%m-%Y")  # Output as DD-MM-YYYY
+```
+    <h3>Spiele</h3>
+```{R echo = FALSE, results='markup'}
+# Display the second-to-last nine rows with only the first five columns
+display_second_last_nine <- function(matchday_data) {
+  # Calculate the index range for the second-to-last nine rows
+  start_index <- nrow(matchday_data) - 16 + 1
+  end_index <- nrow(matchday_data) - 8
+  
+  # Extract the second-to-last nine rows and the first five columns
+  second_last_nine <- matchday_data[start_index:end_index, 1:5]
+  
+}
+
+# Apply the function to the league table to display the specified rows and columns
+games <- display_second_last_nine(matchday_data)
+
+formatted_games <- formattable(games %>% select(matchday, team, opponent, goals_s, goals_c),
+                               align = c("c", "l", "l", "c", "c") 
+                     )
+colnames(formatted_games)[colnames(formatted_games) %in% c("matchday", "team", "opponent", "goals_s", "goals_c")] <- c("Spieltag", "Team 1", "Team 2", "H", "A") 
+
+# Display the formatted table without row indices
+formatted_games
+
+
+
+
+#  # Display the formatted table without row indices
+# formatted_games %>%
+#   kbl(align = c("c", "l", "l","c", "c")) %>%
+#   kable_material_dark("hover", full_width = T,bootstrap_options = c("striped", "hover", "responsive")) %>%
+#   kable_styling(font_size = 15, position = "center") 
+# 
+
+
+```
+    <h3>Tabelle</h3>
+```{R echo = FALSE, results='markup'}
+
+league_table_dt <- as.data.table(league_table %>% select(rank, team, S, G, U, V, Dif, Pkt))
+
+# Use formattable to apply color formatting for ranks
+formatted_table <- formattable(league_table_dt %>% select(rank, team, S, G, U, V, Dif, Pkt),
+                               align = c("c", "l", "c", "c", "c", "c", "c", "c") , 
+                               list(
+  # Entire row color based on rank
+  rank = formatter("span", 
+                   style = x ~ style(
+                     display = "block",
+                     padding = "5px",
+                     `border-radius` = "4px",
+                     background = ifelse(
+                       x == 1, "lightgreen",
+                       ifelse(x == 2, "orange",
+                              ifelse(x >= (nrow(league_table) - 2), "lightsalmon", "transparent"))
+                     ),
+                     color = ifelse(
+                       x == 1, "black",
+                       ifelse(x == 2, "black",
+                              ifelse(x >= (nrow(league_table) - 2), "white",  "white"))
+                     )
+                   )
+  ),
+  team = formatter("span", 
+                 style = x ~ style(
+                   display = "block",
+                   padding = "5px",
+                   `border-radius` = "4px",
+                   background = ifelse(
+                     x == MeinTeam, "yellow",
+                     ifelse(x == Gegner, "yellow",  "transparent")
+                   ),
+                   color = ifelse(
+                     x == MeinTeam, "black",   # Set text color for MeinTeam
+                     ifelse(x == Gegner, "black", "white")  # Set text color for Gegner and others
+                   )
+                 )
+  )
+))
+
+# Display the formatted table without row indices
+formatted_table
+#, row.names = FALSE)
+
+
+
+```
+
+    <script>
+        function navigateToTeam() {
+            // Get the selected team's value
+            const selectedTeam = document.getElementById("teamSelect").value;
+            
+            if (selectedTeam) {
+                // Redirect to the selected page
+                window.location.href = selectedTeam;
+            } else {
+                alert("Please select a team!");
+            }
+        }
+
+        function showLogo() {
+            // Get the selected option in the dropdown
+            const teamSelect = document.getElementById("teamSelect");
+            const selectedOption = teamSelect.options[teamSelect.selectedIndex];
+
+            // Get the logo's path from the data-logo attribute
+            const logoPath = selectedOption.getAttribute("data-logo");
+
+            // Update the image or hide it
+            const teamLogo = document.getElementById("teamLogo");
+            if (logoPath) {
+                teamLogo.src = logoPath;
+                teamLogo.style.display = "block";
+            } else {
+                teamLogo.style.display = "none";
+            }
+        }
+    </script>
+</body>
+</html>
