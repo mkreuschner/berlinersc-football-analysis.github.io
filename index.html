@@ -10,9 +10,8 @@
 
 
 
-<meta name="date" content="2024-11-25" />
 
-<title>main_page</title>
+<title>mainpage.knit</title>
 
 <script>// Pandoc 2.9 adds attributes on both header and div. We remove the former (to
 // be compatible with the behavior of Pandoc < 2.8).
@@ -349,19 +348,10 @@ display: none;
 
 
 
-<h1 class="title toc-ignore">main_page</h1>
-<h4 class="date">2024-11-25</h4>
 
 </div>
 
 
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>
-Team selector
-</title>
 <style>
 
 body {
@@ -375,6 +365,9 @@ box-sizing: border-box;
 }
 h1 {
 font-size: 2rem; 
+}
+h3 {
+font-size: 1.6rem; 
 }
 p {
 font-size: 1.2rem; 
@@ -426,6 +419,9 @@ display: none;
 h1 {
 font-size: 1.8rem;
 }
+h3 {
+font-size: 1.4rem;
+}
 p {
 font-size: 1rem;
 }
@@ -439,7 +435,6 @@ height: 50px;
 }
 }
 </style>
-</head>
 <body>
 <h1>
 Data Analysis
@@ -456,12 +451,14 @@ Berlin</option>
 <option value="SternBritz.html" data-logo="images/SternBritz.png">Stern
 Britz</option> </select> <br> <!-- Logo placeholder -->
 <div id="teamLogoContainer">
-<pre><code>    &lt;img id=&quot;teamLogo&quot; src=&quot;&quot; alt=&quot;Team Logo&quot;&gt;
-&lt;/div&gt;
-&lt;button onclick=&quot;navigateToTeam()&quot;&gt;Go&lt;/button&gt;</code></pre>
-<pre><code>## [1] &quot;Berliner SC II vs. TSV Rudow Berlin&quot;</code></pre>
-<pre><code>## [1] &quot;26-11-2024&quot;</code></pre>
-<pre><code>&lt;h3&gt;Spiele&lt;/h3&gt;</code></pre>
+<pre><code>  &lt;img id=&quot;teamLogo&quot; src=&quot;&quot; alt=&quot;Team Logo&quot;&gt;</code></pre>
+</div>
+<button onclick="navigateToTeam()">
+Go
+</button>
+<h3>
+Spiele
+</h3>
 <table class="table table-condensed">
 <thead>
 <tr>
@@ -621,7 +618,9 @@ SC Borsigwalde 1910
 </tr>
 </tbody>
 </table>
-<pre><code>&lt;h3&gt;Tabelle&lt;/h3&gt;</code></pre>
+<h3>
+Tabelle
+</h3>
 <table class="table table-condensed">
 <thead>
 <tr>
@@ -1086,39 +1085,34 @@ Concordia Britz 1916 </span>
 </tr>
 </tbody>
 </table>
-<pre><code>&lt;script&gt;
+<body>
+<script>
     function navigateToTeam() {
-        // Get the selected team&#39;s value
-        const selectedTeam = document.getElementById(&quot;teamSelect&quot;).value;
-        
+        // Get the selected team's value
+        const selectedTeam = document.getElementById("teamSelect").value;
         if (selectedTeam) {
             // Redirect to the selected page
             window.location.href = selectedTeam;
         } else {
-            alert(&quot;Please select a team!&quot;);
+            alert("Please select a team!");
         }
     }
-
     function showLogo() {
         // Get the selected option in the dropdown
-        const teamSelect = document.getElementById(&quot;teamSelect&quot;);
+        const teamSelect = document.getElementById("teamSelect");
         const selectedOption = teamSelect.options[teamSelect.selectedIndex];
-
-        // Get the logo&#39;s path from the data-logo attribute
-        const logoPath = selectedOption.getAttribute(&quot;data-logo&quot;);
-
+        // Get the logo's path from the data-logo attribute
+        const logoPath = selectedOption.getAttribute("data-logo");
         // Update the image or hide it
-        const teamLogo = document.getElementById(&quot;teamLogo&quot;);
+        const teamLogo = document.getElementById("teamLogo");
         if (logoPath) {
             teamLogo.src = logoPath;
-            teamLogo.style.display = &quot;block&quot;;
+            teamLogo.style.display = "block";
         } else {
-            teamLogo.style.display = &quot;none&quot;;
+            teamLogo.style.display = "none";
         }
     }
-&lt;/script&gt;</code></pre>
-</body>
-</html>
+</script>
 
 
 
