@@ -58,6 +58,7 @@ output: html_document
         justify-content: center; /* Center horizontally */
         align-items: center; /* Center vertically */
         margin-top: 20px;
+        display: none; /* Hidden by default */
     }
     #teamLogo {
         width: 50px; /* Fixed size for the logo */
@@ -69,7 +70,7 @@ output: html_document
         h1 {
             font-size: 1.8rem;
         }
-        h3 {
+        h2 {
             font-size: 1.4rem;
         }
         p {
@@ -84,13 +85,49 @@ output: html_document
             height: 50px;
         }
     }
+    .accordion {
+  background-color: yellow;
+  color: #3b3c41;
+  cursor: pointer;
+  padding: 10px;
+  width: 100%;
+  border: none;
+  text-align: center;
+  outline: none;
+  font-size: 5px;
+  transition: 0.4s;
+}
+.active, .accordion:hover {
+  background-color:black;
+  color:yellow;
+}
+.accordion:after {
+  content: '\2795';
+  color: black;
+  font-weight: bold;
+  float: right;
+  font-size: 20px;
+  margin-left: 15px;
+}
+.active:after {
+  content: "\2212";
+  color: yellow;
+  font-weight: bold;
+}
+.panel {
+  padding: 0 10px;
+  background-color: #3b3c41;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
 </style>
 <body>
   <h1>Data Analysis</h1>
   <p>Choose a team to navigate to its page:</p>
   <!-- Dropdown menu -->
   <select id="teamSelect" onchange="showLogo()">
-      <option value="">-- Select a Team --</option>
+      <option value="" data-logo="images/BerlinerSC.png">-- Select a Team --</option>
       <option value="BSC.html" data-logo="images/BSC.png">Berliner SC</option>
       <option value="Rudow.html" data-logo="images/TSVRudow.png">TSV Rudow Berlin</option>
       <option value="SternBritz.html" data-logo="images/SternBritz.png">Stern Britz</option>
@@ -555,7 +592,12 @@ MeinTeam <- "Berliner SC II"
 Gegner <- "TSV Rudow Berlin"
 
 ```
-  <h3>Spiele</h3>
+<br>
+<button class="accordion">
+  <h2 id="#Spiele">Spiele</h2>
+</button>
+<div class="panel">
+  <p>
 ```{R echo = FALSE, results='markup'}
 # Display the second-to-last nine rows with only the first five columns
 display_second_last_nine <- function(matchday_data) {
@@ -591,7 +633,13 @@ formatted_games
 
 
 ```
-  <h3>Tabelle</h3>
+  </p>
+</div>
+<button class="accordion">
+  <h2 id="#Tabelle">Tabelle</h2>
+</button>
+<div class="panel">
+  <p>
 ```{R echo = FALSE, results='markup'}
 
 league_table_dt <- as.data.table(league_table %>% select(rank, team, S, G, U, V, Dif, Pkt))
@@ -642,6 +690,8 @@ formatted_table
 
 
 ```
+  </p>
+</div>
 <body>
 <script>
     function navigateToTeam() {
