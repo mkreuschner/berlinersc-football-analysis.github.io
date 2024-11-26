@@ -84,41 +84,41 @@ output: html_document
             height: 50px;
         }
     }
-    .accordion {
-      background-color: yellow;
-      color: #3b3c41;
-      cursor: pointer;
-      padding: 1.0rem;
-      width: 100%;
-      border: none;
-      text-align: center;
-      outline: none;
-      font-size: 1.4rem;
-      transition: 0.4s;
-    }
-    .active, .accordion:hover {
-      background-color:black;
-      color:yellow;
-    }
-    .accordion:after {
-      content: '\002B';
-      color: #3b3c41;
-      font-weight: bold;
-      float: right;
-      margin-left: 5px;
-    }
-    .active:after {
-      content: "\2212";
-      color: yellow;
-      font-weight: bold;
-    }
-    .panel {
-      padding: 0 18px;
-      background-color: #3b3c41;
-      max-height: 0;
-      overflow: hidden;
-      transition: max-height 0.2s ease-out;
-    }
+        .accordion {
+            background-color: yellow;
+            color: #3b3c41;
+            cursor: pointer;
+            padding: 1.0rem;
+            width: 100%;
+            border: none;
+            text-align: center;
+            outline: none;
+            font-size: 1.4rem;
+            transition: 0.4s;
+        }
+        .active, .accordion:hover {
+            background-color: black;
+            color: yellow;
+        }
+        .accordion:after {
+            content: '\002B';
+            color: #3b3c41;
+            font-weight: bold;
+            float: right;
+            margin-left: 5px;
+        }
+        .active:after {
+            content: "\2212";
+            color: yellow;
+            font-weight: bold;
+        }
+        .panel {
+            padding: 0rem 6rem;
+            background-color: #3b3c41;
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.2s ease-out;
+        }
 </style>
 <body>
   <h1>Data Analysis</h1>
@@ -133,7 +133,7 @@ output: html_document
   <br>
   <!-- Logo placeholder -->
   <div id="teamLogoContainer">
-      <img id="teamLogo" src="" alt="Team Logo">
+      <img id="teamLogo" src="" alt="Team Logo" style="display: none; width: 50px; height: 50px;">
   </div>
   <button onclick="navigateToTeam()">Go</button>
 ```{r setup, include=FALSE}
@@ -156,8 +156,8 @@ matchday_data <- read_csv("/Users/mkreuschnervsp/Desktop/BSC/Spieltag11.csv")
 ```
 ```{r include=FALSE}
 # Define the URL of the csv.gz file and the destination file path
-matchday_data <- read_csv("/Users/mkreuschnervsp/Desktop/BSC/Spieltag11.csv")
-player_data <- read.table("/Users/mkreuschnervsp/Desktop/BSC/fupa2425_player_data_11.csv", sep=",", header=TRUE, stringsAsFactors = FALSE, fileEncoding = "UTF-8")
+matchday_data <- read_csv("/Users/mkreuschnervsp/Desktop/BSC/Spieltag12.csv")
+player_data <- read.table("/Users/mkreuschnervsp/Desktop/BSC/fupa2425_player_data_12.csv", sep=",", header=TRUE, stringsAsFactors = FALSE, fileEncoding = "UTF-8")
 player_number <- read.csv("/Users/mkreuschnervsp/Desktop/BSC/player_number.csv")  # Replace with your CSV file path
 max_matchday <- max(matchday_data$matchday)  # Calculate max matchday
 # Calculate the new columns and add them to the player data
@@ -587,7 +587,7 @@ league_table <- create_league_table(data)
 ```{r, echo = FALSE, results='markup'}
 
 MeinTeam <- "Berliner SC II"
-Gegner <- "TSV Rudow Berlin"
+Gegner <- "SV Stern Britz 1889"
 
 ```
 <br>
@@ -688,29 +688,42 @@ formatted_table
 </div>
 <body>
 <script>
-    function navigateToTeam() {
-        // Get the selected team's value
-        const selectedTeam = document.getElementById("teamSelect").value;
-        if (selectedTeam) {
-            // Redirect to the selected page
-            window.location.href = selectedTeam;
-        } else {
-            alert("Please select a team!");
+        // Accordion functionality
+        document.addEventListener("DOMContentLoaded", function () {
+            const accordions = document.querySelectorAll(".accordion");
+            accordions.forEach(accordion => {
+                accordion.addEventListener("click", function () {
+                    this.classList.toggle("active");
+                    const panel = this.nextElementSibling;
+                    if (panel.style.maxHeight) {
+                        panel.style.maxHeight = null;
+                    } else {
+                        panel.style.maxHeight = panel.scrollHeight + "px";
+                    }
+                });
+            });
+        });
+       // Navigate to team page
+        function navigateToTeam() {
+            const selectedTeam = document.getElementById("teamSelect").value;
+            if (selectedTeam) {
+                window.location.href = selectedTeam;
+            } else {
+                alert("Bitte wähle ein Team aus!");
+            }
         }
-    }
-    function showLogo() {
-        // Get the selected option in the dropdown
-        const teamSelect = document.getElementById("teamSelect");
-        const selectedOption = teamSelect.options[teamSelect.selectedIndex];
-        // Get the logo's path from the data-logo attribute
-        const logoPath = selectedOption.getAttribute("data-logo");
-        // Update the image or hide it
-        const teamLogo = document.getElementById("teamLogo");
-        if (logoPath) {
-            teamLogo.src = logoPath;
-            teamLogo.style.display = "block";
-        } else {
-            teamLogo.style.display = "none";
+        // Show team logo
+        function showLogo() {
+            const teamSelect = document.getElementById("teamSelect");
+            const selectedOption = teamSelect.options[teamSelect.selectedIndex];
+            const logoPath = selectedOption.getAttribute("data-logo");
+            const teamLogo = document.getElementById("teamLogo");
+            if (logoPath && logoPath !== "") {
+                teamLogo.src = logoPath;
+                teamLogo.style.display = "block";
+            } else {
+                teamLogo.src = "";
+                teamLogo.style.display = "none";
+            }
         }
-    }
 </script>
