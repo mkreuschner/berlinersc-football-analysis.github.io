@@ -24,14 +24,15 @@ output: html_document
     }
     /* Dropdown menu */
     select {
-        padding: 10px;
-        font-size: 1rem;
+        border-radius:1rem;
+        padding: 1rem;
+        font-size: 1.7rem;
         background-color: #333; /* Dark dropdown background */
         color: #fff; /* White text in dropdown */
         border: 1px solid #555; /* Gray border */
         width: 100%; /* Full width on smaller devices */
         max-width: 400px; /* Max width for larger screens */
-        margin: 10px auto; /* Centered */
+        margin: 1rem auto; /* Centered */
     }
     select:focus {
         outline: none;
@@ -39,14 +40,15 @@ output: html_document
     }
     /* Button */
     button {
+        border-radius:4rem;
         padding: 10px 20px;
         margin-top: 20px;
-        font-size: 1rem;
+        font-size: 1.7rem;
         background-color: #333; /* Dark button background */
         color: #fff; /* White text */
         border: 1px solid #666; /* Gray border */
         cursor: pointer;
-        width: 100%; /* Full width on smaller devices */
+        width: 25%; /* Full width on smaller devices */
         max-width: 400px; /* Max width for larger screens */
     }
     button:hover {
@@ -58,6 +60,7 @@ output: html_document
         justify-content: center; /* Center horizontally */
         align-items: center; /* Center vertically */
         margin-top: 20px;
+        display: none; /* Hidden by default */
     }
     #teamLogo {
         width: 50px; /* Fixed size for the logo */
@@ -76,15 +79,17 @@ output: html_document
             font-size: 1rem;
         }
         button, select {
-            font-size: 1rem;
+            font-size: 1.7rem;
             padding: 8px 16px;
         }
         #teamLogo {
             width: 50px; /* Ensure fixed size remains consistent */
             height: 50px;
+            display: none; /* Hidden by default */
         }
     }
         .accordion {
+            border-radius:1rem;
             background-color: yellow;
             color: #3b3c41;
             cursor: pointer;
@@ -93,7 +98,7 @@ output: html_document
             border: none;
             text-align: center;
             outline: none;
-            font-size: 1.4rem;
+            font-size: 1.7rem;
             transition: 0.4s;
         }
         .active, .accordion:hover {
@@ -125,15 +130,15 @@ output: html_document
   <p>Wähle ein Team aus:</p>
   <!-- Dropdown menu -->
   <select id="teamSelect" onchange="showLogo()">
-      <option value="" data-logo="images/BerlinerSC.png">-- Select a Team --</option>
-      <option value="BSC.html" data-logo="images/BSC.png">Berliner SC</option>
-      <option value="Rudow.html" data-logo="images/TSVRudow.png">TSV Rudow Berlin</option>
-      <option value="SternBritz.html" data-logo="images/SternBritz.png">Stern Britz</option>
+      <option value="" data-logo="https://static.wixstatic.com/media/be6373_7f8853ce2bbd4dfd97b51eece71d32a6~mv2.png/v1/fill/w_380,h_380,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo_Berlinersportclub_Vektor.png">-- Select a Team --</option>
+      <option value="BSC.html" data-logo="https://static.wixstatic.com/media/be6373_7f8853ce2bbd4dfd97b51eece71d32a6~mv2.png/v1/fill/w_380,h_380,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo_Berlinersportclub_Vektor.png">Berliner SC</option>
+      <option value="Rudow.html" data-logo="https://github.com/mkreuschner/berlinersc-football-analysis.github.io/tree/main/images/TSVRudow.png">TSV Rudow Berlin</option>
+      <option value="SternBritz.html" data-logo="https://github.com/mkreuschner/berlinersc-football-analysis.github.io/tree/main/images/SternBritz.png">Stern Britz</option>
   </select>
   <br>
   <!-- Logo placeholder -->
   <div id="teamLogoContainer">
-      <img id="teamLogo" src="" alt="Team Logo" style="display: none; width: 50px; height: 50px;">
+    <img id="teamLogo" src="" alt="Team Logo" style="display: none; width: 50px; height: 50px;">
   </div>
   <button onclick="navigateToTeam()">Go</button>
 ```{r setup, include=FALSE}
@@ -614,18 +619,53 @@ formatted_games <- formattable(games %>% select(matchday, team, opponent, goals_
                      )
 colnames(formatted_games)[colnames(formatted_games) %in% c("matchday", "team", "opponent", "goals_s", "goals_c")] <- c("Spieltag", "Team 1", "Team 2", "H", "A") 
 
-# Display the formatted table without row indices
+
+ formatted_games <- formatted_games %>%
+   mutate("Team 1" = case_when(
+     formatted_games$"Team 1" == "BFC Meteor 06" ~ "MET",
+     formatted_games$"Team 1" == "TSV Rudow Berlin" ~ "RUD",
+     formatted_games$"Team 1" == "BSV Eintracht Mahlsdorf II" ~ "MAH",
+     formatted_games$"Team 1" == "BFC Preussen II" ~ "PRE",
+     formatted_games$"Team 1" == "SC Borsigwalde 1910" ~ "BOR",
+     formatted_games$"Team 1" == "FC Internationale Berlin 1980" ~ "INT",
+     formatted_games$"Team 1" == "Berliner SV 1892" ~ "BSV",
+     formatted_games$"Team 1" == "Berliner SC II" ~ "BSC",
+     formatted_games$"Team 1" == "Türkiyemspor Berlin" ~ "TUR",    
+     formatted_games$"Team 1" == "BSV Al-Dersimspor" ~ "ALD",
+     formatted_games$"Team 1" == "FC Viktoria 1889 Berlin II" ~ "VIK",
+     formatted_games$"Team 1" == "FSV Berolina Stralau 1901" ~ "STR",
+     formatted_games$"Team 1" == "Köpenicker FC" ~ "KOP",
+     formatted_games$"Team 1" == "SV Stern Britz 1889" ~ "BRI",
+     formatted_games$"Team 1" == "SV Empor Berlin II" ~ "EMP",
+     formatted_games$"Team 1" == "VfB Concordia Britz 1916" ~ "CON",TRUE ~ formatted_games$"Team 1"))
+ formatted_games <- formatted_games %>% 
+     mutate("Team 2" = case_when(
+     formatted_games$"Team 2" == "BFC Meteor 06" ~ "MET",
+     formatted_games$"Team 2" == "TSV Rudow Berlin" ~ "RUD",
+     formatted_games$"Team 2" == "BSV Eintracht Mahlsdorf II" ~ "MAH",
+     formatted_games$"Team 2" == "BFC Preussen II" ~ "PRE",
+     formatted_games$"Team 2" == "SC Borsigwalde 1910" ~ "BOR",
+     formatted_games$"Team 2" == "FC Internationale Berlin 1980" ~ "INT",
+     formatted_games$"Team 2" == "Berliner SV 1892" ~ "BSV",
+     formatted_games$"Team 2" == "Berliner SC II" ~ "BSC",
+     formatted_games$"Team 2" == "Türkiyemspor Berlin" ~ "TUR",    
+     formatted_games$"Team 2" == "BSV Al-Dersimspor" ~ "ALD",
+     formatted_games$"Team 2" == "FC Viktoria 1889 Berlin II" ~ "VIK",
+     formatted_games$"Team 2" == "FSV Berolina Stralau 1901" ~ "STR",
+     formatted_games$"Team 2" == "Köpenicker FC" ~ "KOP",
+     formatted_games$"Team 2" == "SV Stern Britz 1889" ~ "BRI",
+     formatted_games$"Team 2" == "SV Empor Berlin II" ~ "EMP",
+     formatted_games$"Team 2" == "VfB Concordia Britz 1916" ~ "CON"
+   ,TRUE ~ formatted_games$"Team 2"))
+
+
 formatted_games
-
-
-
-
 #  # Display the formatted table without row indices
 # formatted_games %>%
 #   kbl(align = c("c", "l", "l","c", "c")) %>%
 #   kable_material_dark("hover", full_width = T,bootstrap_options = c("striped", "hover", "responsive")) %>%
 #   kable_styling(font_size = 15, position = "center") 
-# 
+ 
 
 
 ```
@@ -678,14 +718,33 @@ formatted_table <- formattable(league_table_dt %>% select(rank, team, S, G, U, V
 ))
 
 # Display the formatted table without row indices
+formatted_table <- formatted_table %>%
+   mutate(team = case_when(
+     formatted_table$team == "BFC Meteor 06" ~ "MET",
+     formatted_table$team == "TSV Rudow Berlin" ~ "RUD",
+     formatted_table$team == "BSV Eintracht Mahlsdorf II" ~ "MAH",
+     formatted_table$team == "BFC Preussen II" ~ "PRE",
+     formatted_table$team == "SC Borsigwalde 1910" ~ "BOR",
+     formatted_table$team == "FC Internationale Berlin 1980" ~ "INT",
+     formatted_table$team == "Berliner SV 1892" ~ "BSV",
+     formatted_table$team == "Berliner SC II" ~ "BSC",
+     formatted_table$team == "Türkiyemspor Berlin" ~ "TUR",    
+     formatted_table$team == "BSV Al-Dersimspor" ~ "ALD",
+     formatted_table$team == "FC Viktoria 1889 Berlin II" ~ "VIK",
+     formatted_table$team == "FSV Berolina Stralau 1901" ~ "STR",
+     formatted_table$team == "Köpenicker FC" ~ "KOP",
+     formatted_table$team == "SV Stern Britz 1889" ~ "BRI",
+     formatted_table$team == "SV Empor Berlin II" ~ "EMP",
+     formatted_table$team == "VfB Concordia Britz 1916" ~ "CON",TRUE ~ formatted_table$team))
+
 formatted_table
-#, row.names = FALSE)
-
-
 
 ```
   </p>
 </div>
+
+<img src="https://static.wixstatic.com/media/be6373_7f8853ce2bbd4dfd97b51eece71d32a6~mv2.png/v1/fill/w_380,h_380,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo_Berlinersportclub_Vektor.png" alt="LOGO" style="height:20rem;">
+
 <body>
 <script>
         // Accordion functionality
