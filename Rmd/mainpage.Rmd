@@ -16,8 +16,8 @@ output: html_document
     h1 {
         font-size: 2rem; /* Dynamic font size */
     }
-    h3 {
-        font-size: 1.6rem; /* Dynamic font size */
+    h2 {
+        font-size: 1.2rem; /* Dynamic font size */
     }
     p {
         font-size: 1.2rem; /* Dynamic font size */
@@ -58,7 +58,6 @@ output: html_document
         justify-content: center; /* Center horizontally */
         align-items: center; /* Center vertically */
         margin-top: 20px;
-        display: none; /* Hidden by default */
     }
     #teamLogo {
         width: 50px; /* Fixed size for the logo */
@@ -71,7 +70,7 @@ output: html_document
             font-size: 1.8rem;
         }
         h2 {
-            font-size: 1.4rem;
+            font-size: 1.0rem;
         }
         p {
             font-size: 1rem;
@@ -86,41 +85,40 @@ output: html_document
         }
     }
     .accordion {
-  background-color: yellow;
-  color: #3b3c41;
-  cursor: pointer;
-  padding: 10px;
-  width: 100%;
-  border: none;
-  text-align: center;
-  outline: none;
-  font-size: 5px;
-  transition: 0.4s;
-}
-.active, .accordion:hover {
-  background-color:black;
-  color:yellow;
-}
-.accordion:after {
-  content: '\2795';
-  color: black;
-  font-weight: bold;
-  float: right;
-  font-size: 20px;
-  margin-left: 15px;
-}
-.active:after {
-  content: "\2212";
-  color: yellow;
-  font-weight: bold;
-}
-.panel {
-  padding: 0 10px;
-  background-color: #3b3c41;
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.2s ease-out;
-}
+      background-color: yellow;
+      color: #3b3c41;
+      cursor: pointer;
+      padding: 1.0rem;
+      width: 100%;
+      border: none;
+      text-align: center;
+      outline: none;
+      font-size: 1.4rem;
+      transition: 0.4s;
+    }
+    .active, .accordion:hover {
+      background-color:black;
+      color:yellow;
+    }
+    .accordion:after {
+      content: '\002B';
+      color: #3b3c41;
+      font-weight: bold;
+      float: right;
+      margin-left: 5px;
+    }
+    .active:after {
+      content: "\2212";
+      color: yellow;
+      font-weight: bold;
+    }
+    .panel {
+      padding: 0 18px;
+      background-color: #3b3c41;
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.2s ease-out;
+    }
 </style>
 <body>
   <h1>Data Analysis</h1>
@@ -593,9 +591,7 @@ Gegner <- "TSV Rudow Berlin"
 
 ```
 <br>
-<button class="accordion">
-  <h2 id="#Spiele">Spiele</h2>
-</button>
+<button class="accordion"> Spiele </button>
 <div class="panel">
   <p>
 ```{R echo = FALSE, results='markup'}
@@ -635,9 +631,7 @@ formatted_games
 ```
   </p>
 </div>
-<button class="accordion">
-  <h2 id="#Tabelle">Tabelle</h2>
-</button>
+<button class="accordion"> Tabelle </button>
 <div class="panel">
   <p>
 ```{R echo = FALSE, results='markup'}
