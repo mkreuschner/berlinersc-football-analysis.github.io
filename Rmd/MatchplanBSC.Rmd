@@ -13,53 +13,67 @@ body {
   background-color: #3b3c41; 
   color: white;
 }
+
 pre, pre:not([class]) { 
   background-color: yellow;
-  max-height: 300px;
+  max-height: 10rem;
   overflow-y: auto;
 }
+header {
+  display:flex;
+  justify-content: space-between; /* Elemente gleichmäßig verteilen */
+  align-items: center; /* Vertikal zentrieren */
+  padding: 1rem 2rem;
+  background-color: #3b3c41;
+  color: white;
+}
+.img {
+  padding: 1rem 2rem;
+  width: 75px;
+  height: 75px;
+}
+.h1 {
+  display:flex;
+  color:white;
+  font-size:2rem;
+}
 .button {
-  border-radius: 4px;
-  background-color: #f4511e;
+  border-radius:0.3rem;
+  background-color: #646464;
   border: none;
   color: #FFFFFF;
   text-align: center;
-  font-size: 28px;
-  padding: 20px;
-  width: 200px;
+  font-size: 1.5rem;
+  padding:1rem 2rem;
+  width: 10rem;
   transition: all 0.5s;
   cursor: pointer;
-  margin: 5px;
+  margin: 0.3rem;
 }
-
 .button span {
   cursor: pointer;
   display: inline-block;
   position: relative;
   transition: 0.5s;
 }
-
 .button span:before {
   content: '\00ab'; /* Double left arrow */
   position: absolute;
   opacity: 0;
   top: 0;
-  left: -20px; /* Start position for the animation */
+  left: -1.5rem; /* Start position for the animation */
   transition: 0.5s;
 }
-
 .button:hover span {
   padding-left: 25px; /* Push content to the right when hovered */
 }
-
 .button:hover span:before {
   opacity: 1;
   left: 0; /* Move arrow to its visible position */
 }
-img { 
-  float: right;
-  padding: 2px;
-  background-color: #3b3c41;
+.button span a{
+  color: white;
+  text-decoration:none;
 }
 
 div.container {
@@ -68,7 +82,7 @@ div.container {
 
 ul.myUL {
   display: flex;
-  justify-content;
+  justify-content: space-between;
   align-items:center;
   list-style-type: none;
   text-align: center;
@@ -76,6 +90,8 @@ ul.myUL {
   padding: 0;
   overflow: hidden;
   background-color: #3b3c41;
+  color: white;
+  text-decoration:none;
 }
 
 li {
@@ -83,13 +99,13 @@ li {
 }
 
 li a {
-  font-size: 20px;
-  border-radius: 10px;
+  font-size:1.3rem;
+  border-radius: 0.3rem;
   float: left;
   display: block;
   color: white;
   text-align: center;
-  padding: 16px;
+  padding: 1rem;
   text-decoration: none;
 }
 
@@ -102,29 +118,9 @@ p {
   padding-bottom: 1cm;
 }
 
-.header img {
-  width: 75px;
-  height: 75px;
-}
-
-.header h1 {
-  color:white;
-  text-align:center;
-  position: relative;
-  top: 18px;
-  left: 10px;
-}
-
 h2 {
   text-align:center;
-  padding:0px 0px 0px 20px;
-}
-
-/* Set height of body and the document to 100% to enable "full page tabs" */
-body, html {
-  height: 100%;
-  margin: 0;
-  font-family: Arial;
+  padding:0rem 0rem 0rem 3rem;
 }
 
 /* Style tab links */
@@ -152,21 +148,22 @@ body, html {
   height: 100%;
 }
 
-#Score {background-color: red;}
-#Torschützen {background-color: green;}
-#Assists {background-color: blue;}
-#Scorerpoints {background-color: orange;}
+#Score {background-color: black;}
+#Torschützen {background-color:  black;}
+#Assists {background-color:  black;}
+#Scorerpoints {background-color:  black;}
 
 .accordion {
+  border-radius:0.3rem;
   background-color: yellow;
   color: #3b3c41;
   cursor: pointer;
-  padding: 10px;
+  padding: 1rem;
   width: 100%;
   border: none;
   text-align: center;
   outline: none;
-  font-size: 15px;
+  font-size:2rem;
   transition: 0.4s;
 }
 
@@ -180,7 +177,7 @@ body, html {
   color: #3b3c41;
   font-weight: bold;
   float: right;
-  margin-left: 5px;
+  margin-left: 0.5rem;
 }
 
 .active:after {
@@ -188,11 +185,37 @@ body, html {
 }
 
 .panel {
-  padding: 0 18px;
+  padding: 0 2rem;
   background-color: #3b3c41;
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
+}
+.custom-plot-container {
+    background-color: #3b3c41; /* Setzt den Hintergrund auf die gewünschte Farbe */
+    padding: 0;               /* Entfernt inneren Abstand */
+    margin: 0;                /* Entfernt äußeren Abstand */
+    border: none;             /* Entfernt eventuelle Rahmen */
+}
+.custom-plot-container svg {
+    background-color: #3b3c41; /* Hintergrundfarbe direkt für den Plotbereich (SVG) */
+}
+
+table {
+  border-radius:0.3rem;
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  border: 0.1rem solid #ddd;
+}
+
+th, td {
+  text-align: left;
+  padding: 1rem;
+}
+
+tr:nth-child(even) {
+  background-color: #696969;
 }
 
 </style>
@@ -201,11 +224,11 @@ body, html {
 
 
 
-<div class="header">
-  <button class="button"><span href="https://mkreuschner.github.io/berlinersc-football-analysis.github.io/"> Back </span></button>
-  <img src="https://www.berlinersc-fussball.de/__we_thumbs__/37837_17_LogoInBlock.png?m=1538584477" alt="Berliner SC" style="float: right;">
+<header>
+  <button class="button"><span><a href="https://mkreuschner.github.io/berlinersc-football-analysis.github.io/">Back<a/> </span></button>
   <h1 id="Matchplan">Data Analyse</h1>
-</div>
+  <img src="https://www.berlinersc-fussball.de/__we_thumbs__/37837_17_LogoInBlock.png?m=1538584477" alt="Berliner SC" style="float:right;width:6rem;">
+</header>
 <p></p>
 <div class="container">
   <ul class="myUL">
@@ -214,7 +237,6 @@ body, html {
     <li><a href="#Tore">Tore</a></li>
     <li><a href="#Erwartete11">Exp11</a></li>
     <li><a href="#Spielerstatistik">Spielerstatistik</a></li>
-    <li><a href="#Tabelle">Tabelle</a></li>
   </ul>
 </div>
 
@@ -464,7 +486,7 @@ formations <- list(
   "4-4-2" = c("TW", "RV", "IV", "IV", "LV", "RM", "ZM", "ZM", "LM", "ST", "ST"),
   "4-4-1-1" = c("TW", "RV", "IV", "IV", "LV", "RM", "ZM", "ZM", "LM", "ST", "ST"),
   "4-2-2-2" = c("TW", "RV", "IV", "IV", "LV", "ZM", "ZM", "RM", "LM", "ST", "ST"),
-  "4-3-3" = c("TW", "RV", "IV", "IV", "LV", "ZM", "ZM", "ZM", "RF", "CF", "LF"),
+  "4-3-3" = c("TW", "RV", "IV", "IV", "LV", "ZM", "ZM", "ZM", "RM", "ST", "LM"),
   "3-5-2" = c("TW", "IV", "IV", "IV", "RM", "ZM", "ZM", "ZM", "LM", "ST", "ST"),
   "4-2-3-1" = c("TW", "RV", "IV", "IV", "LV", "ZDM", "ZDM", "RM", "ZOM", "LM", "ST"),
   "4-1-3-2" = c("TW", "RV", "IV", "IV", "LV", "ZDM","RM", "ZOM", "LM", "ST", "ST"),
@@ -682,141 +704,156 @@ today_date <- Sys.Date()
 format(Sys.Date(), "%d-%m-%Y")  # Output as DD-MM-YYYY
 ```
 
-<button class="accordion">
-  <h2 id="Takeaways">Mo's Keypoints</h2>
-</button>
-<div class="panel">
-  <p><ol type="I">
-      <li>Generell: Stern Britz ist defensiv sehr anfällig, hat sich aber in den letzten Spielen stabilisiert </li>
-      <li>Platz: wenn meine Stats richtig sind, spielen wir bei ihnen auf einen größeren KuRa. Sie sind heimstark. Alle drei Siege haben sie zu Hause geholt </li>
-      <li>Formation: wahrscheinlich: 4-2-3-1 (siehe unten)</li>
-      <li>Abwehr: vermutlich mit 4er Kette</li>
-      <li>Unterschiedsspieler: </li>
-      <li>Standards
-        <ul>
-          <li>DEF: bekommen viele Gegentore auch durch Verteidiger, schwach vermutlich</li>
-          <li>OFF: meiste Tore über Offensive Spieler</li>
-        </ul></li></ol></p>
-</div>
-
-<button class="accordion">
-  <h2 id="Reale11">Reale 11</h2>
-</button>
+<button class="accordion" id="Takeaways">Mo's Keypoints</button>
 <div class="panel">
   <p>
-```{R echo = FALSE, results='markup',fig.width=7.5,fig.height= 10}
-
-team_name <- Gegner  # Replace with your specific team
-
-# Step 1: Create a list of last names you want to filter by (example)
-last_name_list <- c("Gromotka", "Becker", "Fürstenow","Wuthe","Günther","Sennur","Burda","Hassane","Youssef","Sennur","Maykowski")  # Replace with your list of last names
-
-# Step 3: Filter player_data by team and last names
-filtered_data <- player_data %>%
-  mutate(last_name = word(Name, -1))  %>% # Extract the last name from 'Name' column
-  filter(Team == team_name, last_name %in% last_name_list) 
-  
-
-# Step 4: Select relevant columns
-real_squad <- filtered_data %>%
-  select( Nummer,last_name, weighted_score, most_position,Spiele, Spielzeit ) 
-
-# Step 5: Sort by 'Nummer' in increasing order
-real_squad <- real_squad %>%
-  arrange(Nummer)  # Sort by 'Nummer' in increasing order
-
-library(dplyr)
-library(formattable)
-
-# Step 1: Sort the values and get the bottom 3 for each of the columns
-real_squad <- real_squad %>%
-  mutate(
-    weighted_score_rank = rank(weighted_score, ties.method = "min"),
-    spiele_rank = rank(Spiele, ties.method = "min"),
-    spielzeit_rank = rank(Spielzeit, ties.method = "min")
-  )
-
-# Step 2: Format the table using formattable, highlighting bottom 3 values
-formatted_real11_gegner <- formattable(
-  real_squad,
-  align = c("c", "l", "c", "c", "c", "c"),
-  
-  list(
-    weighted_score = formatter("span", style = x ~ style(display = "block",
-      background = case_when(
-        x == min(real_squad$weighted_score) ~ "lightcoral",        # Lowest = red
-        x == sort(real_squad$weighted_score)[2] ~ "orange", # Second lowest = orange
-        x == sort(real_squad$weighted_score)[3] ~ "yellow", # Third lowest = yellow
-        TRUE ~ "transparent"                                  # Otherwise, no background
-      )
-    )),
-    
-    Spiele = formatter("span", style = x ~ style(display = "block",
-      background = case_when(
-        x == min(real_squad$Spiele) ~ "lightcoral",        # Lowest = red
-        x == sort(real_squad$Spiele)[2] ~ "orange", # Second lowest = orange
-        x == sort(real_squad$Spiele)[3] ~ "yellow", # Third lowest = yellow
-        TRUE ~ "transparent"                          # Otherwise, no background
-      )
-    )),
-    
-    Spielzeit = formatter("span", style = x ~ style(display = "block",
-      background = case_when(
-        x == min(real_squad$Spielzeit) ~ "lightcoral",        # Lowest = red
-        x == sort(real_squad$Spielzeit)[2] ~ "orange", # Second lowest = orange
-        x == sort(real_squad$Spielzeit)[3] ~ "yellow", # Third lowest = yellow
-        TRUE ~ "transparent"                            # Otherwise, no background
-      )
-    ))
-  )
-)
-
-# Step 3: Display the formatted table
-formatted_real11_gegner
-#print("hier steht später die tatsächliche Start11")
-
-
-draw_pitch_rotated <- function() {
-  ggplot() +
-    # Outer pitch
-    geom_rect(aes(ymin = 0, ymax = 160, xmin = 0, xmax = 120), #fill = "green4", 
-              color = "white") +
-    # Halfway line
-    geom_segment(aes(y = 80, x = 0, yend = 80, xend = 120), color = "white") +
-    # Penalty areas
-    geom_rect(aes(ymin = 0, ymax = 25, xmin = 30, xmax = 90), fill = NA, color = "white") + 
-    geom_rect(aes(ymin = 160 - 25, ymax = 160, xmin = 30, xmax = 90), fill = NA, color = "white") +
-    # Goals
-    geom_segment(aes(y = 2, x = 50, yend = 2, xend = 70), color = "white", linewidth = 1.2) +
-    geom_segment(aes(y = 160-2, x = 50, yend = 160-2, xend = 70), color = "white", linewidth = 1.2) +
-    # Center circle using ggforce
-    geom_circle(aes(y0 = 80, x0 = 60, r = 15), color = "white") +
-    geom_point(aes(y = 80, x = 60), color = "white", size = 1) +  # Center point
-    # Formatting
-    coord_fixed(ratio = 1) +
-    theme_void(base_size = 30) + 
-    theme(plot.background = element_rect(fill = "#3b3c41",color = "#3b3c41",))
-}
-
-draw_pitch_rotated() 
-
-# # Plot the Expected Starting 11 on the Rotated Pitch
-# draw_pitch_rotated() +
-#   #geom_raster(data = final_squad, aes(final_squad$x, final_squad$y, fill = weighted_score),interpolate = TRUE) +
-#   geom_circle(data = final_squad, aes(y0 = y, x0 = x, r = 10, fill = weighted_score)) + scale_fill_gradient(low="green",high = "red") +
-#   geom_circle(data = final_squad, aes(y0 = y, x0 = x, r = 5),fill = "black") +
-#   geom_text(data = final_squad, aes(y = y, x = x, label = Nummer), color = "white", size = 4) +
-#   ggtitle(paste(selected_team2, "im", most_used_formation))
-
-
-
-```
+  <table>
+  <tr>
+    <td>Generell</td>
+    <td>Stern Britz ist defensiv sehr anfällig, hat sich aber in den letzten Spielen stabilisiert</td>
+  </tr>
+  <tr>
+    <td>Platz</td>
+    <td>größerer KuRa. Sie sind heimstark. Alle drei Siege haben sie zu Hause geholt</td>
+  </tr>
+  <tr>
+    <td>Formation</td>
+    <td>wahrscheinlich: 4-2-3-1 (siehe unten)</td>
+  </tr>
+  <tr>
+    <td>Abwehr</td>
+    <td>vermutlich mit 4er Kette</td>
+  </tr>
+  <tr>
+    <td>Unterschiedsspieler</td>
+    <td>keine</td>
+  </tr>
+  <tr>
+    <td>def Standards</td>
+    <td>bekommen viele Gegentore auch durch Verteidiger, schwach vermutlich</td>
+  </tr>
+  <tr>
+    <td>off Standards</td>
+    <td>meiste Tore über Offensive Spieler</td>
+  </tr>
+  </table>
   </p>
 </div>
 
-<button class="accordion">
-  <h2 id="Head2head">Head-to-head</h2>
-</button>
+<!-- <button class="accordion" id="Reale11">Reale 11</button> -->
+<!-- <div class="panel"> -->
+<!--   <p> -->
+<!-- ```{R echo = FALSE, results='markup',fig.width=7.5,fig.height= 10} -->
+
+<!-- team_name <- Gegner  # Replace with your specific team -->
+
+<!-- # Step 1: Create a list of last names you want to filter by (example) -->
+<!-- last_name_list <- c("Gromotka", "Becker", "Fürstenow","Wuthe","Günther","Sennur","Burda","Hassane","Youssef","Sennur","Maykowski")  # Replace with your list of last names -->
+
+<!-- # Step 3: Filter player_data by team and last names -->
+<!-- filtered_data <- player_data %>% -->
+<!--   mutate(last_name = word(Name, -1))  %>% # Extract the last name from 'Name' column -->
+<!--   filter(Team == team_name, last_name %in% last_name_list)  -->
+
+
+<!-- # Step 4: Select relevant columns -->
+<!-- real_squad <- filtered_data %>% -->
+<!--   select( Nummer,last_name, weighted_score, most_position,Spiele, Spielzeit )  -->
+
+<!-- # Step 5: Sort by 'Nummer' in increasing order -->
+<!-- real_squad <- real_squad %>% -->
+<!--   arrange(Nummer)  # Sort by 'Nummer' in increasing order -->
+
+<!-- library(dplyr) -->
+<!-- library(formattable) -->
+
+<!-- # Step 1: Sort the values and get the bottom 3 for each of the columns -->
+<!-- real_squad <- real_squad %>% -->
+<!--   mutate( -->
+<!--     weighted_score_rank = rank(weighted_score, ties.method = "min"), -->
+<!--     spiele_rank = rank(Spiele, ties.method = "min"), -->
+<!--     spielzeit_rank = rank(Spielzeit, ties.method = "min") -->
+<!--   ) -->
+
+<!-- # Step 2: Format the table using formattable, highlighting bottom 3 values -->
+<!-- formatted_real11_gegner <- formattable( -->
+<!--   real_squad, -->
+<!--   align = c("c", "l", "c", "c", "c", "c"), -->
+
+<!--   list( -->
+<!--     weighted_score = formatter("span", style = x ~ style(display = "block", -->
+<!--       background = case_when( -->
+<!--         x == min(real_squad$weighted_score) ~ "lightcoral",        # Lowest = red -->
+<!--         x == sort(real_squad$weighted_score)[2] ~ "orange", # Second lowest = orange -->
+<!--         x == sort(real_squad$weighted_score)[3] ~ "yellow", # Third lowest = yellow -->
+<!--         TRUE ~ "transparent"                                  # Otherwise, no background -->
+<!--       ) -->
+<!--     )), -->
+
+<!--     Spiele = formatter("span", style = x ~ style(display = "block", -->
+<!--       background = case_when( -->
+<!--         x == min(real_squad$Spiele) ~ "lightcoral",        # Lowest = red -->
+<!--         x == sort(real_squad$Spiele)[2] ~ "orange", # Second lowest = orange -->
+<!--         x == sort(real_squad$Spiele)[3] ~ "yellow", # Third lowest = yellow -->
+<!--         TRUE ~ "transparent"                          # Otherwise, no background -->
+<!--       ) -->
+<!--     )), -->
+
+<!--     Spielzeit = formatter("span", style = x ~ style(display = "block", -->
+<!--       background = case_when( -->
+<!--         x == min(real_squad$Spielzeit) ~ "lightcoral",        # Lowest = red -->
+<!--         x == sort(real_squad$Spielzeit)[2] ~ "orange", # Second lowest = orange -->
+<!--         x == sort(real_squad$Spielzeit)[3] ~ "yellow", # Third lowest = yellow -->
+<!--         TRUE ~ "transparent"                            # Otherwise, no background -->
+<!--       ) -->
+<!--     )) -->
+<!--   ) -->
+<!-- ) -->
+
+<!-- # Step 3: Display the formatted table -->
+<!-- formatted_real11_gegner -->
+<!-- #print("hier steht später die tatsächliche Start11") -->
+
+
+<!-- draw_pitch_rotated <- function() { -->
+<!--   ggplot() + -->
+<!--     # Outer pitch -->
+<!--     geom_rect(aes(ymin = 0, ymax = 160, xmin = 0, xmax = 120), #fill = "green4",  -->
+<!--               color = "white") + -->
+<!--     # Halfway line -->
+<!--     geom_segment(aes(y = 80, x = 0, yend = 80, xend = 120), color = "white") + -->
+<!--     # Penalty areas -->
+<!--     geom_rect(aes(ymin = 0, ymax = 25, xmin = 30, xmax = 90), fill = NA, color = "white") +  -->
+<!--     geom_rect(aes(ymin = 160 - 25, ymax = 160, xmin = 30, xmax = 90), fill = NA, color = "white") + -->
+<!--     # Goals -->
+<!--     geom_segment(aes(y = 2, x = 50, yend = 2, xend = 70), color = "white", linewidth = 1.2) + -->
+<!--     geom_segment(aes(y = 160-2, x = 50, yend = 160-2, xend = 70), color = "white", linewidth = 1.2) + -->
+<!--     # Center circle using ggforce -->
+<!--     geom_circle(aes(y0 = 80, x0 = 60, r = 15), color = "white") + -->
+<!--     geom_point(aes(y = 80, x = 60), color = "white", size = 1) +  # Center point -->
+<!--     # Formatting -->
+<!--     coord_fixed(ratio = 1) + -->
+<!--     theme_void(base_size = 30) +  -->
+<!--     theme(plot.background = element_rect(fill = "#3b3c41",color = "#3b3c41",)) -->
+<!-- } -->
+
+<!-- draw_pitch_rotated()  -->
+
+<!-- # # Plot the Expected Starting 11 on the Rotated Pitch -->
+<!-- # draw_pitch_rotated() + -->
+<!-- #   #geom_raster(data = final_squad, aes(final_squad$x, final_squad$y, fill = weighted_score),interpolate = TRUE) + -->
+<!-- #   geom_circle(data = final_squad, aes(y0 = y, x0 = x, r = 10, fill = weighted_score)) + scale_fill_gradient(low="green",high = "red") + -->
+<!-- #   geom_circle(data = final_squad, aes(y0 = y, x0 = x, r = 5),fill = "black") + -->
+<!-- #   geom_text(data = final_squad, aes(y = y, x = x, label = Nummer), color = "white", size = 4) + -->
+<!-- #   ggtitle(paste(selected_team2, "im", most_used_formation)) -->
+
+
+
+<!-- ``` -->
+<!--   </p> -->
+<!-- </div> -->
+
+<button class="accordion" id="Head2head">Head-to-head</button>
 <div class="panel">
   <p>
 ```{R echo = FALSE, results='markup'}
@@ -949,9 +986,7 @@ formatted_info %>%
   </p>
 </div>
 
-<button class="accordion">
-  <h2 id="LetzteSpiele">Letzte Spiele</h2>
-</button>
+<button class="accordion" id="LetzteSpiele">Letzte Spiele</button>
 <div class="panel">
   <p>
 ```{R echo = FALSE, results='markup'}
@@ -987,29 +1022,22 @@ colnames(last_five_games)[colnames(last_five_games) %in% c("matchday",  "team", 
 last_five_games %>%
   select(Spieltag, Wo, Team, Gegner, T, GT)  %>%
   kbl(align = c("c", "c", "c", "c", "c", "c")) %>%
-  scroll_box(width = "650px", height = "250px", extra_css = " float: center; border-radius: 10px; padding: 5px; ") %>%
+  scroll_box(width = "80rem", height = "30rem", extra_css = " float: center; border-radius: 3rem; padding: 1rem; ") %>%
   row_spec(0, bold = T, color = "black", background = "yellow") %>%
   kable_material_dark(full_width = F) %>%
-  kable_styling(font_size = 18, position = "center") 
-  #column_spec(2, color = spec_color(last_five_games$where),
-  #            link = "https://haozhu233.github.io/kableExtra/") #%>%
-  #column_spec(6, color = "white",
-  #            background = spec_color(last_five_games$goals_c[1:8], end = 0.7),
-  #            popover = paste("am:", last_five_games$goals_c[1:8]))
-
+  kable_styling(font_size = "1rem", position = "center") 
 
 ```
   </p>
 </div>
 
-<button class="accordion">
-  <h2 id="Formation">Formation</h2>
-</button>
+<button class="accordion" id="Formation">Formation</button>
 <div class="panel">
   <p>
+  <div class="custom-plot-container">
 ```{R echo = FALSE, results='markup'} 
-# Function to determine formation based on the 'squad' column , fig.width = 4, fig.height = 3.23
-extract_formation_and_subs <- function(squad) {
+
+extract_formation_and_subs2 <- function(squad) {
   
   # Step 1: Count the number of substitutions, including multiple names in parentheses
   substitution_count <- sum(str_count(str_extract_all(squad, "\\([^\\)]+\\)")[[1]], ",") + 1)
@@ -1041,92 +1069,120 @@ extract_formation_and_subs <- function(squad) {
 
 # Apply the function to the dataset
 # Assuming 'data' is the name of your dataset with a 'squad' column
-data <- data %>%
+data2 <- data %>%
   mutate(
-    formation = sapply(squad, function(x) extract_formation_and_subs(x)$formation),
-    substitutions = sapply(squad, function(x) extract_formation_and_subs(x)$substitutions)
+    formation = sapply(squad, function(x) extract_formation_and_subs2(x)$formation),
+    substitutions = sapply(squad, function(x) extract_formation_and_subs2(x)$substitutions)
   )
 
-# Load necessary libraries
-library(dplyr)
-library(ggplot2)
+```
 
-# # Define the specific team you want to analyze (example: "Berliner SC II")
-# selected_team <- MeinTeam
-# 
-# # Filter the data for the selected team, count formations, and calculate percentages
-# formation_counts_team <- matchday_data %>%
-#   filter(team == selected_team) %>%                 # Select the specified team
-#   count(formation) %>%                              # Count occurrences of each formation
-#   filter(formation != "formation unclear") %>%      # Exclude "formation unclear" if needed
-#   mutate(percentage = n / sum(n) * 100)             # Calculate the percentage for each formation
-# 
-# # Create the pie chart with percentage labels
-# ggplot(formation_counts_team, aes(x = "", y = n, fill = formation)) +
-#   geom_bar(stat = "identity", width = 1, color = "white") +
-#   coord_polar("y") +                                # Convert bar chart to pie chart
-#   geom_text(aes(label = paste0(round(percentage, 1), "%")),  # Add percentage labels
-#             position = position_stack(vjust = 0.5)) +
-#   labs(
-#     title = paste("Formationen von", selected_team),
-#     fill = "Formation"
-#   ) +
-#   theme_minimal() +
-#   theme(plot.background = element_rect(fill = "#3b3c41",color = "#3b3c41",),
-#         plot.title= element_text(size=14,color="white",family = "Tahoma"),
-#         legend.title=element_text(color= "white",size=12),
-#         legend.text=element_text(color= "white",size=10),
-#         axis.text = element_blank(),
-#         axis.ticks = element_blank(),
-#         panel.grid = element_blank())
-
+```{R echo = FALSE, results='markup', fig.width = 10, fig.height = 8} 
 # Define the specific team you want to analyze (example: "Berliner SC II")
 selected_team2 <- Gegner
 
 # Filter the data for the selected team, count formations, and calculate percentages
-formation_counts_gegner <- data %>%
+formation_counts_gegner <- data2 %>%
   filter(team == selected_team2) %>%                 # Select the specified team
   count(formation) %>%                              # Count occurrences of each formation
   filter(formation != "formation unclear") %>%      # Exclude "formation unclear" if needed
   mutate(percentage = n / sum(n) * 100)             # Calculate the percentage for each formation
 
-# Create the pie chart with percentage labels
-ggplot(formation_counts_gegner, aes(x = "", y = n, fill = formation)) +
-  geom_bar(stat = "identity", width = 1, color = "white") +
-  coord_polar("y") +                                # Convert bar chart to pie chart
-  geom_text(aes(label = paste0(round(percentage, 1), "%")),  # Add percentage labels
-            position = position_stack(vjust = 0.5)) +
+
+# Reihenfolge der Formationen nach Anzahl absteigend festlegen
+formation_counts_gegner <- formation_counts_gegner %>%
+  mutate(formation = factor(formation, levels = reorder(formation, -n)))
+
+# Plot erstellen
+ggplot(formation_counts_gegner, aes(x = reorder(formation,-n), y = n, fill = formation)) +
+  geom_bar(stat = "identity", color = "white", width = 0.5) +    # Säulen erstellen
   labs(
-    title = paste("Formationen von", selected_team2),
-    fill = "Formation"
+    title = paste("Anzahl der Spiele pro Formation von", selected_team2),
+    x = "Formation",
+    y = "Anzahl der Spiele"
   ) +
   theme_minimal() +
-  theme(plot.background = element_rect(fill = "#3b3c41",color = "#3b3c41",),
-        plot.title= element_text(size=14,color="white",family = "Tahoma"),
-        legend.title=element_text(color= "white",size=12),
-        legend.text=element_text(color= "white",size=10),
-        axis.text = element_blank(),
-        axis.ticks = element_blank(),
-        panel.grid = element_blank())
+  theme(
+    plot.title = element_text(size = 14, color = "white", family = "Tahoma", hjust = 0.5),
+    axis.title.x = element_text(size = 10, color = "white"),
+    axis.title.y = element_text(size = 12, color = "white"),
+    axis.text.y = element_text(size = 10, hjust = 1, color = "white"),
+    axis.text.x = element_text(size = 14, angle = 0, hjust = 0.5, color = "white"),
+    legend.position = "none",
+    panel.background = element_rect(fill = "#3b3c41", color = NA),  # Hintergrundfarbe der Graphenfläche
+    plot.background = element_rect(fill = "#3b3c41", color = NA)    # Plot-Hintergrundfarbe
+  ) +
+  scale_fill_manual(
+    values = c("#1b9e77", "#e7298a", "#7570b3","#d95f02", "#66a61e"),
+    breaks = c("4-2-3-1","4-3-3","3-4-3","4-4-1-1", "3-2-3-2")
+    )
 
 
+# Gewichtungsfaktoren für die letzten fünf Spiele
+weight_factors <- c(2, 1.75, 1.50, 1.25, 1.10)
+
+# Filter und Gewichtung der Formationen für die letzten fünf Spiele
+formation_counts_weighted <- data2 %>%
+  filter(team == selected_team2) %>%                 # Filter für das ausgewählte Team
+  arrange(desc(matchday)) %>%                        # Spiele nach Spieltag sortieren (neueste zuerst)
+  mutate(weight = ifelse(row_number() <= 5, weight_factors[row_number()], 1)) %>%  # Gewichtung auf die letzten 5 Spiele anwenden
+  filter(!is.na(formation), formation != "formation unclear") %>%  # Gültige Formationen filtern
+  group_by(formation) %>%                            # Gruppieren nach Formation
+  summarise(weighted_count = sum(weight, na.rm = TRUE)) %>%  # Gewichtete Zählung berechnen
+  mutate(percentage = weighted_count / sum(weighted_count) * 100)  # Prozentwerte berechnen
 
 ```
+
+```{R echo = FALSE, results='markup', fig.width = 10, fig.height = 4} 
+
+# Erstellen des gestapelten Balkendiagramms
+ggplot(formation_counts_weighted, aes(x = "Formation", y = weighted_count, fill = reorder(formation, weighted_count))) +
+  geom_bar(stat = "identity", color = "white", width = 0.7) +  # Gestapelte Balken
+  geom_text(aes(label = paste0(round(percentage, 1), "%")),    # Prozentwerte im Balken anzeigen
+            position = position_stack(vjust = 0.5),            # Text zentrieren
+            color = "white", size = 4) +                      # Farbe und Größe des Texts
+  labs(
+    title = paste("Gewichtete Wahrscheinlichkeit der Formationen von", selected_team2),
+    x = NULL,  # X-Achsentitel entfernen
+    y = "Gewichtete Anzahl",                                  # Titel für die Y-Achse
+    fill = "Formation"                                        # Titel der Legende
+  ) +
+  theme_minimal() +
+  theme(
+    plot.title = element_text(size = 14, color = "white", hjust = 0.5),  # Titel zentrieren
+    axis.title.x = element_blank(),                                     # X-Achsentitel entfernen
+    axis.text.x = element_blank(),                                      # X-Achsentext entfernen
+    axis.ticks.x = element_blank(),                                     # X-Achsenticks entfernen
+    axis.title.y = element_blank(),            
+    axis.text.y = element_blank(),             # Y-Achsentext anpassen
+    legend.position = "bottom",                                         # Legende unten
+    legend.direction = "horizontal",                                    # Horizontale Legende
+    legend.title = element_text(size = 10, color = "white"),
+    legend.text = element_text(size = 14, color = "white"),
+    panel.background = element_rect(fill = "#3b3c41", color = NA),      # Hintergrundfarbe
+    plot.background = element_rect(fill = "#3b3c41", color = NA)        # Plot-Hintergrund
+  ) +
+  guides(fill = guide_legend(title.position = "top", title.hjust = 0.5)) +  # Legendentitel zentrieren
+  scale_fill_manual(
+    values = c("#1b9e77", "#e7298a" , "#7570b3","#d95f02","#66a61e"),
+    breaks = c("4-2-3-1","4-3-3","3-4-3","4-4-1-1", "3-2-3-2")) +  # Anpassung der Farben
+  coord_flip()  # Achsen umdrehen, für ästhetische Darstellung
+
+```
+  </div>
   </p>
 </div>
 
-<button class="accordion">
-  <h2 id="Erwartete11">Erwartete Start11</h2>
-</button>
+<button class="accordion" id="Erwartete11">Erwartete Start11</button>
 <div class="panel">
   <p>
 ```{R echo = FALSE, results='markup'}
 # Define the team to analyze
-selected_team2 <- Gegner  # Replace with the actual team name
+selected_team <- Gegner  # Replace with the actual team name
 
 # Part 1: Find the Most Used Formation
 most_used_formation <- matchday_data %>%
-  filter(team == selected_team2) %>%
+  filter(team == selected_team) %>%
   count(formation) %>%                        # Count occurrences of each formation
   arrange(desc(n)) %>%                         # Sort by frequency of formation
   slice_head(n = 1) %>%                        # Select the most used formation
@@ -1134,49 +1190,85 @@ most_used_formation <- matchday_data %>%
 
 # Part 2: Determine position requirements from the formation
 # We assume `formations` is a list where each formation contains the required positions in order.
-position_requirements2 <- table(formations[[most_used_formation]])
+position_requirements <- table(formations[[most_used_formation]])
 
 #print(position_requirements)
+# Gesamtanzahl der Spiele aus den Spieldaten berechnen
+total_games <- max(matchday_data$matchday, na.rm = TRUE)  # Annahme: `game_dataset` enthält die Matchdays
 
-# Part 3: Build Expected Squad Based on Formation Requirements and Weighted Score
-expected_squad2 <- player_data %>%
-  filter(Team == selected_team2) %>%                   # Filter by the selected team
-  filter(most_position %in% names(position_requirements2)) %>%  # Keep only players with positions in the formation
-  group_by(most_position) %>%
+# Schritt 1: Vorbereitung der Daten
+# Ermittlung der häufig gespielten Formation
+most_used_formation <- matchday_data %>%
+  filter(team == selected_team) %>%
+  count(formation) %>%
+  arrange(desc(n)) %>%
+  slice_head(n = 1) %>%
+  pull(formation)
+
+# Positionen der häufig gespielten Formation extrahieren
+formation_positions <- formations[[most_used_formation]]
+
+# Schritt 2: Spieler vorbereiten
+# Spieler nach `weighted_score` sortieren und nur Spieler des Teams auswählen
+team_players <- player_data %>%
+  filter(Team == selected_team) %>%
   arrange(desc(weighted_score)) %>%
-  mutate(rank = row_number()) %>%                      # Rank players by `weighted_score` within each position
-  filter(rank <= position_requirements2[most_position]) %>%  # Select top players based on position requirements
-  ungroup() %>%
-  arrange(match(most_position, formations[[most_used_formation]]))  # Order by the formation's position order
+  filter(Spiele / total_games >= 0.25) %>%
+  select(Name, Nummer, Team, most_position, weighted_score, second_position)
 
-# Add a Rank column to the top_scorers data frame
-expected_squad2 <- expected_squad2 %>%
-  mutate(Rank = row_number()) %>%
-  select(Nummer, Name, weighted_score, most_position, position_percentage,second_position)  # Select desired columns
+# Hilfsvariablen initialisieren
+expected_squad <- data.frame(Team = character(), Position = character(), Nummer = integer(), Name = character(),  Weighted_Score = numeric())
+occupied_positions <- c()  # Verfolgung der bereits besetzten Positionen
 
-# Display the formatted table using formattable
-formatted_exp11_gegner <- formattable(
-  expected_squad2,
-  align = c("c", "l", "c", "c", "c"),
-  list(
-    # Highlight rows based on rank
-    position_percentage = formatter("span", style = x ~ style(
-      display = "block",
-      padding = "5px",
-      `border-radius` = "4px",
-      background = ifelse(x=="100%", "lightgreen", ifelse( x >= 75, "lightgreen", ifelse(x >= 50 & x < 75, "yellow", ifelse(x < 50, "lightcoral", "transparent"))))
-    ))
-  )
-)
+# Schritt 3: Iterative Zuweisung
+for (i in 1:nrow(team_players)) {
+  player <- team_players[i, ]
+  
+  # Mögliche Positionen für den Spieler in der Reihenfolge der Häufigkeit
+  player_positions <- c(player$most_position, player$second_position)
+  
+  # Prüfe jede Position des Spielers, ob sie verfügbar ist
+  for (position in player_positions) {
+    # Füge den Spieler hinzu, wenn die Position benötigt wird und noch frei ist
+    if (position %in% formation_positions && sum(occupied_positions == position) < sum(formation_positions == position)) {
+      expected_squad <- rbind(expected_squad, 
+                              data.frame(
+                                Team = player$Team,
+                                Position = position,
+                                Nummer = player$Nummer,
+                                Name = player$Name, 
+                                Weighted_Score = player$weighted_score))
+      occupied_positions <- c(occupied_positions, position)
+      break  # Beende die Schleife, sobald der Spieler positioniert ist
+    }
+  }
+  
+  # Abbruchkriterium: Wenn alle Positionen belegt sind (11 Spieler)
+  if (nrow(expected_squad) == 11) {
+    break
+  }
+}
 
-colnames(formatted_exp11_gegner)[colnames(formatted_exp11_gegner) %in% c("Nummer", "Name", "weighted_score", "most_position", "position_percentage","second_position")] <- c("Nr", "Name", "Score", "Pos 1", "%","Pos 2") 
+# Schritt 4: Reihenfolge der Spieler in der Formation festlegen
+expected_squad <- expected_squad %>%
+  arrange(match(Position, formation_positions))
 
- # Display the formatted table without row indices
-formatted_exp11_gegner %>%
-  kbl(align = c("c", "l", "c","c", "c", "c")) %>%
+# Spaltennamen korrekt ersetzen
+colnames(expected_squad) <- colnames(expected_squad) %>%
+  str_replace_all(c("Team" = "Team", 
+                    "Position" = "Pos", 
+                    "Nummer" = "Nr",
+                    "Name" = "Name" , 
+                    "weighted_score" = "Score"))
+
+# Display the formatted table without row indices
+expected_squad %>%
+  kbl(align = c("c", "c", "c","l", "c")) %>%
   kable_material_dark("hover", full_width = T,bootstrap_options = c("striped", "hover", "responsive")) %>%
   row_spec(0, bold = T, color = "black", background = "yellow") %>%
   kable_styling(font_size = 15, position = "center") 
+
+
 
 
 
@@ -1317,15 +1409,37 @@ formatted_exp11_gegner %>%
 # 
 
 ```
+
+```{R echo = FALSE, results='markup'}
+
+# Filtere die letzten drei Spiele und zeige die Squads an
+get_last_three_squads <- function(data, team_name) {
+  data %>%
+    filter(team == team_name) %>%              # Filtere die Spiele für das ausgewählte Team
+    arrange(desc(matchday)) %>%                # Sortiere die Spiele nach Spieltag (neueste zuerst)
+    slice_head(n = 3) %>%                      # Wähle die letzten drei Spiele
+    select(squad)                    # Zeige Spieltag und Squad-Spalten an
+}
+# Beispiel: Starte für ein bestimmtes Team
+last_three_squads <- get_last_three_squads(matchday_data, selected_team)
+
+# Erstelle die Tabelle und passe die Spaltenbreite an
+last_three_squads %>%
+  kbl(align = c("l")) %>%
+  kable_material_dark("hover", full_width = T, bootstrap_options = c("striped", "hover", "responsive")) %>%
+  row_spec(0, bold = T, color = "black", background = "yellow", font_size = 14) %>%
+ # column_spec(1, width = "1.5cm") %>%   # Breite der ersten Spalte
+ # column_spec(2, width = "8cm") %>% # Breite der zweiten Spalte
+  kable_styling(font_size = 11, position = "center")
+```
+
   </p>
 </div>
 
-<button class="accordion">
-  <h2 id="Tore">Tore</h2>
-</button>
+<button class="accordion" id="Tore">Tore</button>
 <div class="panel">
   <p>
-```{R echo = FALSE, results='markup', fig.width = 4, fig.height = 4}
+```{R echo = FALSE, results='markup', fig.width = 8, fig.height = 4}
 # Function to extract and organize goalscorer data from the dataset
 # Function to extract and organize goalscorer data from the dataset
 extract_goalscorer_data <- function(data) {
@@ -1369,76 +1483,76 @@ extract_goalscorer_data <- function(data) {
 new_dataset <- extract_goalscorer_data(matchday_data)
 
 # Define the specific team you want to filter by (example: "Berliner SC II")
-selected_team <- MeinTeam
-
-# Define function to create the interval column and aggregate data for a specific team
-create_goal_intervals <- function(data, team) {
-  
-  
-  
-  
-  # Define 5-minute intervals
-  data <- data %>%
-    mutate(
-      # Define intervals by grouping minutes into 5-minute bins (0-5, 5-10, ...)
-      interval = cut(minute, breaks = seq(0, 90, by = 5), right = FALSE, include.lowest = TRUE),
-      
-      # Create label for upper bound of each interval
-      interval_label = paste0(seq(5, 90, by = 5), "min")[as.numeric(interval)]
-    )
-  
-  # Filter data for the selected team for goals scored and conceded
-  scored_data <- data %>%
-    filter(team == !!team) %>%
-    group_by(interval, interval_label) %>%
-    summarize(goals_scored = n(), .groups = "drop")  # Count goals scored per interval for the team
-  
-  conceded_data <- data %>%
-    filter(opponent == !!team) %>%
-    group_by(interval, interval_label) %>%
-    summarize(goals_conceded = n(), .groups = "drop")  # Count goals conceded per interval for the team
-  
-  # Combine scored and conceded data into one table
-  combined_data <- full_join(scored_data, conceded_data, by = c("interval", "interval_label")) %>%
-    replace_na(list(goals_scored = 0, goals_conceded = 0))  # Replace NA with 0 for missing intervals
-  
-  return(combined_data)
-}
-
-# Apply the function to create intervals and aggregate data for the selected team
-interval_data <- create_goal_intervals(new_dataset, selected_team)
-
-# Define the complete set of interval labels from "5min" to "90min"
-interval_labels <- paste0(seq(5, 90, by = 5), "min")
-
-# Plotting the goals scored and conceded in 5-minute intervals for the selected team
-ggplot(interval_data, aes(x = interval_label)) +
-  geom_col(aes(y = goals_scored, fill = "T"), position = position_dodge(width = 0.7), width = 0.7) +
-  geom_col(aes(y = -goals_conceded, fill = "GT"), position = position_dodge(width = 0.7), width = 0.7) +
-  labs(
-    title = paste(selected_team),
-    x = "Minute Interval",
-    y = "Toranzahl",
-    fill = "Legende"
-  ) +
-  scale_x_discrete(limits = interval_labels) +  # Ensure all intervals from 5min to 90min are shown
-  ylim(-6, 6) +                               # Set y-axis limits from -10 to 10
-  #scale_y_continuous(labels = abs) +            # Display absolute values on y-axis
-  scale_fill_manual(values = c("T" = "lightblue", "GT" = "red")) +
-  theme_minimal() +
-  theme(plot.background = element_rect(fill = "#3b3c41",color = "#3b3c41",)) +
-  theme(plot.title= element_text(size=16,color="white",family = "Tahoma")) +
-  theme(axis.title.x = element_text(size=12, color="white",angle=0)) +
-  theme(axis.title.y = element_text(size=12, color="white",angle=90)) +
-  theme(legend.title=element_text(color= "white",size=12)) +
-  theme(legend.text=element_text(color= "white",size=10)) +
-  theme(panel.background = element_rect(fill = "#3b3c41",color = "#3b3c41",
-                                linewidth = 0.5, linetype = "solid"),
-  panel.grid.major = element_line(linewidth = 0.5, linetype = 'solid',color="grey"),
-  panel.grid.minor = element_line(linewidth = 0.25,linetype='solid',color = "grey")) +
-  theme(axis.text.y = element_text(angle = 90, hjust = 1,color = "white")) +
-  theme(axis.text.x = element_text(angle = 90, hjust = 1,color = "white"))
-
+# selected_team <- MeinTeam
+# 
+# # Define function to create the interval column and aggregate data for a specific team
+# create_goal_intervals <- function(data, team) {
+#   
+#   
+#   
+#   
+#   # Define 5-minute intervals
+#   data <- data %>%
+#     mutate(
+#       # Define intervals by grouping minutes into 5-minute bins (0-5, 5-10, ...)
+#       interval = cut(minute, breaks = seq(0, 90, by = 5), right = FALSE, include.lowest = TRUE),
+#       
+#       # Create label for upper bound of each interval
+#       interval_label = paste0(seq(5, 90, by = 5), "min")[as.numeric(interval)]
+#     )
+#   
+#   # Filter data for the selected team for goals scored and conceded
+#   scored_data <- data %>%
+#     filter(team == !!team) %>%
+#     group_by(interval, interval_label) %>%
+#     summarize(goals_scored = n(), .groups = "drop")  # Count goals scored per interval for the team
+#   
+#   conceded_data <- data %>%
+#     filter(opponent == !!team) %>%
+#     group_by(interval, interval_label) %>%
+#     summarize(goals_conceded = n(), .groups = "drop")  # Count goals conceded per interval for the team
+#   
+#   # Combine scored and conceded data into one table
+#   combined_data <- full_join(scored_data, conceded_data, by = c("interval", "interval_label")) %>%
+#     replace_na(list(goals_scored = 0, goals_conceded = 0))  # Replace NA with 0 for missing intervals
+#   
+#   return(combined_data)
+# }
+# 
+# # Apply the function to create intervals and aggregate data for the selected team
+# interval_data <- create_goal_intervals(new_dataset, selected_team)
+# 
+# # Define the complete set of interval labels from "5min" to "90min"
+# interval_labels <- paste0(seq(5, 90, by = 5), "min")
+# 
+# # Plotting the goals scored and conceded in 5-minute intervals for the selected team
+# ggplot(interval_data, aes(x = interval_label)) +
+#   geom_col(aes(y = goals_scored, fill = "T"), position = position_dodge(width = 0.7), width = 0.7) +
+#   geom_col(aes(y = -goals_conceded, fill = "GT"), position = position_dodge(width = 0.7), width = 0.7) +
+#   labs(
+#     title = paste(selected_team),
+#     x = "Minute Interval",
+#     y = "Toranzahl",
+#     fill = "Legende"
+#   ) +
+#   scale_x_discrete(limits = interval_labels) +  # Ensure all intervals from 5min to 90min are shown
+#   ylim(-6, 6) +                               # Set y-axis limits from -10 to 10
+#   #scale_y_continuous(labels = abs) +            # Display absolute values on y-axis
+#   scale_fill_manual(values = c("T" = "lightblue", "GT" = "red")) +
+#   theme_minimal() +
+#   theme(plot.background = element_rect(fill = "#3b3c41",color = "#3b3c41",)) +
+#   theme(plot.title= element_text(size=16,color="white",family = "Tahoma")) +
+#   theme(axis.title.x = element_text(size=12, color="white",angle=0)) +
+#   theme(axis.title.y = element_text(size=12, color="white",angle=90)) +
+#   theme(legend.title=element_text(color= "white",size=12)) +
+#   theme(legend.text=element_text(color= "white",size=10)) +
+#   theme(panel.background = element_rect(fill = "#3b3c41",color = "#3b3c41",
+#                                 linewidth = 0.5, linetype = "solid"),
+#   panel.grid.major = element_line(linewidth = 0.5, linetype = 'solid',color="grey"),
+#   panel.grid.minor = element_line(linewidth = 0.25,linetype='solid',color = "grey")) +
+#   theme(axis.text.y = element_text(angle = 90, hjust = 1,color = "white")) +
+#   theme(axis.text.x = element_text(angle = 90, hjust = 1,color = "white"))
+# 
 
 
 # Define the specific team you want to filter by (example: "Berliner SC II")
@@ -1484,8 +1598,8 @@ interval_labels <- paste0(seq(5, 90, by = 5), "min")
 
 # Plotting the goals scored and conceded in 5-minute intervals for the selected team
 ggplot(interval_data, aes(x = interval_label)) +
-  geom_col(aes(y = goals_scored, fill = "T"), position = position_dodge(width = 0.7), width = 0.7) +
-  geom_col(aes(y = -goals_conceded, fill = "GT"), position = position_dodge(width = 0.7), width = 0.7) +
+  geom_col(aes(y = goals_scored, fill = "T"), position = position_dodge(width = 0.8), width = 0.8) +
+  geom_col(aes(y = -goals_conceded, fill = "GT"), position = position_dodge(width = 0.8), width = 0.8) +
   labs(
     title = paste(selected_team2),
     x = "Minute Interval",
@@ -1493,7 +1607,7 @@ ggplot(interval_data, aes(x = interval_label)) +
     fill = "Legende"
   ) +
   scale_x_discrete(limits = interval_labels) +  # Ensure all intervals from 5min to 90min are shown
-  ylim(-6, 6) +                               # Set y-axis limits from -10 to 10
+  ylim(-8, 8) +                               # Set y-axis limits from -10 to 10
   #scale_y_continuous(labels = abs) +            # Display absolute values on y-axis
   scale_fill_manual(values = c("GT" = "red","T" = "lightblue")) +
   theme_minimal() +
@@ -1705,15 +1819,13 @@ tore_gegentore %>%
   </p>
 </div>
 
-<button class="accordion">
-<h2 id="Spielerstatistik">Spielerstatistik</h2>
-</button>
+<button class="accordion" id="Spielerstatistik">Spielerstatistik</button>
 <div class="panel">
   <p>
-<button class="tablink" onclick="openStat('Score', this, 'red')" id="defaultOpen">Score</button>
-<button class="tablink" onclick="openStat('Torschützen', this, 'green')">Torschützen</button>
-<button class="tablink" onclick="openStat('Assists', this, 'blue')">Assists</button>
-<button class="tablink" onclick="openStat('Scorerpoints', this, 'orange')">Scorerpoints</button>
+<button class="tablink" onclick="openStat('Score', this, 'black')" id="defaultOpen">Score</button>
+<button class="tablink" onclick="openStat('Torschützen', this, 'black')">Torschützen</button>
+<button class="tablink" onclick="openStat('Assists', this, 'black')">Assists</button>
+<button class="tablink" onclick="openStat('Scorerpoints', this, 'black')">Scorerpoints</button>
 
 <div id="Score" class="tabcontent">
   <h4>Score</h4>
@@ -1725,7 +1837,8 @@ team_name <- Gegner  # Replace "Your Team Name" with the actual team variable
 # Filter, sort, and select the top 5 players by weighted score
 best_players <- player_data %>%
   filter(Team == team_name) %>%                     # Filter by the specified team
-  arrange(desc(weighted_score)) %>%                   # Sort by Scorerpoints in decreasing order
+  arrange(desc(weighted_score)) %>% 
+  filter(Spiele / total_games >= 0.25) %>%
   slice_head(n = 5)                                 # Select only the top 5 players
 
 # Add a Rank column to the top_scorers data frame
@@ -1752,7 +1865,7 @@ formatted_top_scorers <- formattable(
 # Display the formattable output
 #formatted_top_scorers
 
-colnames(formatted_top_scorers)[colnames(formatted_top_scorers) %in% c("Rank", "Nummer", "Name", "most_position", "Spielzeit","weighted_score")] <- c("Rank", "Nr", "Name", "Pos 1", "Spielzeit","Score") 
+colnames(formatted_top_scorers)[colnames(formatted_top_scorers) %in% c("Rank", "Nummer", "Name", "most_position", "Spielzeit","weighted_score")] <- c("Rank", "Nr", "Name", "Pos", "Spielzeit","Score") 
 
 
 formatted_top_scorers
@@ -1796,10 +1909,13 @@ formatted_top_scorers <- formattable(
       display = "block",
       padding = "5px",
       `border-radius` = "4px",
-      background = ifelse(x == 1, "lightgreen", ifelse(x == 2, "lightgreen", ifelse(x == 3, "lightgreen", "transparent")))
+      background = ifelse(x == 1, "yellow", ifelse(x == 2, "yellow", ifelse(x == 3, "yellow", "transparent"))),
+      color = ifelse(x == 1, "black", ifelse(x == 2, "black", ifelse(x == 3, "black", "white")))
     ))
   )
 )
+
+colnames(formatted_top_scorers)[colnames(formatted_top_scorers) %in% c("Rank", "Nummer", "Name", "most_position", "Spiele","Tore")] <- c("Rank", "Nr", "Name", "Pos", "Spiele","Tore") 
 
 # Display the formattable output
 formatted_top_scorers
@@ -1836,10 +1952,13 @@ formatted_top_scorers <- formattable(
       display = "block",
       padding = "5px",
       `border-radius` = "4px",
-      background = ifelse(x == 1, "lightgreen", ifelse(x == 2, "lightgreen", ifelse(x == 3, "lightgreen", "transparent")))
+      background = ifelse(x == 1, "yellow", ifelse(x == 2, "yellow", ifelse(x == 3, "yellow", "transparent"))),
+      color = ifelse(x == 1, "black", ifelse(x == 2, "black", ifelse(x == 3, "black", "white")))
     ))
   )
 )
+
+colnames(formatted_top_scorers)[colnames(formatted_top_scorers) %in% c("Rank", "Nummer", "Name", "most_position", "Spiele","Assists")] <- c("Rank", "Nr", "Name", "Pos", "Spiele","Assists") 
 
 # Display the formattable output
 formatted_top_scorers
@@ -1857,7 +1976,8 @@ team_name <- Gegner  # Replace "Your Team Name" with the actual team variable
 
 # Filter, sort, and select the top 5 players by scorerpoints_per_game
 top_scorers <- player_data %>%
-  filter(Team == team_name) %>%                          # Filter by the specified team
+  filter(Team == team_name) %>%
+  filter(Spiele / total_games >= 0.25) %>% # Filter by the specified team
   arrange(desc(scorerpoints_per_game)) %>%               # Sort by Scorerpoints per game in descending order
   slice_head(n = 5)                                      # Select only the top 5 players
 
@@ -1876,10 +1996,22 @@ formatted_top_scorers <- formattable(
       display = "block",
       padding = "5px",
       `border-radius` = "4px",
-      background = ifelse(x == 1, "lightgreen", ifelse(x == 2, "lightgreen", ifelse(x == 3, "lightgreen", "transparent")))
+      background = ifelse(x == 1, "yellow", ifelse(x == 2, "yellow", ifelse(x == 3, "yellow", "transparent"))),
+      color = ifelse(x == 1, "black", ifelse(x == 2, "black", ifelse(x == 3, "black", "white")))
     ))
   )
 )
+
+colnames(formatted_top_scorers) <- colnames(formatted_top_scorers) %>%
+  str_replace_all(c("Rank" = "Rank", 
+                    "Nummer" = "Nr", 
+                    "Name" = "Name",
+                    "scorerpoints_per_game" = "Scorerpoints" , 
+                    "most_positions" = "Pos",
+                    "Spiele" = "Spiele",
+                    "Tore" = "Tore",
+                    "Assists" = "Assists"))
+
 
 # Display the formattable output
 formatted_top_scorers
@@ -1889,6 +2021,121 @@ formatted_top_scorers
 </div>
   </p>
 </div>
+
+<!-- <button class="accordion" id="Player">Player</button> -->
+<!-- <div class="panel"> -->
+<!--   <p> -->
+<!-- ```{R echo = FALSE, results='markup', fig.width = 4, fig.height = 4} -->
+<!-- library(ggplot2) -->
+<!-- library(shiny) -->
+<!-- library(dplyr) -->
+
+<!-- # Wähle relevante Spalten aus -->
+<!-- selected_data <- player_data %>% select(Name, Team, Spiele, weighted_score, playtime_ratio, avg_playtime_per_game, scorerpoints_per_game, best_player_ratio, normalized_points_per_game) -->
+
+<!-- # Filtere nach einem Team (z. B. "Team 1") -->
+<!-- team_data <- selected_data %>% filter(Team == MeinTeam) -->
+
+<!-- # Shiny-App -->
+<!-- ui <- fluidPage( -->
+<!--   titlePanel("Spielerwerte anzeigen"), -->
+
+<!--   tags$style(HTML(" -->
+<!--     body { -->
+<!--       background-color: #3b3c41;  -->
+<!--       color: white;  -->
+<!--       font-family: Arial, sans-serif; -->
+<!--     } -->
+<!--     .shiny-input-container { -->
+<!--       color: black; -->
+<!--       font-size: 16px; -->
+<!--     } -->
+<!--     select { -->
+<!--       background-color: #555555;  -->
+<!--       color: white;  -->
+<!--       border: 1px solid #ffffff;  -->
+<!--       border-radius: 5px;  -->
+<!--       padding: 5px; -->
+<!--     } -->
+<!--     h1, h2, h3 { -->
+<!--       color: #ffffff; -->
+<!--     } -->
+<!--     .shiny-plot-output { -->
+<!--       background-color: #f0f0f0;  -->
+<!--       border: 2px solid #555555;  -->
+<!--       padding: 10px; -->
+<!--     } -->
+<!--   ")), -->
+
+<!--   sidebarLayout( -->
+<!--     sidebarPanel( -->
+<!--       selectInput( -->
+<!--         "player",  -->
+<!--         "Wähle einen Spieler:",  -->
+<!--         choices = team_data$Name -->
+<!--       ) -->
+<!--     ), -->
+<!--     mainPanel( -->
+<!--        plotOutput("chart1", height = "150px", width = "100%"), -->
+<!--        plotOutput("chart2", height = "150px", width = "100%"), -->
+<!--        plotOutput("chart3", height = "150px", width = "100%"), -->
+<!--        plotOutput("chart4", height = "150px", width = "100%"), -->
+<!--        plotOutput("chart5", height = "150px", width = "100%") -->
+<!--     ) -->
+<!--   ) -->
+<!-- ) -->
+
+<!-- server <- function(input, output) { -->
+<!--   create_bar_chart <- function(category, value, player_name) { -->
+<!--     data <- data.frame( -->
+<!--       Kategorie = category, -->
+<!--       Wert = value -->
+<!--     ) -->
+<!--     ggplot(data, aes(x = Wert, y = Kategorie, fill = Kategorie)) + -->
+<!--       geom_bar(stat = "identity",width = 0.15) + -->
+<!--       scale_fill_manual(values = c("yellow")) + -->
+<!--       scale_x_continuous(limits = c(0, 1)) +   -->
+<!--       labs( -->
+<!--         title = paste("Statistik:", category, "für", player_name) -->
+<!--       ) + -->
+<!--       theme_minimal(base_size = 14) + -->
+<!--       theme( -->
+<!--         plot.background = element_rect(fill = "black", color = "white"), -->
+<!--         panel.grid.major = element_line(color = "#cccccc"), -->
+<!--         axis.text.x = element_text(angle = 0, hjust = 1, color = "white"), -->
+<!--         axis.text.y = element_text(angle = 90, color = "white"), -->
+<!--         legend.position = "none" -->
+<!--       ) -->
+<!--   } -->
+
+<!--   output$chart1 <- renderPlot({ -->
+<!--     player_stats <- team_data %>% filter(Name == input$player) -->
+<!--     create_bar_chart("Score", player_stats$weighted_score, input$player) -->
+<!--   }) -->
+<!--   output$chart2 <- renderPlot({ -->
+<!--     player_stats <- team_data %>% filter(Name == input$player) -->
+<!--     create_bar_chart("Spielzeit", player_stats$playtime_ratio, input$player) -->
+<!--   }) -->
+<!--   output$chart3 <- renderPlot({ -->
+<!--     player_stats <- team_data %>% filter(Name == input$player) -->
+<!--     create_bar_chart("Spielzeit pro Spiel", player_stats$avg_playtime_per_game, input$player) -->
+<!--   }) -->
+<!--   output$chart4 <- renderPlot({ -->
+<!--     player_stats <- team_data %>% filter(Name == input$player) -->
+<!--     create_bar_chart("Beste Spieler", player_stats$best_player_ratio, input$player) -->
+<!--   }) -->
+<!--   output$chart5 <- renderPlot({ -->
+<!--     player_stats <- team_data %>% filter(Name == input$player) -->
+<!--     create_bar_chart("Punkte pro Spiel", player_stats$normalized_points_per_game, input$player) -->
+<!--   }) -->
+<!-- } -->
+
+<!-- shinyApp(ui, server) -->
+
+<!-- ``` -->
+<!--   </p> -->
+<!-- </div> -->
+
 <script>
 
 var acc = document.getElementsByClassName("accordion");
