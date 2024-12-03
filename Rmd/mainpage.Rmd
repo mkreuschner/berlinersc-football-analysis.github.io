@@ -134,6 +134,7 @@ output: html_document
       <option value="BSC.html" data-logo="https://static.wixstatic.com/media/be6373_7f8853ce2bbd4dfd97b51eece71d32a6~mv2.png/v1/fill/w_380,h_380,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo_Berlinersportclub_Vektor.png">Berliner SC</option>
       <option value="Rudow.html" data-logo="https://github.com/mkreuschner/berlinersc-football-analysis.github.io/tree/main/images/TSVRudow.png">TSV Rudow Berlin</option>
       <option value="SternBritz.html" data-logo="https://github.com/mkreuschner/berlinersc-football-analysis.github.io/tree/main/images/SternBritz.png">Stern Britz</option>
+      <option value="BeroStralau.html" data-logo="https://github.com/mkreuschner/berlinersc-football-analysis.github.io/tree/main/images/SternBritz.png">Berolina Stralau</option>
   </select>
   <br>
   <!-- Logo placeholder -->

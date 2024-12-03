@@ -262,8 +262,8 @@ library("kableExtra")
 
 ```{r include=FALSE}
 # Define the URL of the csv.gz file and the destination file path
-matchday_data <- read_csv("/Users/mkreuschnervsp/Desktop/BSC/Spieltag12.csv")
-player_data <- read.table("/Users/mkreuschnervsp/Desktop/BSC/fupa2425_player_data_12.csv", sep=",", header=TRUE, stringsAsFactors = FALSE, fileEncoding = "UTF-8")
+matchday_data <- read_csv("/Users/mkreuschnervsp/Desktop/BSC/Spieltag13.csv")
+player_data <- read.table("/Users/mkreuschnervsp/Desktop/BSC/fupa2425_player_data_13.csv", sep=",", header=TRUE, stringsAsFactors = FALSE, fileEncoding = "UTF-8")
 player_number <- read.csv("/Users/mkreuschnervsp/Desktop/BSC/player_number.csv")  # Replace with your CSV file path
 max_matchday <- max(matchday_data$matchday)  # Calculate max matchday
 # Calculate the new columns and add them to the player data
@@ -697,7 +697,7 @@ league_table <- create_league_table(data)
 ```{r, echo = FALSE, results='markup'}
 
 MeinTeam <- "Berliner SC II"
-Gegner <- "SV Stern Britz 1889"
+Gegner <- "FSV Berolina Stralau 1901"
 
 print(paste0(MeinTeam," vs. ",Gegner))
 today_date <- Sys.Date()
@@ -710,31 +710,31 @@ format(Sys.Date(), "%d-%m-%Y")  # Output as DD-MM-YYYY
   <table>
   <tr>
     <td>Generell</td>
-    <td>Stern Britz ist defensiv sehr anfällig, hat sich aber in den letzten Spielen stabilisiert</td>
+    <td>Stralau ist offensiv nicht sehr gut, und defensiv noch schlechter. Aber haben eine ausgeglichene Bilanz auswärts - alle 3 Siege auswärts.Gewonnen gg Viki, aber verloren gg Meteor und Preussen. Nicht unterschätzen, aber schlagbar</td>
   </tr>
   <tr>
     <td>Platz</td>
-    <td>größerer KuRa. Sie sind heimstark. Alle drei Siege haben sie zu Hause geholt</td>
+    <td>zu Hause. Sie sind auf kleinem KuRa schlecht (siehe Bilanz)</td>
   </tr>
   <tr>
     <td>Formation</td>
-    <td>wahrscheinlich: 4-2-3-1 (siehe unten)</td>
+    <td>wahrscheinlich: 3-4-3 (sehr wahrscheinlich)</td>
   </tr>
   <tr>
     <td>Abwehr</td>
-    <td>vermutlich mit 4er Kette</td>
+    <td>über 90% Wahrscheinlichkeit mit 3er Kette!</td>
   </tr>
   <tr>
     <td>Unterschiedsspieler</td>
-    <td>keine</td>
+    <td>Stier (ST) und Reuter (ZM). Die drei IVs in 3er Kette sind stabil</td>
   </tr>
   <tr>
     <td>def Standards</td>
-    <td>bekommen viele Gegentore auch durch Verteidiger, schwach vermutlich</td>
+    <td>sind anfällig bei gegnerischen Standards</td>
   </tr>
   <tr>
     <td>off Standards</td>
-    <td>meiste Tore über Offensive Spieler</td>
+    <td>nicht zwingend gefährlich bei eigenen</td>
   </tr>
   </table>
   </p>
