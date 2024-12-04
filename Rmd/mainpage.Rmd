@@ -124,6 +124,43 @@ output: html_document
             overflow: hidden;
             transition: max-height 0.2s ease-out;
         }
+        
+/* Style tab links */
+.tablink {
+  background-color: #555;
+  color: white;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 1rem 1rem;
+  font-size: 1.7rem;
+  width: 25%;
+}
+
+.tablink:hover {
+  background-color: #777;
+}
+
+/* Style the tab content (and add height:100% for full page content) */
+.tabcontent {
+  color: white;
+  display: none;
+  padding: 100px 20px;
+  height: 100%;
+}
+
+#Gesamt {background-color: black;}
+#Heim {background-color:  black;}
+#Auswärts {background-color:  black;}
+#Form {background-color:  black;}
+
+.table-hover > tbody > tr:hover { 
+  background-color: #fff300;
+  color:#000000;
+}
+
+
 </style>
 <body>
   <h1>Data Analysis</h1>
@@ -162,8 +199,8 @@ matchday_data <- read_csv("/Users/mkreuschnervsp/Desktop/BSC/Spieltag11.csv")
 ```
 ```{r include=FALSE}
 # Define the URL of the csv.gz file and the destination file path
-matchday_data <- read_csv("/Users/mkreuschnervsp/Desktop/BSC/Spieltag12.csv")
-player_data <- read.table("/Users/mkreuschnervsp/Desktop/BSC/fupa2425_player_data_12.csv", sep=",", header=TRUE, stringsAsFactors = FALSE, fileEncoding = "UTF-8")
+matchday_data <- read_csv("/Users/mkreuschnervsp/Desktop/BSC/Spieltag13.csv")
+player_data <- read.table("/Users/mkreuschnervsp/Desktop/BSC/fupa2425_player_data_13.csv", sep=",", header=TRUE, stringsAsFactors = FALSE, fileEncoding = "UTF-8")
 player_number <- read.csv("/Users/mkreuschnervsp/Desktop/BSC/player_number.csv")  # Replace with your CSV file path
 max_matchday <- max(matchday_data$matchday)  # Calculate max matchday
 # Calculate the new columns and add them to the player data
@@ -592,8 +629,7 @@ league_table <- create_league_table(data)
 ```
 ```{r, echo = FALSE, results='markup'}
 
-MeinTeam <- "Berliner SC II"
-Gegner <- "SV Stern Britz 1889"
+
 
 ```
 <br>
@@ -601,6 +637,11 @@ Gegner <- "SV Stern Britz 1889"
 <div class="panel">
   <p>
 ```{R echo = FALSE, results='markup'}
+
+MeinTeam <- "BSC"
+Gegner <- "STR"
+
+
 # Display the second-to-last nine rows with only the first five columns
 display_second_last_nine <- function(matchday_data) {
   # Calculate the index range for the second-to-last nine rows
@@ -660,13 +701,39 @@ colnames(formatted_games)[colnames(formatted_games) %in% c("matchday", "team", "
    ,TRUE ~ formatted_games$"Team 2"))
 
 
-formatted_games
-#  # Display the formatted table without row indices
-# formatted_games %>%
-#   kbl(align = c("c", "l", "l","c", "c")) %>%
-#   kable_material_dark("hover", full_width = T,bootstrap_options = c("striped", "hover", "responsive")) %>%
-#   kable_styling(font_size = 15, position = "center") 
- 
+#formatted_games
+
+# # Formatierte Tabelle mit Hintergrundfarbe für bestimmte Teams
+# formatted_games <- formatted_games %>%
+#   mutate(
+#     "Team 1" = cell_spec("Team 1", 
+#                       color = case_when(
+#                        "Team 1" == "BSC" ~ "black",   # Hintergrundfarbe für "BSC"
+#                        "Team 1" == "STR" ~ "black",   # Hintergrundfarbe für "STR"
+#                        TRUE ~ "white"            # Keine Hintergrundfarbe sonst
+#                      ),                                         
+#                      background = case_when(
+#                        "Team 1" == "BSC" ~ "yellow",   # Hintergrundfarbe für "BSC"
+#                        "Team 1" == "STR" ~ "yellow",   # Hintergrundfarbe für "STR"
+#                        TRUE ~ "transparent"            # Keine Hintergrundfarbe sonst
+#                      ))
+#   )
+
+# Spaltennamen korrekt ersetzen
+colnames(formatted_games) <- colnames(formatted_games) %>%
+  str_replace_all(c("Spieltag" = "Spieltag",
+                    "H" = "" ,
+                    "A" = "", 
+                    "Team 1" = "Heim", 
+                    "Team 2" = "Auswärts"
+                    ))
+
+# Anzeige der Tabelle mit KableExtra
+formatted_games %>%
+  kbl(align = "c", escape = FALSE) %>% # Escape auf FALSE setzen, um HTML zu rendern
+  kable_styling(full_width = FALSE, bootstrap_options = c("hover", "responsive")) %>%
+  row_spec(0, bold = TRUE, background = "#232323") 
+
 
 
 ```
@@ -675,72 +742,520 @@ formatted_games
 <button class="accordion"> Tabelle </button>
 <div class="panel">
   <p>
+    <button class="tablink" onclick="openStat('Gesamt', this, 'black')" id="defaultOpen">Gesamt</button>
+    <button class="tablink" onclick="openStat('Heim', this, 'black')">Heim</button>
+    <button class="tablink" onclick="openStat('Auswärts', this, 'black')">Auswärts</button>
+    <button class="tablink" onclick="openStat('Form', this, 'black')">Form</button>
+  
+<div id="Gesamt" class="tabcontent">
 ```{R echo = FALSE, results='markup'}
 
-league_table_dt <- as.data.table(league_table %>% select(rank, team, S, G, U, V, Dif, Pkt))
-
-# Use formattable to apply color formatting for ranks
-formatted_table <- formattable(league_table_dt %>% select(rank, team, S, G, U, V, Dif, Pkt),
-                               align = c("c", "l", "c", "c", "c", "c", "c", "c") , 
-                               list(
-  # Entire row color based on rank
-  rank = formatter("span", 
-                   style = x ~ style(
-                     display = "block",
-                     padding = "5px",
-                     `border-radius` = "4px",
-                     background = ifelse(
-                       x == 1, "lightgreen",
-                       ifelse(x == 2, "orange",
-                              ifelse(x >= (nrow(league_table) - 2), "lightsalmon", "transparent"))
-                     ),
-                     color = ifelse(
-                       x == 1, "black",
-                       ifelse(x == 2, "black",
-                              ifelse(x >= (nrow(league_table) - 2), "white",  "white"))
-                     )
-                   )
-  ),
-  team = formatter("span", 
-                 style = x ~ style(
-                   display = "block",
-                   padding = "5px",
-                   `border-radius` = "4px",
-                   background = ifelse(
-                     x == MeinTeam, "yellow",
-                     ifelse(x == Gegner, "yellow",  "transparent")
-                   ),
-                   color = ifelse(
-                     x == MeinTeam, "black",   # Set text color for MeinTeam
-                     ifelse(x == Gegner, "black", "white")  # Set text color for Gegner and others
-                   )
-                 )
-  )
-))
+league_table_all <- as.data.table(league_table %>% select(rank, team, S, G, U, V, Dif, Pkt))
 
 # Display the formatted table without row indices
-formatted_table <- formatted_table %>%
+formatted_table_all <- league_table_all  %>%
    mutate(team = case_when(
-     formatted_table$team == "BFC Meteor 06" ~ "MET",
-     formatted_table$team == "TSV Rudow Berlin" ~ "RUD",
-     formatted_table$team == "BSV Eintracht Mahlsdorf II" ~ "MAH",
-     formatted_table$team == "BFC Preussen II" ~ "PRE",
-     formatted_table$team == "SC Borsigwalde 1910" ~ "BOR",
-     formatted_table$team == "FC Internationale Berlin 1980" ~ "INT",
-     formatted_table$team == "Berliner SV 1892" ~ "BSV",
-     formatted_table$team == "Berliner SC II" ~ "BSC",
-     formatted_table$team == "Türkiyemspor Berlin" ~ "TUR",    
-     formatted_table$team == "BSV Al-Dersimspor" ~ "ALD",
-     formatted_table$team == "FC Viktoria 1889 Berlin II" ~ "VIK",
-     formatted_table$team == "FSV Berolina Stralau 1901" ~ "STR",
-     formatted_table$team == "Köpenicker FC" ~ "KOP",
-     formatted_table$team == "SV Stern Britz 1889" ~ "BRI",
-     formatted_table$team == "SV Empor Berlin II" ~ "EMP",
-     formatted_table$team == "VfB Concordia Britz 1916" ~ "CON",TRUE ~ formatted_table$team))
+     league_table_all $team == "BFC Meteor 06" ~ "MET",
+     league_table_all $team == "TSV Rudow Berlin" ~ "RUD",
+     league_table_all $team == "BSV Eintracht Mahlsdorf II" ~ "MAH",
+     league_table_all $team == "BFC Preussen II" ~ "PRE",
+     league_table_all $team == "SC Borsigwalde 1910" ~ "BOR",
+     league_table_all $team == "FC Internationale Berlin 1980" ~ "INT",
+     league_table_all $team == "Berliner SV 1892" ~ "BSV",
+     league_table_all $team == "Berliner SC II" ~ "BSC",
+     league_table_all $team == "Türkiyemspor Berlin" ~ "TUR",    
+     league_table_all $team == "BSV Al-Dersimspor" ~ "ALD",
+     league_table_all $team == "FC Viktoria 1889 Berlin II" ~ "VIK",
+     league_table_all $team == "FSV Berolina Stralau 1901" ~ "STR",
+     league_table_all $team == "Köpenicker FC" ~ "KOP",
+     league_table_all $team == "SV Stern Britz 1889" ~ "BRI",
+     league_table_all $team == "SV Empor Berlin II" ~ "EMP",
+     league_table_all $team == "VfB Concordia Britz 1916" ~ "CON",TRUE ~ league_table_all $team))
 
-formatted_table
+# Formatierte Tabelle mit Hintergrundfarbe für bestimmte Teams
+colored_table_all <- formatted_table_all %>%
+  mutate(
+    rank = cell_spec(rank, 
+                      color = case_when(
+                       rank == 1 ~ "white",   # Hintergrundfarbe für "BSC"
+                       rank == 2 ~ "white",   # Hintergrundfarbe für "STR"
+                       rank == 14 ~ "white",   # Hintergrundfarbe für "STR"
+                       rank == 15 ~ "white",   # Hintergrundfarbe für "STR"
+                       rank == 16 ~ "white",   # Hintergrundfarbe für "STR"
+                       TRUE ~ "white"            # Keine Hintergrundfarbe sonst
+                     ),                                         
+                     background = case_when(
+                       rank == 1 ~ "green",   # Hintergrundfarbe für "BSC"
+                       rank == 2 ~ "orange",   # Hintergrundfarbe für "STR"
+                       rank == 14 ~ "red",   # Hintergrundfarbe für "STR"
+                       rank == 15 ~ "red",   # Hintergrundfarbe für "STR"
+                       rank == 16 ~ "red",   # Hintergrundfarbe für "STR"
+                       TRUE ~ "transparent"            # Keine Hintergrundfarbe sonst
+                     )),
+    team = cell_spec(team, 
+                      color = case_when(
+                       team == "BSC" ~ "black",   # Hintergrundfarbe für "BSC"
+                       team == "STR" ~ "black",   # Hintergrundfarbe für "STR"
+                       TRUE ~ "white"            # Keine Hintergrundfarbe sonst
+                     ),                                         
+                     background = case_when(
+                       team == "BSC" ~ "yellow",   # Hintergrundfarbe für "BSC"
+                       team == "STR" ~ "yellow",   # Hintergrundfarbe für "STR"
+                       TRUE ~ "transparent"            # Keine Hintergrundfarbe sonst
+                     ))
+  )
+
+# Spaltennamen korrekt ersetzen
+colnames(colored_table_all) <- colnames(colored_table_all) %>%
+  str_replace_all(c("rank" = "", 
+                    "team" = "Team", 
+                    "S" = "S",
+                    "G" = "G" ,
+                    "U" = "U" , 
+                    "V" = "V" , 
+                    "Dif" = "Dif" , 
+                    "Pkt" = "Pkt"))
+
+# Anzeige der Tabelle mit KableExtra
+colored_table_all %>%
+  kbl(align = "c", escape = FALSE) %>% # Escape auf FALSE setzen, um HTML zu rendern
+  kable_styling(full_width = FALSE, bootstrap_options = c("hover", "responsive")) %>%
+  row_spec(0, bold = TRUE, background = "#232323")
+
+
 
 ```
+</div>
+
+<div id="Heim" class="tabcontent">
+```{R echo = FALSE, results='markup'}
+
+# Function to create a league table for home games only
+create_home_league_table <- function(matchday_data) {
+  
+  # Filter to include only home games
+  home_games <- matchday_data %>% filter(where == "home")
+  
+  # Extract unique teams
+  teams <- unique(home_games$team)
+  
+  # Initialize the league table
+  home_league_table <- data.frame(
+    team = teams,
+    S = 0,         # Total games
+    G = 0,          # Wins
+    U = 0,  # Draws
+    V = 0,    # Losses
+    T = 0,           # Goals scored
+    GT = 0,      # Goals conceded
+    Dif = 0,      # Goal difference
+    Pkt = 0,         # Points
+    stringsAsFactors = FALSE
+  )
+  
+  # Process each team's home games
+  for (team in teams) {
+    # Filter home games for the team
+    team_games <- home_games %>% filter(team == !!team)
+    
+    # Update stats
+    total_games <- nrow(team_games)
+    wins <- sum(team_games$goals_s > team_games$goals_c)
+    draws <- sum(team_games$goals_s == team_games$goals_c)
+    losses <- sum(team_games$goals_s < team_games$goals_c)
+    goals_scored <- sum(team_games$goals_s)
+    goals_conceded <- sum(team_games$goals_c)
+    points <- (wins * 3) + (draws * 1)
+    goal_diff <- goals_scored - goals_conceded
+    
+    # Update the league table
+    home_league_table[home_league_table$team == team, ] <- c(
+      team,
+      total_games,
+      wins,
+      draws,
+      losses,
+      goals_scored,
+      goals_conceded,
+      goal_diff,
+      points
+    )
+  }
+  
+  # Convert numerical columns back to numeric (they're character by default due to data.frame coercion)
+  home_league_table[, 2:9] <- lapply(home_league_table[, 2:9], as.numeric)
+  
+  # Sort the table by Points, Goal Difference, Goals Scored
+  home_league_table <- home_league_table %>%
+    arrange(desc(Pkt), desc(Dif), desc(T)) %>%
+    mutate(Rank = row_number()) %>%
+    relocate(Rank, .before = team)  # Add Rank column as the first column
+  
+  return(home_league_table)
+}
+
+# Generate the home league table
+home_league_table <- create_home_league_table(matchday_data)
+
+# Display the table
+library(kableExtra)
+library(formattable)
+
+MeinTeam <- "BSC"
+Gegner <- "STR"
+
+# Display the formatted table without row indices
+formatted_table <- home_league_table  %>%
+   mutate(team = case_when(
+     home_league_table $team == "BFC Meteor 06" ~ "MET",
+     home_league_table $team == "TSV Rudow Berlin" ~ "RUD",
+     home_league_table $team == "BSV Eintracht Mahlsdorf II" ~ "MAH",
+     home_league_table $team == "BFC Preussen II" ~ "PRE",
+     home_league_table $team == "SC Borsigwalde 1910" ~ "BOR",
+     home_league_table $team == "FC Internationale Berlin 1980" ~ "INT",
+     home_league_table $team == "Berliner SV 1892" ~ "BSV",
+     home_league_table $team == "Berliner SC II" ~ "BSC",
+     home_league_table $team == "Türkiyemspor Berlin" ~ "TUR",    
+     home_league_table $team == "BSV Al-Dersimspor" ~ "ALD",
+     home_league_table $team == "FC Viktoria 1889 Berlin II" ~ "VIK",
+     home_league_table $team == "FSV Berolina Stralau 1901" ~ "STR",
+     home_league_table $team == "Köpenicker FC" ~ "KOP",
+     home_league_table $team == "SV Stern Britz 1889" ~ "BRI",
+     home_league_table $team == "SV Empor Berlin II" ~ "EMP",
+     home_league_table $team == "VfB Concordia Britz 1916" ~ "CON",TRUE ~ home_league_table $team))
+
+# Formatierte Tabelle mit Hintergrundfarbe für bestimmte Teams
+colored_table <- formatted_table %>%
+  select(Rank, team, S, G, U, V, Dif, Pkt) %>% 
+  mutate(
+    Rank = cell_spec(Rank, 
+                      color = case_when(
+                       Rank == 1 ~ "white",   # Hintergrundfarbe für "BSC"
+                       Rank == 2 ~ "white",   # Hintergrundfarbe für "STR"
+                       Rank == 14 ~ "white",   # Hintergrundfarbe für "STR"
+                       Rank == 15 ~ "white",   # Hintergrundfarbe für "STR"
+                       Rank == 16 ~ "white",   # Hintergrundfarbe für "STR"
+                       TRUE ~ "white"            # Keine Hintergrundfarbe sonst
+                     ),                                         
+                     background = case_when(
+                       Rank == 1 ~ "green",   # Hintergrundfarbe für "BSC"
+                       Rank == 2 ~ "orange",   # Hintergrundfarbe für "STR"
+                       Rank == 14 ~ "red",   # Hintergrundfarbe für "STR"
+                       Rank == 15 ~ "red",   # Hintergrundfarbe für "STR"
+                       Rank == 16 ~ "red",   # Hintergrundfarbe für "STR"
+                       TRUE ~ "transparent"            # Keine Hintergrundfarbe sonst
+                     )),
+    team = cell_spec(team, 
+                      color = case_when(
+                       team == "BSC" ~ "black",   # Hintergrundfarbe für "BSC"
+                       team == "STR" ~ "black",   # Hintergrundfarbe für "STR"
+                       TRUE ~ "white"            # Keine Hintergrundfarbe sonst
+                     ),                                         
+                     background = case_when(
+                       team == "BSC" ~ "yellow",   # Hintergrundfarbe für "BSC"
+                       team == "STR" ~ "yellow",   # Hintergrundfarbe für "STR"
+                       TRUE ~ "transparent"            # Keine Hintergrundfarbe sonst
+                     ))
+  )
+
+
+# Spaltennamen korrekt ersetzen
+colnames(colored_table) <- colnames(colored_table) %>%
+  str_replace_all(c("Rank" = "", 
+                    "team" = "Team", 
+                    "S" = "S",
+                    "G" = "G" ,
+                    "U" = "U" , 
+                    "V" = "V" , 
+                    "Dif" = "Dif" , 
+                    "Pkt" = "Pkt"))
+
+# Anzeige der Tabelle mit KableExtra
+colored_table %>%
+  kbl(align = "c", escape = FALSE) %>% # Escape auf FALSE setzen, um HTML zu rendern
+  kable_styling(full_width = FALSE, bootstrap_options = c("hover", "responsive")) %>%
+  row_spec(0, bold = TRUE, background = "#232323")
+
+
+
+```
+</div>
+
+<div id="Auswärts" class="tabcontent">
+```{R echo = FALSE, results='markup'}
+
+# Function to create a league table for home games only
+create_away_league_table <- function(matchday_data) {
+  
+  # Filter to include only home games
+  away_games <- matchday_data %>% filter(where == "away")
+  
+  # Extract unique teams
+  teams <- unique(away_games$team)
+  
+  # Initialize the league table
+  away_league_table <- data.frame(
+    team = teams,
+    S = 0,         # Total games
+    G = 0,          # Wins
+    U = 0,  # Draws
+    V = 0,    # Losses
+    T = 0,           # Goals scored
+    GT = 0,      # Goals conceded
+    Dif = 0,      # Goal difference
+    Pkt = 0,         # Points
+    stringsAsFactors = FALSE
+  )
+  
+  # Process each team's home games
+  for (team in teams) {
+    # Filter home games for the team
+    team_games <- away_games %>% filter(team == !!team)
+    
+    # Update stats
+    total_games <- nrow(team_games)
+    wins <- sum(team_games$goals_s > team_games$goals_c)
+    draws <- sum(team_games$goals_s == team_games$goals_c)
+    losses <- sum(team_games$goals_s < team_games$goals_c)
+    goals_scored <- sum(team_games$goals_s)
+    goals_conceded <- sum(team_games$goals_c)
+    points <- (wins * 3) + (draws * 1)
+    goal_diff <- goals_scored - goals_conceded
+    
+    # Update the league table
+    away_league_table[away_league_table$team == team, ] <- c(
+      team,
+      total_games,
+      wins,
+      draws,
+      losses,
+      goals_scored,
+      goals_conceded,
+      goal_diff,
+      points
+    )
+  }
+  
+  # Convert numerical columns back to numeric (they're character by default due to data.frame coercion)
+  away_league_table[, 2:9] <- lapply(away_league_table[, 2:9], as.numeric)
+  
+  # Sort the table by Points, Goal Difference, Goals Scored
+  away_league_table <- away_league_table %>%
+    arrange(desc(Pkt), desc(Dif), desc(T)) %>%
+    mutate(Rank = row_number()) %>%
+    relocate(Rank, .before = team)  # Add Rank column as the first column
+  
+  return(away_league_table)
+}
+
+# Generate the home league table
+away_league_table <- create_away_league_table(matchday_data)
+
+# Display the table
+library(kableExtra)
+library(formattable)
+
+MeinTeam <- "BSC"
+Gegner <- "STR"
+
+# Display the formatted table without row indices
+formatted_table_away <- away_league_table  %>%
+   mutate(team = case_when(
+     away_league_table $team == "BFC Meteor 06" ~ "MET",
+     away_league_table $team == "TSV Rudow Berlin" ~ "RUD",
+     away_league_table $team == "BSV Eintracht Mahlsdorf II" ~ "MAH",
+     away_league_table $team == "BFC Preussen II" ~ "PRE",
+     away_league_table $team == "SC Borsigwalde 1910" ~ "BOR",
+     away_league_table $team == "FC Internationale Berlin 1980" ~ "INT",
+     away_league_table $team == "Berliner SV 1892" ~ "BSV",
+     away_league_table $team == "Berliner SC II" ~ "BSC",
+     away_league_table $team == "Türkiyemspor Berlin" ~ "TUR",    
+     away_league_table $team == "BSV Al-Dersimspor" ~ "ALD",
+     away_league_table $team == "FC Viktoria 1889 Berlin II" ~ "VIK",
+     away_league_table $team == "FSV Berolina Stralau 1901" ~ "STR",
+     away_league_table $team == "Köpenicker FC" ~ "KOP",
+     away_league_table $team == "SV Stern Britz 1889" ~ "BRI",
+     away_league_table $team == "SV Empor Berlin II" ~ "EMP",
+     away_league_table $team == "VfB Concordia Britz 1916" ~ "CON",TRUE ~ away_league_table $team))
+
+# Formatierte Tabelle mit Hintergrundfarbe für bestimmte Teams
+colored_table_away <- formatted_table_away %>%
+  select(Rank, team, S, G, U, V, Dif, Pkt) %>% 
+  mutate(
+    Rank = cell_spec(Rank, 
+                      color = case_when(
+                       Rank == 1 ~ "white",   # Hintergrundfarbe für "BSC"
+                       Rank == 2 ~ "white",   # Hintergrundfarbe für "STR"
+                       Rank == 14 ~ "white",   # Hintergrundfarbe für "STR"
+                       Rank == 15 ~ "white",   # Hintergrundfarbe für "STR"
+                       Rank == 16 ~ "white",   # Hintergrundfarbe für "STR"
+                       TRUE ~ "white"            # Keine Hintergrundfarbe sonst
+                     ),                                         
+                     background = case_when(
+                       Rank == 1 ~ "green",   # Hintergrundfarbe für "BSC"
+                       Rank == 2 ~ "orange",   # Hintergrundfarbe für "STR"
+                       Rank == 14 ~ "red",   # Hintergrundfarbe für "STR"
+                       Rank == 15 ~ "red",   # Hintergrundfarbe für "STR"
+                       Rank == 16 ~ "red",   # Hintergrundfarbe für "STR"
+                       TRUE ~ "transparent"            # Keine Hintergrundfarbe sonst
+                     )),
+    team = cell_spec(team, 
+                      color = case_when(
+                       team == "BSC" ~ "black",   # Hintergrundfarbe für "BSC"
+                       team == "STR" ~ "black",   # Hintergrundfarbe für "STR"
+                       TRUE ~ "white"            # Keine Hintergrundfarbe sonst
+                     ),                                         
+                     background = case_when(
+                       team == "BSC" ~ "yellow",   # Hintergrundfarbe für "BSC"
+                       team == "STR" ~ "yellow",   # Hintergrundfarbe für "STR"
+                       TRUE ~ "transparent"            # Keine Hintergrundfarbe sonst
+                     ))
+  )
+
+# Spaltennamen korrekt ersetzen
+colnames(colored_table_away) <- colnames(colored_table_away) %>%
+  str_replace_all(c("Rank" = "", 
+                    "team" = "Team", 
+                    "S" = "S",
+                    "G" = "G" ,
+                    "U" = "U" , 
+                    "V" = "V" , 
+                    "Dif" = "Dif" , 
+                    "Pkt" = "Pkt"))
+
+
+# Anzeige der Tabelle mit KableExtra
+colored_table_away %>%
+  kbl(align = "c", escape = FALSE) %>% # Escape auf FALSE setzen, um HTML zu rendern
+  kable_styling(full_width = FALSE, bootstrap_options = c("hover", "responsive")) %>%
+  row_spec(0, bold = TRUE, background = "#232323")
+
+```
+</div>
+    
+<div id="Form" class="tabcontent">
+```{R echo = FALSE, results='markup'}
+
+library(dplyr)
+library(formattable)
+library(kableExtra)
+
+# Funktion zur Analyse der letzten fünf Spiele
+analyze_last_five_games <- function(matchday_data, weights = c(0.3, 0.25, 0.2, 0.15, 0.1)) {
+  if (sum(weights) != 1) stop("Die Gewichte müssen zusammen 1 ergeben.")
+  
+  league_table <- matchday_data %>%
+    group_by(team) %>%
+    arrange(team, desc(matchday)) %>%
+    slice_head(n = 5) %>%
+    mutate(
+      result = case_when(
+        goals_s > goals_c ~ "S",
+        goals_s == goals_c ~ "U",
+        goals_s < goals_c ~ "N"
+      ),
+      points = case_when(
+        result == "S" ~ 3,
+        result == "U" ~ 1,
+        result == "N" ~ 0
+      )
+    ) %>%
+    summarise(
+      last_five_results = list(result),
+      average_points = round(sum(points * weights[1:length(points)], na.rm = TRUE), 2),
+      .groups = "drop"
+    ) %>%
+    arrange(desc(average_points)) %>%
+    mutate(rank = row_number())
+  
+  return(league_table)
+}
+
+# League-Tabelle berechnen
+league_table <- analyze_last_five_games(matchday_data)
+
+# Ergebnisse der letzten fünf Spiele in separate Spalten aufteilen
+league_table <- league_table %>%
+  mutate(
+    Game1 = sapply(last_five_results, function(x) x[1]),
+    Game2 = sapply(last_five_results, function(x) x[2]),
+    Game3 = sapply(last_five_results, function(x) x[3]),
+    Game4 = sapply(last_five_results, function(x) x[4]),
+    Game5 = sapply(last_five_results, function(x) x[5])
+  ) %>%
+  select(rank, team, Game1, Game2, Game3, Game4, Game5, average_points)
+
+# Farben für Ergebnisse (grün für S, weiß für U, rot für N)
+format_game_result <- function(result) {
+  if (result == "S") {
+    return(cell_spec(result, color = "white", background = "green", align = "center"))
+  } else if (result == "U") {
+    return(cell_spec(result, color = "black", background = "white", align = "center"))
+  } else if (result == "N") {
+    return(cell_spec(result, color = "white", background = "red", align = "center"))
+  } else {
+    return(result)
+  }
+}
+
+# Ergebnisse formatieren
+league_table <- league_table %>%
+  mutate(
+    Game1 = sapply(Game1, format_game_result),
+    Game2 = sapply(Game2, format_game_result),
+    Game3 = sapply(Game3, format_game_result),
+    Game4 = sapply(Game4, format_game_result),
+    Game5 = sapply(Game5, format_game_result)
+  )
+
+# Use formattable to apply color formatting for ranks
+formatted_form <- formattable(league_table %>% select(rank, team, Game5, Game4, Game3, Game2, Game1, average_points),
+                               align = c("c", "l", "c", "c", "c", "c","c", "c")) 
+
+# League-Tabelle mit hervorgehobenen Ergebnissen
+formatted_form <- formatted_form %>%
+  mutate(
+    team = case_when(
+      team == "BFC Meteor 06" ~ "MET",
+      team == "TSV Rudow Berlin" ~ "RUD",
+      team == "BSV Eintracht Mahlsdorf II" ~ "MAH",
+      team == "BFC Preussen II" ~ "PRE",
+      team == "SC Borsigwalde 1910" ~ "BOR",
+      team == "FC Internationale Berlin 1980" ~ "INT",
+      team == "Berliner SV 1892" ~ "BSV",
+      team == "Berliner SC II" ~ "BSC",
+      team == "Türkiyemspor Berlin" ~ "TUR",
+      team == "BSV Al-Dersimspor" ~ "ALD",
+      team == "FC Viktoria 1889 Berlin II" ~ "VIK",
+      team == "FSV Berolina Stralau 1901" ~ "STR",
+      team == "Köpenicker FC" ~ "KOP",
+      team == "SV Stern Britz 1889" ~ "BRI",
+      team == "SV Empor Berlin II" ~ "EMP",
+      team == "VfB Concordia Britz 1916" ~ "CON",
+      TRUE ~ team
+    )
+  )
+
+# Spaltennamen korrekt ersetzen
+colnames(formatted_form) <- colnames(formatted_form) %>%
+  str_replace_all(c("rank" = "", 
+                    "team" = "Team", 
+                    "Game5" = "G-5",
+                    "Game4" = "G-4" ,
+                    "Game3" = "G-3" , 
+                    "Game2" = "G-2" , 
+                    "Game1" = "G-1" , 
+                    "average_points" = "AVG"))
+
+# Anzeige der Tabelle mit KableExtra
+colored_table_form %>%
+  kbl(align = "c", escape = FALSE) %>% # Escape auf FALSE setzen, um HTML zu rendern
+  kable_styling(full_width = FALSE, bootstrap_options = c("responsive","hover")) %>%
+  row_spec(0, bold = TRUE, background = "#232323")
+
+```
+</div>  
+
   </p>
 </div>
 
@@ -786,4 +1301,27 @@ formatted_table
                 teamLogo.style.display = "none";
             }
         }
+function openStat(Stat, elmnt, color) {
+  // Hide all elements with class="tabcontent" by default */
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+
+  // Remove the background color of all tablinks/buttons
+  tablinks = document.getElementsByClassName("tablink");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].style.backgroundColor = "";
+  }
+
+  // Show the specific tab content
+  document.getElementById(Stat).style.display = "block";
+
+  // Add the specific color to the button used to open the tab content
+  elmnt.style.backgroundColor = color;
+}
+
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
 </script>
