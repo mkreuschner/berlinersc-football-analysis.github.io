@@ -67,28 +67,7 @@ output: html_document
         height: 50px; /* Fixed size for the logo */
         display: none; /* Hidden by default */
     }
-    /* Media Queries for iPhones */
-    @media (max-width: 480px) {
-        h1 {
-            font-size: 1.8rem;
-        }
-        h2 {
-            font-size: 1.0rem;
-        }
-        p {
-            font-size: 1rem;
-        }
-        button, select {
-            font-size: 1.7rem;
-            padding: 8px 16px;
-        }
-        #teamLogo {
-            width: 50px; /* Ensure fixed size remains consistent */
-            height: 50px;
-            display: none; /* Hidden by default */
-        }
-    }
-        .accordion {
+    .accordion {
             border-radius:1rem;
             background-color: yellow;
             color: #3b3c41;
@@ -110,7 +89,7 @@ output: html_document
             color: #3b3c41;
             font-weight: bold;
             float: right;
-            margin-left: 5px;
+            margin-left: 1px;
         }
         .active:after {
             content: "\2212";
@@ -124,42 +103,125 @@ output: html_document
             overflow: hidden;
             transition: max-height 0.2s ease-out;
         }
-        
-/* Style tab links */
-.tablink {
-  background-color: #555;
-  color: white;
-  float: left;
-  border: none;
-  outline: none;
-  cursor: pointer;
-  padding: 1rem 1rem;
-  font-size: 1.7rem;
-  width: 25%;
-}
-
-.tablink:hover {
-  background-color: #777;
-}
-
-/* Style the tab content (and add height:100% for full page content) */
-.tabcontent {
-  color: white;
-  display: none;
-  padding: 100px 20px;
-  height: 100%;
-}
-
-#Gesamt {background-color: black;}
-#Heim {background-color:  black;}
-#Auswärts {background-color:  black;}
-#Form {background-color:  black;}
-
-.table-hover > tbody > tr:hover { 
-  background-color: #fff300;
-  color:#000000;
-}
-
+       /* Style tab links */
+      .tablink {
+            background-color: #555;
+            color: white;
+            float: left;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            padding: 1rem 1rem;
+            font-size: 1.7rem;
+            width: 25%;
+      }
+      .tablink:hover {
+      background-color: #777;
+      }
+      /* Style the tab content (and add height:100% for full page content) */
+      .tabcontent {
+            color: white;
+            display: none;
+            padding: 100px 20px;
+            height: 100%;
+      }
+      #Gesamt {background-color: black;}
+      #Heim {background-color:  black;}
+      #Auswärts {background-color:  black;}
+      #Form {background-color:  black;}
+      .table-hover > tbody > tr:hover { 
+            background-color: #fff300;
+            color:#000000;
+      }
+    /* Media Queries for iPhones */
+    @media (max-width: 480px) {
+        h1 {
+            font-size: 1.8rem;
+        }
+        h2 {
+            font-size: 1.0rem;
+        }
+        p {
+            font-size: 1rem;
+        }
+        button, select {
+            font-size: 1.7rem;
+            padding: 8px 16px;
+        }
+        #teamLogo {
+            width: 50px; /* Ensure fixed size remains consistent */
+            height: 50px;
+            display: none; /* Hidden by default */
+        }
+        .accordion {
+            border-radius:0.3rem;
+            background-color: yellow;
+            color: #3b3c41;
+            cursor: pointer;
+            padding: 0.2rem;
+            width: 100%;
+            border: none;
+            text-align: center;
+            outline: none;
+            font-size: 1.7rem;
+            transition: 0.4s;
+        }
+        .active, .accordion:hover {
+            background-color: black;
+            color: yellow;
+        }
+        .accordion:after {
+            content: '\002B';
+            color: #3b3c41;
+            font-weight: bold;
+            float: right;
+            margin-left: 0.1rem;
+        }
+        .active:after {
+            content: "\2212";
+            color: yellow;
+            font-weight: bold;
+        }
+        .panel {
+            padding: 0rem 0rem;
+            background-color: #3b3c41;
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.2s ease-out;
+        }
+      /* Style tab links */
+      .tablink {
+          background-color: #555;
+          color: white;
+          float: left;
+          border: none;
+          outline: none;
+          cursor: pointer;
+          padding: 0.2rem 0rem 0.2rem 0rem;
+          font-size: 1.2rem;
+          width: 25%;
+      }
+      .tablink:hover {
+        background-color: #777;
+      }
+      /* Style the tab content (and add height:100% for full page content) */
+      .tabcontent {
+        color: white;
+        font-size: 1.0rem;
+        display: none;
+        padding: 0.1rem 0rem 0.1rem 0rem;
+        height: 100%;
+        width: 100%;
+      }
+      #Gesamt {background-color: black;}
+      #Heim {background-color:  black;}
+      #Auswärts {background-color:  black;}
+      #Form {background-color:  black;}
+      .table-hover > tbody > tr:hover { 
+        background-color: #fff300;
+        color:#000000;
+      }
+  }
 
 </style>
 <body>
@@ -701,37 +763,52 @@ colnames(formatted_games)[colnames(formatted_games) %in% c("matchday", "team", "
    ,TRUE ~ formatted_games$"Team 2"))
 
 
-#formatted_games
-
-# # Formatierte Tabelle mit Hintergrundfarbe für bestimmte Teams
-# formatted_games <- formatted_games %>%
-#   mutate(
-#     "Team 1" = cell_spec("Team 1", 
-#                       color = case_when(
-#                        "Team 1" == "BSC" ~ "black",   # Hintergrundfarbe für "BSC"
-#                        "Team 1" == "STR" ~ "black",   # Hintergrundfarbe für "STR"
-#                        TRUE ~ "white"            # Keine Hintergrundfarbe sonst
-#                      ),                                         
-#                      background = case_when(
-#                        "Team 1" == "BSC" ~ "yellow",   # Hintergrundfarbe für "BSC"
-#                        "Team 1" == "STR" ~ "yellow",   # Hintergrundfarbe für "STR"
-#                        TRUE ~ "transparent"            # Keine Hintergrundfarbe sonst
-#                      ))
-#   )
 
 # Spaltennamen korrekt ersetzen
 colnames(formatted_games) <- colnames(formatted_games) %>%
   str_replace_all(c("Spieltag" = "Spieltag",
-                    "H" = "" ,
-                    "A" = "", 
                     "Team 1" = "Heim", 
                     "Team 2" = "Auswärts"
                     ))
 
+formatted_games <- formatted_games %>%
+  mutate(
+    Heim = cell_spec(Heim,
+                      color = case_when(
+                       Heim == "BSC" ~ "black",   # Hintergrundfarbe für "BSC"
+                       Heim == "STR" ~ "black",   # Hintergrundfarbe für "STR"
+                       TRUE ~ "white"            # Keine Hintergrundfarbe sonst
+                     ),
+                     background = case_when(
+                       Heim == "BSC" ~ "yellow",   # Hintergrundfarbe für "BSC"
+                       Heim == "STR" ~ "yellow",   # Hintergrundfarbe für "STR"
+                       TRUE ~ "transparent"            # Keine Hintergrundfarbe sonst
+                     )),
+    Auswärts = cell_spec(Auswärts,
+                      color = case_when(
+                       Auswärts == "BSC" ~ "black",   # Hintergrundfarbe für "BSC"
+                       Auswärts == "STR" ~ "black",   # Hintergrundfarbe für "STR"
+                       TRUE ~ "white"            # Keine Hintergrundfarbe sonst
+                     ),
+                     background = case_when(
+                       Auswärts == "BSC" ~ "yellow",   # Hintergrundfarbe für "BSC"
+                       Auswärts == "STR" ~ "yellow",   # Hintergrundfarbe für "STR"
+                       TRUE ~ "transparent"            # Keine Hintergrundfarbe sonst
+                     ))
+  )
+
+colnames(formatted_games) <- colnames(formatted_games) %>%
+  str_replace_all(c( "H" = "",
+                    "A" = "",
+                    "eim" = "Heim", 
+                    "uswärts" = "Auswärts"
+                    ))
+
+
 # Anzeige der Tabelle mit KableExtra
 formatted_games %>%
   kbl(align = "c", escape = FALSE) %>% # Escape auf FALSE setzen, um HTML zu rendern
-  kable_styling(full_width = FALSE, bootstrap_options = c("hover", "responsive")) %>%
+  kable_styling(full_width = FALSE, bootstrap_options = c("condensed","hover", "responsive")) %>%
   row_spec(0, bold = TRUE, background = "#232323") 
 
 
@@ -819,7 +896,7 @@ colnames(colored_table_all) <- colnames(colored_table_all) %>%
 # Anzeige der Tabelle mit KableExtra
 colored_table_all %>%
   kbl(align = "c", escape = FALSE) %>% # Escape auf FALSE setzen, um HTML zu rendern
-  kable_styling(full_width = FALSE, bootstrap_options = c("hover", "responsive")) %>%
+  kable_styling(full_width = FALSE, bootstrap_options = c("condensed","hover", "responsive")) %>%
   row_spec(0, bold = TRUE, background = "#232323")
 
 
@@ -973,7 +1050,7 @@ colnames(colored_table) <- colnames(colored_table) %>%
 # Anzeige der Tabelle mit KableExtra
 colored_table %>%
   kbl(align = "c", escape = FALSE) %>% # Escape auf FALSE setzen, um HTML zu rendern
-  kable_styling(full_width = FALSE, bootstrap_options = c("hover", "responsive")) %>%
+  kable_styling(full_width = FALSE, bootstrap_options = c("condensed","hover", "responsive")) %>%
   row_spec(0, bold = TRUE, background = "#232323")
 
 
@@ -1127,7 +1204,7 @@ colnames(colored_table_away) <- colnames(colored_table_away) %>%
 # Anzeige der Tabelle mit KableExtra
 colored_table_away %>%
   kbl(align = "c", escape = FALSE) %>% # Escape auf FALSE setzen, um HTML zu rendern
-  kable_styling(full_width = FALSE, bootstrap_options = c("hover", "responsive")) %>%
+  kable_styling(full_width = FALSE, bootstrap_options = c("condensed","hover", "responsive")) %>%
   row_spec(0, bold = TRUE, background = "#232323")
 
 ```
@@ -1136,7 +1213,6 @@ colored_table_away %>%
 <div id="Form" class="tabcontent">
 ```{R echo = FALSE, results='markup'}
 
-library(dplyr)
 library(formattable)
 library(kableExtra)
 
@@ -1237,20 +1313,53 @@ formatted_form <- formatted_form %>%
   )
 
 # Spaltennamen korrekt ersetzen
-colnames(formatted_form) <- colnames(formatted_form) %>%
-  str_replace_all(c("rank" = "", 
+formatted_form <- formatted_form %>%
+    mutate(
+    rank = cell_spec(rank, 
+                      color = case_when(
+                       rank == 1 ~ "white",   # Hintergrundfarbe für "BSC"
+                       rank == 2 ~ "white",   # Hintergrundfarbe für "STR"
+                       rank == 14 ~ "white",   # Hintergrundfarbe für "STR"
+                       rank == 15 ~ "white",   # Hintergrundfarbe für "STR"
+                       rank == 16 ~ "white",   # Hintergrundfarbe für "STR"
+                       TRUE ~ "white"            # Keine Hintergrundfarbe sonst
+                     ),                                         
+                     background = case_when(
+                       rank == 1 ~ "green",   # Hintergrundfarbe für "BSC"
+                       rank == 2 ~ "orange",   # Hintergrundfarbe für "STR"
+                       rank == 14 ~ "red",   # Hintergrundfarbe für "STR"
+                       rank == 15 ~ "red",   # Hintergrundfarbe für "STR"
+                       rank == 16 ~ "red",   # Hintergrundfarbe für "STR"
+                       TRUE ~ "transparent"            # Keine Hintergrundfarbe sonst
+                     )),
+    team = cell_spec(team, 
+                      color = case_when(
+                       team == "BSC" ~ "black",   # Hintergrundfarbe für "BSC"
+                       team == "STR" ~ "black",   # Hintergrundfarbe für "STR"
+                       TRUE ~ "white"            # Keine Hintergrundfarbe sonst
+                     ),                                         
+                     background = case_when(
+                       team == "BSC" ~ "yellow",   # Hintergrundfarbe für "BSC"
+                       team == "STR" ~ "yellow",   # Hintergrundfarbe für "STR"
+                       TRUE ~ "transparent"            # Keine Hintergrundfarbe sonst
+                     ))
+  )
+
+colnames(formatted_form) <- colnames(formatted_form) %>%      
+        str_replace_all(c("rank" = "", 
                     "team" = "Team", 
-                    "Game5" = "G-5",
-                    "Game4" = "G-4" ,
-                    "Game3" = "G-3" , 
-                    "Game2" = "G-2" , 
-                    "Game1" = "G-1" , 
-                    "average_points" = "AVG"))
+                    "Game5" = "5",
+                    "Game4" = "4" ,
+                    "Game3" = "3" , 
+                    "Game2" = "2" , 
+                    "Game1" = "1" , 
+                    "average_points" = "Avg"))
+
 
 # Anzeige der Tabelle mit KableExtra
-colored_table_form %>%
+formatted_form %>%
   kbl(align = "c", escape = FALSE) %>% # Escape auf FALSE setzen, um HTML zu rendern
-  kable_styling(full_width = FALSE, bootstrap_options = c("responsive","hover")) %>%
+  kable_styling(full_width = FALSE, bootstrap_options = c("condensed","responsive","hover")) %>%
   row_spec(0, bold = TRUE, background = "#232323")
 
 ```
