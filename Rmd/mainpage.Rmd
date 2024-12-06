@@ -19,11 +19,10 @@ output: html_document
     h2 {
         font-size: 1.2rem; /* Dynamic font size */
     }
-    p {
-        font-size: 1.2rem; /* Dynamic font size */
-    }
     /* Dropdown menu */
     select {
+        justify-content: center; /* Zentriert horizontal */
+        text-align: center; /* Horizontales Zentrieren */
         border-radius:1rem;
         padding: 1rem;
         font-size: 1.7rem;
@@ -40,7 +39,7 @@ output: html_document
     }
     /* Button */
     button {
-        border-radius:4rem;
+        border-radius:1rem;
         padding: 10px 20px;
         margin-top: 20px;
         font-size: 1.7rem;
@@ -52,6 +51,21 @@ output: html_document
         max-width: 400px; /* Max width for larger screens */
     }
     button:hover {
+        background-color: #555; /* Lighter color on hover */
+    }
+    #Go {
+        border-radius:4rem;
+        padding: 10px 20px;
+        margin-top: 20px;
+        font-size: 1.7rem;
+        background-color: #333; /* Dark button background */
+        color: #fff; /* White text */
+        border: 1px solid #666; /* Gray border */
+        cursor: pointer;
+        width: 25%; /* Full width on smaller devices */
+        max-width: 400px; /* Max width for larger screens */
+    }
+    #Go:hover {
         background-color: #555; /* Lighter color on hover */
     }
     /* Logo */
@@ -91,21 +105,29 @@ output: html_document
             float: right;
             margin-left: 1px;
         }
-        .active:after {
+        accordion.active:after {
             content: "\2212";
             color: yellow;
             font-weight: bold;
         }
         .panel {
+            display: none;
             padding: 0rem 6rem;
             background-color: #3b3c41;
-            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.2s ease-out;
+        }
+        .panel.active {
+            display: block;
+            padding: 0rem 6rem;
+            background-color: #3b3c41;
             overflow: hidden;
             transition: max-height 0.2s ease-out;
         }
        /* Style tab links */
       .tablink {
-            background-color: #555;
+            justify-content: center; 
+            background-color: black;
             color: white;
             float: left;
             border: none;
@@ -113,28 +135,40 @@ output: html_document
             cursor: pointer;
             padding: 1rem 1rem;
             font-size: 1.7rem;
-            width: 25%;
       }
       .tablink:hover {
-      background-color: #777;
+      background-color: yellow;
+      color: black;
       }
       /* Style the tab content (and add height:100% for full page content) */
       .tabcontent {
-            color: white;
             display: none;
-            padding: 100px 20px;
-            height: 100%;
+            background-color: black;
       }
+      .tabcontent.active { 
+                  display: block;
+                  background-color: black;
+                  color: white;
+                  padding: 600rem 40rem;
+                  height: 100%;
+      }
+      .tablink.active { 
+                  color: yellow;
+                  height: 100%;
+                  background-color: black;
+      }
+      #Letzte { background-color: black;}
+      #Nächste {background-color: black;}
       #Gesamt {background-color: black;}
-      #Heim {background-color:  black;}
-      #Auswärts {background-color:  black;}
-      #Form {background-color:  black;}
+      #Heim {background-color: black;}
+      #Auswärts {background-color: black;}
+      #Form {background-color: black;}
       .table-hover > tbody > tr:hover { 
             background-color: #fff300;
             color:#000000;
       }
     /* Media Queries for iPhones */
-    @media (max-width: 480px) {
+    @media (max-width: 460px) {
         h1 {
             font-size: 1.8rem;
         }
@@ -183,7 +217,8 @@ output: html_document
             font-weight: bold;
         }
         .panel {
-            padding: 0rem 0rem;
+            display: none;
+            padding: 0.2rem 0rem 0.2rem 0rem;
             background-color: #3b3c41;
             max-height: 0;
             overflow: hidden;
@@ -191,7 +226,8 @@ output: html_document
         }
       /* Style tab links */
       .tablink {
-          background-color: #555;
+          justify-content: center; 
+          background-color: black;
           color: white;
           float: left;
           border: none;
@@ -199,24 +235,41 @@ output: html_document
           cursor: pointer;
           padding: 0.2rem 0rem 0.2rem 0rem;
           font-size: 1.2rem;
-          width: 25%;
       }
       .tablink:hover {
-        background-color: #777;
+      background-color: yellow;
+      color: black;
       }
       /* Style the tab content (and add height:100% for full page content) */
       .tabcontent {
-        color: white;
-        font-size: 1.0rem;
-        display: none;
-        padding: 0.1rem 0rem 0.1rem 0rem;
-        height: 100%;
-        width: 100%;
+            display: none;
+            background-color: black;
       }
-      #Gesamt {background-color: black;}
-      #Heim {background-color:  black;}
-      #Auswärts {background-color:  black;}
-      #Form {background-color:  black;}
+      .tabcontent.active { 
+                  display: block;
+                  background-color: black;
+                  color: white;
+                  padding: 100px 20px;
+                  color: white;
+                  font-size: 1.0rem;
+                  display: none;
+                  padding: 1rem 0rem 1rem 0rem;
+                  height: 100%;
+                  width: 100%;
+      }
+      .tablink.active { 
+                  display: block;
+                  background-color: black;
+                  color: yellow;
+                  padding: 100px 20px;
+                  height: 100%;
+                  color: white;
+                  font-size: 1.0rem;
+                  display: none;
+                  padding: 1rem 0rem 1rem 0rem;
+                  height: 100%;
+                  width: 100%;
+      }
       .table-hover > tbody > tr:hover { 
         background-color: #fff300;
         color:#000000;
@@ -240,7 +293,8 @@ output: html_document
   <div id="teamLogoContainer">
     <img id="teamLogo" src="" alt="Team Logo" style="display: none; width: 50px; height: 50px;">
   </div>
-  <button onclick="navigateToTeam()">Go</button>
+
+  <button id="Go" onclick="navigateToTeam()">Go</button>
 ```{r setup, include=FALSE}
 # Setzt den Cache auf FALSE für alle Chunks im Dokument
 knitr::opts_chunk$set(cache = FALSE)
@@ -695,9 +749,13 @@ league_table <- create_league_table(data)
 
 ```
 <br>
-<button class="accordion"> Spiele </button>
+<button class="accordion">Spiele</button>
 <div class="panel">
-  <p>
+<br>
+    <button class="tablink spiele" data-tab="Letzte" data-group="spiele" id="defaultSpieleOpen">Letzte</button>
+    <button class="tablink spiele" data-tab="Nächste" data-group="spiele">Nächste</button>
+<br>
+<div id="Letzte" class="tabcontent spiele" style="display: none;">
 ```{R echo = FALSE, results='markup'}
 
 MeinTeam <- "BSC"
@@ -766,7 +824,7 @@ colnames(formatted_games)[colnames(formatted_games) %in% c("matchday", "team", "
 
 # Spaltennamen korrekt ersetzen
 colnames(formatted_games) <- colnames(formatted_games) %>%
-  str_replace_all(c("Spieltag" = "Spieltag",
+  str_replace_all(c("Spieltag" = "Spiel",
                     "Team 1" = "Heim", 
                     "Team 2" = "Auswärts"
                     ))
@@ -777,7 +835,7 @@ formatted_games <- formatted_games %>%
                       color = case_when(
                        Heim == "BSC" ~ "black",   # Hintergrundfarbe für "BSC"
                        Heim == "STR" ~ "black",   # Hintergrundfarbe für "STR"
-                       TRUE ~ "white"            # Keine Hintergrundfarbe sonst
+                       TRUE ~ ""            # Keine Hintergrundfarbe sonst
                      ),
                      background = case_when(
                        Heim == "BSC" ~ "yellow",   # Hintergrundfarbe für "BSC"
@@ -788,7 +846,7 @@ formatted_games <- formatted_games %>%
                       color = case_when(
                        Auswärts == "BSC" ~ "black",   # Hintergrundfarbe für "BSC"
                        Auswärts == "STR" ~ "black",   # Hintergrundfarbe für "STR"
-                       TRUE ~ "white"            # Keine Hintergrundfarbe sonst
+                       TRUE ~ ""            # Keine Hintergrundfarbe sonst
                      ),
                      background = case_when(
                        Auswärts == "BSC" ~ "yellow",   # Hintergrundfarbe für "BSC"
@@ -814,17 +872,124 @@ formatted_games %>%
 
 
 ```
-  </p>
+ </div>
+<div id="Nächste" class="tabcontent spiele" style="display: none;">
+```{R echo = FALSE, results='markup'}
+
+formatted_games <- data.frame(
+  "Spieltag" = 14,
+  "Team1" = c("SV Stern Britz 1889", "BSV Eintracht Mahlsdorf II", "FC Viktoria 1889 Berlin II", "Berliner SC II", "Berliner SV 1892", "FC Internationale Berlin 1980", "Türkiyemspor Berlin", "BSV Al-Dersimspor"),
+  "Team2" = c("SC Borsigwalde 1910", "TSV Rudow Berlin", "SV Empor Berlin II", "FSV Berolina Stralau 1901","BFC Meteor 06", "VfB Concordia Britz 1916", "BFC Preussen II", "Köpenicker FC" ),
+  H = "_",
+  A = "_"
+)
+
+formatted_games <- formattable(formatted_games %>% select("Spieltag", "Team1", "Team2", "H", "A"),
+                               align = c("c", "l", "l", "c", "c") 
+                     )
+
+ formatted_games <- formatted_games %>%
+   mutate("Team1" = case_when(
+     formatted_games$"Team1" == "BFC Meteor 06" ~ "MET",
+     formatted_games$"Team1" == "TSV Rudow Berlin" ~ "RUD",
+     formatted_games$"Team1" == "BSV Eintracht Mahlsdorf II" ~ "MAH",
+     formatted_games$"Team1" == "BFC Preussen II" ~ "PRE",
+     formatted_games$"Team1" == "SC Borsigwalde 1910" ~ "BOR",
+     formatted_games$"Team1" == "FC Internationale Berlin 1980" ~ "INT",
+     formatted_games$"Team1" == "Berliner SV 1892" ~ "BSV",
+     formatted_games$"Team1" == "Berliner SC II" ~ "BSC",
+     formatted_games$"Team1" == "Türkiyemspor Berlin" ~ "TUR",    
+     formatted_games$"Team1" == "BSV Al-Dersimspor" ~ "ALD",
+     formatted_games$"Team1" == "FC Viktoria 1889 Berlin II" ~ "VIK",
+     formatted_games$"Team1" == "FSV Berolina Stralau 1901" ~ "STR",
+     formatted_games$"Team1" == "Köpenicker FC" ~ "KOP",
+     formatted_games$"Team1" == "SV Stern Britz 1889" ~ "BRI",
+     formatted_games$"Team1" == "SV Empor Berlin II" ~ "EMP",
+     formatted_games$"Team1" == "VfB Concordia Britz 1916" ~ "CON",TRUE ~ formatted_games$"Team1"))
+ formatted_games <- formatted_games %>% 
+     mutate("Team2" = case_when(
+     formatted_games$"Team2" == "BFC Meteor 06" ~ "MET",
+     formatted_games$"Team2" == "TSV Rudow Berlin" ~ "RUD",
+     formatted_games$"Team2" == "BSV Eintracht Mahlsdorf II" ~ "MAH",
+     formatted_games$"Team2" == "BFC Preussen II" ~ "PRE",
+     formatted_games$"Team2" == "SC Borsigwalde 1910" ~ "BOR",
+     formatted_games$"Team2" == "FC Internationale Berlin 1980" ~ "INT",
+     formatted_games$"Team2" == "Berliner SV 1892" ~ "BSV",
+     formatted_games$"Team2" == "Berliner SC II" ~ "BSC",
+     formatted_games$"Team2" == "Türkiyemspor Berlin" ~ "TUR",    
+     formatted_games$"Team2" == "BSV Al-Dersimspor" ~ "ALD",
+     formatted_games$"Team2" == "FC Viktoria 1889 Berlin II" ~ "VIK",
+     formatted_games$"Team2" == "FSV Berolina Stralau 1901" ~ "STR",
+     formatted_games$"Team2" == "Köpenicker FC" ~ "KOP",
+     formatted_games$"Team2" == "SV Stern Britz 1889" ~ "BRI",
+     formatted_games$"Team2" == "SV Empor Berlin II" ~ "EMP",
+     formatted_games$"Team2" == "VfB Concordia Britz 1916" ~ "CON"
+   ,TRUE ~ formatted_games$"Team2"))
+
+
+
+# Spaltennamen korrekt ersetzen
+colnames(formatted_games) <- colnames(formatted_games) %>%
+  str_replace_all(c("Spieltag" = "Spiel",
+                    "Team1" = "Heim", 
+                    "Team2" = "Auswärts"
+                    ))
+
+formatted_games <- formatted_games %>%
+  mutate(
+    Heim = cell_spec(Heim,
+                      color = case_when(
+                       Heim == "BSC" ~ "black",   # Hintergrundfarbe für "BSC"
+                       Heim == "STR" ~ "black",   # Hintergrundfarbe für "STR"
+                       TRUE ~ ""            # Keine Hintergrundfarbe sonst
+                     ),
+                     background = case_when(
+                       Heim == "BSC" ~ "yellow",   # Hintergrundfarbe für "BSC"
+                       Heim == "STR" ~ "yellow",   # Hintergrundfarbe für "STR"
+                       TRUE ~ "transparent"            # Keine Hintergrundfarbe sonst
+                     )),
+    Auswärts = cell_spec(Auswärts,
+                      color = case_when(
+                       Auswärts == "BSC" ~ "black",   # Hintergrundfarbe für "BSC"
+                       Auswärts == "STR" ~ "black",   # Hintergrundfarbe für "STR"
+                       TRUE ~ ""            # Keine Hintergrundfarbe sonst
+                     ),
+                     background = case_when(
+                       Auswärts == "BSC" ~ "yellow",   # Hintergrundfarbe für "BSC"
+                       Auswärts == "STR" ~ "yellow",   # Hintergrundfarbe für "STR"
+                       TRUE ~ "transparent"            # Keine Hintergrundfarbe sonst
+                     ))
+  )
+
+colnames(formatted_games) <- colnames(formatted_games) %>%
+  str_replace_all(c( "H" = "",
+                    "A" = "",
+                    "eim" = "Heim", 
+                    "uswärts" = "Auswärts"
+                    ))
+
+
+# Anzeige der Tabelle mit KableExtra
+formatted_games %>%
+  kbl(align = "c", escape = FALSE) %>% # Escape auf FALSE setzen, um HTML zu rendern
+  kable_styling(full_width = FALSE, bootstrap_options = c("condensed","hover", "responsive")) %>%
+  row_spec(0, bold = TRUE, background = "#232323", color = "white") 
+
+
+
+```
 </div>
-<button class="accordion"> Tabelle </button>
+</div>
+
+<button class="accordion">Tabelle</button>
 <div class="panel">
-  <p>
-    <button class="tablink" onclick="openStat('Gesamt', this, 'black')" id="defaultOpen">Gesamt</button>
-    <button class="tablink" onclick="openStat('Heim', this, 'black')">Heim</button>
-    <button class="tablink" onclick="openStat('Auswärts', this, 'black')">Auswärts</button>
-    <button class="tablink" onclick="openStat('Form', this, 'black')">Form</button>
-  
-<div id="Gesamt" class="tabcontent">
+<br>
+    <button class="tablink tabelle" data-tab="Gesamt" data-group="tabelle" id="defaultTabelleOpen">Gesamt</button>
+    <button class="tablink tabelle" data-tab="Heim" data-group="tabelle">Heim</button>
+    <button class="tablink tabelle" data-tab="Auswärts" data-group="tabelle">Auswärts</button>
+    <button class="tablink tabelle" data-tab="Form" data-group="tabelle">Form</button>
+<br> 
+<div id="Gesamt" class="tabcontent tabelle" style="display: none;">
 ```{R echo = FALSE, results='markup'}
 
 league_table_all <- as.data.table(league_table %>% select(rank, team, S, G, U, V, Dif, Pkt))
@@ -903,8 +1068,7 @@ colored_table_all %>%
 
 ```
 </div>
-
-<div id="Heim" class="tabcontent">
+<div id="Heim" class="tabcontent tabelle" style="display: none;">
 ```{R echo = FALSE, results='markup'}
 
 # Function to create a league table for home games only
@@ -1057,8 +1221,7 @@ colored_table %>%
 
 ```
 </div>
-
-<div id="Auswärts" class="tabcontent">
+<div id="Auswärts" class="tabcontent tabelle" style="display: none;">
 ```{R echo = FALSE, results='markup'}
 
 # Function to create a league table for home games only
@@ -1209,8 +1372,7 @@ colored_table_away %>%
 
 ```
 </div>
-    
-<div id="Form" class="tabcontent">
+<div id="Form" class="tabcontent tabelle" style="display: none;">
 ```{R echo = FALSE, results='markup'}
 
 library(formattable)
@@ -1364,30 +1526,25 @@ formatted_form %>%
 
 ```
 </div>  
-
-  </p>
 </div>
-
+<br>
 <img src="https://static.wixstatic.com/media/be6373_7f8853ce2bbd4dfd97b51eece71d32a6~mv2.png/v1/fill/w_380,h_380,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo_Berlinersportclub_Vektor.png" alt="LOGO" style="height:20rem;">
 
-<body>
+
 <script>
-        // Accordion functionality
-        document.addEventListener("DOMContentLoaded", function () {
-            const accordions = document.querySelectorAll(".accordion");
-            accordions.forEach(accordion => {
-                accordion.addEventListener("click", function () {
-                    this.classList.toggle("active");
-                    const panel = this.nextElementSibling;
-                    if (panel.style.maxHeight) {
-                        panel.style.maxHeight = null;
-                    } else {
-                        panel.style.maxHeight = panel.scrollHeight + "px";
-                    }
-                });
+    // Accordion functionality
+    document.addEventListener("DOMContentLoaded", () => {
+        const accordions = document.querySelectorAll(".accordion");
+        accordions.forEach(accordion => {
+            accordion.addEventListener("click", function () {
+                // Toggle active state for the accordion
+                this.classList.toggle("active");
+                // Show or hide the associated panel
+                const panel = this.nextElementSibling;
+                panel.style.display = panel.style.display === "block" ? "none" : "block";
             });
         });
-       // Navigate to team page
+        // Navigate to team page
         function navigateToTeam() {
             const selectedTeam = document.getElementById("teamSelect").value;
             if (selectedTeam) {
@@ -1396,7 +1553,7 @@ formatted_form %>%
                 alert("Bitte wähle ein Team aus!");
             }
         }
-        // Show team logo
+        // Show team logo dynamically
         function showLogo() {
             const teamSelect = document.getElementById("teamSelect");
             const selectedOption = teamSelect.options[teamSelect.selectedIndex];
@@ -1410,27 +1567,39 @@ formatted_form %>%
                 teamLogo.style.display = "none";
             }
         }
-function openStat(Stat, elmnt, color) {
-  // Hide all elements with class="tabcontent" by default */
-  var i, tabcontent, tablinks;
-  tabcontent = document.getElementsByClassName("tabcontent");
-  for (i = 0; i < tabcontent.length; i++) {
-    tabcontent[i].style.display = "none";
-  }
-
-  // Remove the background color of all tablinks/buttons
-  tablinks = document.getElementsByClassName("tablink");
-  for (i = 0; i < tablinks.length; i++) {
-    tablinks[i].style.backgroundColor = "";
-  }
-
-  // Show the specific tab content
-  document.getElementById(Stat).style.display = "block";
-
-  // Add the specific color to the button used to open the tab content
-  elmnt.style.backgroundColor = color;
-}
-
-// Get the element with id="defaultOpen" and click on it
-document.getElementById("defaultOpen").click();
+        // Tab functionality
+        function openTab(event, tabName, tabGroup) {
+            const tablinks = document.querySelectorAll(`.tablink.${tabGroup}`);
+            const tabcontents = document.querySelectorAll(`.tabcontent.${tabGroup}`);
+            // Hide all tabs in the group
+            tabcontents.forEach(content => content.style.display = "none");
+            // Remove active class from all buttons in the group
+            tablinks.forEach(link => link.classList.remove("active"));
+            // Show the clicked tab and set the button to active
+            document.getElementById(tabName).style.display = "block";
+            event.currentTarget.classList.add("active");
+        }
+        // Attach click event listeners to tab buttons
+        document.querySelectorAll('.tablink').forEach(button => {
+            button.addEventListener('click', function (event) {
+                const tabName = this.dataset.tab; // Get the tab name
+                const tabGroup = this.dataset.group; // Get the tab group
+                openTab(event, tabName, tabGroup); // Call openTab with the arguments
+            });
+        });
+        // Set defaults on page load
+        const firstAccordion = document.querySelector(".accordion");
+        if (firstAccordion) {
+            firstAccordion.click(); // Open the first accordion by default
+        }
+        const defaultSpieleTab = document.querySelector("#defaultSpieleOpen");
+        if (defaultSpieleTab) {
+            defaultSpieleTab.click(); // Open the default Spiele tab
+        }
+        const defaultTabelleTab = document.querySelector("#defaultTabelleOpen");
+        if (defaultTabelleTab) {
+            defaultTabelleTab.click(); // Open the default Tabelle tab
+        }
+    });
 </script>
+<body>
