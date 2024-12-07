@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "Analysis"
 output: html_document
 ---
+<!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
 <style>
     /* Global Styles */
     body {
@@ -40,14 +41,13 @@ output: html_document
     /* Button */
     button {
         border-radius:1rem;
-        padding: 10px 20px;
-        margin-top: 20px;
-        font-size: 1.7rem;
+        padding: 1rem 2rem;
+        margin-top: 2rem;
+        font-size: 1.2rem;
         background-color: #333; /* Dark button background */
         color: #fff; /* White text */
         border: 1px solid #666; /* Gray border */
         cursor: pointer;
-        width: 25%; /* Full width on smaller devices */
         max-width: 400px; /* Max width for larger screens */
     }
     button:hover {
@@ -62,7 +62,6 @@ output: html_document
         color: #fff; /* White text */
         border: 1px solid #666; /* Gray border */
         cursor: pointer;
-        width: 25%; /* Full width on smaller devices */
         max-width: 400px; /* Max width for larger screens */
     }
     #Go:hover {
@@ -103,7 +102,7 @@ output: html_document
             color: #3b3c41;
             font-weight: bold;
             float: right;
-            margin-left: 1px;
+            margin-left: 0.3rem;
         }
         accordion.active:after {
             content: "\2212";
@@ -112,14 +111,14 @@ output: html_document
         }
         .panel {
             display: none;
-            padding: 0rem 6rem;
+            padding: 0rem 0rem;
             background-color: #3b3c41;
             overflow: hidden;
             transition: max-height 0.2s ease-out;
         }
         .panel.active {
             display: block;
-            padding: 0rem 6rem;
+            padding: 0rem 0rem;
             background-color: #3b3c41;
             overflow: hidden;
             transition: max-height 0.2s ease-out;
@@ -128,34 +127,44 @@ output: html_document
       .tablink {
             justify-content: center; 
             background-color: black;
+            float:left;
             color: white;
-            float: left;
             border: none;
             outline: none;
             cursor: pointer;
-            padding: 1rem 1rem;
-            font-size: 1.7rem;
+            padding: 0rem 0rem;
+            font-size: 1.2rem;
+      }
+      .tablink.active {
+            font-size: 1.2rem;
+            color: yellow;
+            background-color: black;
       }
       .tablink:hover {
-      background-color: yellow;
-      color: black;
+            background-color: yellow;
+            color: black;
+      }
+      .tablink.spiele{
+            width:50%;
+            font-size: 1.2rem;
+      }
+      .tablink.tabelle{
+            width:25%;
+            font-size: 1.2rem;
       }
       /* Style the tab content (and add height:100% for full page content) */
       .tabcontent {
             display: none;
             background-color: black;
+            font-size: 1rem;
       }
-      .tabcontent.active { 
+      .tabcontent.active {
+                  font-size: 1rem;
                   display: block;
                   background-color: black;
                   color: white;
-                  padding: 600rem 40rem;
-                  height: 100%;
-      }
-      .tablink.active { 
-                  color: yellow;
-                  height: 100%;
-                  background-color: black;
+                  padding: 0rem 0rem;
+                  width: 100%;
       }
       #Letzte { background-color: black;}
       #Nächste {background-color: black;}
@@ -167,115 +176,6 @@ output: html_document
             background-color: #fff300;
             color:#000000;
       }
-    /* Media Queries for iPhones */
-    @media (max-width: 460px) {
-        h1 {
-            font-size: 1.8rem;
-        }
-        h2 {
-            font-size: 1.0rem;
-        }
-        p {
-            font-size: 1rem;
-        }
-        button, select {
-            font-size: 1.7rem;
-            padding: 8px 16px;
-        }
-        #teamLogo {
-            width: 50px; /* Ensure fixed size remains consistent */
-            height: 50px;
-            display: none; /* Hidden by default */
-        }
-        .accordion {
-            border-radius:0.3rem;
-            background-color: yellow;
-            color: #3b3c41;
-            cursor: pointer;
-            padding: 0.2rem;
-            width: 100%;
-            border: none;
-            text-align: center;
-            outline: none;
-            font-size: 1.7rem;
-            transition: 0.4s;
-        }
-        .active, .accordion:hover {
-            background-color: black;
-            color: yellow;
-        }
-        .accordion:after {
-            content: '\002B';
-            color: #3b3c41;
-            font-weight: bold;
-            float: right;
-            margin-left: 0.1rem;
-        }
-        .active:after {
-            content: "\2212";
-            color: yellow;
-            font-weight: bold;
-        }
-        .panel {
-            display: none;
-            padding: 0.2rem 0rem 0.2rem 0rem;
-            background-color: #3b3c41;
-            max-height: 0;
-            overflow: hidden;
-            transition: max-height 0.2s ease-out;
-        }
-      /* Style tab links */
-      .tablink {
-          justify-content: center; 
-          background-color: black;
-          color: white;
-          float: left;
-          border: none;
-          outline: none;
-          cursor: pointer;
-          padding: 0.2rem 0rem 0.2rem 0rem;
-          font-size: 1.2rem;
-      }
-      .tablink:hover {
-      background-color: yellow;
-      color: black;
-      }
-      /* Style the tab content (and add height:100% for full page content) */
-      .tabcontent {
-            display: none;
-            background-color: black;
-      }
-      .tabcontent.active { 
-                  display: block;
-                  background-color: black;
-                  color: white;
-                  padding: 100px 20px;
-                  color: white;
-                  font-size: 1.0rem;
-                  display: none;
-                  padding: 1rem 0rem 1rem 0rem;
-                  height: 100%;
-                  width: 100%;
-      }
-      .tablink.active { 
-                  display: block;
-                  background-color: black;
-                  color: yellow;
-                  padding: 100px 20px;
-                  height: 100%;
-                  color: white;
-                  font-size: 1.0rem;
-                  display: none;
-                  padding: 1rem 0rem 1rem 0rem;
-                  height: 100%;
-                  width: 100%;
-      }
-      .table-hover > tbody > tr:hover { 
-        background-color: #fff300;
-        color:#000000;
-      }
-  }
-
 </style>
 <body>
   <h1>Data Analysis</h1>
@@ -310,7 +210,7 @@ if (!require(formattable)) install.packages("formattable")
 library(formattable)
 library("kableExtra")
 
-matchday_data <- read_csv("/Users/mkreuschnervsp/Desktop/BSC/Spieltag11.csv")
+matchday_data <- read_csv("/Users/mkreuschnervsp/Desktop/BSC/Spieltag13.csv")
 
 ```
 ```{r include=FALSE}
@@ -745,15 +645,13 @@ league_table <- create_league_table(data)
 ```
 ```{r, echo = FALSE, results='markup'}
 
+write_csv(player_data,file = "~/git/berlinersc-football-analysis.github.io/data/player_data.csv")
 
 
 ```
 <br>
 <button class="accordion">Spiele</button>
 <div class="panel">
-<br>
-    <button class="tablink spiele" data-tab="Letzte" data-group="spiele" id="defaultSpieleOpen">Letzte</button>
-    <button class="tablink spiele" data-tab="Nächste" data-group="spiele">Nächste</button>
 <br>
 <div id="Letzte" class="tabcontent spiele" style="display: none;">
 ```{R echo = FALSE, results='markup'}
@@ -979,15 +877,12 @@ formatted_games %>%
 
 ```
 </div>
+<button class="tablink spiele" data-tab="Letzte" data-group="spiele" id="defaultSpieleOpen">Letzte</button>
+<button class="tablink spiele" data-tab="Nächste" data-group="spiele">Nächste</button>
 </div>
 
 <button class="accordion">Tabelle</button>
 <div class="panel">
-<br>
-    <button class="tablink tabelle" data-tab="Gesamt" data-group="tabelle" id="defaultTabelleOpen">Gesamt</button>
-    <button class="tablink tabelle" data-tab="Heim" data-group="tabelle">Heim</button>
-    <button class="tablink tabelle" data-tab="Auswärts" data-group="tabelle">Auswärts</button>
-    <button class="tablink tabelle" data-tab="Form" data-group="tabelle">Form</button>
 <br> 
 <div id="Gesamt" class="tabcontent tabelle" style="display: none;">
 ```{R echo = FALSE, results='markup'}
@@ -1525,7 +1420,11 @@ formatted_form %>%
   row_spec(0, bold = TRUE, background = "#232323")
 
 ```
-</div>  
+</div>
+<button class="tablink tabelle" data-tab="Gesamt" data-group="tabelle" id="defaultTabelleOpen">Gesamt</button>
+<button class="tablink tabelle" data-tab="Heim" data-group="tabelle">Heim</button>
+<button class="tablink tabelle" data-tab="Auswärts" data-group="tabelle">Auswärts</button>
+<button class="tablink tabelle" data-tab="Form" data-group="tabelle">Form</button>
 </div>
 <br>
 <img src="https://static.wixstatic.com/media/be6373_7f8853ce2bbd4dfd97b51eece71d32a6~mv2.png/v1/fill/w_380,h_380,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo_Berlinersportclub_Vektor.png" alt="LOGO" style="height:20rem;">
