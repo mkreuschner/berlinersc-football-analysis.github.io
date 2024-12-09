@@ -497,7 +497,7 @@ write_csv(player_data,file = "~/git/berlinersc-football-analysis.github.io/data/
 <a href="teams.html" class="w3-button w3-block w3-black">TEAMS</a>
 </div>
 <div class="w3-col s3">
-<a href="player.html" class="w3-button w3-block w3-black">PLAYER</a>
+<a href="spieler.html" class="w3-button w3-block w3-black">PLAYER</a>
 </div>
 <div class="w3-col s3">
 <a href="about.html" class="w3-button w3-block w3-black">ABOUT</a>
