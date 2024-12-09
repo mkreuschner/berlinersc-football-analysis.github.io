@@ -728,27 +728,27 @@ format(Sys.Date(), "%d-%m-%Y")  # Output as DD-MM-YYYY
   <table>
   <tr>
     <td>Generell</td>
-    <td>Stralau ist offensiv nicht sehr gut, und defensiv noch schlechter. Aber haben eine ausgeglichene Bilanz auswärts - alle 3 Siege auswärts.Gewonnen gg Viki, aber verloren gg Meteor und Preussen. Nicht unterschätzen, aber schlagbar</td>
+    <td>Köpenick ist offensiv gut aufgestellt, aber defensiv nicht gut (28:28). Heimbilanz ist ausgeglichen - aufpassen: letzte zwei Spiele 15:2 Tore gg. Al-Dersim und Concordia. Es dürfte ein enges Spiel werden, mit wenig Torchancen auf dem großen Platz.</td>
   </tr>
   <tr>
     <td>Platz</td>
-    <td>zu Hause. Sie sind auf kleinem KuRa schlecht (siehe Bilanz)</td>
+    <td>zu Hause. Wir spielen auf einem großen Rasenplatz, zumindest angesetzt (Bilanz: 2-3-3)</td>
   </tr>
   <tr>
     <td>Formation</td>
-    <td>wahrscheinlich: 3-4-3 (sehr wahrscheinlich)</td>
+    <td>wahrscheinlich: 4-4-2 (recht wahrscheinlich: 60%)</td>
   </tr>
   <tr>
     <td>Abwehr</td>
-    <td>über 90% Wahrscheinlichkeit mit 3er Kette!</td>
+    <td>definitiv 4er Kette, haben vor allem 4-4-2 oder 4-5-1 gespielt.</td>
   </tr>
   <tr>
     <td>Spieler</td>
-    <td>Stier (ST) und Reuter (ZM). Die drei IVs in 3er Kette sind stabil</td>
+    <td>Ilinseer (ST). Sie schießen auch wie wir auffällig mehr Tore in der zweiten HZ</td>
   </tr>
   <tr>
     <td>def Standards</td>
-    <td>sind anfällig bei gegnerischen Standards</td>
+    <td>sind vermutlich anfällig bei gegnerischen Standards</td>
   </tr>
   <tr>
     <td>off Standards</td>
