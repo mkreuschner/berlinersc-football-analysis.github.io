@@ -585,7 +585,7 @@ write_csv(player_data,file = "~/git/berlinersc-football-analysis.github.io/data/
 <!-- About Container -->
 <div class="w3-container" id="about">
 <div class="w3-content" style="max-width:700px">
-<h5 class="w3-center w3-padding-64"><span class="w3-tag w3-wide">PLAYER</span></h5>
+<h5 class="w3-center w3-padding-64"><span class="w3-tag w3-wide">REALE 11</span></h5>
 <div>
 <select id="teamSelect" onchange="updatePlayerDropdown()">
 <option value="">Wähle ein Team</option>
@@ -715,5 +715,3 @@ document.getElementById("myLink").click();
 
 </body>
 </html>
-
-
