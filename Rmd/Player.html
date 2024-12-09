@@ -404,77 +404,88 @@ Data Analyse
 <select id="playerSelect"> <option value>Wähle einen Spieler</option>
 </select> <br> <button onclick="searchPlayer()">Suchen</button></p>
 </div>
+<br>
 <div id="result">
-<pre><code>&lt;!-- Spielerinformationen werden hier angezeigt --&gt;</code></pre>
+
 </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
 <script>
-    const csvFilePath = 'https://mkreuschner.github.io/berlinersc-football-analysis.github.io/data/player_data.csv';
-    let playersData = [];
-    // CSV-Daten laden und parsen
-    Papa.parse(csvFilePath, {
-        download: true,
-        header: true,
-        complete: function(results) {
+const csvFilePath = 'https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/player_data.csv';
+let playersData = [];
+
+// CSV-Daten laden und parsen
+Papa.parse(csvFilePath, {
+    download: true,
+    header: true,
+    skipEmptyLines: true,
+    complete: function(results) {
+        if (results.errors.length) {
+            console.error('Parsing-Fehler:', results.errors);
+            alert('Fehler beim Laden der Daten. Bitte überprüfen Sie die Datei.');
+        } else {
             playersData = results.data;
+            console.log('Erfolgreich geladen:', playersData);
             populateTeamDropdown();
         }
-    });
-    // Team-Dropdown mit Teams füllen
-    function populateTeamDropdown() {
-        const teams = [...new Set(playersData.map(player => player.Team).filter(Boolean))]; // Einzigartige Teams
-        const teamSelect = document.getElementById('teamSelect');
-        teams.forEach(team => {
-            const option = document.createElement('option');
-            option.value = team;
-            option.textContent = team;
-            teamSelect.appendChild(option);
-        });
+    },
+    error: function(err) {
+        console.error('PapaParse-Fehler:', err);
+        alert('Fehler beim Laden der CSV-Datei: ' + err.message);
     }
-// Spieler-Dropdown und Trikotnummer-Dropdown aktualisieren
+});
+
+// Team-Dropdown mit Teams füllen
+function populateTeamDropdown() {
+    const teams = [...new Set(playersData.map(player => player.Team).filter(Boolean))]; // Einzigartige Teams
+    const teamSelect = document.getElementById('teamSelect');
+    teams.forEach(team => {
+        const option = document.createElement('option');
+        option.value = team;
+        option.textContent = team;
+        teamSelect.appendChild(option);
+    });
+}
+
+// Spieler-Dropdown basierend auf ausgewähltem Team aktualisieren
 function updatePlayerDropdown() {
     const selectedTeam = document.getElementById('teamSelect').value;
     const playerSelect = document.getElementById('playerSelect');
-    // Spieler und Nummer-Dropdowns zurücksetzen
     playerSelect.innerHTML = '<option value="">Wähle einen Spieler</option>';
     if (selectedTeam) {
-        const players = playersData.filter(player => player.Team === selectedTeam);
-        // Spieler-Dropdown füllen
-        players.forEach(player => {
+        const players = playersData.filter(player => player.Team === selectedTeam).map(player => player.Name);
+        players.forEach(name => {
             const option = document.createElement('option');
-            option.value = player.Name;
-            option.textContent = player.Name;
+            option.value = name;
+            option.textContent = name;
             playerSelect.appendChild(option);
         });
     }
 }
+
 // Spieler suchen und Eigenschaften anzeigen
 function searchPlayer() {
     const selectedPlayer = document.getElementById('playerSelect').value;
     const resultDiv = document.getElementById('result');
     resultDiv.innerHTML = ''; // Alte Ergebnisse löschen
-    // Spieler basierend auf Name und Nummer filtern
-    const filteredPlayers = playersData.filter(player => {
-        return (!selectedPlayer || player.Name === selectedPlayer);
-    });
-    if (filteredPlayers.length > 0) {
-        filteredPlayers.forEach(player => {
-            resultDiv.innerHTML += `
-                <h3>${player.Name}</h3>
-                <p>Team: ${player.Team}</p>
-                <p>Nummer: ${player.Nummer}</p>
-                <p>Spiele: ${player.Spiele}</p>
-                <p>Tore: ${player.Tore}</p>
-                <p>Assists: ${player.Assists}</p>
-                <p>Gelbe Karten: ${player.Gelbe.Karten}</p>
-                <p>Spielzeit: ${player.Spielzeit} Minuten</p>
-                <p>Punkte pro Spiel: ${player.points_per_game}</p>
-                <p>Normierte Punkte pro Spiel: ${player.normalized_points_per_game}</p>
-                <hr>
+    if (selectedPlayer) {
+        const player = playersData.find(p => p.Name === selectedPlayer);
+        if (player) {
+            resultDiv.innerHTML = `
+                <h3>${player.Name || "Nicht verfügbar"}</h3>
+                <p>Team: ${player.Team || "Nicht verfügbar"}</p>
+                <p>Nummer: ${player.Nummer || 0}</p>
+                <p>Position: ${player.most_position || 0}</p>
+                <p>Score: ${player.weighted_score || 0}</p>
+                <p>Spiele: ${player.Spiele || 0}</p>
+                <p>Spielzeit: ${player.Spielzeit || 0}</p>
+                <p>Tore: ${player.Tore || 0}</p>
+                <p>Assists: ${player.Assists || 0}</p>
             `;
-        });
+        } else {
+            resultDiv.innerHTML = '<p>Spieler nicht gefunden.</p>';
+        }
     } else {
-        resultDiv.innerHTML = '<p>Kein Spieler gefunden.</p>';
+        resultDiv.innerHTML = '<p>Bitte wähle einen Spieler aus.</p>';
     }
 }
 </script>

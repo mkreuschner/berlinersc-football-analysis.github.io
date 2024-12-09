@@ -1,200 +1,36 @@
 ---
-title: "Analysis"
 output: html_document
 ---
-<!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
-<style>
-    /* Global Styles */
-    body {
-        font-family: Arial, sans-serif;
-        background-color: #3b3c41;
-        color: #fff; /* White text */
-        text-align: center;
-        margin: 0;
-        padding: 0rem 0rem;
-        box-sizing: border-box;
-    }
-    h1 {
-        font-size: 2rem; /* Dynamic font size */
-    }
-    h2 {
-        font-size: 1.2rem; /* Dynamic font size */
-    }
-    /* Dropdown menu */
-    select {
-        justify-content: center; /* Zentriert horizontal */
-        text-align: center; /* Horizontales Zentrieren */
-        border-radius:1rem;
-        padding: 1rem;
-        font-size: 1.7rem;
-        background-color: #333; /* Dark dropdown background */
-        color: #fff; /* White text in dropdown */
-        border: 1px solid #555; /* Gray border */
-        width: 100%; /* Full width on smaller devices */
-        max-width: 400px; /* Max width for larger screens */
-        margin: 1rem auto; /* Centered */
-    }
-    select:focus {
-        outline: none;
-        border: 1px solid #fff; /* White border on focus */
-    }
-    /* Button */
-    button {
-        border-radius:1rem;
-        padding: 1rem 2rem;
-        margin-top: 2rem;
-        font-size: 1.2rem;
-        background-color: #333; /* Dark button background */
-        color: #fff; /* White text */
-        border: 1px solid #666; /* Gray border */
-        cursor: pointer;
-        max-width: 400px; /* Max width for larger screens */
-    }
-    button:hover {
-        background-color: #555; /* Lighter color on hover */
-    }
-    #Go {
-        border-radius:4rem;
-        padding: 10px 20px;
-        margin-top: 20px;
-        font-size: 1.7rem;
-        background-color: #333; /* Dark button background */
-        color: #fff; /* White text */
-        border: 1px solid #666; /* Gray border */
-        cursor: pointer;
-        max-width: 400px; /* Max width for larger screens */
-    }
-    #Go:hover {
-        background-color: #555; /* Lighter color on hover */
-    }
-    /* Logo */
-    #teamLogoContainer {
-        display: flex;
-        justify-content: center; /* Center horizontally */
-        align-items: center; /* Center vertically */
-        margin-top: 20px;
-        display: none; /* Hidden by default */
-    }
-    #teamLogo {
-        width: 50px; /* Fixed size for the logo */
-        height: 50px; /* Fixed size for the logo */
-        display: none; /* Hidden by default */
-    }
-    .accordion {
-            border-radius:1rem;
-            background-color: yellow;
-            color: #3b3c41;
-            cursor: pointer;
-            padding: 1.0rem;
-            width: 100%;
-            border: none;
-            text-align: center;
-            outline: none;
-            font-size: 1.7rem;
-            transition: 0.4s;
-        }
-        .active, .accordion:hover {
-            background-color: black;
-            color: yellow;
-        }
-        .accordion:after {
-            content: '\002B';
-            color: #3b3c41;
-            font-weight: bold;
-            float: right;
-            margin-left: 0.3rem;
-        }
-        accordion.active:after {
-            content: "\2212";
-            color: yellow;
-            font-weight: bold;
-        }
-        .panel {
-            display: none;
-            padding: 0rem 0rem;
-            background-color: #3b3c41;
-            overflow: hidden;
-            transition: max-height 0.2s ease-out;
-        }
-        .panel.active {
-            display: block;
-            padding: 0rem 0rem;
-            background-color: #3b3c41;
-            overflow: hidden;
-            transition: max-height 0.2s ease-out;
-        }
-       /* Style tab links */
-      .tablink {
-            justify-content: center; 
-            background-color: black;
-            float:left;
-            color: white;
-            border: none;
-            outline: none;
-            cursor: pointer;
-            padding: 0rem 0rem;
-            font-size: 1.2rem;
-      }
-      .tablink.active {
-            font-size: 1.2rem;
-            color: yellow;
-            background-color: black;
-      }
-      .tablink:hover {
-            background-color: yellow;
-            color: black;
-      }
-      .tablink.spiele{
-            width:50%;
-            font-size: 1.2rem;
-      }
-      .tablink.tabelle{
-            width:25%;
-            font-size: 1.2rem;
-      }
-      /* Style the tab content (and add height:100% for full page content) */
-      .tabcontent {
-            display: none;
-            background-color: black;
-            font-size: 1rem;
-      }
-      .tabcontent.active {
-                  font-size: 1rem;
-                  display: block;
-                  background-color: black;
-                  color: white;
-                  padding: 0rem 0rem;
-                  width: 100%;
-      }
-      #Letzte { background-color: black;}
-      #Nächste {background-color: black;}
-      #Gesamt {background-color: black;}
-      #Heim {background-color: black;}
-      #Auswärts {background-color: black;}
-      #Form {background-color: black;}
-      .table-hover > tbody > tr:hover { 
-            background-color: #fff300;
-            color:#000000;
-      }
-</style>
-<body>
-  <h1>Data Analysis</h1>
-  <p>Wähle ein Team aus:</p>
-  <!-- Dropdown menu -->
-  <select id="teamSelect" onchange="showLogo()">
-      <option value="" data-logo="https://static.wixstatic.com/media/be6373_7f8853ce2bbd4dfd97b51eece71d32a6~mv2.png/v1/fill/w_380,h_380,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo_Berlinersportclub_Vektor.png">-- Select a Team --</option>
-      <option value="BSC.html" data-logo="https://static.wixstatic.com/media/be6373_7f8853ce2bbd4dfd97b51eece71d32a6~mv2.png/v1/fill/w_380,h_380,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo_Berlinersportclub_Vektor.png">Berliner SC</option>
-      <option value="Rudow.html" data-logo="images/TSVRudow.png">TSV Rudow Berlin</option>
-      <option value="SternBritz.html" data-logo="images/SternBritz.png">Stern Britz</option>
-      <option value="https://github.com/mkreuschner/berlinersc-football-analysis.github.io/BeroStralau.html" data-logo="images/SternBritz.png">Berolina Stralau</option>
-  </select>
-  <br>
-  <!-- Logo placeholder -->
-  <div id="teamLogoContainer">
-    <img id="teamLogo" src="" alt="Team Logo" style="display: none; width: 50px; height: 50px;">
-  </div>
 
-  <button id="Go" onclick="navigateToTeam()">Go</button>
+<head>
+<title>first_page</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/Users/mkreuschnervsp/git/berlinersc-football-analysis.github.io/styles/first_page.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata">
+<style>
+body, html {
+  height: 100%;
+  font-family: "Inconsolata", sans-serif;
+}
+
+.bgimg {
+  background-position: center;
+  background-size: cover;
+  background-image: linear-gradient(black, yellow);
+  min-height: 75%;
+}
+
+.menu {
+  display: none;
+}
+
+#navbar {
+font-size: 1.5rem;
+}
+</style>
+</head>
+<body>
 ```{r setup, include=FALSE}
 # Setzt den Cache auf FALSE für alle Chunks im Dokument
 knitr::opts_chunk$set(cache = FALSE)
@@ -649,11 +485,43 @@ write_csv(player_data,file = "~/git/berlinersc-football-analysis.github.io/data/
 
 
 ```
-<br>
-<button class="accordion">Spiele</button>
-<div class="panel">
-<br>
-<div id="Letzte" class="tabcontent spiele" style="display: none;">
+
+<!-- Links (sit on top) -->
+<div class="w3-top">
+<div class="w3-row w3-padding w3-black">
+<div class="navbar" id="navbar">
+<div class="w3-col s3">
+<a href="index.html" class="w3-button w3-block w3-black">HOME</a>
+</div>
+<div class="w3-col s3">
+<a href="teams.html" class="w3-button w3-block w3-black">TEAMS</a>
+</div>
+<div class="w3-col s3">
+<a href="player.html" class="w3-button w3-block w3-black">PLAYER</a>
+</div>
+<div class="w3-col s3">
+<a href="about.html" class="w3-button w3-block w3-black">ABOUT</a>
+</div>
+</div>
+</div>
+</div>
+
+<!-- Add a background color and large text to the whole page -->
+<div class="w3-sand w3-grayscale w3-large">
+
+<!-- Spieltag Container -->
+<div class="w3-container" id="menu">
+<div class="w3-content" style="max-width:700px">
+<h5 class="w3-center w3-padding-48"><span class="w3-tag w3-wide">SPIELTAG</span></h5>
+<div class="w3-row w3-center w3-card w3-padding">
+<a href="javascript:void(0)" onclick="openMenu(event, 'Letzter');" id="myLink">
+  <div class="w3-col s6 tablink">Letzter</div>
+</a>
+<a href="javascript:void(0)" onclick="openMenu(event, 'Nächster');">
+  <div class="w3-col s6 tablink">Nächster</div>
+</a>
+</div>
+<div id="Letzter" class="w3-container menu w3-padding-48 w3-card">
 ```{R echo = FALSE, results='markup'}
 
 MeinTeam <- "BSC"
@@ -765,13 +633,13 @@ colnames(formatted_games) <- colnames(formatted_games) %>%
 formatted_games %>%
   kbl(align = "c", escape = FALSE) %>% # Escape auf FALSE setzen, um HTML zu rendern
   kable_styling(full_width = FALSE, bootstrap_options = c("condensed","hover", "responsive")) %>%
-  row_spec(0, bold = TRUE, background = "#232323") 
+  row_spec(0, bold = TRUE, background = "#232323",color = "white") 
 
 
 
 ```
- </div>
-<div id="Nächste" class="tabcontent spiele" style="display: none;">
+</div>
+<div id="Nächster" class="w3-container menu w3-padding-48 w3-card">
 ```{R echo = FALSE, results='markup'}
 
 formatted_games <- data.frame(
@@ -877,14 +745,29 @@ formatted_games %>%
 
 ```
 </div>
-<button class="tablink spiele" data-tab="Letzte" data-group="spiele" id="defaultSpieleOpen">Letzte</button>
-<button class="tablink spiele" data-tab="Nächste" data-group="spiele">Nächste</button>
-</div>
 
-<button class="accordion">Tabelle</button>
-<div class="panel">
-<br> 
-<div id="Gesamt" class="tabcontent tabelle" style="display: none;">
+<!-- Tabellen Container -->
+<div class="w3-container" id="menu">
+<div class="w3-content" style="max-width:700px">
+<h5 class="w3-center w3-padding-48"><span class="w3-tag w3-wide">TABELLEN</span></h5>
+<div class="w3-row w3-center w3-card w3-padding">
+<a href="javascript:void(0)" onclick="openMenu(event, 'Gesamt');" id="myLink">
+  <div class="w3-col s6 tablink">Gesamt</div>
+</a>
+<a href="javascript:void(0)" onclick="openMenu(event, 'Heim');">
+  <div class="w3-col s6 tablink">Heim</div>
+</a>
+<a href="javascript:void(0)" onclick="openMenu(event, 'Auswärts');">
+  <div class="w3-col s6 tablink">Auswärts</div>
+</a>
+<a href="javascript:void(0)" onclick="openMenu(event, 'Form');">
+  <div class="w3-col s6 tablink">Form</div>
+</a>
+<a href="javascript:void(0)" onclick="openMenu(event, 'Fairness');">
+  <div class="w3-col s6 tablink">Fairness</div>
+</a>
+</div>
+<div id="Gesamt" class="w3-container menu w3-padding-48 w3-card">
 ```{R echo = FALSE, results='markup'}
 
 league_table_all <- as.data.table(league_table %>% select(rank, team, S, G, U, V, Dif, Pkt))
@@ -919,7 +802,7 @@ colored_table_all <- formatted_table_all %>%
                        rank == 14 ~ "white",   # Hintergrundfarbe für "STR"
                        rank == 15 ~ "white",   # Hintergrundfarbe für "STR"
                        rank == 16 ~ "white",   # Hintergrundfarbe für "STR"
-                       TRUE ~ "white"            # Keine Hintergrundfarbe sonst
+                       TRUE ~ ""            # Keine Hintergrundfarbe sonst
                      ),                                         
                      background = case_when(
                        rank == 1 ~ "green",   # Hintergrundfarbe für "BSC"
@@ -933,7 +816,7 @@ colored_table_all <- formatted_table_all %>%
                       color = case_when(
                        team == "BSC" ~ "black",   # Hintergrundfarbe für "BSC"
                        team == "STR" ~ "black",   # Hintergrundfarbe für "STR"
-                       TRUE ~ "white"            # Keine Hintergrundfarbe sonst
+                       TRUE ~ ""            # Keine Hintergrundfarbe sonst
                      ),                                         
                      background = case_when(
                        team == "BSC" ~ "yellow",   # Hintergrundfarbe für "BSC"
@@ -957,13 +840,13 @@ colnames(colored_table_all) <- colnames(colored_table_all) %>%
 colored_table_all %>%
   kbl(align = "c", escape = FALSE) %>% # Escape auf FALSE setzen, um HTML zu rendern
   kable_styling(full_width = FALSE, bootstrap_options = c("condensed","hover", "responsive")) %>%
-  row_spec(0, bold = TRUE, background = "#232323")
+  row_spec(0, bold = TRUE, background = "#232323",color = "white")
 
 
 
 ```
 </div>
-<div id="Heim" class="tabcontent tabelle" style="display: none;">
+<div id="Heim" class="w3-container menu w3-padding-48 w3-card">
 ```{R echo = FALSE, results='markup'}
 
 # Function to create a league table for home games only
@@ -1071,7 +954,7 @@ colored_table <- formatted_table %>%
                        Rank == 14 ~ "white",   # Hintergrundfarbe für "STR"
                        Rank == 15 ~ "white",   # Hintergrundfarbe für "STR"
                        Rank == 16 ~ "white",   # Hintergrundfarbe für "STR"
-                       TRUE ~ "white"            # Keine Hintergrundfarbe sonst
+                       TRUE ~ ""            # Keine Hintergrundfarbe sonst
                      ),                                         
                      background = case_when(
                        Rank == 1 ~ "green",   # Hintergrundfarbe für "BSC"
@@ -1085,7 +968,7 @@ colored_table <- formatted_table %>%
                       color = case_when(
                        team == "BSC" ~ "black",   # Hintergrundfarbe für "BSC"
                        team == "STR" ~ "black",   # Hintergrundfarbe für "STR"
-                       TRUE ~ "white"            # Keine Hintergrundfarbe sonst
+                       TRUE ~ ""            # Keine Hintergrundfarbe sonst
                      ),                                         
                      background = case_when(
                        team == "BSC" ~ "yellow",   # Hintergrundfarbe für "BSC"
@@ -1110,13 +993,13 @@ colnames(colored_table) <- colnames(colored_table) %>%
 colored_table %>%
   kbl(align = "c", escape = FALSE) %>% # Escape auf FALSE setzen, um HTML zu rendern
   kable_styling(full_width = FALSE, bootstrap_options = c("condensed","hover", "responsive")) %>%
-  row_spec(0, bold = TRUE, background = "#232323")
+  row_spec(0, bold = TRUE, background = "#232323", color = "white")
 
 
 
 ```
 </div>
-<div id="Auswärts" class="tabcontent tabelle" style="display: none;">
+<div id="Auswärts" class="w3-container menu w3-padding-48 w3-card">
 ```{R echo = FALSE, results='markup'}
 
 # Function to create a league table for home games only
@@ -1224,7 +1107,7 @@ colored_table_away <- formatted_table_away %>%
                        Rank == 14 ~ "white",   # Hintergrundfarbe für "STR"
                        Rank == 15 ~ "white",   # Hintergrundfarbe für "STR"
                        Rank == 16 ~ "white",   # Hintergrundfarbe für "STR"
-                       TRUE ~ "white"            # Keine Hintergrundfarbe sonst
+                       TRUE ~ ""            # Keine Hintergrundfarbe sonst
                      ),                                         
                      background = case_when(
                        Rank == 1 ~ "green",   # Hintergrundfarbe für "BSC"
@@ -1238,7 +1121,7 @@ colored_table_away <- formatted_table_away %>%
                       color = case_when(
                        team == "BSC" ~ "black",   # Hintergrundfarbe für "BSC"
                        team == "STR" ~ "black",   # Hintergrundfarbe für "STR"
-                       TRUE ~ "white"            # Keine Hintergrundfarbe sonst
+                       TRUE ~ ""            # Keine Hintergrundfarbe sonst
                      ),                                         
                      background = case_when(
                        team == "BSC" ~ "yellow",   # Hintergrundfarbe für "BSC"
@@ -1263,11 +1146,11 @@ colnames(colored_table_away) <- colnames(colored_table_away) %>%
 colored_table_away %>%
   kbl(align = "c", escape = FALSE) %>% # Escape auf FALSE setzen, um HTML zu rendern
   kable_styling(full_width = FALSE, bootstrap_options = c("condensed","hover", "responsive")) %>%
-  row_spec(0, bold = TRUE, background = "#232323")
+  row_spec(0, bold = TRUE, background = "#232323", color = "white")
 
 ```
 </div>
-<div id="Form" class="tabcontent tabelle" style="display: none;">
+<div id="Form" class="w3-container menu w3-padding-48 w3-card">
 ```{R echo = FALSE, results='markup'}
 
 library(formattable)
@@ -1379,7 +1262,7 @@ formatted_form <- formatted_form %>%
                        rank == 14 ~ "white",   # Hintergrundfarbe für "STR"
                        rank == 15 ~ "white",   # Hintergrundfarbe für "STR"
                        rank == 16 ~ "white",   # Hintergrundfarbe für "STR"
-                       TRUE ~ "white"            # Keine Hintergrundfarbe sonst
+                       TRUE ~ ""            # Keine Hintergrundfarbe sonst
                      ),                                         
                      background = case_when(
                        rank == 1 ~ "green",   # Hintergrundfarbe für "BSC"
@@ -1393,7 +1276,7 @@ formatted_form <- formatted_form %>%
                       color = case_when(
                        team == "BSC" ~ "black",   # Hintergrundfarbe für "BSC"
                        team == "STR" ~ "black",   # Hintergrundfarbe für "STR"
-                       TRUE ~ "white"            # Keine Hintergrundfarbe sonst
+                       TRUE ~ ""            # Keine Hintergrundfarbe sonst
                      ),                                         
                      background = case_when(
                        team == "BSC" ~ "yellow",   # Hintergrundfarbe für "BSC"
@@ -1416,89 +1299,59 @@ colnames(formatted_form) <- colnames(formatted_form) %>%
 # Anzeige der Tabelle mit KableExtra
 formatted_form %>%
   kbl(align = "c", escape = FALSE) %>% # Escape auf FALSE setzen, um HTML zu rendern
-  kable_styling(full_width = FALSE, bootstrap_options = c("condensed","responsive","hover")) %>%
-  row_spec(0, bold = TRUE, background = "#232323")
+  kable_styling(full_width = FALSE, bootstrap_options = c("responsive","hover")) %>%
+  row_spec(0, bold = TRUE, background = "#232323", color = "white")
 
 ```
 </div>
-<button class="tablink tabelle" data-tab="Gesamt" data-group="tabelle" id="defaultTabelleOpen">Gesamt</button>
-<button class="tablink tabelle" data-tab="Heim" data-group="tabelle">Heim</button>
-<button class="tablink tabelle" data-tab="Auswärts" data-group="tabelle">Auswärts</button>
-<button class="tablink tabelle" data-tab="Form" data-group="tabelle">Form</button>
+<div id="Fairness" class="w3-container menu w3-padding-48 w3-card">
+```{R echo = FALSE, results='markup'}
+print("work in progress")
+```
 </div>
-<br>
-<img src="https://static.wixstatic.com/media/be6373_7f8853ce2bbd4dfd97b51eece71d32a6~mv2.png/v1/fill/w_380,h_380,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo_Berlinersportclub_Vektor.png" alt="LOGO" style="height:20rem;">
 
+<!-- About Container -->
+<div class="w3-container" id="about">
+<div class="w3-content" style="max-width:700px">
+<h5 class="w3-center w3-padding-64"><span class="w3-tag w3-wide">DATA ANALYSIS</span></h5>
+<p>Diese Website gibt uns die Möglichkeit, hier ein paar Zeilen festzuhalten</p>
+<p>Weitere Ideen: Gelbe Karte anzeigen bei 4,9,14,19 ... </p>
+<div class="w3-panel w3-leftbar w3-light-grey">
+  <p><i>"Wir waren super auf deren Formation eingestellt"</i></p>
+  <p>Tom Riedelsheimer (Coach BSC II)</p>
+</div>
+<img src="images/hubi.jpg" style="width:100%;max-width:1000px" class="w3-margin-top">
+<!-- <p><strong>Opening hours:</strong> everyday from 6am to 5pm.</p> -->
+<!-- <p><strong>Address:</strong> 15 Adr street, 5015, NY</p> -->
+</div>
+</div>
+
+<!-- End page content -->
+</div>
+
+<!-- Footer -->
+<footer class="w3-center w3-light-grey w3-padding-48 w3-large">
+<p>Created by Moritz</p>
+</footer>
 
 <script>
-    // Accordion functionality
-    document.addEventListener("DOMContentLoaded", () => {
-        const accordions = document.querySelectorAll(".accordion");
-        accordions.forEach(accordion => {
-            accordion.addEventListener("click", function () {
-                // Toggle active state for the accordion
-                this.classList.toggle("active");
-                // Show or hide the associated panel
-                const panel = this.nextElementSibling;
-                panel.style.display = panel.style.display === "block" ? "none" : "block";
-            });
-        });
-    });
-        // Navigate to team page
-        function navigateToTeam() {
-            const selectedTeam = document.getElementById("teamSelect").value;
-            if (selectedTeam) {
-                window.location.href = selectedTeam;
-            } else {
-                alert("Bitte wähle ein Team aus!");
-            }
-        }
-        // Show team logo dynamically
-        function showLogo() {
-            const teamSelect = document.getElementById("teamSelect");
-            const selectedOption = teamSelect.options[teamSelect.selectedIndex];
-            const logoPath = selectedOption.getAttribute("data-logo");
-            const teamLogo = document.getElementById("teamLogo");
-            if (logoPath && logoPath !== "") {
-                teamLogo.src = logoPath;
-                teamLogo.style.display = "block";
-            } else {
-                teamLogo.src = "";
-                teamLogo.style.display = "none";
-            }
-        }
-        // Tab functionality
-        function openTab(event, tabName, tabGroup) {
-            const tablinks = document.querySelectorAll(`.tablink.${tabGroup}`);
-            const tabcontents = document.querySelectorAll(`.tabcontent.${tabGroup}`);
-            // Hide all tabs in the group
-            tabcontents.forEach(content => content.style.display = "none");
-            // Remove active class from all buttons in the group
-            tablinks.forEach(link => link.classList.remove("active"));
-            // Show the clicked tab and set the button to active
-            document.getElementById(tabName).style.display = "block";
-            event.currentTarget.classList.add("active");
-        }
-        // Attach click event listeners to tab buttons
-        document.querySelectorAll('.tablink').forEach(button => {
-            button.addEventListener('click', function (event) {
-                const tabName = this.dataset.tab; // Get the tab name
-                const tabGroup = this.dataset.group; // Get the tab group
-                openTab(event, tabName, tabGroup); // Call openTab with the arguments
-            });
-        });
-        // Set defaults on page load
-        const firstAccordion = document.querySelector(".accordion");
-        if (firstAccordion) {
-            firstAccordion.click(); // Open the first accordion by default
-        }
-        const defaultSpieleTab = document.querySelector("#defaultSpieleOpen");
-        if (defaultSpieleTab) {
-            defaultSpieleTab.click(); // Open the default Spiele tab
-        }
-        const defaultTabelleTab = document.querySelector("#defaultTabelleOpen");
-        if (defaultTabelleTab) {
-            defaultTabelleTab.click(); // Open the default Tabelle tab
-        }
+// Tabbed Menu
+function openMenu(evt, menuName) {
+  var i, x, tablinks;
+  x = document.getElementsByClassName("menu");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablink");
+  for (i = 0; i < x.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" w3-dark-grey", "");
+  }
+  document.getElementById(menuName).style.display = "block";
+  evt.currentTarget.firstElementChild.className += " w3-dark-grey";
+}
+document.getElementById("myLink").click();
 </script>
-<body>
+
+</body>
+</html>
+
