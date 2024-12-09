@@ -1,11 +1,28 @@
 ---
 output: html_document
 ---
+
+<head>
+<title>first_page</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/Users/mkreuschnervsp/git/berlinersc-football-analysis.github.io/styles/third_page.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata">
 <style>
-div {
-    margin: 20px auto;
-    max-width: 500px;
-    text-align: center;
+body, html {
+  height: 100%;
+  font-family: "Inconsolata", sans-serif;
+}
+
+.bgimg {
+  background-position: center;
+  background-size: cover;
+  background-image: linear-gradient(black, yellow);
+  min-height: 75%;
+}
+
+.menu {
+  display: none;
 }
 
 select, button {
@@ -38,32 +55,51 @@ button:hover {
     margin: 20px auto;
 }
 
-</style>
-<head>
-<title>first_page</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="/Users/mkreuschnervsp/git/berlinersc-football-analysis.github.io/styles/first_page.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata">
-<style>
-body, html {
-  height: 100%;
-  font-family: "Inconsolata", sans-serif;
-}
 
-.bgimg {
-  background-position: center;
-  background-size: cover;
-  background-image: linear-gradient(black, yellow);
-  min-height: 75%;
-}
-
-.menu {
-  display: none;
-}
-
+/* Ensure the navigation bar spans the full width of the screen */
 #navbar {
-font-size: 2.0rem;
+  width: 100%; /* Make it span the full width */
+  position: fixed; /* Keep it fixed at the top */
+  top: 0;
+  left: 0;
+  z-index: 1000; /* Ensure it's above other elements */
+  background-color: #000; /* Black background */
+  font-size: 1.5rem;
+}
+
+/* Make the nav buttons also fill their columns properly */
+.w3-row .w3-button {
+  width: 100%;
+  text-align: center;
+  padding: 10px 0;
+  color: white;
+  text-decoration: none;
+}
+
+.w3-row .w3-button:hover {
+  background-color: #333; /* Lighter shade for hover effect */
+}
+
+/* Ensure the content below starts after the navbar */
+body {
+  margin-top: 60px; /* Adjust based on navbar height */
+}
+
+/* General styling for the rest of the content */
+.w3-content {
+  margin-top: 20px;
+  padding: 10px;
+}
+
+#about {
+justify-content: center; /* Zentriert horizontal */
+text-align: center; /* Horizontales Zentrieren */
+}
+
+#Suchen {
+    background-color: #000;
+    color: white;
+    font-size: 1.5rem;
 }
 </style>
 </head>
@@ -559,7 +595,7 @@ write_csv(player_data,file = "~/git/berlinersc-football-analysis.github.io/data/
 <option value="">Wähle einen Spieler</option>
 </select>
 <br>
-<button onclick="searchPlayer()">Suchen</button>
+<button id="Suchen" onclick="searchPlayer()">Suchen</button>
 </div>
 <br>
 <div id="result">
