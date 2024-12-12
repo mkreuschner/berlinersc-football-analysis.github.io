@@ -14,48 +14,6 @@ body, html {
   font-family: "Inconsolata", sans-serif;
 }
 
-.bgimg {
-  background-position: center;
-  background-size: cover;
-  background-image: linear-gradient(black, yellow);
-  min-height: 75%;
-}
-
-.menu {
-  display: none;
-}
-
-select, button {
-    margin: 10px 0;
-    padding: 10px;
-    font-size: 16px;
-    width: 100%;
-    max-width: 400px;
-}
-
-button {
-    background-color: #007bff;
-    color: white;
-    border: none;
-    cursor: pointer;
-}
-
-button:hover {
-    background-color: #0056b3;
-}
-
-#result {
-    margin-top: 20px;
-    padding: 20px;
-    background-color: #f9f9f9;
-    color: #333;
-    border-radius: 5px;
-    text-align: left;
-    max-width: 400px;
-    margin: 20px auto;
-}
-
-
 /* Ensure the navigation bar spans the full width of the screen */
 #navbar {
   width: 100%; /* Make it span the full width */
@@ -80,26 +38,82 @@ button:hover {
   background-color: #333; /* Lighter shade for hover effect */
 }
 
-/* Ensure the content below starts after the navbar */
-body {
-  margin-top: 60px; /* Adjust based on navbar height */
-}
-
 /* General styling for the rest of the content */
 .w3-content {
   margin-top: 20px;
   padding: 10px;
 }
 
-#about {
-justify-content: center; /* Zentriert horizontal */
-text-align: center; /* Horizontales Zentrieren */
+.dropdown {
+    position: absolute;
+    width: 50px;
+    height: 30px;
+    border-radius: 5px;
 }
 
-#Suchen {
-    background-color: #000;
-    color: white;
-    font-size: 1.5rem;
+/* Tabelle optimieren */
+table {
+    width: 90%; /* Begrenzte Breite, passt zu den Auswahlfeldern */
+    max-width: 700px; /* Maximale Breite */
+    margin: 0 auto; /* Zentriert die Tabelle */
+    border-collapse: collapse; /* Entfernt doppelte Linien */
+    text-align: center; /* Zentriert Inhalte */
+}
+
+th, td {
+    padding: 8px;
+    font-size: 14px; /* Kleinere, aber gut lesbare Schrift */
+    vertical-align: middle;
+    text-align: center;
+}
+
+.dropdown {
+    font-size: 1rem; /* Schriftgröße für die Dropdowns */
+    height: 2rem; /* Größere Höhe für bessere Lesbarkeit */
+    width: 4rem; /* Breite angepasst für Nummern */
+    text-align: center;
+    margin-top: -15px; /* Leicht nach oben verschoben */
+    margin-left: -25px;
+}
+
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+tr:nth-child(odd) {
+    background-color: #ffffff;
+}
+
+table, th, td {
+    border: none; /* Entfernt sichtbare Linien */
+}
+
+/* Tabelle bündig mit den Auswahlfeldern */
+select, table {
+    margin: 0 auto; /* Horizontal zentriert */
+}
+
+select {
+    width: 100%;
+    font-size: 15px;
+    height: 40px; /* Einheitliche Höhe wie Dropdowns in der Tabelle */
+    text-align: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#tableContainer {
+    display: flex;
+    justify-content: center; /* Zentriert die Tabelle */
+    margin-top: 20px;
+}
+#footballFieldContainer {
+    position: relative;
+    max-width: 100%;
+    margin: 20px auto;
+    aspect-ratio: 2 / 3; /* Maintain aspect ratio */
+    background-color: black;
+    border: 2px solid white;
 }
 </style>
 </head>
@@ -586,20 +600,59 @@ write_csv(player_data,file = "~/git/berlinersc-football-analysis.github.io/data/
 <div class="w3-container" id="about">
 <div class="w3-content" style="max-width:700px">
 <h5 class="w3-center w3-padding-64"><span class="w3-tag w3-wide">REALE 11</span></h5>
+<select id="teamSelect" onchange="updateTable()"></select>
+<br>
+<select id="formationSelect" onchange="updateTable()">
+<option value="4-4-2">4-4-2</option>
+<option value="4-4-1-1">4-4-1-1</option>
+<option value="4-2-2-2">4-2-2-2</option>
+<option value="4-3-3">4-3-3</option>
+<option value="4-2-3-1">4-2-3-1</option>
+<option value="4-1-4-1">4-1-4-1</option>
+<option value="3-5-2">3-5-2</option>
+<option value="3-4-3">4-3-3</option>
+<option value="3-4-1-2">3-4-1-2</option>
+<option value="3-2-3-2">3-2-3-2</option>
+<option value="3-4-3">4-3-3</option>
+<option value="3-6-1">3-6-1</option>
+<option value="5-3-2">5-3-2</option>
+<option value="5-2-1-2">5-2-1-2</option>
+<option value="5-4-1">5-4-1</option>
+<option value="5-1-2-2">5-1-2-2</option>
+</select>
+
 <div>
-<select id="teamSelect" onchange="updatePlayerDropdown()">
-<option value="">Wähle ein Team</option>
-</select>
-<br>
-<select id="playerSelect">
-<option value="">Wähle einen Spieler</option>
-</select>
-<br>
-<button id="Suchen" onclick="searchPlayer()">Suchen</button>
+<!-- Tabelle -->
+<div id="tableContainer">
+<table border="1" style="width: 100%; text-align: left;">
+<thead>
+<tr>
+<th>#</th>
+<th>Pos</th>
+<th>Name</th>
+<th>Score</th>
+</tr>
+</thead>
+<tbody id="tableBody">
+  <!-- Tabelleninhalte werden dynamisch generiert -->
+</tbody>
+</table>
 </div>
-<br>
-<div id="result">
+
+<div id="footballFieldContainer" style="position: relative; max-width: 100%; margin: 10px auto; aspect-ratio: 2 / 3; background-color: black; border: 2px solid white;">
+<svg viewBox="0 0 100 150" xmlns="http://www.w3.org/2000/svg" style="width: 100%; height: 100%;"> <!-- Außenlinie -->
+<rect x="0" y="0" width="100" height="150" fill="none" stroke="white" stroke-width="0.5"/> <!-- Mittellinie -->
+<line x1="0" y1="75" x2="100" y2="75" stroke="white" stroke-width="0.5"/> <!-- Mittelkreis -->
+<circle cx="50" cy="75" r="10" fill="none" stroke="white" stroke-width="0.5"/> <!-- Strafraum unten -->
+<rect x="30" y="135" width="40" height="15" fill="none" stroke="white" stroke-width="0.5"/> <!-- Strafraum oben -->
+<rect x="30" y="0" width="40" height="15" fill="none" stroke="white" stroke-width="0.5"/> <!-- Torbereich unten -->
+<rect x="43" y="145" width="14" height="5" fill="none" stroke="white" stroke-width="0.5"/> <!-- Torbereich oben -->
+<rect x="43" y="0" width="14" height="5" fill="none" stroke="white" stroke-width="0.5"/>
+</svg>
 </div>
+</div>
+
+
 </div>
 </div>
 
@@ -615,102 +668,128 @@ write_csv(player_data,file = "~/git/berlinersc-football-analysis.github.io/data/
 <script>
 const csvFilePath = 'https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/player_data.csv';
 let playersData = [];
+const formations = {
+  "4-4-2": [
+    { position: "TW", x: "43%", y: "85%" },
+    { position: "RV", x: "15%", y: "70%" },
+    { position: "IV", x: "40%", y: "70%" },
+    { position: "IV", x: "60%", y: "70%" },
+    { position: "LV", x: "85%", y: "70%" },
+    { position: "RM", x: "20%", y: "55%" },
+    { position: "ZM", x: "40%", y: "55%" },
+    { position: "ZM", x: "60%", y: "55%" },
+    { position: "LM", x: "80%", y: "55%" },
+    { position: "ST", x: "35%", y: "40%" },
+    { position: "ST", x: "65%", y: "40%" }
+  ]
+};
 
-// CSV-Daten laden und parsen
 Papa.parse(csvFilePath, {
-    download: true,
-    header: true,
-    skipEmptyLines: true,
-    complete: function(results) {
-        if (results.errors.length) {
-            console.error('Parsing-Fehler:', results.errors);
-            alert('Fehler beim Laden der Daten. Bitte überprüfen Sie die Datei.');
-        } else {
-            playersData = results.data;
-            console.log('Erfolgreich geladen:', playersData);
-            populateTeamDropdown();
-        }
-    },
-    error: function(err) {
-        console.error('PapaParse-Fehler:', err);
-        alert('Fehler beim Laden der CSV-Datei: ' + err.message);
-    }
+  download: true,
+  header: true,
+  skipEmptyLines: true,
+  complete: function(results) {
+    playersData = results.data;
+    populateTeamDropdown();
+    updateTable();
+  },
+  error: function(err) {
+    console.error('Error loading CSV:', err);
+  }
 });
 
-// Team-Dropdown mit Teams füllen
 function populateTeamDropdown() {
-    const teams = [...new Set(playersData.map(player => player.Team).filter(Boolean))]; // Einzigartige Teams
-    const teamSelect = document.getElementById('teamSelect');
-    teams.forEach(team => {
-        const option = document.createElement('option');
-        option.value = team;
-        option.textContent = team;
-        teamSelect.appendChild(option);
+  const teamSelect = document.getElementById('teamSelect');
+  teamSelect.innerHTML = '<option value="">Select Team</option>';
+  const teams = [...new Set(playersData.map(player => player.Team).filter(Boolean))];
+  teams.forEach(team => {
+    const option = document.createElement('option');
+    option.value = team;
+    option.textContent = team;
+    teamSelect.appendChild(option);
+  });
+}
+
+function updateTable() {
+  const tableBody = document.getElementById('tableBody');
+  tableBody.innerHTML = ''; // Clear table rows
+  const footballField = document.getElementById('footballFieldContainer');
+  
+  // Remove only existing player circles, not the SVG
+  footballField.querySelectorAll('.player-circle').forEach(circle => circle.remove());
+
+  const formation = formations["4-4-2"];
+  const selectedTeam = document.getElementById('teamSelect').value;
+  const teamPlayers = playersData.filter(player => player.Team === selectedTeam).sort((a, b) => a.Nummer - b.Nummer);
+
+  formation.forEach((entry, index) => {
+    const row = document.createElement('tr');
+    const dropdownCell = document.createElement('td');
+    const dropdown = document.createElement('select');
+    dropdown.className = 'dropdown';
+    const defaultOption = document.createElement('option');
+    defaultOption.text = "#";
+    defaultOption.value = "";
+    dropdown.appendChild(defaultOption);
+    teamPlayers.forEach(player => {
+      const option = document.createElement('option');
+      option.text = player.Nummer || "N/A";
+      option.value = player.Nummer;
+      dropdown.appendChild(option);
     });
+    dropdownCell.appendChild(dropdown);
+    row.appendChild(dropdownCell);
+    const positionCell = document.createElement('td');
+    positionCell.textContent = entry.position;
+    row.appendChild(positionCell);
+    const nameCell = document.createElement('td');
+    nameCell.textContent = '';
+    row.appendChild(nameCell);
+    const scoreCell = document.createElement('td');
+    scoreCell.textContent = '';
+    row.appendChild(scoreCell);
+    tableBody.appendChild(row);
+    const circle = document.createElement('div');
+    circle.className = 'player-circle';
+    circle.style.position = 'absolute';
+    circle.style.width = '12%';
+    circle.style.height = '8%';
+    circle.style.borderRadius = '50%';
+    circle.style.color = 'white';
+    circle.style.textAlign = 'center';
+    circle.style.display = 'flex';
+    circle.style.justifyContent = 'center';
+    circle.style.alignItems = 'center';
+    circle.style.fontSize = '1.2rem';
+    circle.style.fontWeight = 'bold';
+    circle.style.top = entry.y;
+    circle.style.left = entry.x;
+    circle.style.backgroundColor = 'gray';
+    dropdown.onchange = () => updatePlayerInfo(dropdown, nameCell, scoreCell, circle, selectedTeam);
+    footballField.appendChild(circle);
+  });
 }
 
-// Spieler-Dropdown basierend auf ausgewähltem Team aktualisieren
-function updatePlayerDropdown() {
-    const selectedTeam = document.getElementById('teamSelect').value;
-    const playerSelect = document.getElementById('playerSelect');
-    playerSelect.innerHTML = '<option value="">Wähle einen Spieler</option>';
-    if (selectedTeam) {
-        const players = playersData.filter(player => player.Team === selectedTeam).map(player => player.Name);
-        players.forEach(name => {
-            const option = document.createElement('option');
-            option.value = name;
-            option.textContent = name;
-            playerSelect.appendChild(option);
-        });
-    }
-}
 
-// Spieler suchen und Eigenschaften anzeigen
-function searchPlayer() {
-    const selectedPlayer = document.getElementById('playerSelect').value;
-    const resultDiv = document.getElementById('result');
-    resultDiv.innerHTML = ''; // Alte Ergebnisse löschen
-    if (selectedPlayer) {
-        const player = playersData.find(p => p.Name === selectedPlayer);
-        if (player) {
-            resultDiv.innerHTML = `
-                <h3>${player.Name || "Nicht verfügbar"}</h3>
-                <p>Team: ${player.Team || "Nicht verfügbar"}</p>
-                <p>Nummer: ${player.Nummer || 0}</p>
-                <p>Position: ${player.most_position || 0}</p>
-                <p>Score: ${player.weighted_score || 0}</p>
-                <p>Spiele: ${player.Spiele || 0}</p>
-                <p>Spielzeit: ${player.Spielzeit || 0}</p>
-                <p>Tore: ${player.Tore || 0}</p>
-                <p>Assists: ${player.Assists || 0}</p>
-            `;
-        } else {
-            resultDiv.innerHTML = '<p>Spieler nicht gefunden.</p>';
-        }
-    } else {
-        resultDiv.innerHTML = '<p>Bitte wähle einen Spieler aus.</p>';
-    }
-}
-
-// Tabbed Menu
-function openMenu(evt, menuName) {
-  var i, x, tablinks;
-  x = document.getElementsByClassName("menu");
-  for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";
+function updatePlayerInfo(dropdown, nameCell, scoreCell, circle, selectedTeam) {
+  const selectedNumber = dropdown.value;
+  const player = playersData.find(p => p.Nummer === selectedNumber && p.Team === selectedTeam);
+  if (player) {
+    nameCell.textContent = player.Name.split(' ').pop();
+    scoreCell.textContent = player.weighted_score;
+    circle.textContent = selectedNumber;
+    const score = player.weighted_score;
+    const red = Math.round(255 * (1 - score));
+    const green = Math.round(255 * score);
+    circle.style.backgroundColor = `rgb(${red}, ${green}, 0)`;
+  } else {
+    nameCell.textContent = '';
+    scoreCell.textContent = '';
+    circle.textContent = '';
+    circle.style.backgroundColor = 'gray';
   }
-  tablinks = document.getElementsByClassName("tablink");
-  for (i = 0; i < x.length; i++) {
-    tablinks[i].className = tablinks[i].className.replace(" w3-dark-grey", "");
-  }
-  document.getElementById(menuName).style.display = "block";
-  evt.currentTarget.firstElementChild.className += " w3-dark-grey";
 }
-document.getElementById("myLink").click();
-
 </script>
-
-
 
 
 </body>

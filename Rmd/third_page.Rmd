@@ -683,6 +683,7 @@ function searchPlayer() {
                 <p>Spielzeit: ${player.Spielzeit || 0}</p>
                 <p>Tore: ${player.Tore || 0}</p>
                 <p>Assists: ${player.Assists || 0}</p>
+                <p>Gelbe: ${player.Gelbe || 0}</p>
             `;
         } else {
             resultDiv.innerHTML = '<p>Spieler nicht gefunden.</p>';

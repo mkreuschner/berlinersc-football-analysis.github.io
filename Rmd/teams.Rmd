@@ -678,6 +678,11 @@ league_table <- create_league_table(data)
 ```
 ```{r, echo = FALSE, results='markup'}
 
+player_data <- player_data %>%
+  rename(
+    "Gelbe" = "Gelbe.Karten",
+    "Rote" = "Rote.Kartn"
+  )
 write_csv(player_data,file = "~/git/berlinersc-football-analysis.github.io/data/player_data.csv")
 
 
@@ -713,7 +718,7 @@ write_csv(player_data,file = "~/git/berlinersc-football-analysis.github.io/data/
 ```{r, echo = FALSE, results='markup'}
 
 MeinTeam <- "Berliner SC II"
-Gegner <- "Köpenicker FC"
+Gegner <- "Berliner SC II"
 
 print(paste0(MeinTeam," vs. ",Gegner))
 today_date <- Sys.Date()
