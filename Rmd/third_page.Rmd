@@ -13,18 +13,6 @@ body, html {
   height: 100%;
   font-family: "Inconsolata", sans-serif;
 }
-
-.bgimg {
-  background-position: center;
-  background-size: cover;
-  background-image: linear-gradient(black, yellow);
-  min-height: 75%;
-}
-
-.menu {
-  display: none;
-}
-
 select, button {
     margin: 10px 0;
     padding: 10px;
@@ -673,18 +661,44 @@ function searchPlayer() {
     if (selectedPlayer) {
         const player = playersData.find(p => p.Name === selectedPlayer);
         if (player) {
-            resultDiv.innerHTML = `
-                <h3>${player.Name || "Nicht verfügbar"}</h3>
-                <p>Team: ${player.Team || "Nicht verfügbar"}</p>
-                <p>Nummer: ${player.Nummer || 0}</p>
-                <p>Position: ${player.most_position || 0}</p>
-                <p>Score: ${player.weighted_score || 0}</p>
-                <p>Spiele: ${player.Spiele || 0}</p>
-                <p>Spielzeit: ${player.Spielzeit || 0}</p>
-                <p>Tore: ${player.Tore || 0}</p>
-                <p>Assists: ${player.Assists || 0}</p>
-                <p>Gelbe: ${player.Gelbe || 0}</p>
-            `;
+resultDiv.innerHTML = `
+    <div style="text-align: center; font-family: "Inconsolata", sans-serif; margin: 20px; padding: 10px; border: 1px solid #ccc; border-radius: 10px;">
+        <!-- Nummer in groß -->
+        <h1 style="font-size: 3rem; margin: 0;">#${player.Nummer || 0}</h1>
+        <!-- Pos in kleinerer Schrift -->
+        <p style="font-size: 1rem; color: gray; margin: 5px 0;">${player.Team || "Nicht verfügbar"}</p>
+        <!-- Name und Position in einer Zeile -->
+        <h2 style="font-size: 2rem; margin: 5px 0;">${player.Name || "Nicht verfügbar"}</h2>
+        <!-- Team in kleinerer Schrift -->
+        <p style="font-size: 1rem; color: gray; margin: 5px 0;">${player.most_position || "n/a"}</p>
+        <!-- Score mit konditionaler Hintergrundfarbe -->
+        <div style="
+            font-size: 1.5rem;
+            margin: 5px 0;
+            padding: 5px 10px; /* Einstellbares Padding */
+            border-radius: 10px;
+            display: inline-block; /* Passt die Breite an den Inhalt an */
+            background-color: hsl(${(120 * player.weighted_score).toFixed(0)}, 100%, 50%);
+            color: white;
+        ">
+            ${(player.weighted_score * 100).toFixed(0)}
+        </div>
+        <!-- Spiele und Spielzeit in einer Zeile -->
+        <p style="font-size: 1rem; margin: 5px 0;">
+            Spiele: ${player.Spiele || 0} &nbsp;|&nbsp; 
+            <span style="color: green;">&#9650; ${player.Einwechslung || 0}</span> &nbsp;|&nbsp;
+            <span style="color: red;">&#9660; ${player.Auswechslung || 0}</span>
+        </p>
+        <!-- Einwechslung und Auswechslung mit Dreiecken -->
+        <p style="font-size: 1rem; margin: 5px 0;">
+            Spielzeit: ${player.Spielzeit || 0}min
+        </p>
+        <!-- Tore -->
+        <p style="font-size: 1rem; margin: 5px 0;">
+            Tore: ${player.Tore || 0} &nbsp;|&nbsp; Assists: ${player.Assists || 0}
+        </p>
+    </div>
+`;
         } else {
             resultDiv.innerHTML = '<p>Spieler nicht gefunden.</p>';
         }

@@ -681,7 +681,7 @@ league_table <- create_league_table(data)
 player_data <- player_data %>%
   rename(
     "Gelbe" = "Gelbe.Karten",
-    "Rote" = "Rote.Kartn"
+    "Rote" = "Rote.Karten"
   )
 write_csv(player_data,file = "~/git/berlinersc-football-analysis.github.io/data/player_data.csv")
 
@@ -715,20 +715,20 @@ write_csv(player_data,file = "~/git/berlinersc-football-analysis.github.io/data/
 <div class="w3-container" id="about">
 <div class="w3-content" style="max-width:700px">
 <h5 class="w3-center w3-padding-64"><span class="w3-tag w3-wide">DATA ANALYSIS</span></h5>
-```{r, echo = FALSE, results='markup'}
-
-MeinTeam <- "Berliner SC II"
-Gegner <- "Berliner SC II"
-
-print(paste0(MeinTeam," vs. ",Gegner))
-today_date <- Sys.Date()
-format(Sys.Date(), "%d-%m-%Y")  # Output as DD-MM-YYYY
-```
 </div>
 </div>
 
 <button class="accordion" id="Takeaways">Mo's Keypoints</button>
 <div class="panel">
+```{r, echo = FALSE, results='markup'}
+
+MeinTeam <- "Berliner SC II"
+Gegner <- "Berliner SC II"
+
+print("Mo's Keypoints nur anschauen, wenn wir gegen den Gegner am Wochenende spielen")
+print(paste0(MeinTeam," vs. ",Gegner))
+
+```
   <p>
   <table>
   <tr>

@@ -578,9 +578,9 @@ write_csv(player_data,file = "~/git/berlinersc-football-analysis.github.io/data/
 <select id="teamSelect" onchange="showLogo()">
 <option value="" data-logo="https://static.wixstatic.com/media/be6373_7f8853ce2bbd4dfd97b51eece71d32a6~mv2.png/v1/fill/w_380,h_380,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo_Berlinersportclub_Vektor.png">-- Select a Team --</option>
 <option value="BSC.html" data-logo="https://static.wixstatic.com/media/be6373_7f8853ce2bbd4dfd97b51eece71d32a6~mv2.png/v1/fill/w_380,h_380,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo_Berlinersportclub_Vektor.png">Berliner SC</option>
-<option value="Rudow.html" data-logo="images/TSVRudow.png">TSV Rudow</option>
-<option value="SternBritz.html" data-logo="images/SternBritz.png">Stern Britz</option>
-<option value="BeroStralau.html" data-logo="images/SternBritz.png">Berolina Stralau</option>
+<option value="RUD.html" data-logo="images/TSVRudow.png">TSV Rudow</option>
+<option value="BRI.html" data-logo="images/SternBritz.png">Stern Britz</option>
+<option value="STR.html" data-logo="images/SternBritz.png">Berolina Stralau</option>
 <option value="KFC.html" data-logo="images/SternBritz.png">Köpenicker FC</option>
 </select>
 <br>
