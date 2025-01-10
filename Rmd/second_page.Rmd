@@ -1,7 +1,6 @@
 ---
 output: html_document
 ---
-
 <head>
 <title>first_page</title>
 <meta charset="UTF-8">

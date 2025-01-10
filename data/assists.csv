@@ -1,0 +1,512 @@
+Rank,Name,Nr,Pos,Spiele,Assists
+1,Rayan Ait Manssour,19,LM,15,7
+2,Jannik Jantzen,27,ZDM,12,6
+3,Marc Michas,10,ZM,10,5
+4,Ayham Heimur,92,LM,15,5
+5,Stefan Glaser,9,ST,13,5
+6,Christian Preiss,16,ZM,13,4
+7,Tugay Adigüzel,61,LV,13,4
+8,Maurice Völckert,11,ST,10,4
+9,Tim Niedenhoff,19,ZM,9,4
+10,Merdan Baba,10,ST,8,3
+11,Eric Stier,5,ST,13,3
+12,Matthieu Lucas Weinlein,17,ST,12,3
+13,Solomon Okoronkwo,NA,ZOM,5,2
+14,Tom Jonach,16,ZM,12,2
+15,Luca Ehrich,27,ZDM,13,2
+16,Kenan Halilcevic,17,LM,13,2
+17,Ole Bresemann,9,ST,11,2
+18,Pascal-Rene Jüterbock,84,LM,6,2
+19,Justin Engfer,20,RV,6,2
+20,Reto Reichenberger,7,ST,14,2
+21,Tim Pötig,15,RV,11,2
+22,Robert Adler,3,IV,7,1
+23,Bene Brecht,16,ZM,5,1
+24,Julian Schröder,15,RV,13,1
+25,Christopher Schneider,NA,RM,1,1
+26,Serkan Karasu,3,ZDM,14,1
+27,Mücahid Kahraman,3,RV,13,1
+28,Alexander Huse,13,ST,10,1
+29,Matteo Günther,9,ST,13,1
+30,Naim Senay,26,RV,10,1
+31,Emre-Eyüp Önal,7,ZDM,14,1
+32,Timo Höhna,6,LV,12,1
+33,Sebastian Heßler,12,LM,10,1
+34,Caglar Polat,27,ZOM,11,1
+35,Tim Riese,4,IV,13,1
+36,Devis Meißner,NA,TW,1,1
+37,Simon Böhm,11,ST,12,1
+38,Roman Ilinseer,18,ST,13,1
+39,Baris Güngör,NA,ZM,5,1
+40,Ibrahim Diallo,10,ZM,7,1
+41,Dominik Thonfeld,23,ST,8,1
+42,Leon Schmeißer,20,RM,7,1
+43,Fredy Balde,8,LM,6,1
+44,David Nagel,4,IV,7,1
+45,Marius Schreiber,8,LV,1,1
+46,Oliver Spigaht,6,RM,8,1
+47,Lennart Nerlich,5,IV,14,1
+48,Chae-Hyun Jeong,11,RM,11,1
+49,Marvin Müller,NA,ZDM,1,1
+50,Ben Fidanboy,28,RV,5,1
+51,Kevin Anderson Moreira Godinho,18,RM,7,1
+52,Justin Thiele,6,IV,12,1
+53,Tim-Luca Eberl,NA,RV,3,1
+54,Konstantin- Alexander Westhäußer,13,NA,13,1
+55,Shaker Shawrdi,20,LM,10,1
+56,Phillip Streiter,22,TW,15,1
+57,Eriseld Tafilaj,69,NA,11,1
+58,Mohammad Mansour,5,IV,13,1
+59,Maciej Macias,24,ZOM,11,1
+60,Jonathan Schäfer,18,LV,10,1
+61,Jonas Maroske,6,ZM,11,1
+62,Kilian Oliver Reinke,21,LV,14,1
+63,Farouk Ben Mustapha,18,ST,8,1
+64,Ibrahim Celik,47,RM,11,1
+65,Steven Demarr Saunders,14,RM,10,1
+66,Nino Zamorano,22,NA,5,1
+67,Max Kruse,30,NA,1,0
+68,Enes Uzun,25,RM,13,0
+69,Moris Fikic,10,ZOM,7,0
+70,Omid Saberdest,5,ZOM,15,0
+71,Selvedin Begzadic,22,TW,9,0
+72,Karsten Schleifring,25,NA,5,0
+73,Vahit Engin,11,NA,6,0
+74,Kenan Demir,3,IV,13,0
+75,Hendrik Lüttschwager,1,TW,9,0
+76,Kerem Filiz,NA,NA,3,0
+77,Jannes Potthoff,1,TW,5,0
+78,Nicolas Wolski,8,RV,8,0
+79,Alexander Foth,11,RM,8,0
+80,Denis Rolke,15,IV,13,0
+81,Yasin Baki,NA,TW,1,0
+82,Levent Mucuk,55,IV,12,0
+83,Nick Bechler,27,IV,12,0
+84,Melih Hortum,10,ZOM,9,0
+85,Dmitri Zabavin,1,TW,1,0
+86,Magnus Stahlberg,16,IV,12,0
+87,Marcel Bubner,19,LM,13,0
+88,Linus Dersch,NA,NA,1,0
+89,Jonas Weigelt,8,IV,10,0
+90,Sebastian Sobczyk,9,ST,9,0
+91,Martin Gromotka,44,TW,12,0
+92,Yevgen Igorovic Lozynsky,27,NA,10,0
+93,Paul Miggel,8,LV,6,0
+94,Andre Schulz,23,IV,12,0
+95,Daniel Fischer,19,LM,9,0
+96,Alexander Wuthe,8,ZDM,12,0
+97,Soner Demiryürek,21,ZM,6,0
+98,Ugurcan Yilmaz,48,ZOM,5,0
+99,Oguzhan Duman,19,ZOM,11,0
+100,Le-Roy Da-Costa,9,ST,4,0
+101,Kay Szczech,18,RM,10,0
+102,Dennis Rötzscher,18,ZDM,7,0
+103,Patrick Boel,1,TW,8,0
+104,Malte Hartmann,31,TW,12,0
+105,Lukas Kohlmann,20,IV,13,0
+106,Milos Savkovic,8,LM,13,0
+107,Mahmoud Akkaoui,4,IV,4,0
+108,Tobias Knetsch,23,TW,3,0
+109,Tom Greif,14,RV,4,0
+110,Till Dietrich,27,RV,12,0
+111,Yasin Demir,30,IV,9,0
+112,Rommel Abou-Chaker,13,ST,8,0
+113,Marcel Berner,15,RV,8,0
+114,Hugo Timur,7,ST,10,0
+115,Daniel Michael Brüning,22,IV,3,0
+116,Fabian Kolditz,13,NA,1,0
+117,Patrick Wenke,29,IV,6,0
+118,El-Amin Elsaadawi,17,ST,8,0
+119,Caglar Halici,NA,ST,1,0
+120,Hüseyin Ali Kaloglu,NA,IV,1,0
+121,Önder Senkaya,NA,NA,1,0
+122,Patrick Maykowski,20,RM,15,0
+123,Tim Wenke,5,IV,7,0
+124,Philipp Kemkes,NA,NA,2,0
+125,Kevin Uwe Einspannier,6,ST,13,0
+126,Nelson Antoniofrancisco,7,LM,6,0
+127,Max Vincent Bolz,20,ZM,8,0
+128,Yusuf Abouri,NA,RV,4,0
+129,Kenneth Weise,49,IV,6,0
+130,Fabio Zielske,NA,NA,0,0
+131,Marcel Lieker,NA,NA,1,0
+132,Robin Eschert,14,LV,4,0
+133,Dan Feldmann,NA,NA,2,0
+134,Lukas Grützner,8,ZM,11,0
+135,Benjamin Schnack,NA,IV,1,0
+136,Robin Wolff,25,ST,7,0
+137,Dustin Sik,7,RM,13,0
+138,Kevin Wesolek,16,NA,2,0
+139,Yusuf Yildirim,NA,ZDM,1,0
+140,Tom Nischwitz,5,IV,12,0
+141,Jeffrey Kräft,37,TW,11,0
+142,Bartosz Palubski,21,NA,0,0
+143,Philip Möhle,28,RV,8,0
+144,Björn Röchert,30,IV,9,0
+145,Sercan-Günay Seyyidoglu,17,LM,9,0
+146,Jerry Gase,7,ST,12,0
+147,Welton Pereira Dos Santos,94,NA,10,0
+148,Karl Anker,8,IV,11,0
+149,Bahadir Katirci,7,NA,3,0
+150,Daniel Schneidawind,13,IV,3,0
+151,Noah Peter,12,ZM,9,0
+152,Antonio Ciao,22,ZDM,3,0
+153,Yannic Behrendt,NA,IV,4,0
+154,Mustafa Arslan,1,TW,6,0
+155,Ahmad Zahlan,6,ZDM,13,0
+156,Antonio Boeddinghaus,6,IV,7,0
+157,Marc Anthony Weisse,NA,ZM,1,0
+158,Nikita Charkov,20,IV,11,0
+159,Riccardo Ciao,18,ZDM,12,0
+160,Jakob Heilmann,2,LM,8,0
+161,Amir Awag,5,IV,13,0
+162,Okan Özkaya,3,NA,5,0
+163,Maurice Meyer,1,TW,6,0
+164,Maximilian Blust,NA,NA,1,0
+165,Jamal Dähn,NA,NA,1,0
+166,Victor Kausch,NA,IV,3,0
+167,Steven Koschek,NA,ZM,11,0
+168,Nemanja Samardzic,NA,NA,1,0
+169,Vittorio Achour,NA,NA,2,0
+170,Jan Lange,NA,IV,4,0
+171,Tjerk Ortmann,4,IV,3,0
+172,Julius Zauner,11,ST,14,0
+173,Oliver Schill,NA,IV,1,0
+174,Sam Diokhane,4,ZDM,12,0
+175,Dennis Seiler,11,IV,10,0
+176,Göktug Özsoy,19,ZM,12,0
+177,Mohamad-Ali Chawraba,47,ST,11,0
+178,Paulo Eduardo Bernardes De Almeida,22,NA,5,0
+179,Jan-Eric Frank,6,IV,9,0
+180,Michel Stefaniszin,8,ZDM,14,0
+181,Julian Karsten Heikenfeld,NA,NA,1,0
+182,Kevin Kummer,29,IV,11,0
+183,Lennard Schleifenbaum,21,ST,14,0
+184,Amon Simunovic,6,ZDM,11,0
+185,Christopher Schwarz,NA,ZM,8,0
+186,Niklas Schindler,11,IV,12,0
+187,Dominik Dietzel,1,TW,3,0
+188,Davut Kösker,32,TW,4,0
+189,Oktay Ugur,17,ZOM,12,0
+190,Karim Zagmouz,6,IV,12,0
+191,Maximilian Zengler,25,ST,2,0
+192,David Bellin,28,RM,12,0
+193,Jose Antonio Ondo Mangue,21,NA,7,0
+194,Patrick Kübler,21,NA,0,0
+195,Pascal Berger,NA,NA,0,0
+196,Timo Ziebarth,1,TW,9,0
+197,Görkem Yilmaz,4,ZOM,13,0
+198,Enrique Freitag,8,ZDM,13,0
+199,Etem Tonk,24,IV,13,0
+200,Dominique Leitner,5,IV,14,0
+201,Dennis Fischer,2,LM,5,0
+202,Tom Wessel,24,IV,5,0
+203,Kamil Ryszard Borowski,NA,IV,4,0
+204,Linus Fürstenow,4,IV,15,0
+205,Philipp Nikolajewski,14,IV,14,0
+206,Oguz Rencber,NA,LM,2,0
+207,Emilio Son,7,NA,3,0
+208,Nico Hauf,13,IV,10,0
+209,Elias Thürigen,5,IV,11,0
+210,Viktor Kreisel,20,NA,1,0
+211,Simon Albrecht,NA,ZM,1,0
+212,Albert Bauder,9,ST,9,0
+213,Robin Koller,NA,TW,2,0
+214,Habib Jalloh,16,LM,7,0
+215,Domenic Schäfer,NA,LV,1,0
+216,Mohammed Hassane,17,ZDM,14,0
+217,Ian Häberle,22,IV,12,0
+218,Niklas Isberner,4,IV,12,0
+219,Leorant Abduli,23,NA,1,0
+220,Ali Mert Koca,15,RM,6,0
+221,Ertugrul Aktas,13,TW,11,0
+222,Talha Sennur,24,ST,11,0
+223,Milan Daus,10,ST,13,0
+224,Magnus Crone,14,RM,12,0
+225,Fabio Rondinelli,9,RM,10,0
+226,Tim Paschke,13,RM,5,0
+227,Stefano Tedesco,22,IV,12,0
+228,Marcus Grund,NA,NA,3,0
+229,Danilo Arsic,11,ST,5,0
+230,Philipp Macketanz,15,LV,8,0
+231,Patrick Büch,NA,NA,0,0
+232,Akiyasu Tsuchiya,6,ZM,9,0
+233,Demba Mendy,9,ST,10,0
+234,Adrian Thiemann,1,TW,11,0
+235,Can Yildiz,NA,NA,2,0
+236,David Mpembele Nzongo,25,NA,3,0
+237,Tobias Reuter,4,ZM,14,0
+238,Achmed El-Noumeiri,NA,NA,2,0
+239,Darnell Bruns,11,ST,8,0
+240,Leon Ketel,1,TW,7,0
+241,Merlin Schulz,8,IV,1,0
+242,Leon Ibrom,4,IV,13,0
+243,Rene Lohmeier,NA,NA,0,0
+244,Sam Misgayski,22,NA,1,0
+245,Pablo Guillen,8,ST,9,0
+246,Luca Wojan,22,ZDM,12,0
+247,Onur Kalkan,63,IV,9,0
+248,Tarek Borchmeier,13,ZM,14,0
+249,Abdoulaye Djibril Diallo,NA,ZM,5,0
+250,Pascal Bräkow,2,RV,15,0
+251,Pjotr Xaver Strelets,NA,LV,3,0
+252,Amin Malik Chahed,77,NA,6,0
+253,Niklas Jost,4,IV,14,0
+254,Mario Mikic,14,RV,2,0
+255,Paul Busche,7,ZM,13,0
+256,Firooz Ahmadi,NA,NA,1,0
+257,Oskar Schlembach,21,ZDM,4,0
+258,Joshua Tröger,24,RV,11,0
+259,Muzaffer Kirimoglu,9,ST,9,0
+260,Samet Sennur,11,ST,10,0
+261,Jasper Büll,NA,NA,1,0
+262,Jordy Gase,25,ST,12,0
+263,Jakob Klautzsch,NA,LV,3,0
+264,Tilman Schinzel,14,IV,10,0
+265,Simon Stefanovic,7,LV,14,0
+266,Rayk Stahnke,26,NA,3,0
+267,Deniz Gassen,10,ZM,8,0
+268,Julius Böke,NA,NA,0,0
+269,Jakob Oevermann,15,IV,4,0
+270,Thomaz Klingl,10,ST,1,0
+271,Soner Gültepe,26,NA,6,0
+272,Falk Marquard,NA,ZM,1,0
+273,Jonathan Stolp,7,ST,9,0
+274,Lucas Hufnagel,NA,NA,1,0
+275,Hong Phuc Dinh,17,LM,5,0
+276,Oguzhan Codura,10,ST,5,0
+277,Firat Yildirim,15,ZDM,7,0
+278,Marcel Frobenius,37,RV,9,0
+279,Stefan Nicola,NA,NA,0,0
+280,Florian Nikolai Thalhofer,17,RV,7,0
+281,Alexander Gajda,14,RV,9,0
+282,Nikolaos Kaggelidids,3,LV,11,0
+283,Nils Szerwinski,21,NA,6,0
+284,Malte Meißner,33,TW,8,0
+285,Khaled El-Okkla,27,IV,13,0
+286,Tommes Diallo,2,ZM,6,0
+287,Marcos Terzopulos-Koutsoubas,5,RV,3,0
+288,Dennis Pyplatz,24,ZDM,13,0
+289,David Chukwu,NA,LV,3,0
+290,Daniel Bader,NA,NA,0,0
+291,Moreno Schneider,19,RM,8,0
+292,Leeroy-Life Leffke,13,NA,8,0
+293,Ferhat Ömür,68,NA,0,0
+294,Nico Hasenbank,NA,ZM,2,0
+295,Benedikt Schmidtmann,23,LV,13,0
+296,Arne-Luca Auctun,19,IV,14,0
+297,Ömer Tanis,8,ZDM,14,0
+298,Marvin Knape,20,RV,2,0
+299,Luca Carius,6,IV,13,0
+300,Meiko Hesse,6,ZDM,12,0
+301,Alfredo-Manuel Villanueva Bravo,10,LM,3,0
+302,Julian Bufe,NA,NA,0,0
+303,Tom Rostock,NA,RM,2,0
+304,Jeremy Herrmann,26,ZDM,13,0
+305,Lukas-Noah Littler,2,IV,7,0
+306,Mirko Wach,NA,NA,0,0
+307,Bryan Lilja,18,LM,2,0
+308,Kenan Özen,6,ZDM,10,0
+309,Milan Stricker,NA,ST,3,0
+310,Georg Schönfelder,3,IV,12,0
+311,Anton Neumann,14,ZM,10,0
+312,Amir-Mohamad Yassine,26,LM,8,0
+313,Tolgahan Can Eskin,21,LM,5,0
+314,Björn Heydemann,NA,ST,2,0
+315,Tom-Niclas Hamann,23,IV,9,0
+316,Jonas Becker,3,IV,12,0
+317,Tamer Emre Ertürkler,17,ST,8,0
+318,Jesse Kreuschner,31,TW,4,0
+319,Vito Everett Dieckert,9,ZM,8,0
+320,Tim Höfer,NA,TW,1,0
+321,Luca Raoul Al-Habash,NA,RM,1,0
+322,Chidera Iwuozor,6,LM,6,0
+323,Erhan Kücükosman,10,RM,8,0
+324,Maximilian Höhle,20,ST,5,0
+325,Lucien Littbarski,NA,ZOM,1,0
+326,Elias Burda,13,IV,13,0
+327,Stephane Franklin Yoko,12,NA,1,0
+328,Noah Maiß,21,ZM,7,0
+329,David Bode,18,IV,7,0
+330,Nico Pohlan,NA,NA,0,0
+331,Serhan Arslani,NA,NA,1,0
+332,Tim Eymann,19,LV,4,0
+333,Arian Saiti,17,RM,11,0
+334,Rick Mickael Ella,70,LM,8,0
+335,Nico Starkowski,29,TW,1,0
+336,Eliot Tolaj,15,IV,10,0
+337,Nana Kwame Badu-Amoah,7,LM,8,0
+338,Marcos Adrian Castro Barbera,12,NA,12,0
+339,Mohammed Hamiss,99,NA,7,0
+340,Kolja Gramse,NA,NA,1,0
+341,Leo Suilmann,1,TW,7,0
+342,Jim Bratschke,77,RM,5,0
+343,Niclas Nixdorf,3,IV,11,0
+344,Jannick Wollmann,NA,IV,2,0
+345,Paul Schlicht,1,TW,11,0
+346,Tami Benkert,NA,ZM,1,0
+347,Benis Leci,30,LM,11,0
+348,Leonit Leci,17,LM,13,0
+349,Felix Hartmann,15,TW,14,0
+350,Sune Tore Schröter,NA,NA,2,0
+351,Alican Ali,29,ST,7,0
+352,Leart Halimi,27,RM,3,0
+353,Deren Yoldas Emre,36,LV,12,0
+354,Tom Bothe,12,IV,10,0
+355,Lukas Otto,NA,NA,0,0
+356,Alieu Nyassi,NA,NA,2,0
+357,William Essel,9,NA,10,0
+358,Lasse Engelsing,12,LV,9,0
+359,Andreas Friese,23,TW,10,0
+360,Nicolas Tauschwitz,10,LM,11,0
+361,Miran Aykus,5,IV,5,0
+362,Hadi El-Hayek,23,NA,1,0
+363,Koray Aktas,21,TW,5,0
+364,Zahm Rad,NA,ZM,2,0
+365,Ismail Bendjelloul,5,ZDM,11,0
+366,Felix Weglöhner,6,RM,12,0
+367,Burak Tatli,44,ST,3,0
+368,Kaan Ucbaglar,44,LM,9,0
+369,Marko Fischer,4,LM,2,0
+370,Deniz Karakus,32,IV,4,0
+371,Joan Schäfer Llauger,8,LM,7,0
+372,Tim Henseler,NA,NA,4,0
+373,Görkem Tozlu,NA,NA,2,0
+374,Giovanni Marigo,2,RV,15,0
+375,Enes Noah Öztürk,18,RV,2,0
+376,Adam Lamkaddam,32,NA,1,0
+377,Merdan Köse,4,IV,10,0
+378,Yannick Emanuel Wöhle,16,ST,8,0
+379,Erdem Celik,18,RM,4,0
+380,Philip Bartoschek,17,ZOM,10,0
+381,Jeff Nnaemeka-Chukwurah,28,ZOM,6,0
+382,Aaron Yusuff,NA,TW,8,0
+383,Max Koyuncu,9,NA,2,0
+384,Fabian Clemen,NA,NA,0,0
+385,Carl Dopke,1,NA,0,0
+386,Yussef Jradi,11,ST,11,0
+387,Ali Hammoud,NA,RV,7,0
+388,Mohammed Yaqoobi,3,LV,12,0
+389,Maximilian Schatz,24,ZM,6,0
+390,Lucky Ugbogbo,NA,LM,4,0
+391,Patrick Kühn,1,TW,11,0
+392,Leo Sommerfeld,NA,IV,1,0
+393,Alvenzio Ettah,19,ZM,12,0
+394,Florian Hildebrand,NA,NA,1,0
+395,Loide Simao Macave,13,NA,3,0
+396,Felix Klebe,26,RM,1,0
+397,Gani Gashi,33,RM,6,0
+398,Kai Neumann,21,ZM,4,0
+399,Eren Motuk,5,IV,11,0
+400,Elias Jamil Erisen,NA,LV,2,0
+401,Joshua Ridzewski,NA,LM,1,0
+402,Erik Sieber,NA,NA,0,0
+403,Milo Lippe,8,ZM,10,0
+404,Nico Bochnia,23,ST,6,0
+405,Emile Ako,NA,NA,1,0
+406,Leon Drannaschk,10,LM,14,0
+407,Merdie Tshondo,20,RV,5,0
+408,Robert Kurth,22,NA,3,0
+409,Tiago de Sousa Oliveira,NA,NA,1,0
+410,Oskar Kühn,23,TW,2,0
+411,Atacan Özcan,22,LM,11,0
+412,Linus Hechtfisch,23,TW,6,0
+413,Matteo Topal,31,ZDM,12,0
+414,Maximilian Widmer,NA,NA,4,0
+415,Vincent Spiegel,15,IV,1,0
+416,Furkan Yildirim,13,ZDM,13,0
+417,Janne Henrik Bloch,33,TW,2,0
+418,Leonhard Buchmann,14,NA,1,0
+419,Mustafa Kemal Karaman,11,LV,9,0
+420,Fonseca Pereira Mendes,25,RV,12,0
+421,Dmytro Karika,30,TW,3,0
+422,Arda Isik,NA,ST,2,0
+423,Moritz Brune,17,NA,0,0
+424,Christian Müller,25,ZDM,7,0
+425,Dennis Bohnsack,9,ST,12,0
+426,Noah Maximilian Laske,19,RV,7,0
+427,Yigit Öncü,24,NA,0,0
+428,Nicolas Costa Echeverria,4,IV,13,0
+429,Cliff Boanu,29,LM,12,0
+430,Rene Fon Nkafu,77,NA,0,0
+431,Oskar Klauke,20,LV,6,0
+432,Juan José Swett Barros,23,NA,0,0
+433,Nana Nkrumah,12,ST,8,0
+434,Jonas Lück,18,TW,5,0
+435,Kemo Andresen,NA,NA,1,0
+436,Mert Arslan,NA,TW,0,0
+437,Dominic Kranz,7,LV,12,0
+438,Carl-Lennart Stöver,19,LV,11,0
+439,Marques Brunow,NA,NA,2,0
+440,Yeifre Diaz Chacon,NA,NA,1,0
+441,Mehmet Akif Bakiroglugil,18,NA,2,0
+442,Abdullah Bayram,21,LM,12,0
+443,Simon Riedel,14,RV,11,0
+444,Pedro Lucas Santanna Miranda Silva,10,ST,15,0
+445,Lancine Braunert,NA,NA,0,0
+446,Theo Kagoue,45,RM,5,0
+447,Ali Ismail Gashi,12,RM,5,0
+448,Ilai Harder,NA,NA,0,0
+449,Joao Victor Braga De Souza,2,IV,15,0
+450,Julian Duczmal,NA,ZM,4,0
+451,Luca Munsky,3,LV,11,0
+452,Mehdi Bencheikh,NA,IV,4,0
+453,Oskar Denis Cuesta,11,NA,6,0
+454,Billy Bradley Tuckerman,NA,RM,4,0
+455,Cristobal Del Fierro,1,NA,12,0
+456,Ryan Max Robert French,14,LM,13,0
+457,Ognyan Stefanov,16,NA,6,0
+458,Osben-Dario Ondo Mangue,2,NA,8,0
+459,Rafael Mentrup,21,LM,12,0
+460,Laszlo Braun,22,ST,9,0
+461,Daniil Savenko,18,NA,4,0
+462,Maximilian De Rosnay,17,NA,8,0
+463,Emmanuel Sokowonci Daniel,32,NA,0,0
+464,Mohamad Faramarzi,20,RM,10,0
+465,Roger Gonzalez I Hermosa,40,TW,3,0
+466,Joshua Isaias Almedom,3,RM,9,0
+467,Ezher Akbulut,23,LM,12,0
+468,Adrian Welch,7,ST,5,0
+469,Yannick Djekonbe,20,NA,2,0
+470,Argjent Krasniqi,12,ST,12,0
+471,Nicholas Cartwright Stanley,18,ZOM,14,0
+472,Oscar Reinaldo Avendano Leon,30,LM,7,0
+473,Sebastian Basaure Larrain,NA,NA,1,0
+474,Adnan Shah,NA,NA,0,0
+475,Leon Splanemann,NA,NA,0,0
+476,Daniel Hölbling,15,ST,4,0
+477,Lukas Czernitzky,12,NA,0,0
+478,Piet Kühn,21,TW,12,0
+479,Adam Barnat,6,LM,3,0
+480,Philip Wieser,17,ZM,12,0
+481,Timo Brei,NA,IV,4,0
+482,Lewi Dawit Molalegn,15,ST,13,0
+483,Pascal Ulrich,NA,NA,0,0
+484,Eric Ekandille,28,RM,2,0
+485,Eike Barth,25,ST,5,0
+486,Anton Louis Süring,NA,LV,2,0
+487,Lennart Will,NA,NA,1,0
+488,Jamie Dell Bullock,3,LV,12,0
+489,Joel Broughton Weeks,NA,NA,1,0
+490,Keita Udo,12,ZM,8,0
+491,Süleyman Aktas,29,TW,7,0
+492,Ahmad Haj Youssef,19,LM,12,0
+493,Zachariah Mohamed Dukuly,21,NA,2,0
+494,Luca Seeber,12,TW,3,0
+495,Tobias Brandt,7,ST,9,0
+496,Laurens Cerny,20,ZM,12,0
+497,Sebastian Naicker,31,NA,3,0
+498,Marlon Mayen Guzman,16,ZDM,6,0
+499,Felix Wittenburg,24,ZM,7,0
+500,Mohamad El-Ali,42,NA,2,0
+501,Joao Victor Souza Rosa,24,NA,7,0
+502,Leon Merke,NA,TW,1,0
+503,Konstantin Joseski,NA,RV,4,0
+504,Alexander Lorenz,11,NA,3,0
+505,Denys Kovtun,NA,NA,0,0
+506,Iven Wiecker,NA,NA,1,0
+507,Sadjad Rassuli,NA,NA,1,0
+508,Nikita Ovcharov,NA,NA,1,0
+509,Mohammad Kassem,NA,TW,1,0
+510,M. Pereira,NA,NA,1,0
+511,R. Pereira,NA,NA,1,0

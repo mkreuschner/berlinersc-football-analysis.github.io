@@ -1,0 +1,288 @@
+---
+title: second
+output: html_document
+---
+<head>
+<title>second-page</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/Users/mkreuschnervsp/git/berlinersc-football-analysis.github.io/styles/third_page.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata">
+<style>
+@font-face {
+  font-family: 'Inconsolata';
+  src: url('fonts/Inconsolata-Regular.woff2') format('woff2');
+}
+body {
+  font-family: 'Inconsolata', monospace;
+}
+h1.title { 
+    display: none;  /* Titel verstecken */
+}
+body, html {
+  height: 100%;
+  font-family: "Inconsolata", sans-serif;
+}
+select, button {
+    margin: 10px 0;
+    padding: 10px;
+    font-size: 16px;
+    width: 100%;
+    max-width: 400px;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+#result {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    color: #333;
+    border-radius: 5px;
+    text-align: left;
+    max-width: 400px;
+    margin: 20px auto;
+}
+
+/* Ensure the navigation bar spans the full width of the screen */
+#navbar {
+  width: 100%; /* Make it span the full width */
+  position: fixed; /* Keep it fixed at the top */
+  top: 0;
+  left: 0;
+  z-index: 1000; /* Ensure it's above other elements */
+  background-color: #000; /* Black background */
+  font-size: 1.5rem;
+}
+
+/* Make the nav buttons also fill their columns properly */
+.w3-row .w3-button {
+  width: 100%;
+  text-align: center;
+  padding: 10px 0;
+  color: white;
+  text-decoration: none;
+}
+
+.w3-row .w3-button:hover {
+  background-color: #333; /* Lighter shade for hover effect */
+}
+
+/* Ensure the content below starts after the navbar */
+body {
+  margin-top: 60px; /* Adjust based on navbar height */
+}
+
+/* General styling for the rest of the content */
+.w3-content {
+  margin-top: 20px;
+  padding: 10px;
+}
+
+#statsTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+#statsTable th, #statsTable td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+}
+
+#statsTable th {
+    background: #f4f4f4;
+}
+#about {
+justify-content: center; /* Zentriert horizontal */
+text-align: center; /* Horizontales Zentrieren */
+}
+
+#showStats {
+    background-color: #000;
+    color: white;
+    font-size: 1.5rem;
+}
+</style>
+</head>
+<body>
+
+<!-- Links (sit on top) -->
+<div class="w3-top">
+<div class="w3-row w3-padding w3-black">
+<div class="navbar" id="navbar">
+<div class="w3-col s3">
+<a href="index.html" class="w3-button w3-block w3-black">TABELLEN</a>
+</div>
+<div class="w3-col s3">
+<a href="teams.html" class="w3-button w3-block w3-black">TEAMS</a>
+</div>
+<div class="w3-col s3">
+<a href="spieler.html" class="w3-button w3-block w3-black">PLAYER</a>
+</div>
+<div class="w3-col s3">
+<a href="real11.html" class="w3-button w3-block w3-black">REAL11</a>
+</div>
+</div>
+</div>
+</div>
+
+<!-- Add a background color and large text to the whole page -->
+<div class="w3-sand w3-grayscale w3-large">
+
+<!-- About Container -->
+<div class="w3-container" id="about">
+<div class="w3-content" style="max-width:700px">
+<h5 class="w3-center w3-padding-64"><span class="w3-tag w3-wide">TEAM</span></h5>
+<div>
+<select id="teamSelect" onchange="updatePlayerDropdown()">
+<option value="">-- wähle ein Team --</option>
+</select>
+<br>
+<select id="categorySelect">
+<option value="">-- wähle eine Kategorie --</option>
+<option value="keypoints">Keypoints</option>
+<option value="letzte_spiele">Letzte Spiele</option>
+<option value="formation">Formation</option>
+<option value="erwartete_s11">Erwartete S11</option>
+<option value="tore">Tore</option>
+<option value="spieler">Spieler</option>
+</select>
+<br>
+<button id="showStats">Anzeigen</button>
+<div id="result">
+<canvas id="chart" width="400" height="200"></canvas>
+<table id="statsTable"></table>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<!-- End page content -->
+</div>
+
+<!-- Footer -->
+<footer class="w3-center w3-light-grey w3-padding-48 w3-large">
+<p>Created by Moritz</p>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.0.1/chart.umd.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+    const teams = ["Berliner SC II", "Team B", "Team C"]; // Beispielteams
+    const teamSelect = document.getElementById("teamSelect");
+    const categorySelect = document.getElementById("categorySelect");
+    const showStatsButton = document.getElementById("showStats");
+    const resultTable = document.getElementById("statsTable");
+    const chartCanvas = document.getElementById("chart");
+    // Teams in das Dropdown einfügen
+    teams.forEach(team => {
+        const option = document.createElement("option");
+        option.value = team;
+        option.textContent = team;
+        teamSelect.appendChild(option);
+    });
+    // Event Listener für den Button
+    showStatsButton.addEventListener("click", () => {
+        const selectedTeam = teamSelect.value;
+        const selectedCategory = categorySelect.value;
+        if (!selectedTeam || !selectedCategory) {
+            alert("Bitte wähle ein Team und eine Kategorie.");
+            return;
+        }
+        // Lade Daten je nach Kategorie
+        if (selectedCategory === "keypoints") {
+            loadCSV("keypoints.csv", selectedTeam, displayKeypoints);
+        } else if (selectedCategory === "letzte_spiele") {
+            loadCSV("letzte_spiele.csv", selectedTeam, displayLastGames);
+        } else {
+            alert("Diese Kategorie wird noch nicht unterstützt.");
+        }
+    });
+    // CSV-Datei laden
+    function loadCSV(file, team, callback) {
+        Papa.parse(file, {
+            download: true,
+            header: true,
+            complete: function(results) {
+                const filteredData = results.data.filter(row => row.team === team);
+                callback(filteredData);
+            }
+        });
+    }
+    // Keypoints anzeigen
+    function displayKeypoints(data) {
+        resultTable.innerHTML = "";
+        if (data.length === 0) {
+            resultTable.innerHTML = "<tr><td>Keine Daten verfügbar</td></tr>";
+            return;
+        }
+        // Kopfzeile
+        const headerRow = document.createElement("tr");
+        ["Key", "Value"].forEach(column => {
+            const th = document.createElement("th");
+            th.textContent = column;
+            headerRow.appendChild(th);
+        });
+        resultTable.appendChild(headerRow);
+        // Datenzeilen
+        data.forEach(row => {
+            const tr = document.createElement("tr");
+            const keyCell = document.createElement("td");
+            keyCell.textContent = row.key;
+            const valueCell = document.createElement("td");
+            valueCell.textContent = row.value;
+            tr.appendChild(keyCell);
+            tr.appendChild(valueCell);
+            resultTable.appendChild(tr);
+        });
+    }
+    // Letzte Spiele anzeigen
+    function displayLastGames(data) {
+        resultTable.innerHTML = "";
+        if (data.length === 0) {
+            resultTable.innerHTML = "<tr><td>Keine Daten verfügbar</td></tr>";
+            return;
+        }
+        // Kopfzeile
+        const headerRow = document.createElement("tr");
+        ["Spieltag", "Gegner", "Ergebnis"].forEach(column => {
+            const th = document.createElement("th");
+            th.textContent = column;
+            headerRow.appendChild(th);
+        });
+        resultTable.appendChild(headerRow);
+        // Datenzeilen
+        data.forEach(row => {
+            const tr = document.createElement("tr");
+            const spieltagCell = document.createElement("td");
+            spieltagCell.textContent = row.spieltag;
+            const gegnerCell = document.createElement("td");
+            gegnerCell.textContent = row.gegner;
+            const ergebnisCell = document.createElement("td");
+            ergebnisCell.textContent = row.ergebnis;
+            tr.appendChild(spieltagCell);
+            tr.appendChild(gegnerCell);
+            tr.appendChild(ergebnisCell);
+            resultTable.appendChild(tr);
+        });
+    }
+});
+</script>
+</body>
+</html>
+
+
