@@ -305,20 +305,19 @@ gesamttabelle <- matchday_data %>%
 gesamttabelle <- gesamttabelle %>%
     group_by(team) %>%
     summarise(
-      Spiele = n(),
-      Siege = sum(goals_s > goals_c),
-      Unentschieden = sum(goals_s == goals_c),
-      Niederlagen = sum(goals_s < goals_c),
-      Tore = sum(goals_s),
-      Gegentore = sum(goals_c)
+      S = n(),
+      G = sum(goals_s > goals_c),
+      U = sum(goals_s == goals_c),
+      N = sum(goals_s < goals_c),
+      Tore = paste(sum(goals_s),sum(goals_c),sep =":"),
+      Dif = sum(goals_s) - sum(goals_c)
     ) %>%
     mutate(
-      Differenz = Tore - Gegentore,          # Tordifferenz berechnen
-      Punkte = Siege * 3 + Unentschieden    # Punkte berechnen
+      Pkt = G * 3 + U    # Punkte berechnen
     ) %>%
-    arrange(desc(Punkte), desc(Differenz)) %>%  # Tabelle nach Punkten und Differenz sortieren
-    mutate(Rank = row_number()) %>%             # Rank-Spalte hinzufügen
-    select(Rank, everything())                  # Rank-Spalte an den Anfang verschieben
+    arrange(desc(Pkt), desc(Dif)) %>%  # Tabelle nach Punkten und Differenz sortieren
+    mutate("#" = row_number()) %>%             # Rank-Spalte hinzufügen
+    select("#", everything())                  # Rank-Spalte an den Anfang verschieben
   
 # Filter nur für Heimspiele und Spiele mit gültigen Ergebnissen
 heimtabelle <- matchday_data %>%
@@ -329,20 +328,19 @@ heimtabelle <- matchday_data %>%
 heimtabelle <- heimtabelle %>%
     group_by(team) %>%
     summarise(
-      Spiele = n(),
-      Siege = sum(goals_s > goals_c),
-      Unentschieden = sum(goals_s == goals_c),
-      Niederlagen = sum(goals_s < goals_c),
-      Tore = sum(goals_s),
-      Gegentore = sum(goals_c)
+      S = n(),
+      G = sum(goals_s > goals_c),
+      U = sum(goals_s == goals_c),
+      N = sum(goals_s < goals_c),
+      Tore = paste(sum(goals_s),sum(goals_c),sep =":"),
+      Dif = sum(goals_s) - sum(goals_c)
     ) %>%
     mutate(
-      Differenz = Tore - Gegentore,          # Tordifferenz berechnen
-      Punkte = Siege * 3 + Unentschieden    # Punkte berechnen
+      Pkt = G * 3 + U    # Punkte berechnen
     ) %>%
-    arrange(desc(Punkte), desc(Differenz))  %>%  # Tabelle nach Punkten und Differenz sortieren
-    mutate(Rank = row_number()) %>%             # Rank-Spalte hinzufügen
-    select(Rank, everything())                  # Rank-Spalte an den Anfang verschieben
+    arrange(desc(Pkt), desc(Dif)) %>%  # Tabelle nach Punkten und Differenz sortieren
+    mutate("#" = row_number()) %>%             # Rank-Spalte hinzufügen
+    select("#", everything())                  # Rank-Spalte an den Anfang verschieben
 
 
 # Filter nur für Heimspiele und Spiele mit gültigen Ergebnissen
@@ -354,20 +352,19 @@ auswärtstabelle <- matchday_data %>%
 auswärtstabelle <- auswärtstabelle %>%
     group_by(team) %>%
     summarise(
-      Spiele = n(),
-      Siege = sum(goals_s > goals_c),
-      Unentschieden = sum(goals_s == goals_c),
-      Niederlagen = sum(goals_s < goals_c),
-      Tore = sum(goals_s),
-      Gegentore = sum(goals_c)
+      S = n(),
+      G = sum(goals_s > goals_c),
+      U = sum(goals_s == goals_c),
+      N = sum(goals_s < goals_c),
+      Tore = paste(sum(goals_s),sum(goals_c),sep =":"),
+      Dif = sum(goals_s) - sum(goals_c)
     ) %>%
     mutate(
-      Differenz = Tore - Gegentore,          # Tordifferenz berechnen
-      Punkte = Siege * 3 + Unentschieden    # Punkte berechnen
+      Pkt = G * 3 + U    # Punkte berechnen
     ) %>%
-    arrange(desc(Punkte), desc(Differenz))  %>%  # Tabelle nach Punkten und Differenz sortieren
-    mutate(Rank = row_number()) %>%             # Rank-Spalte hinzufügen
-    select(Rank, everything())                  # Rank-Spalte an den Anfang verschieben
+    arrange(desc(Pkt), desc(Dif)) %>%  # Tabelle nach Punkten und Differenz sortieren
+    mutate("#" = row_number()) %>%             # Rank-Spalte hinzufügen
+    select("#", everything())                  # Rank-Spalte an den Anfang verschieben
 
 # Filter nur für Heimspiele und Spiele mit gültigen Ergebnissen
 rasentabelle <- matchday_data %>%
@@ -378,20 +375,19 @@ rasentabelle <- matchday_data %>%
 rasentabelle  <- rasentabelle  %>%
     group_by(team) %>%
     summarise(
-      Spiele = n(),
-      Siege = sum(goals_s > goals_c),
-      Unentschieden = sum(goals_s == goals_c),
-      Niederlagen = sum(goals_s < goals_c),
-      Tore = sum(goals_s),
-      Gegentore = sum(goals_c)
+      S = n(),
+      G = sum(goals_s > goals_c),
+      U = sum(goals_s == goals_c),
+      N = sum(goals_s < goals_c),
+      Tore = paste(sum(goals_s),sum(goals_c),sep =":"),
+      Dif = sum(goals_s) - sum(goals_c)
     ) %>%
     mutate(
-      Differenz = Tore - Gegentore,          # Tordifferenz berechnen
-      D_Punkte = round((Siege * 3 + Unentschieden) / Spiele ,2)   # Punkte berechnen
+      Pkt = G * 3 + U    # Punkte berechnen
     ) %>%
-    arrange(desc(D_Punkte), desc(Differenz))   %>%  # Tabelle nach Punkten und Differenz sortieren
-    mutate(Rank = row_number()) %>%             # Rank-Spalte hinzufügen
-    select(Rank, everything())                  # Rank-Spalte an den Anfang verschieben
+    arrange(desc(Pkt), desc(Dif)) %>%  # Tabelle nach Punkten und Differenz sortieren
+    mutate("#" = row_number()) %>%             # Rank-Spalte hinzufügen
+    select("#", everything())                  # Rank-Spalte an den Anfang verschieben
 
 # Filter nur für Heimspiele und Spiele mit gültigen Ergebnissen
 kunstrasentabelle <- matchday_data %>%
@@ -402,20 +398,19 @@ kunstrasentabelle <- matchday_data %>%
 kunstrasentabelle  <- kunstrasentabelle  %>%
     group_by(team) %>%
     summarise(
-      Spiele = n(),
-      Siege = sum(goals_s > goals_c),
-      Unentschieden = sum(goals_s == goals_c),
-      Niederlagen = sum(goals_s < goals_c),
-      Tore = sum(goals_s),
-      Gegentore = sum(goals_c)
+      S = n(),
+      G = sum(goals_s > goals_c),
+      U = sum(goals_s == goals_c),
+      N = sum(goals_s < goals_c),
+      Tore = paste(sum(goals_s),sum(goals_c),sep =":"),
+      Dif = sum(goals_s) - sum(goals_c)
     ) %>%
     mutate(
-      Differenz = Tore - Gegentore,          # Tordifferenz berechnen
-      D_Punkte = round((Siege * 3 + Unentschieden) / Spiele, 2)   # Punkte berechnen
+      Pkt = G * 3 + U    # Punkte berechnen
     ) %>%
-    arrange(desc(D_Punkte), desc(Differenz))   %>%  # Tabelle nach Punkten und Differenz sortieren
-    mutate(Rank = row_number()) %>%             # Rank-Spalte hinzufügen
-    select(Rank, everything())                  # Rank-Spalte an den Anfang verschieben
+    arrange(desc(Pkt), desc(Dif)) %>%  # Tabelle nach Punkten und Differenz sortieren
+    mutate("#" = row_number()) %>%             # Rank-Spalte hinzufügen
+    select("#", everything())                  # Rank-Spalte an den Anfang verschieben
 
 
 # Filter nur für Heimspiele und Spiele mit gültigen Ergebnissen
@@ -427,20 +422,19 @@ kleinkunstrasentabelle <- matchday_data %>%
 kleinkunstrasentabelle  <- kleinkunstrasentabelle  %>%
     group_by(team) %>%
     summarise(
-      Spiele = n(),
-      Siege = sum(goals_s > goals_c),
-      Unentschieden = sum(goals_s == goals_c),
-      Niederlagen = sum(goals_s < goals_c),
-      Tore = sum(goals_s),
-      Gegentore = sum(goals_c)
+      S = n(),
+      G = sum(goals_s > goals_c),
+      U = sum(goals_s == goals_c),
+      N = sum(goals_s < goals_c),
+      Tore = paste(sum(goals_s),sum(goals_c),sep =":"),
+      Dif = sum(goals_s) - sum(goals_c)
     ) %>%
     mutate(
-      Differenz = Tore - Gegentore,          # Tordifferenz berechnen
-      D_Punkte = round((Siege * 3 + Unentschieden) / Spiele, 2)   # Punkte berechnen
+      Pkt = G * 3 + U    # Punkte berechnen
     ) %>%
-    arrange(desc(D_Punkte), desc(Differenz))   %>%  # Tabelle nach Punkten und Differenz sortieren
-    mutate(Rank = row_number()) %>%             # Rank-Spalte hinzufügen
-    select(Rank, everything())                  # Rank-Spalte an den Anfang verschieben
+    arrange(desc(Pkt), desc(Dif)) %>%  # Tabelle nach Punkten und Differenz sortieren
+    mutate("#" = row_number()) %>%             # Rank-Spalte hinzufügen
+    select("#", everything())                  # Rank-Spalte an den Anfang verschieben
 
 ```
 
@@ -449,8 +443,7 @@ kleinkunstrasentabelle  <- kleinkunstrasentabelle  %>%
 ```{R echo = FALSE, results='markup'}
 # Filter nur für Heimspiele ("home") und nur Spiele, bei denen Ergebnisse vorhanden sind
 all_games <- matchday_data %>%
-  filter(where == "home") %>%               # Nur Heimspiele
-  filter(!is.na(goals_s) & !is.na(goals_c)) # Nur gespielte Spiele
+  filter(where == "home")              # Nur Heimspiele
 
 # Ergebnis-Spalte (z.B. "1:0") erstellen
 all_games <- all_games %>%
@@ -478,16 +471,24 @@ all_games <- all_games %>%
       Ergebnis
     } else {
       # Wenn Spieltag > 15: Suche das Hinrundenergebnis (umgekehrte Spielpaarung zwischen Spieltag 1 und 15)
-      hinrunde_match <- filtered_data %>%
-        filter(matchday <= 15 & Heim == Auswärts & Auswärts == Heim)
+      hinrunde_match <- all_games %>%
+        filter(Spieltag <= 15 & Heim == Auswärts & Auswärts == Heim)
       
       if (nrow(hinrunde_match) > 0) {
         paste0("(", hinrunde_match$goals_c, ":", hinrunde_match$goals_s, ")")
       } else {
-        NA
+        "-"
       }
     }
   )
+
+replace_na_in_column <- function(data, column_name, replacement = "-") {
+  data[[column_name]] <- ifelse(is.na(data[[column_name]]), replacement, data[[column_name]])
+  return(data)
+}
+
+all_games <- replace_na_in_column(all_games , "Ergebnis", "-")
+
 
 ```
 
@@ -565,17 +566,12 @@ formtabelle <- last_five_games_1 %>%
   ) %>%
   summarise(
     Spiele = n(),
-    Ergebnis_5 = Ergebnis[5],  # Fünftletztes Spiel
-    Ergebnis_4 = Ergebnis[4],  # Viertletztes Spiel
-    Ergebnis_3 = Ergebnis[3],  # Drittletztes Spiel
-    Ergebnis_2 = Ergebnis[2],  # Vorletztes Spiel
-    Ergebnis_1 = Ergebnis[1],  # Letztes Spiel
-    Tore = sum(goals_s),
-    Gegentore = sum(goals_c),
-    Dif = Tore - Gegentore,
-    Durchschnittspunkte = round(mean(Punkte, na.rm = TRUE), 3)  # Durchschnittspunkte berechnen
+    "Letzte Spiele" = paste(Ergebnis[5],Ergebnis[4],Ergebnis[3],Ergebnis[2],Ergebnis[1] , sep = "-" ),
+    Tore = paste(sum(goals_s),sum(goals_c),sep = ":"),
+    Dif = sum(goals_s)- sum(goals_c),
+    Pkt = round(mean(Punkte, na.rm = TRUE), 3)  # Durchschnittspunkte berechnen
   ) %>%
-  arrange(desc(Durchschnittspunkte), desc(Dif))  # Tabelle nach Durchschnittspunkten und Differenz sortieren
+  arrange(desc(Pkt), desc(Dif))  # Tabelle nach Durchschnittspunkten und Differenz sortieren
 
 
 ```
@@ -872,77 +868,73 @@ abwehrkette <- formation_probabilities %>%
   ungroup()
   
 head2head_data <- gesamttabelle %>%
-  select(team, Rank, Siege, Unentschieden, Niederlagen) %>%
+  select(team, "#", G, U, N) %>%
   mutate(
-    Ges_Bilanz = paste(Siege, Unentschieden, Niederlagen, sep = "-")  # Bilanz der Gesamttabelle
+    Ges_Bilanz = paste(G, U, N, sep = "-")  # Bilanz der Gesamttabelle
   ) %>%
   left_join(
     heimtabelle %>%
       mutate(
-        H_Bilanz = paste(Siege, Unentschieden, Niederlagen, sep = "-")  # Heim-Bilanz
+        H_Bilanz = paste(G, U, N, sep = "-")  # Heim-Bilanz
       ) %>%
-      select(team, Rank_H = Rank , H_Bilanz),
+      select(team, Rank_H = "#" , H_Bilanz),
     by = "team"
   ) %>%
-  select(team, Rank, Ges_Bilanz, Rank_H, H_Bilanz) %>%
+  select(team, "#", Ges_Bilanz, Rank_H, H_Bilanz) %>%
   left_join(
     auswärtstabelle %>%
       mutate(
-        A_Bilanz = paste(Siege, Unentschieden, Niederlagen, sep = "-")  # Aus-Bilanz
+        A_Bilanz = paste(G, U, N, sep = "-")  # Aus-Bilanz
       ) %>%
-      select(team, Rank_A = Rank , A_Bilanz),
+      select(team, Rank_A = "#" , A_Bilanz),
     by = "team"
   ) %>%
-  select(team, Rank, Ges_Bilanz, Rank_H, H_Bilanz, Rank_A, A_Bilanz) %>%
+  select(team, "#", Ges_Bilanz, Rank_H, H_Bilanz, Rank_A, A_Bilanz) %>%
   left_join(
     rasentabelle %>%
       mutate(
-        NR_Bilanz = paste(Siege, Unentschieden, Niederlagen, sep = "-")  # Rasen-Bilanz
+        NR_Bilanz = paste(G, U, N, sep = "-")  # Rasen-Bilanz
       ) %>%
-      select(team, Rank_NR = Rank , NR_Bilanz),
+      select(team, Rank_NR = "#" , NR_Bilanz),
     by = "team"
   ) %>%
-  select(team, Rank, Ges_Bilanz, Rank_H, H_Bilanz, Rank_A, A_Bilanz, Rank_NR, NR_Bilanz) %>%
+  select(team, "#", Ges_Bilanz, Rank_H, H_Bilanz, Rank_A, A_Bilanz, Rank_NR, NR_Bilanz) %>%
   left_join(
     kunstrasentabelle %>%
       mutate(
-        KR_Bilanz = paste(Siege, Unentschieden, Niederlagen, sep = "-")  # KuRa-Bilanz
+        KR_Bilanz = paste(G, U, N, sep = "-")  # KuRa-Bilanz
       ) %>%
-      select(team, Rank_KR = Rank , KR_Bilanz),
+      select(team, Rank_KR = "#" , KR_Bilanz),
     by = "team"
   ) %>%
-  select(team, Rank, Ges_Bilanz, Rank_H, H_Bilanz, Rank_A, A_Bilanz, Rank_NR, NR_Bilanz, Rank_KR, KR_Bilanz) %>%
+  select(team, "#", Ges_Bilanz, Rank_H, H_Bilanz, Rank_A, A_Bilanz, Rank_NR, NR_Bilanz, Rank_KR, KR_Bilanz) %>%
   left_join(
     kleinkunstrasentabelle %>%
       mutate(
-        kKR_Bilanz = paste(Siege, Unentschieden, Niederlagen, sep = "-")  # KuRa-Bilanz
+        kKR_Bilanz = paste(G, U, N, sep = "-")  # KuRa-Bilanz
       ) %>%
-      select(team, Rank_kKR = Rank , kKR_Bilanz),
+      select(team, Rank_kKR = "#" , kKR_Bilanz),
     by = "team"
   ) %>%
-  select(team, Rank, Ges_Bilanz, Rank_H, H_Bilanz, Rank_A, A_Bilanz, Rank_NR, NR_Bilanz, Rank_KR, KR_Bilanz, Rank_kKR, kKR_Bilanz) %>%
+  select(team, "#", Ges_Bilanz, Rank_H, H_Bilanz, Rank_A, A_Bilanz, Rank_NR, NR_Bilanz, Rank_KR, KR_Bilanz, Rank_kKR, kKR_Bilanz) %>%
   left_join(
     formtabelle %>%
-      mutate(
-        letzte5 = paste(Ergebnis_5, Ergebnis_4, Ergebnis_3,Ergebnis_2,Ergebnis_1, sep = "-"), # Form
-        tore_letzte5 = paste(Tore, Gegentore, sep = ":")
-      ) %>%
-      select(team, letzte5 , tore_letzte5),
+      select(team, "Letzte Spiele" ,Tore),
     by = "team"
   ) %>%
-  select(team, Rank, Ges_Bilanz, Rank_H, H_Bilanz, Rank_A, A_Bilanz, Rank_NR, NR_Bilanz, Rank_KR, KR_Bilanz, Rank_kKR, kKR_Bilanz, letzte5 , tore_letzte5) %>%
+  select(team, "#", Ges_Bilanz, Rank_H, H_Bilanz, Rank_A, A_Bilanz, Rank_NR, NR_Bilanz, Rank_KR, KR_Bilanz, Rank_kKR, kKR_Bilanz, "Letzte Spiele" ,Tore) %>%
   left_join(
     formation_per_team %>%
       select(team, Formation , Wahrscheinlichkeit),
     by = "team"
   ) %>%
-  select(team, Rank, Ges_Bilanz, Rank_H, H_Bilanz, Rank_A, A_Bilanz, Rank_NR, NR_Bilanz, Rank_KR, KR_Bilanz, Rank_kKR, kKR_Bilanz, letzte5 , tore_letzte5, Formation , Wahrscheinlichkeit) %>%
+  select(team, "#", Ges_Bilanz, Rank_H, H_Bilanz, Rank_A, A_Bilanz, Rank_NR, NR_Bilanz, Rank_KR, KR_Bilanz, Rank_kKR, kKR_Bilanz, "Letzte Spiele" ,Tore, Formation , Wahrscheinlichkeit) %>%
   left_join(
     abwehrkette %>%
       select(team, dreierKette , viererKette),
     by = "team"
   ) %>%
-  select(team, Rank, Ges_Bilanz, Rank_H, H_Bilanz, Rank_A, A_Bilanz, Rank_NR, NR_Bilanz, Rank_KR, KR_Bilanz, Rank_kKR, kKR_Bilanz, letzte5 , tore_letzte5, Formation , Wahrscheinlichkeit, dreierKette , viererKette)
+  select(team, "#", Ges_Bilanz, Rank_H, H_Bilanz, Rank_A, A_Bilanz, Rank_NR, NR_Bilanz, Rank_KR, KR_Bilanz, Rank_kKR, kKR_Bilanz, "Letzte Spiele" ,Tore, Formation , Wahrscheinlichkeit, dreierKette , viererKette)
 
 ```
 
@@ -962,6 +954,8 @@ write_csv(rasentabelle,file = "~/git/berlinersc-football-analysis.github.io/data
 write_csv(kunstrasentabelle,file = "~/git/berlinersc-football-analysis.github.io/data/kunstrasentabelle.csv")
 write_csv(kleinkunstrasentabelle,file = "~/git/berlinersc-football-analysis.github.io/data/kleinkunstrasentabelle.csv")
 write_csv(formtabelle,file = "~/git/berlinersc-football-analysis.github.io/data/formtabelle.csv")
+
+write_csv(all_games,file = "~/git/berlinersc-football-analysis.github.io/data/Spieltage.csv")
 
 
 

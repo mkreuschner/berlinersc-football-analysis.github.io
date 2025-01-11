@@ -1,13 +1,16 @@
 ---
+title: third
 output: html_document
 ---
 <head>
-<title>first_page</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="/Users/mkreuschnervsp/git/berlinersc-football-analysis.github.io/styles/third_page.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata">
+<!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata"> -->
 <style>
+h1.title { 
+    display: none;  /* Titel verstecken */
+}
 body, html {
   height: 100%;
   font-family: "Inconsolata", sans-serif;

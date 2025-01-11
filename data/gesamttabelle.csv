@@ -1,17 +1,17 @@
-Rank,team,Spiele,Siege,Unentschieden,Niederlagen,Tore,Gegentore,Differenz,Punkte
-1,TSV Rudow Berlin,15,10,4,1,31,7,24,34
-2,BFC Preussen II,15,10,2,3,46,25,21,32
-3,BFC Meteor 06,15,10,0,5,40,25,15,30
-4,BSV Eintracht Mahlsdorf II,15,9,2,4,37,17,20,29
-5,SC Borsigwalde 1910,15,6,7,2,29,23,6,25
-6,Berliner SV 1892,15,8,1,6,28,24,4,25
-7,FC Viktoria 1889 Berlin II,15,7,3,5,36,37,-1,24
-8,FC Internationale Berlin 1980,15,6,5,4,32,19,13,23
-9,Türkiyemspor Berlin,15,6,3,6,26,23,3,21
-10,Berliner SC II,15,5,5,5,16,15,1,20
-11,Köpenicker FC,15,5,4,6,35,29,6,19
-12,BSV Al-Dersimspor,15,5,2,8,21,31,-10,17
-13,FSV Berolina Stralau 1901,15,3,3,9,18,32,-14,12
-14,SV Empor Berlin II,15,1,7,7,20,34,-14,10
-15,SV Stern Britz 1889,15,3,1,11,17,50,-33,10
-16,VfB Concordia Britz 1916,15,1,1,13,17,58,-41,4
+#,team,S,G,U,N,Tore,Dif,Pkt
+1,TSV Rudow Berlin,15,10,4,1,31:7,24,34
+2,BFC Preussen II,15,10,2,3,46:25,21,32
+3,BFC Meteor 06,15,10,0,5,40:25,15,30
+4,BSV Eintracht Mahlsdorf II,15,9,2,4,37:17,20,29
+5,SC Borsigwalde 1910,15,6,7,2,29:23,6,25
+6,Berliner SV 1892,15,8,1,6,28:24,4,25
+7,FC Viktoria 1889 Berlin II,15,7,3,5,36:37,-1,24
+8,FC Internationale Berlin 1980,15,6,5,4,32:19,13,23
+9,Türkiyemspor Berlin,15,6,3,6,26:23,3,21
+10,Berliner SC II,15,5,5,5,16:15,1,20
+11,Köpenicker FC,15,5,4,6,35:29,6,19
+12,BSV Al-Dersimspor,15,5,2,8,21:31,-10,17
+13,FSV Berolina Stralau 1901,15,3,3,9,18:32,-14,12
+14,SV Empor Berlin II,15,1,7,7,20:34,-14,10
+15,SV Stern Britz 1889,15,3,1,11,17:50,-33,10
+16,VfB Concordia Britz 1916,15,1,1,13,17:58,-41,4

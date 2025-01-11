@@ -7,11 +7,11 @@ output: html_document
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="/Users/mkreuschnervsp/git/berlinersc-football-analysis.github.io/styles/third_page.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata">
+<!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata"> -->
 <style>
 @font-face {
   font-family: 'Inconsolata';
-  src: url('fonts/Inconsolata-Regular.woff2') format('woff2');
+  src: url('https://github.com/mkreuschner/berlinersc-football-analysis.github.io/tree/main/styles/fonts/Inconsolata/static/Inconsolata-Regular.ttf') format('ttf');
 }
 body {
   font-family: 'Inconsolata', monospace;
@@ -178,8 +178,8 @@ text-align: center; /* Horizontales Zentrieren */
 <p>Created by Moritz</p>
 </footer>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.0.1/chart.umd.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+<script src="https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/styles/js/chart.umd.min.js"></script>
+<script src="https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/styles/js/papaparse.min.js"></script>
 <script>
 document.addEventListener("DOMContentLoaded", () => {
     const teams = ["Berliner SC II", "Team B", "Team C"]; // Beispielteams
