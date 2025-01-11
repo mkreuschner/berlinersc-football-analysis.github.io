@@ -39,7 +39,7 @@ table {
 select {
     border: 2px solid #007bff;
     border-radius: 5px;
-    font-size: 16px;
+    font-size: 14px;
     font-family: 'Inconsolata', monospace;
     padding: 10px;
     width: 100%;
@@ -147,38 +147,17 @@ tableSelect.addEventListener("change", function () {
     }
 });
 
-// Funktion zum Ersetzen eines Zeichens in einer Spalte
-function replaceInColumn(data, columnName, targetChar, replacementChar) {
-    return data.map(row => {
-        if (row[columnName]) {
-            row[columnName] = row[columnName].replaceAll(targetChar, replacementChar);
-        }
-        return row;
-    });
-}
 
-// Funktion zum Laden und Anzeigen der Spieltag-CSV-Datei
+// Spieltag-CSV-Datei laden und Teamnamen ersetzen
 function loadMatchdayCSV(filePath) {
     Papa.parse(filePath, {
         download: true,
         header: true,
         skipEmptyLines: true,
         complete: function (results) {
-            const data = results.data;
-            const selectedOption = matchdaySelect.options[matchdaySelect.selectedIndex].text;
-            let filteredData;
-            if (selectedOption === "Letzter Spieltag") {
-                filteredData = data.filter(row => row["Ergebnis"] && row["Ergebnis"].trim() !== "");
-                filteredData = [filteredData[filteredData.length - 1]]; // Zeigt nur den letzten Spieltag mit Ergebnis
-            } else if (selectedOption === "Nächster Spieltag") {
-                const lastMatchday = Math.max(...data.filter(row => row["Ergebnis"] && row["Ergebnis"].trim() !== "").map(row => parseInt(row["Spieltag"])));
-                filteredData = data.filter(row => parseInt(row["Spieltag"]) === lastMatchday + 1);
-            } else {
-                filteredData = data; // Zeigt alle Daten
-            }
-            // Beispiel: Ersetzen von ":" durch "-" in der Spalte "Ergebnis"
-            filteredData = replaceInColumn(filteredData, "Ergebnis", ":", "-");
-            displayData(filteredData, matchdayContainer, ["Spieltag", "Heimteam", "Auswärtsteam", "Ergebnis"]);
+            let data = results.data;
+            data = replaceTeamNames(data, ["Heimteam", "Auswärtsteam"]);
+            displayData(data, matchdayContainer, ["Spieltag", "Heimteam", "Auswärtsteam", "Ergebnis"]);
         },
         error: function (error) {
             console.error("Fehler beim Laden der CSV-Datei:", error);
@@ -187,7 +166,7 @@ function loadMatchdayCSV(filePath) {
     });
 }
 
-// Funktion zum Laden und Anzeigen der Tabellen-CSV-Datei
+// Tabellen-CSV-Datei laden und Teamnamen ersetzen
 function loadTableCSV(filePath) {
     Papa.parse(filePath, {
         download: true,
@@ -195,11 +174,8 @@ function loadTableCSV(filePath) {
         skipEmptyLines: true,
         complete: function (results) {
             let data = results.data;
-            // Ersetzen von Teamnamen bei Bedarf
-            if (isSmallScreen()) {
-                data = replaceTeamNames(data, ["Team", "Gegner"]);
-            }
-            displayData(data, tableContainer, null); // Lädt alle Spalten für Tabellen
+            data = replaceTeamNames(data, ["Team", "Gegner"]);
+            displayData(data, tableContainer, null);
         },
         error: function (error) {
             console.error("Fehler beim Laden der CSV-Datei:", error);
@@ -259,8 +235,16 @@ function isSmallScreen() {
 const teamNameMapping = {
     "TSV Rudow Berlin": "Rudow",
     "BSV Eintracht Mahlsdorf II": "Mahlsdorf II",
-    // Füge weitere Teamnamen hinzu
+    "BFC Preussen II": "Preussen II",
+    "BFC Meteor 06": "Meteor 06",
+    "SC Borsigwalde 1910": "Borsigwalde",
+    "Berliner SV 1892": "BSV 1892",
+    "FC Viktoria 1889 Berlin II": "Viktoria II",
+    "FC Internationale Berlin 1980": "Inter",
+    "Türkiyemspor Berlin": "Türkiyemspor",
+    "Berliner SC II": "BSC II"
 };
+
 
 // Funktion zum Ersetzen der Teamnamen
 function replaceTeamNames(data, columns) {
@@ -273,7 +257,6 @@ function replaceTeamNames(data, columns) {
         return row;
     });
 }
-
 
 </script>
 </body>
