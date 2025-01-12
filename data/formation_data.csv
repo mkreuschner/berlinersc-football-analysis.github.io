@@ -1,483 +1,481 @@
-Spieltag,Team,Gegner,Tore,Gegentore,Wo,Platz,Kader,Formation,Wechsel
-1,TSV Rudow Berlin,FC Viktoria 1889 Berlin II,1,2,home,L,"Gromotka – Frank (70. Maykowski), Fürstenow, Burda, Rötzscher (62. Haj Youssef) – Hassane, Hortum, Thonfeld (46. T. Sennur), Wuthe – Günther, S. Sennur (46. Badu-Amoah)",4-4-2,4
-1,BFC Meteor 06,VfB Concordia Britz 1916,3,2,home,M,"Suilman – Terzopulos-Koutsoubas, Riese, Nerlich, Karasu – Jantzen, Zahlan – Saunders (46. Ugur), Okoronkwo, Heimur (80. Balde) – Böhm (81. Hamiss)",4-2-3-1,3
-1,BFC Preussen II,Berliner SV 1892,3,1,home,S,"Hartmann – Berner (75. Gajda), Kohlmann, Mucuk, Stahlberg – Demir (74. Henseler), Müller (46. Hesse) – Gashi, Fikic, Ugbogbo – Timur (65. Szerwinski)",4-2-3-1,4
-1,SV Stern Britz 1889,Türkiyemspor Berlin,1,0,home,L,"Ziebarth – Diallo, Brei, Schulz, Boanu (85. Frobenius) – Weisse (85. Ehrich), Wojan (90. Höhna), Pyplatz (65. Hauf) – Sik, Schneider, Shawrdi",4-3-3,4
-1,Köpenicker FC,FC Internationale Berlin 1980,1,1,home,NR,"Thiemann – Möhle (84. Will), Nischwitz, Dietrich (76. Hildebrand), Süring (46. O. Ondo Mangue) – J. Ondo Mangue, Neumann, Borchmeier, Rostock (76. Hamann), Tauschwitz – Ilinseer (84. Brunow)",4-5-1,5
-1,BSV Eintracht Mahlsdorf II,Berliner SC II,3,1,home,M,"Streiter – Engfer, Mansour, Bothe (46. Schröter), Reinke – Müller (46. Halilcevic), Michas (80. Grund), Preiss, Pötig (83. Greif) – Heydemann, Völckert (71. Koyuncu)",4-4-2,5
-1,SC Borsigwalde 1910,BSV Al-Dersimspor,1,0,home,S,"Kräft –  Braga De Souza, Motuk, Akkaoui, Chukwu – Rondinelli (81. Nzongo), Ciao, Stefaniszin, Bubner (90. El-Okkla) – Miranda Silva (81. Yildirim) – Crone (81. Djekonbe)",4-4-1-1,4
-1,FSV Berolina Stralau 1901,SV Empor Berlin II,1,1,home,S,"Pothoff – Häberle, Nikolajewski, Reuter – Jonach, Schwarz (87. Heßler), Guillen (73. Bode), Maiß, Rolke (62. Saiti) – Jradi (46. Stier), Bravo (62. Adler)",3-5-2,5
-1,FC Viktoria 1889 Berlin II,TSV Rudow Berlin,2,1,away,L,"Kühn – Stefanovic, Nagel (86. Stefanov), Thiele, Mendes – Herrmann, Manssour, Dieckert (80. Bendjelloul), Llauger (24. Almedom) – Jeong, Weinlein",4-4-2,3
-1,VfB Concordia Britz 1916,BFC Meteor 06,2,3,away,M,"Meißner – Weglöhner (80. Röchert), Auctun, Wenke, Eschert – Schmidtmann (65. Wieser), Gassen, Jerry Gase (46. Wenke), Jordy Gase (65. Yassine) – Bruns, Kühn (65. Tatli)",4-4-2,5
-1,Berliner SV 1892,BFC Preussen II,1,3,away,S,"Lüttschwager – Anker (77. Mikic), Schnack (11. Blust), Tedesco, Bechler – Bellin (77. Wol!), Schleifenbaum, Charkov, Özsoy – Busche, Elsaadawi (67. Tröger)",4-4-2,4
-1,Türkiyemspor Berlin,SV Stern Britz 1889,0,1,away,NR,"Aktas – Emre (6. Celik, 34. Chacon), Yilmas, Lange, Aktas – Simunovic, Koca (59. Kirimoglu) – Diallo, Uzun (82. Faramarzi), Tanis – Saberdest (71. Ertürkler)",4-2-3-1,5
-1,FC Internationale Berlin 1980,Köpenicker FC,1,1,away,NR,"Del Fierro – Bullock (59. Marigo), Echeverria, Boeddinghaus – Kranz, Avendano Leon, Stanley (69. Larrain), Freitag, Schneider – Daus, French (69. De Rosnay)",3-5-2,3
-1,Berliner SC II,BSV Eintracht Mahlsdorf II,1,3,away,M,"Schlicht – Wolski (82. Fidanboy), Leitner, Ibrom, Heilmann (20. Riedel) – Niedenhoff, Peter – Einspannier, Glaser, Antoniofrancisco (46. Bolz) – Arsic",4-2-3-1,3
-1,BSV Al-Dersimspor,SC Borsigwalde 1910,0,1,away,S,"Boel – Kahraman (77. Krasniqi), Kaloglu, Zagmouz, Schäfer – Dos Santos (58. Baba), Güngör, Önal (77. Senkaya), Chawraba (77. Seyyidoglu)– El Noumeiri (46. Essel), Halici",4-4-2,5
-1,SV Empor Berlin II,FSV Berolina Stralau 1901,1,1,away,S,"Yusuff – Nixdorf, Thürigen, Schinzel, Bräker – Mentrup (57. Drannaschk), Ettah (73. Duczmal), Seiler, Lippe (62. Udo), Stolp (90.+1 Strelets)– Mendy",4-5-1,4
-2,FC Internationale Berlin 1980,BFC Preussen II,1,2,home,S,"Del Fierro – Bullock (75. Bratschke), Marigo, Echeverria, Boeddinghaus (88. Büll) – Freitag, Topal – Kranz, Stanley, Leonx (82. Dukuly) – Daus
-",4-2-3-1,3
-2,FC Viktoria 1889 Berlin II,BFC Meteor 06,3,2,home,S,"Kühn – Mendes, Thiele, Nagel, Stefanovic – Llauger (90.+2 Bendjelloul), Herrmann – Jeong (78. Nkrumah), Littbarski, Manssour (90.+4 Almedom) – Hölbling",4-2-3-1,3
-2,Berliner SC II,SC Borsigwalde 1910,1,0,home,S,"Kreuschner – Riedel, Ibrom (14. Oevermann), Leitner, Kaggelidids (83. Huse) – Kücükosman (90. Rencber), Niedenhoff (62. Fildanboy), Einspanier, Wolski (70. Barth) – Glaser, Bolz",4-4-2,5
-2,Türkiyemspor Berlin,TSV Rudow Berlin,0,0,home,NR,"E. Aktas – K. Aktas, Demir, Yilmas, Emre – Simunovic (63. Ertürkler), Tanis – Diallo (84. Faramarzi), Uzun, Jalloh – Saberdest (90.+1 Özen)",4-2-3-1,3
-2,Berliner SV 1892,BSV Eintracht Mahlsdorf II,0,4,home,NR,"Hechtfisch – Mikic (81. Gültepe), Jost, Schleifenbaum, Bechler, Anker – Bellin (60. Bellin), Molalegn (75. Schleifenbaum), Iwuozor (60. Zauner) – Sobczyk (75. Ahmadi), Özsoy",5-3-2,5
-2,VfB Concordia Britz 1916,FSV Berolina Stralau 1901,1,2,home,L,"Meißner – Eschert, Auctun, Wenke, Weglöhner – Bruns, Lozynskyy (69. Köse), Gassen (46. Brüning), Wieser (46. Schmidtmann) – Wenke, Tatli (65. Röchert)",4-4-2,4
-2,BSV Al-Dersimspor,SV Stern Britz 1889,4,1,home,S,"Boel – Kahraman (67. Tshondo), Tonk, Zagmouz, Schäfer – Diokhane, Önal (83. Seyyidoglu) – Awag (77. Dos Santos), Güngör (70. Krasniqi), Chawraba (78. El Noumeiri) – Baba",4-2-3-1,5
-2,SV Empor Berlin II,Köpenicker FC,1,2,home,S,"Yusuff – Nixdorf, Schinzel, Macketanz, Bräkow (83. Misgayski) – Seiler, Ettah (52. Duczmal), Lippe (69. Udo) – Stolp (78. Ortmann), Mendy (65. Mentrup), Drannasck",4-3-3,5
-2,BFC Preussen II,FC Internationale Berlin 1980,2,1,away,S,"Dietzel – Hammoud, Kohlmann, Schill, Fischer (55. Eymann) – Schatz (50. Demir), Hesse (73. Müller) – Fikic, Stahlberg – Ugbogbo (61. Kagoue), Abu-Chaker (61. Mucuk)",4-2-2-2,5
-2,BFC Meteor 06,FC Viktoria 1889 Berlin II,2,3,away,S,"Begzadic – Terzopulos-Kousoubas (78. Celik), Riese, Nerlich, Karasu – Jantzen (46. Schröder), Zahlan (23. Ugur) – Toflaj (87. Abouri), Okoronkwo, Ella – Heimur (87. Balde)",4-2-3-1,5
-2,SC Borsigwalde 1910,Berliner SC II,0,1,away,S,"Kräft – Braga De Souza, Bencheikh, El-Okkla, Kummer, Neumann (79. Chukwu) – Yildirim, Stefaniszin (79. Djekonbe) – Ciao (87. Yildirim) – Miranda Silva, Crone",5-2-1-2,3
-2,TSV Rudow Berlin,Türkiyemspor Berlin,0,0,away,NR,"Gromotka – Burda, Fürstenow, Becker – Rötzsher, Wuthe, Hassane, Badu-Amoah – Sennur – Günther, Maykowski (77. Wöhle)",3-4-1-2,1
-2,BSV Eintracht Mahlsdorf II,Berliner SV 1892,4,0,away,NR,"Streiter – Engfer (76. Reinke), Bothe, Mansour (60. Schröter), Stöver – Szczech (81. Greif), Preiss, Michas, Halilcevic (60. Pötig) – Völckert, Heydemann (68. Reichenberger)",4-4-2,5
-2,FSV Berolina Stralau 1901,VfB Concordia Britz 1916,2,1,away,L,"Friese – Bode, Häberle, Schönfelder – Rolke, Jonach (65. Tsuchiya), Saiti (79. Nikolajewski), Schwarz (53. Reuter), Maiß – Stier (75. Jradi), Bresemann (75. Adler)",3-5-2,5
-2,SV Stern Britz 1889,BSV Al-Dersimspor,1,4,away,S,"Ziebarth – Senay, Brei, Borowski, Boanu – Wojan, Diallo, Pyplatz – Sik, Ehrich (70. Duman), Ridzewski (57. Aykus)",4-3-3,2
-2,Köpenicker FC,SV Empor Berlin II,2,1,away,S,"Seeber – Möhle (77. Dietrich), Weigelt, Hamann, Carius – Rostock (16. Ilinseer), Hartmann, Neumann (89. Wesolek), Borchmeier – Bohnsack (81. Nischwitz), Ondo Mangue (86. Klauke)",4-4-2,5
-3,BFC Preussen II,TSV Rudow Berlin,1,4,home,S,"M. Hartmann – Hammoud, Mucuk, Kohlmann, Berner (64. Andresen) – Y. Demir, Müller (12. Hesse) – Kagoue (64. Özcan), Fikic, Engelsing (78. Szerwinski) – Abou-Chaker (64. Engin)",4-2-3-1,5
-3,SV Empor Berlin II,FC Internationale Berlin 1980,2,2,home,S,"Bloch – Bräkow, Thürigen, Schneidawind (80. Mentrup), Macketanz – Marquard, Duczmal (67. Ettah), Udo (46. Cerny) – Tuckerman (73. Mendy), Stolp, Drannaschk",4-3-3,4
-3,BFC Meteor 06,Berliner SC II,1,2,home,M,"Begzadic – Abouri (68. Terzopoulos-Koutsoubas), Riese, Adigüzel, Karasu – Celik (46. Böhm), Ella (57. Ugur), Tolaj, Zahlan (84. Mustapha), Heimur – Okoronkwo (68. Jüterbock)",4-5-1,5
-3,Köpenicker FC,Türkiyemspor Berlin,3,4,home,NR,"Thiemann – Bohnsack (73. Süring), Nischwitz, Dietrich, Munsky (50. Möhle) – Foth, Borchmeier, Hartmann, Carius – Ilinseer (89. Nyassi), Ondo Mangue (60. Brandt)",4-4-2,4
-3,BSV Eintracht Mahlsdorf II,SV Stern Britz 1889,2,1,home,M,"Streiter – Pötig (55. Szczech), Bothe, Mansour, Stöver – Engfer, Preiss, Grützner (63. Grund), Halilcevic (69. Reinke) – Völckert (90.+1 Isberner), Reichenberger",4-4-2,4
-3,SC Borsigwalde 1910,FC Viktoria 1889 Berlin II,3,3,home,S,"Kräft – Braga De Souza, Motuk, Bencheikh (65. Bartoschek), Neumann – Yildirim, Kummer – Rondinelli (65. Akkaoui), Ciao (65. El-Okkla), Bubner (90.+7 Yaquobi) – Miranda Silva",4-2-3-1,4
-3,VfB Concordia Britz 1916,Berliner SV 1892,1,5,home,L,"Ketel (46. Meißner) – Röchert, Auctun, Wenke, Eschert (61. Yassine) – Weglöhner, Wenke (73. Schmidtmann), Lozynskyy (61. Brüning), Bruns – Kühn, Gase (46. Gassen)",4-4-2,5
-3,FSV Berolina Stralau 1901,BSV Al-Dersimspor,0,1,home,S,"Friese – Häberle, Schönfelder, Nikolajewski – Rolke (70. Hufnagel), Maiß, Jonach, Guillen (56. Saiti), Reuter (79. Tsuchiya)– Jradi, Bresemann (56. Son)",3-5-2,4
-3,TSV Rudow Berlin,BFC Preussen II,4,1,away,S,"Zabavin – Becker, Burda, Fürstenow – Rötzscher (10. Haj Youssef), Wuthe, Hassane, Badu-Amoah (86. Frank) – Maykowski (83. Wöhle) – Günther (90.+2 Aktas), T. Sennur (71. S. Sennur)",3-4-1-2,5
-3,FC Internationale Berlin 1980,SV Empor Berlin II,2,2,away,S,"Del Fierro – Bullock (58. French), Marigo, Echeverra, Boeddinghaus – Freitag, Topal, Kranz, Leon (58. Bauder) – Daus, Stanley (90. Bratschke)",4-4-2,3
-3,Berliner SC II,BFC Meteor 06,2,1,away,M,"Kreuschner – Fidanboy, Oevermann, Leitner, Kaggelidids – Wolski (63. Rad), Einspannier, Niedenhoff, Lilja (77. Huse) – Kücükosman (85. Antoniofrancisco), Glaser (90.+2 Riedel)",4-4-2,4
-3,Türkiyemspor Berlin,Köpenicker FC,4,3,away,NR,"E. Aktas – Özen (46. Ertürkler), Demir (78. Koca), Yilmas, K. Aktas (67. Kirimoglu) – Simunovic (25. Lange), Diallo, Uzun, Saberdest, Tanis – Codura (78. Faramazi)",4-5-1,5
-3,SV Stern Britz 1889,BSV Eintracht Mahlsdorf II,1,2,away,M,"Ziebarth – Frobenius, Brei, Borowski, Höhna – Wojan (78. Duman), Diallo, Pyplatz (78. Hauf) – Ehrich (30. Aykus, 70. Senay), Leci, Chawdri",4-3-3,4
-3,FC Viktoria 1889 Berlin II,SC Borsigwalde 1910,3,3,away,S,"Kühn – Mendes (60. Littler), Nagel (60. Westhäusser), Thiele (90.+1 Knape), Klautzsch – Jeong (80. Nikrumah), Herrmann, Llauger (41. Stefanovic), Manssour – Weinlein, Hölbling",4-4-2,5
-3,Berliner SV 1892,VfB Concordia Britz 1916,5,1,away,L,"Hechtsch – Tröger, Tedesco, Jost, Bechler – Busche (75. Schleifenbaum), Özsoy (85. Gültepe), Koschek, Iwuozor (55. Zauner) – Elsaawadi (75. Bellin), Molalegn",4-4-2,4
-3,BSV Al-Dersimspor,FSV Berolina Stralau 1901,1,0,away,S,"Arslan – Savkovic (46. Achour, 90.+4 Dos Santos), Zagmouz, Tonk, Tshondo (67. Schäfer) – Diakhone, Önal – Awag, Polat, Chawraba (83. Essel) – Krasniqi (50. Uchaglar)",4-2-3-1,5
-4,BSV Al-Dersimspor,BFC Meteor 06,0,2,home,S,"Arslan – Zagmouz, Kalkan (46. Pereira Dos Santos), Tonk, Schäfer (78. Krasniqi) – Önal (67. Savkovic), Diokhane – Awag, Polat (78. Seyyidoglu), Ucbaglar – Baba",4-2-3-1,4
-4,SV Stern Britz 1889,BFC Preussen II,0,6,home,L,"Lück – Brei, Borowski (60. Frobenius), Schulz, Höhna – Boanu, Diallo, Hauf, Shawdri – Wojan (66. Leci) – Sik",4-4-1-1,2
-4,TSV Rudow Berlin,Köpenicker FC,1,0,home,L,"Gromotka – Haj Youssef, Becker, Fürstenow, Bayram (75. Wöhle) – Maykowski, Wuthe, Hassane (45. Tolaj), Badu-Amoah (86. Aktas) – Günther, Sennur (65. Hortum)",4-4-2,4
-4,FC Viktoria 1889 Berlin II,FC Internationale Berlin 1980,1,2,home,S,"Starkowski – Pereira Mendes (46. Westhäusser), Nagel (74. Ali), Thiele, Stefanovic – Jeong (64. Naicker), Dieckert (64. Almedom), Ait Manssour, Herrmann – Nkrumah (39. Macias), Weinlein",4-4-2,5
-4,Berliner SC II,VfB Concordia Britz 1916,1,1,home,NR,"Kreuschner – Ibrom, Oevermann, Leitner, Kaggelidids – Akbulut (46. Antoniofrancisco), Peter, Rad, Rencber (70. Wolski) – Arsic (46. Kücükosman), Barth (70. Huse)",4-4-2,4
-4,Berliner SV 1892,SV Empor Berlin II,3,1,home,NR,"Lüftschwager – Tröger, Jost, Bechler, Anker, Iwuozor (68. Sobczyk) – Koschek – Molalegn (80. Gültepe) , Zauner (80. Paschke) – Schleifenbaum, Bellin (62. Busche)",5-1-2-2,4
-4,SC Borsigwalde 1910,BSV Eintracht Mahlsdorf II,3,3,home,S,"Kräft – Braga De Souza, El-Okkla, Kummer, Yaqoobi – Ciao (83. Matuk), Stefaniszin (67. Akkaoui) – Bubner (67. Chukwu), Yildirim, Bencheikh – Miranda Silva",4-2-3-1,3
-4,Türkiyemspor Berlin,FSV Berolina Stralau 1901,5,0,home,NR,"Aktas – Diallo (87. Faramarzi), Yilmas (55. Karakus), Lange (72. Demir), Emre (83. Özen) – Simunovic, Tanis – Uzun, Saberdest, Jallah – Ertürkler (63. Codura)",4-2-3-1,5
-4,BFC Meteor 06,BSV Al-Dersimspor,2,0,away,S,"Suilmann – Schröder, Riese, Nerlich, Karasu – Zahlan (70. Okoronkwo), Jantzen (63. Taflaj) – Jüterbock, Heimur ((85. Adigüzel), Ugur (70. Ella) – Böhm (78. Hammis)",4-2-3-1,5
-4,BFC Preussen II,SV Stern Britz 1889,6,0,away,L,"Hartmann – Berner, Mucuk, Stahlberg – Demir (71. Engin), Hesse (45. Schatz) – Moreira Godinho, Fikic, Nnaemeka-Chukwurah – Eymann (72. Gajda), Timur (60. Abou-Chaker)",3-2-3-2,4
-4,Köpenicker FC,TSV Rudow Berlin,0,1,away,L,"Thiemann – Möhle (75. Ondo Mangue), Hamann, Carius, Laske – Hartmann (90. Munsky), Neumann (85. Nyassi), Borchmeier, Weigelt – Bohnsack, Ilinseer (63. Tauschwitz)",4-4-2,4
-4,FC Internationale Berlin 1980,FC Viktoria 1889 Berlin II,2,1,away,S,"Del Fierro – Marigo, Costa Echeverra, Castro Barbera, Bullock (60. Bratschke) – Stanley, Avendano Leon (82. Schindler), Freitag, Kranz – Klingl, Bauder (86. Guzman)",4-4-2,3
-4,VfB Concordia Britz 1916,Berliner SC II,1,1,away,NR,"Meißner – Köse, Wenke (46. Behrendt), Auctun, Schmidtmann – Weglöhner, Jerry Gase (73. Gassen), Jordy Gase, Lozynskyy, Wieser – Kühn (83. Bruns)",4-5-1,3
-4,SV Empor Berlin II,Berliner SV 1892,1,3,away,NR,"Yusuff – Bräkow (82. Savenko), Thürigen, Wessel (63. Mendy), Nixdorf (82. Strelets) – Cerny (74. Braun), Lippe, Ettah (63. Wollmann) – Drannaschk, Stolp, Bochnia",4-3-3,5
-4,BSV Eintracht Mahlsdorf II,SC Borsigwalde 1910,3,3,away,S,"Streiter – Pötig, Mansour, Isberner, Reinke – Engfer, Preiß (76. Bothe), Grützner (46. Szczech), Halilcevic – Michas (72. Macave), Völckert (46. Maroske)",4-4-2,4
-4,FSV Berolina Stralau 1901,Türkiyemspor Berlin,0,5,away,NR,"Friese – Bode (46. Son), Nikolajewski, Schönfelder (77. Leke) – Saiti (46. Guillen), Maiß, Häberle, Reuter, Rolke (77. Fischer) – Jradi (46. Heßler), Stier",3-5-2,5
-5,Köpenicker FC,SV Stern Britz 1889,5,0,home,NR,"Thiemann – Dietrich, Weigelt, Carius, Ondo Mangue (61. Munsky) – Borchmeier, Hartmann (61. Tauschwitz) – Laske (58. Brandt), Neumann (66. Foth) – Ilinseer (69. Nischwitz), Bohnsack",4-2-2-2,5
-5,BFC Preussen II,SC Borsigwalde 1910,3,5,home,S,"Hartmann – Berner (51. Gajda), Stahlberg, Mucuk, Eymann (77. Özcan) – Kagoue (46. Schatz), Hesse (57. Demir), Fikic, Kohlmann, Godinho – Timur",4-5-1,4
-5,BFC Meteor 06,Türkiyemspor Berlin,2,1,home,M,"Suilmann – Schröder, Riese, Nerlich, Karasu – Zahlan (75. Adigüzel), Jantzen (64. Ella) – Heimur (80. Okoronkwo), Ugur, Jüterbock (64. Hamiss) – Böhm (64. Abouri)",4-2-3-1,5
-5,SV Empor Berlin II,Berliner SC II,1,1,home,S,"Yusuff – Bräkow, Wollmann (46. Stolp), Thürigen, Strelets (60. Ortmann) – Duczmal, Seiler, Cerny – Mentrup (58. Drannaschk), Mendy, Braun (46. Ettah)",4-3-3,4
-5,BSV Eintracht Mahlsdorf II,FC Viktoria 1889 Berlin II,4,0,home,M,"Streiter – Greif (75. Reinke), Mansour (63. Bothe), Isberner, Stöver (72. Macave) – Preiß, Grützner (43. Reichenberger)– Meißner (56. Szczech), Halilcevic – Michas, Maroske",4-2-2-2,5
-5,VfB Concordia Britz 1916,BSV Al-Dersimspor,2,4,home,L,"Meißner – Schmidtmann (45. Köse), Behrendt, Auctun, Wenke – Weglöhner (61. Bruns), Jerry J. Gase (45. Gassen), Jordy Gase (78. Schulz), Lozynskyy, Wieser (61. Da-Costa) – Kühn",4-5-1,5
-5,FC Internationale Berlin 1980,Berliner SV 1892,0,2,home,L,"Del Fierro – Marigo (76. Chahed), Castro Barbera (76. Schindler), Costa Echeverra, Kranz – Freitag, Avendano Leon – Bratschke, Stanley (68. Bullock), French (58. Daus) – Bauder (58. Schneider)",4-2-3-1,5
-5,FSV Berolina Stralau 1901,TSV Rudow Berlin,0,4,home,S,"Potthoff – Adler (46. Diallo), Nikolajewski, Schönfelder – Fischer (81. Saiti), Maiß, Häberle, Reuter (46. Heßler), Jonach – Tsuchiya (68. Lefke), Stier (68. Jradi)",3-5-2,5
-5,SV Stern Britz 1889,Köpenicker FC,0,5,away,NR,"Ziebarth – Boanu (46. Senay), B. Leci, Borowski, Höhna – Pyplatz (61. Duman), Hauf – Sik, Wojan, Shawrdi – L. Leci",4-2-3-1,2
-5,SC Borsigwalde 1910,BFC Preussen II,5,3,away,S,"Kräft – Braga De Souza, El-Okkla, Kummer, Yaqoobi (68. Bencheikh) – Ciao (86. Matuk), Stefaniszin – Crone (68. Akkaoui), Yildirim, Bubner – Santanna Mranda Silva (87. Bartoschek)",4-2-3-1,4
-5,Türkiyemspor Berlin,BFC Meteor 06,1,2,away,M,"Aktas – Diallo, Demir, Yilmas, Emre (90.+4 Karakus) – Simunovic (85. Thalhofer), Tanis – Uzun, Saberdes, Jalloh – Ertürkler (66. Koca)",4-2-3-1,3
-5,Berliner SC II,SV Empor Berlin II,1,1,away,S,"Kreuschner – Wolski, Ibrom, Leitner, Kaggelidids – Huse (46. Kücükosman), Niedenhoff, Peter, Antoniofrancisco (56. Akbulut) – Bolz, Barth (86. Oevermann)",4-4-2,3
-5,FC Viktoria 1889 Berlin II,BSV Eintracht Mahlsdorf II,0,4,away,M,"Kühn – Knape, Pereira Mendes (46. Macias), Nagel (32. Westhäusser, 72. Stefanov), Stefanovic – Dieckert, Klautzsch, Herrmann (46. Naicker), Manssour – Weinlein (46. Bendjeloul), Halimi",4-4-2,5
-5,BSV Al-Dersimspor,VfB Concordia Britz 1916,4,2,away,L,"Boel – Kahraman (65. Krasniqi), Awag, Kalkan, Schäfer – Savkovic (70. Essel), Tonk, Pereira Dos Santos (65. Tchondo), Polat (70. Seyyidoglu) – Baba, Chawraba (78. Diokhane)",4-4-2,5
-5,Berliner SV 1892,FC Internationale Berlin 1980,2,0,away,S,"Lüftschwager – Tedesco (68. Iwuozor), Jost, Bechler – Özsoy, Schleifenbaum – Tröger, Busche (56. Paschke), Molalegn (80. Gültepe) – Bellin (56. Sobczyk), Zauner (56. Charkov)",3-2-3-2,5
-5,TSV Rudow Berlin,FSV Berolina Stralau 1901,4,0,away,L,"Gromotka – Burda, Fürstenow, Becker (46. S. Sennur) – Hassane, Badu-Amoah (81. Aktas), Wuthe, Tolay, Hortum (69. Bayram) – T. Sennur (77. Wöhle), Maykowski (71. Youssef)",3-5-2,5
-6,TSV Rudow Berlin,BFC Meteor 06,1,0,home,L,"Gromotka – Tolaj, Fürstenow, Burda, Badu-Amoah – Maykowski (90.+3 Bayram), Hassane, Hortum (83. Youssef), Wuthe – Wöhle (88. Becker), Sennur",4-4-2,3
-6,SV Stern Britz 1889,FSV Berolina Stralau 1901,2,1,home,L,"Lück – Senay (83. Hauf), Schulz, B. Leci, Höhna – Sik, Diallo, Wojan (71. Pyplatz), Shawdri (59. Boanu) – Duman (57. Ehrich) – L. Leci (88. Özkaya)",4-4-1-1,5
-6,FC Viktoria 1889 Berlin II,Berliner SV 1892,4,2,home,S,"Karika – Westhäusser (72. Almedom), Thiele, Stefanovic, Klautzsch (45. Mendes) – Halimi (87. Nikrumah), Herrmann, Dieckert (52. Naicker), Ait Manssour – Weinlein (90.+4 Bendjelloul), Macias",4-4-2,5
-6,BSV Eintracht Mahlsdorf II,BFC Preussen II,3,2,home,M,"Streiter – Szczech, Mansour, Bothe, Stöver – Schmeißer (90.+1 Spigaht), Preiß, Maroske, Halilcevic (84. Reinke) – Völckert (61. Macave), Reichenberger (90.+5 Buchmann)",4-4-2,4
-6,Berliner SC II,FC Internationale Berlin 1980,1,1,home,NR,"Schlicht – Riedel, Ibrom, Leitner, Kaggelidids – Ekandille (52. Joseski), Einspannier, Niedenhoff (49. Huse), Heilmann (46. Akbulut) – Arsic (27. Glaser), Barth",4-4-2,4
-6,SC Borsigwalde 1910,Köpenicker FC,2,2,home,S,"Knetsch – Braga De Souza, El-Okkla, Matuk, Yaqoobi (84. Neumann) – Stefaniszin (70. Bartoschek), Firat Yildirim – Crone (59. Rondinelli), Furkan Yildirim, Bubner – Santanna Mirnada Silva",4-2-3-1,3
-6,Türkiyemspor Berlin,VfB Concordia Britz 1916,6,1,home,NR,"Kösker – Thalhofer (72. Faramarzi), Karakus, Yilmas (56. Demir), Yoldas Emre (46. Özen) – Tanis, Simunovic – Uzun, Saberdest (72. Celik), Jalloh (72. El-Ali) – Codura",4-2-3-1,5
-6,BSV Al-Dersimspor,SV Empor Berlin II,3,3,home,S,"Boel – Kahramann (67. Uchaglar), Zagmouz, Kalkan (48. Diokhane), Schäfer (74. Önal) – Tonk – Awag, Savkovic (67. Krasniqi), Polat, Pereira Dos Santos (62. Essel) – Chawraba",4-1-4-1,5
-6,BFC Meteor 06,TSV Rudow Berlin,0,1,away,L,"Suilmann – Adigüzel, Karasu, Nerlich, Schröder (45. Jüterbock) – Saunders, Taflaj (58. Dähn), Ugur (72. Hamiss), Zahlan (87. Balde) – Heimur (45. Mustapha), Böhm",4-4-2,5
-6,FSV Berolina Stralau 1901,SV Stern Britz 1889,1,2,away,L,"Pothoff– Schönfelder, Häberle (63. Läke), Nikolajewski – Saiti (79. Rolke), Jonach, Maiß, Jradi (79. Heßler) – Guillen (82. Adler), Diallo (46. Stier), Villanueva Bravo",3-4-3,5
-6,Berliner SV 1892,FC Viktoria 1889 Berlin II,2,4,away,S,"Lüttschwager – Anker (45. Özsoy), Tedesco, Jost – Paschke (54. Zauner), Charkov, Molalegn (45. Fischer), Iwuozor (54. Busche) – Sobczyk, Schleifenbaum, Bechler (74. Gültepe)",3-4-3,5
-6,BFC Preussen II,BSV Eintracht Mahlsdorf II,2,3,away,M,"Hartmann – Gajda (56. Özcan), Stahlberg, Kohlmann, Engelsing – Gashi, Demir (33. Schatz), Nnaemeka-Chukwurah, Fikic – Yilmaz – Timur (20. Kagoue)",4-4-1-1,3
-6,FC Internationale Berlin 1980,Berliner SC II,1,1,away,NR,"Del Fierro – Marigo, Castro Barbera (66. Schindler), Costa Echeverra, Kranz – Freitag (72. Avendano Leon), Schneider – Daus (53. Topal), Stanley, French (81. Bratschke) – Bauder (46. Bullock)",4-2-3-1,5
-6,Köpenicker FC,SC Borsigwalde 1910,2,2,away,S,"Thiemann – Dietrich (61. Hamann), Weigelt, Carius, Ondo Mangue – Laske (46. Munsky), Neumann, Hartmann (86. Nischwitz), Borchmeier (56. Wittenburg) – Foth (76. Brandt), Bohnsack",4-4-2,5
-6,VfB Concordia Britz 1916,Türkiyemspor Berlin,1,6,away,NR,"Ketel – Schmidtmann, Köse (71. Gassen), Auctun, Wenke – Weglöhner, Jerry Gase (64. Souza Rosa), Jordy Gase (46. Da-Costa), Lozenskyy, Wieser – Bruns",4-5-1,3
-6,SV Empor Berlin II,BSV Al-Dersimspor,3,3,away,S,"Yusuff – Seiler, Schneidawind, Ortmann (69. Savenko) – Bräkow, Udo,Cerny (48. Mentrup), Wessel – Mendy, Braun, Stolp",3-4-3,2
-7,FC Internationale Berlin 1980,BSV Al-Dersimspor,7,1,home,S,"Del Fierro – Marigo, Castro Barbera (65. Schindler), Costa Echeverria, Kranz – Freitag, Avendano Leon (78. Bullock) – de Rosnay, Topal (73. Guzman), Daus – French (78. Chahed)",4-2-3-1,4
-7,BFC Preussen II,FC Viktoria 1889 Berlin II,5,2,home,S,"Hartmann – Öczan (90. A. Gajda), Kohlmann, Stahlberg, Engelsing – Hesse (75. Fischer), Yilmaz – Gashi, Nnaemeka-Chukwurah, Moreira Godinho – Timur (68. Kagoue)",4-2-3-1,3
-7,BFC Meteor 06,SV Stern Britz 1889,9,2,home,M,"Begzadic – Adigüzel, Karasu, Nerlich, Schröder – Saunders (58. Ella), Riese, Ugur, Zahlan (58. Jüterbock/81. Talaj) – Jantzen (81. Heimur), Böhm (86. Hamiss)",4-4-2,4
-7,Köpenicker FC,BSV Eintracht Mahlsdorf II,1,4,home,NR,"Seeber – Laske (59. Tauschwitz), Dietrich (84. Nischwitz), Carius, Weigelt – Ondo Mangue (46. Möhle), Neumann, Hartmann, Borchmeier (46. Ilinseer), Bohnsack (55. Brandt) – Zengler",4-5-1,5
-7,SV Empor Berlin II,Türkiyemspor Berlin,2,0,home,S,"Bloch – Bräkow, Nixdorf, Schinzel – Seiler, Braun (80. Dinh), Ettah, Cerny, Mentrup (69. Lippe) – Mendy, Drannaschk",3-5-2,2
-7,Berliner SV 1892,Berliner SC II,1,0,home,NR,"Lüttschwager – Jost, Özsoy, Charkov (90. Fischer), Bechler – Bellin (82. Anker), Busche (82. Paschke), Koschek, Schleifenbau – Zauner (63. Molalegn), Elsaadawi (63. Sobczyk)",4-4-2,5
-7,VfB Concordia Britz 1916,TSV Rudow Berlin,0,3,home,L,"Ketel – Röchert, Auctun, Brüning, Schmidtmann – Weglöhner, Lozyns`Kyy, Je. Gase, Wieser (70. Jo. Gase), Kühn (75. Tatli) – Bruns (74. Souza Rosa)",4-5-1,3
-7,FSV Berolina Stralau 1901,SC Borsigwalde 1910,0,2,home,S,"Friese – Nikolajewski, Rolke (67. Fischer), Saiti (46. Jradi), Häberle – Reuter, Schwarz (67. Tsuchiya), Maiß – Stier (34. Bresemann), Guillen, Bravo (80. Bode)",4-3-3,5
-7,BSV Al-Dersimspor,FC Internationale Berlin 1980,1,7,away,S,"Arslan – Awag (75. Tshondo), Zagmouz, Kalkan (53. Pereira dos Santos), Kahraman (53. Abduli) – Tonk, Önal (53. Essel) – Polat (53. Ucbaglar), Diokhane, Savkovic – Krasniqi",4-2-3-1,5
-7,FC Viktoria 1889 Berlin II,BFC Preussen II,2,5,away,S,"Karika – Westhäusser, Thiele, Stefanovic, Pereira Mendes – Höbling, Herrmann (61. Bendjelloul), Macias (46. Jeong), Ait Manssor (46. Llauger) – Weinlein (83. Ali), Halimi (83. Schlembach)",4-4-2,5
-7,SV Stern Britz 1889,BFC Meteor 06,2,9,away,M,"Lück (57. Yildirim) – Senay (65. Frobenius), Schulz, B. Leci, Diallo – Wojan, Ehrich (49. Pyplatz) – Sik, Duman, Shawrdi– L. Leci",4-2-3-1,3
-7,BSV Eintracht Mahlsdorf II,Köpenicker FC,4,1,away,NR,"Streiter – Pötig (85. Spigath), Mansour (84. Isberner), Bothe, Schreiber – Schmeißer, Preiss, Maroske (72. Michas), Stöver (83. Reinke) – Völckert (66. Koyuncu), Reichenberger",4-4-2,5
-7,Türkiyemspor Berlin,SV Empor Berlin II,0,2,away,S,"Kösker – Demir, Lange (71. El-Ali), Karakus – Emre, Karaman, Tanis, Thalhofer (46. Jalloh) – Codura (46. Almeida), Saberdest, Ertürkler",3-4-3,3
-7,Berliner SC II,Berliner SV 1892,0,1,away,NR,"Schlicht – Kaggelidids, Ibrom, Leitner, Riedel – Klebe (46. Lorenz), Einspannier, Wolski (77. Bolz), Akbulut (68. Calmels) – Glaser, Huse (62. Joseski)",4-4-2,4
-7,TSV Rudow Berlin,VfB Concordia Britz 1916,3,0,away,L,"Gromotka – Burda, Fürstenow, Becker – Maykowski (90. Bayram), Wuthe, Hassane, Badu-Amoah (80. Thonfeld) – Hortum (75. Haj Youssef) – Günther (87. Frank), Aktas (46. Tolaj)",3-4-1-2,5
-7,SC Borsigwalde 1910,FSV Berolina Stralau 1901,2,0,away,S,"Knetsch – Souza, Okkla, Fi. Yildirim – Yaqoobi, Stefaniszin (46. Motuk), Fu.Yildirim, Crone, Bubner (74. Bartoschek), Rondinelli (60. Neumann) – Silva (82. Ciao)",3-6-1,4
-8,SC Borsigwalde 1910,BFC Meteor 06,3,1,home,S,"Knetsch – De Souza, El-Okkla, Kummer, Yaqoobi (67. Motuk) – Stefaniszin, Firat Yildirim (75. Bartoschek) – Cuesta (62. Rondinelli, 90. Barnat), Furkan Yildirim, Bubner – Miranda Silva (86. Weise)",4-2-3-1,5
-8,SV Stern Britz 1889,VfB Concordia Britz 1916,3,0,home,L,"Lück – Aykus, Schulz, Höhna – Wojan (83. Boleci), Ehrich (70. Pyplatz)– Senay (56. L Leci), Duman, Boanu – Sik, Shawdri (77. Özkaya)",3-2-3-2,4
-8,BFC Preussen II,Köpenicker FC,4,1,home,S,"Hartmann – Yilmaz (15. Hesse), Kohlmann, Mucuk, Engelsing – Özcan (82. Miggel), Nnaemeka-Shukwurah – Godinho, Gashi (82. Gajda), Stahlberg – Timur (71. Abou-Chaker)",4-2-3-1,4
-8,TSV Rudow Berlin,SV Empor Berlin II,1,0,home,L,"Gromotka – Burda, Fürstenow, Becker – Maykowski (90.+3 Thonfeld), Hassane, Rötzscher (51. Bayram), Badu-Amoah (88. Tolaj) – Hortum – Günther, Sennur",3-4-1-2,3
-8,FC Viktoria 1889 Berlin II,Berliner SC II,2,1,home,S,"Kühn – Westhäusser, Thiele, Pereira Mendes, Stefanovic – Herrmann, Schlembach (76. Ali) – Jeong (66. Almedom), Schäfers Llauger (64. Macias), Ait Manssour (89. Dieckert) – Weinlein",4-2-3-1,4
-8,BSV Eintracht Mahlsdorf II,FSV Berolina Stralau 1901,0,2,home,M,"Streiter – Pötig (46. Szczech), Mansour, Bothe, Stöver – Maroske, Preiß – Schmeißer (60. Reinke), Halilcevic (80. Isberner) – Michas (39. Reichenberger), Völckert (66. Grützner)",4-2-2-2,5
-8,Türkiyemspor Berlin,FC Internationale Berlin 1980,0,2,home,NR,"Kösker – Aktas (19. De Almeida, 86. Ertürkler), Demis, Yilmas, Karaman (66. Eskin) – Celik (46. Tanis), Koca – Yoldas Emre, Saberdest, Codura (73. Faramarzi) – Kirimoglu",4-2-3-1,5
-8,BSV Al-Dersimspor,Berliner SV 1892,3,0,home,S,"Arslan – Tshondo (46. Awag), Zagmouz, Tonk, Schäfer – Diokhane – Savkovic (75. Kahraman), Polat, Ucbaglar (70. Önal) – Baba (90. Schleifring), Chawraba (82. Essel)",4-1-3-2,5
-8,BFC Meteor 06,SC Borsigwalde 1910,1,3,away,S,"Suilmann – Taflaj (59. Jüterbock), Riese, Nerlich, Adigüzel – Zahlan (85. Ella), Karasu – Schröder (85. Balde), Jantzen, Heimur (66. Celik) – Böhm",4-2-3-1,4
-8,VfB Concordia Britz 1916,SV Stern Britz 1889,0,3,away,L,"Meißner – Eschert (80. Öztürk), Schulz, Behrendt (46. Köse), Schmidtmann – Weglöhner, Lozynskyy (53. Höhle), Wieser, Kühn – Souza Rosa (46. Bruns) – Da-Costa (58. Jerry J. Gase)",4-4-1-1,5
-8,Köpenicker FC,BFC Preussen II,1,4,away,S,"Thiemann – Dietrich (57. Hamann), Nischwitz, Carius, Hartmann – Tauschwitz (78. Munsky), Neumann (57. Wittenburg), Borchmeier, Bohnsack – Ilinseer (46. Foth), Zengler (78. Brandt)",4-4-2,5
-8,SV Empor Berlin II,TSV Rudow Berlin,0,1,away,L,"Meyer – Nixdorf, Seiler, Thürigen – Bräkow, Ettah, Mentrup (59. Drannaschk), Cerny (69. Dinh) – Udo (80. Kühn) – Braun (86. Macketanz), Mendy",3-4-1-2,4
-8,Berliner SC II,FC Viktoria 1889 Berlin II,1,2,away,S,"Schlicht – Wolski, Leitner, Spiegel, Kaggelidids – Einspannier, Peter, Bolz, Heilmann (74. Akbulut) – Glaser (80. Calmels), Huse (36. Barth)",4-4-2,3
-8,FSV Berolina Stralau 1901,BSV Eintracht Mahlsdorf II,2,0,away,M,"Friese – Rolke, Häberle (46. Nikolajewski), Schönfelder – Jradi (54. Heßler), Reuter, Tsuchiya (75. Schwarz), Fischer – Stier, Bresemann (62. Diallo), Guillen",3-4-3,4
-8,FC Internationale Berlin 1980,Türkiyemspor Berlin,2,0,away,NR,"Del Fierro – Marigo, Costa Echeverra, Schindler, Kranz – Topal, Costa Barbera (80. Chahed) – French (74. Bullock), Stanley, Daus (89. Guzman) – Caspar",4-2-3-1,3
-8,Berliner SV 1892,BSV Al-Dersimspor,0,3,away,S,"Lüttschwager – Jost, Özsoy, Charkov (75. Tröger), Anker (85. Tedesco) – Bellin (75. Wolf), Busche (85. Gashi), Koschek, Schleifenbaum – Molalegn (55. Zauner), Elsaadawi",4-4-2,5
-9,TSV Rudow Berlin,SV Stern Britz 1889,9,2,home,L,"Gromotka – Bayram (77. Youssef), Becker, Fürstenow, Tolaj (72. Frank) – Hassane, Hortum (66. S. Sennur), Maykowski (55. Thonfeld), Wuthe – Günther, T. Sennur (77. Wöhle)",4-4-2,5
-9,FC Viktoria 1889 Berlin II,VfB Concordia Britz 1916,5,1,home,S,"Kühn – Westhäusser (84. Nkrumah), Thiele, Pereira Mendes, Stefanovic – Dieckert, Herrmann – Jeong (70. Almedom), Macias (79. Bendjelloul), Ait Manssour – Weinlein",4-2-3-1,3
-9,SV Empor Berlin II,BFC Meteor 06,2,5,home,S,"Meyer – Nixdorf, Seiler, Macketanz – Schinzel, Cerny – Bräkow (60. Kurt), Mendy (84. Wessel), Mentrup (74. Stolp) – Dinh (84. Ettah), Bochnia (74. Drannaschk)",3-2-3-2,5
-9,Berliner SC II,BFC Preussen II,0,0,home,S,"Schlicht – Riedel (46. Fidanboy), Ibrom, Leitner, Kaggelidids (23. Antoniofrancisco) – Kücükosman (76. Calmels), Bolz, Peter, Heilmann – Einspannier, Akbulut (60. Glaser)",4-4-2,4
-9,Türkiyemspor Berlin,SC Borsigwalde 1910,1,1,home,NR,"E. Aktas – Yoldas Emre (90. K. Aktas), Demir, Yilmas, Karaman – Tanis, Özen – Uzun, Saberdest (86. Koca), Jalloh (88. Eskin) – Kirimoglu",4-2-3-1,3
-9,Berliner SV 1892,Köpenicker FC,4,0,home,NR,"Hechtfisch – Tröger (79. Wolf), Tedesco, Jost, Charkov – Bellin (86. Anker), Koschek (86. Gültepe), Özsoy (86. Molalegn), Bechler – Sobczyk (63. Zauner), Schleifenbaum",4-4-2,5
-9,FC Internationale Berlin 1980,FSV Berolina Stralau 1901,2,1,home,L,"Del Fierro – Kranz (81. Chahed), Costa Echeverria, Schindler, Marigo – Stanley (46. Freitag), Castro Barbera, Topal (90.+1 Bullock) – French (72. Bauder), De Rosnay (90.+1 Guzman), Daus",4-3-3,5
-9,BSV Al-Dersimspor,BSV Eintracht Mahlsdorf II,1,0,home,S,"Arslan – Awag, Zagmouz, Tonk, Schäfer – Diokhane – Kahraman (89. Essel), Polat, Savkovic (60. Önal) – Baba (90.+3 Schleifring), Chawraba (90.+5 Dos Santos)",4-1-3-2,4
-9,SV Stern Britz 1889,TSV Rudow Berlin,2,9,away,L,"Lück – B. Leci, Schulz, Aykus – Duman, Ehrich, Höhna (77. Özkaya), Pyplatz (46. Hauf) – Shawrdi (77. Senay), Sik, L. Leci",3-4-3,3
-9,VfB Concordia Britz 1916,FC Viktoria 1889 Berlin II,1,5,away,S,"Meißner – Köse (85. Kolditz), Auctun, Röchert, Schmidtmann – Weglöhner, Jerry Gase, Wenke (76. Souza Rosa), Kühn, Bruns (50. Höhle) – Jordy Gase (62. Gassen)",4-5-1,4
-9,BFC Meteor 06,SV Empor Berlin II,5,2,away,S,"Begzadic – Ben Mustapha (86. Katirci), Nerlich, Adigüzel, Schröder – Karasu, Jantzen (74. Saunders) – Heimur (74. Celik), Ugur (84. Demiryürek), Balde – Böhm",4-2-3-1,4
-9,BFC Preussen II,Berliner SC II,0,0,away,S,"Hartmann – Eymann (60. Berner), Stahlberg, Mucuk, Engelsing – Demir, Hesse – Godinho, Fikic (57. Miggel), Gashi (42. Özcan) – Timur (72. Abou-Chaker)",4-2-3-1,4
-9,SC Borsigwalde 1910,Türkiyemspor Berlin,1,1,away,NR,"Kräft – Braga De Souza, El-Okkla, Kummer, Yaqoobi – Stefaniszin, Bartoschek – Crone (46. Nzongo), Fu. Yildirim, Bubner (65. R. Ciao) – Miranda Silva",4-2-3-1,2
-9,Köpenicker FC,Berliner SV 1892,0,4,away,NR,"Thiemann – Nischwitz (49. Brandt), Carius, Weigelt, Munsky (67. J.-A. Ondo Mangue) – Tauschwitz, Borchmeier, Hartmann, Neumann (82. O.-B. Ondo Mangue), Wittenburg (49. Dietrich) – Bohnsack (86. Wesolek)",4-5-1,5
-9,FSV Berolina Stralau 1901,FC Internationale Berlin 1980,1,2,away,S,"Friese – Rolke, Nikolajewski, Schönfelder – Saiti (63. Jradi), Tsuchiya (58. Lefke), Guillen (69. Jonach), Heßler (68. Fischer) – Stier, Bresemann (81. Diallo), Reuter",3-4-3,5
-9,BSV Eintracht Mahlsdorf II,BSV Al-Dersimspor,0,1,away,S,"Streiter – Pötig, Mansour, Isberner (31. Michas), Stöver – Grützner, Preiß – Reinke (77. Szczech), Halilcevic (87. Widmer) – Reichenberger, Völckert",4-2-2-2,3
-10,FC Viktoria 1889 Berlin II,BSV Al-Dersimspor,3,2,home,S,"Kühn – Westhäuser (90.+3 Nagel), Thiele, Littler, Stefanovic – Dieckert, Macias (75. Nkrumah, 88. Ognyan), Bendjelloul – Ait Manssour, Almedom (63. El-Hayek) – Weinlein",4-3-2-1,4
-10,BFC Preussen II,BFC Meteor 06,5,2,home,S,"Dietzel – Berner, Mucuk, Kohlmann, Engelsing – Demir, Hesse (74. Engin) – Godinho, Nnaemeka-Chukwurah (45. Lamkaddam), Stahlberg – Timur (82. Szerwinski)",4-2-3-1,3
-10,SV Stern Britz 1889,FC Internationale Berlin 1980,0,3,home,L,"Ziebarth – Wojan, Schulz, Aykus – Duman (43. L. Leci), Ehrich, Höhna (66. B. Leci), Boanu (76. Pyplatz) – Shawdri, Sik, Hauf",3-4-3,3
-10,TSV Rudow Berlin,Berliner SV 1892,2,0,home,L,"Gromotka – Burda, Fürstenow, Tolaj – Maykowski (90.+4 Aktas), Hassane, Rötzscher, Bayram (69. Frank) – Hortum (77. Haj Youssef) – Günther (90.+1 Wöhle), S. Sennur (62. Thonfeld)",3-4-1-2,5
-10,Köpenicker FC,FSV Berolina Stralau 1901,0,0,home,NR,"Thiemann – Laske, Hamann, Carius, Dietrich – Hartmann, Foth (78. Brandt), Borchmeier, Tauschwitz – Bohnsack, Ilinseer (61. Neumann)",4-4-2,2
-10,BSV Eintracht Mahlsdorf II,VfB Concordia Britz 1916,3,1,home,M,"Streiter – Isberner, Mansour (88. Bothe), Stöver – Grützner – Engfer (70. Spigaht), Halilcevic (68. Reinke) – Preiß, Michas – Reichenberger (79. Szczech), Völckert (46. Maroske)",3-1-2-2-2,5
-10,SC Borsigwalde 1910,SV Empor Berlin II,1,1,home,S,"Kräft – Braga De Souza, El-Okkla, Kummer, Motuk (66. Yaqoobi) – Stefaniszin, R. Ciao (66. Weise) – Crone, Fu. Yildirim (21. Rondinelli), Bubner (78. Barnat) – Miranda Silva (85. Cuesta)",4-2-3-1,5
-10,Türkiyemspor Berlin,Berliner SC II,1,1,home,NR,"E. Aktas – Yoldas Emre, Demir, Yilmas, Karaman – Tanis (79. Koca), Özen (90. Celik) – Uzun, Saberdest, Jalloh (60. Del Almeida) – Kirimoglu (66. Ertürkler)",4-2-3-1,4
-10,BSV Al-Dersimspor,FC Viktoria 1889 Berlin II,2,3,away,S,"Arslan – Awag, Zagmouz, Tonk, Schäfer (80.Kalkan) – Kahraman (80. Essel), Polat (41. Diokhane), Savkovic (60. Seyyidoglu) – Kruse (46. Önal) – Baba, Chawraba",4-3-1-2,5
-10,BFC Meteor 06,BFC Preussen II,2,5,away,S,"Begzadic – Schröder, Riese, Nerlich, Adigüzel – Karasu, Zahlan – Saunders (60. Talaj), Jantzen, Balde (60. Demiryürek, 70. Celik) – Heimur",4-2-3-1,3
-10,FC Internationale Berlin 1980,SV Stern Britz 1889,3,0,away,L,"Hermosa – Castro Barbera (86. Chahed), Costa Echeverria, Schindler – Freitag (90. Dukuly), Topal (76. Bauder) – Marigo (90. Boeddinghaus), Stanley, Kranz (66. French) – Daus, De Rosnay",3-2-3-2,5
-10,Berliner SV 1892,TSV Rudow Berlin,0,2,away,L,"Hechtfisch – Charkov, Tedesco, Bechler (77. Fischer) – Tröger (77. Molalegn), Özsoy, Koschek (85. Gashi), Jost – Bellin (77. Busche), Wol (62. Zauner), Schleifenbaum",3-4-3,5
-10,FSV Berolina Stralau 1901,Köpenicker FC,0,0,away,NR,"Potthoff – Rolke, Häberle, Jonach (63. Adler)– Jradi (81. Saiti), Reuter, Tsuchiya (46. Nikolajewski), Fischer – Stier (75. Welch), Diallo (59. Bresemann), Guillen",3-4-3,5
-10,VfB Concordia Britz 1916,BSV Eintracht Mahlsdorf II,1,3,away,M,"Meißner – Röchert, Köse (79. Jordy Gase), Auctun, Weglöhner –Wenke – Schmidtmann, Lozynskyy (79. Souza Rosa), Kühn (68. Yassine) – Jerry J. Gase – Höhle (46. Wieser)",4-1-3-1-1,4
-10,SV Empor Berlin II,SC Borsigwalde 1910,1,1,away,S,"Meyer – Thürigen, Schinzel, Schneidawind – Udo, Cerny – Wessel )70. Dinh), Mendy (82. Ettah), Bräkow (63. Mentrup) – Drannasck, Bochnia",3-2-3-2,2
-10,Berliner SC II,Türkiyemspor Berlin,1,1,away,NR,"Schlicht – Brecht, Ibrom, Leitner, Riedel – Ekandille, Bolz (70. Calmels), Peter, Akbulut (60. Lorenz) – Glaser, Einspannier",4-4-2,2
-11,FC Internationale Berlin 1980,TSV Rudow Berlin,1,1,home,S,"Del Fierro – Castro-Barbera, Costa, Schindler – Freitag, Topal (74. French) – Schneider, Stanley (80. Bauder), Marigo – Daus, De Rosnay",3-2-3-2,2
-11,BFC Meteor 06,BSV Eintracht Mahlsdorf II,1,0,home,M,"Begzadic – Schröder, Riese, Nerlich, Adigüzel (90.+2 Ben Mustapha)– Karasu, Zahlan – Ugur (24. Celik), Taflaj (72. Saunders), Jantzen (72. Demiyürek) – Böhm (83. Heimur)",4-2-3-1,5
-11,Köpenicker FC,FC Viktoria 1889 Berlin II,3,3,home,NR,"Thiemann – Laske (46. O. Ondo Mangue), Hamann, Carius, Dietrich – Hartmann, Neumann (40. Foth), Weigelt, Tauschwitz (70. Ilinseer) – Bohnsack (70. Munsky), Brandt (85. Klauke)",4-4-2,5
-11,SV Empor Berlin II,SV Stern Britz 1889,2,2,home,S,"Meyer – Nixdorf, Schinzel, Thürigen – Bräkow (83. Savenko), Cerny, Lippe (51. Macketanz), Dinh (74. Braun) – Tuckerman, Bochnia, Drannaschk (76. Gramse)",3-4-3,4
-11,Berliner SC II,BSV Al-Dersimspor,2,0,home,S,"Schlicht – Riedel, Ibrom, Leitner, Heilmann (65. Wolski, 74. Kücükosman) – Peter, Bolz – Akbulut (56. Lorenz), Brecht, Glaser (86. Calmels) – Einspannier",4-2-3-1,4
-11,Berliner SV 1892,Türkiyemspor Berlin,2,0,home,NR,"Lüttschwager – Anker, Tedesco, Charkov – Tröger (71. Elsaawadi), Jost, Koschek, Busche (71. Zauner) – Bellin (71. Iwuozor), Özsoy (84. Gashi), Molalegn (54. Schleifenbaum)",3-4-3,5
-11,FSV Berolina Stralau 1901,BFC Preussen II,0,3,home,S,"Kräft – Rolke, Häberle, Schönfelder (73. Nikolajewski) – Reuter, Jonach, Guillen (71. Jradi), Heßler (65. Fischer) – Stier, Bresemann (65. Adler), Welch (84. Lefke)",3-4-3,5
-11,VfB Concordia Britz 1916,SC Borsigwalde 1910,3,4,home,L,"Ketel – Schmidtmann, Köse, Auctun, Weglöhner – Wenke (20. Wieser), Lozynskyy – Jordy Gase (63. Souza Rosa), Jerry J. Gase, Kühn (39. Yassine) – Höhle",4-2-3-1,3
-11,TSV Rudow Berlin,FC Internationale Berlin 1980,1,1,away,S,"Gromotka – Fürstenow, Burda, Frank – Rötzscher (77. Tolaj), Bayram – Maykowski, Hortum, Hassane – T. Sennur (88. Hej Youssef), Günther",3-2-3-2,2
-11,BSV Eintracht Mahlsdorf II,BFC Meteor 06,0,1,away,M,"Streiter – Pötig, Isberner, Mansour, Stöver (87. Widmer)– Halilcevic (75. Szczech), Grützner (84. Spigaht), Michas (69. Bothe), Schmeißer (63. Reinke) – Maroske, Reichenberger",4-4-2,5
-11,FC Viktoria 1889 Berlin II,Köpenicker FC,3,3,away,NR,"Karika – Westhäusser, Thiele, Littler, Stefanovic (50. Nagel) – Bendjelloul (69. Schlembach), Dieckert – Dreilich, Jeong, Ait Manssour – Weinlein",4-2-3-1,2
-11,SV Stern Britz 1889,SV Empor Berlin II,2,2,away,S,"Koller – B. Leci, Hauf, Schulz, Frobenius – Wojan, Ehrich – Shawdri, Sik, Boanu – L. Leci",4-2-3-1,0
-11,BSV Al-Dersimspor,Berliner SC II,0,2,away,S,"Boel – Savkovic, Awag, Tonk (74. Filiz), Schäfer (87. Güngör) – Önal, Uchaglar (65. Kahraman) – Dos Santos (60. Essel), Seyyidoglu, Chawraba (87. Schleifring) – Krasniqi",4-2-3-1,5
-11,Türkiyemspor Berlin,Berliner SV 1892,0,2,away,NR,"Kösker – Yoldas Emre (76. Thalhofer), Demir, Yilmas, Karaman (73. R. Pereira) – Simunovic (67. Eskin), Özen (46. Faramarzi) – Uzun (73. M. Pereira), Saberdest, Tanis – Kirimoglu",4-2-3-1,5
-11,BFC Preussen II,FSV Berolina Stralau 1901,3,0,away,S,"Dietzel – Berner (82. Abou-Chaker), Kohlmann, Mucuk, Hammoud (46. Szerwinski) – Stahlberg, Demir (71. Gajda) – Godinho, Engelsing, Özcan (75. Engin) – Timur (46. Schatz)",4-2-3-1,5
-11,SC Borsigwalde 1910,VfB Concordia Britz 1916,4,3,away,L,"Kräft – Braga De Souza, Firat Yildirim, Weise, Yaqoobi – Stefaniszin (68. Rassuli), R. Ciao – Crone (90. Erisen), Bartoschek (86. A. Ciao), Barnat (68. Nzango) – Miranda Silva (84. Motuk)",4-2-3-1,5
-12,BFC Meteor 06,Köpenicker FC,3,0,home,M,"Begzadic – Schröder, Riese, Nerlich, Adigüzel (80. Katirci) – Demiryürek (67. Saunders), Zahlan, Ta - laj (80. Ella) – Celik (71. Hamiss), Mustapha (52. Jantzen), Heimur",4-3-3,5
-12,SV Empor Berlin II,BSV Eintracht Mahlsdorf II,1,8,home,S,"Yusuff – Nixdorf (46. Thürigen), Ettah (46. Seiler), Schinzel – Tuckerman (46. Cerny), Albrecht (58. Savenko), Mentrup (70. Macketanz), Lippe, Bräkow – Drannasck, Bochnia",3-5-2,5
-12,FC Viktoria 1889 Berlin II,FSV Berolina Stralau 1901,3,6,home,S,"Kühn – Westhäusser, Littler, Nagel, Stefanovic – Bendjelloul (66. Herrmann), Thiele – Jeong, Ali (66. Macias), Ait Manssour (61. Almedom) – Weinlein (45. Nkrumah)",4-2-3-1,4
-12,Berliner SC II,TSV Rudow Berlin,1,2,home,S,"Schlicht – Riedel, Leitner, Ibrom, Kaggelidids – Glaser, Brecht, Peter (66. Peter), Akbulut – Einspannier, Huse (76. Joseski)",4-4-2,2
-12,Berliner SV 1892,SV Stern Britz 1889,1,0,home,S,"Hechtfisch – Tröger, Tedesco, Koschek, Jost – Bellin (60. Anker), Özsoy, Schleifenbaum, Charkov – Zauner (71. Fischer), Sobczyk (80. Elsaawadi)",4-4-2,3
-12,FC Internationale Berlin 1980,SC Borsigwalde 1910,1,1,home,S,"Del Fierro – Castro Barbera, Costa Echeverria, Schindler, Marigo – Freitag, Topal, Stanley (85. Boeddinghaus) – Schneider, French (65. Ovcharov), Kranz (58. Bauder)",4-3-3,3
-12,VfB Concordia Britz 1916,BFC Preussen II,1,2,home,L,"Ketel – Öztürk (79. Yassine), Auctun, Röchert, Schmidtmann – Jerry. J. Gase (75. Hasenbank), Lozynskyy – Souza Rosa (68. Eschert), Kühn – Wieser, Höhle",4-2-2-2,3
-12,BSV Al-Dersimspor,Türkiyemspor Berlin,0,2,home,S,"Boel – Kalkan, Tonk, Zagmouz – Diokhane, Önal (72. Filiz) – Kahraman (63. Achour), Polat, Savkovic (63. Dos Santos) – Krasniqi, Chawraba (79. Essel)",3-2-3-2,4
-12,Köpenicker FC,BFC Meteor 06,0,3,away,M,"Höfer – Möhle, Weigelt, Nischwitz (68. Brunow), Klauke – Borchmeier (82. Stahnke), O. Ondo Mangue (46. Tauschwitz), Wittenburg, Hartmann (88. Munsky) – Ilinseer (82. Brandt), J. Ondo Mangue",4-4-2,5
-12,BSV Eintracht Mahlsdorf II,SV Empor Berlin II,8,1,away,S,"Streiter – Isberner, Eberl, Grützner, Reinke (72. Pötig) – Michas (72. Grund), Maroske – Spigaht, Halilcevic (64. Greif) – Reichenberger (67. Widmer), Schmeißer",4-2-2-2,4
-12,FSV Berolina Stralau 1901,FC Viktoria 1889 Berlin II,6,3,away,S,"Friese – Rolke, Häberle, Schönfelder – Jonach, Reuter, Tsuchiya (45. Schwarz), Heßler (90.+2 Saiti) – Fischer (45. Bresemann), Welch (86. Leke), Stier (90.+3 Son)",3-4-3,5
-12,TSV Rudow Berlin,Berliner SC II,2,1,away,S,"Gromotka – Burda, Fürstenow, Becker (67. Tolaj) – Wuthe, Hassane – Maykowski (90.4 Aktas), S. Sennur (88. Wöhle), Youssef (46. Bayram) – Günther, T. Sennur (79. Thonfeld)",3-2-3-2,5
-12,SV Stern Britz 1889,Berliner SV 1892,0,1,away,S,"Ziebarth – Frobenius, Schulz, Hauf, B. Leci – Liekere, Pyplatz – Boanu (56. Kemkes), Sik, Höhna (80. Franklin) – L. Leci (75. Koller)",4-2-3-1,3
-12,SC Borsigwalde 1910,FC Internationale Berlin 1980,1,1,away,S,"Kräft – El-Okkla (46. Braga De Souza), Fi. Yildirim, Kummer – Stefaniszin, R. Ciao (46. Yaqoobi) – Rondinelli, Bartoschek (46. Fu. Yildirim), Bubner (90.+1 Motuk) – Crone, Miranda Silva (68. Cuesta)",3-2-3-2,5
-12,BFC Preussen II,VfB Concordia Britz 1916,2,1,away,L,"Hartmann – Gajda, Kohlmann, Sommerfeld, Hammoud (68. Henseler) – Stahlberg, Schatz – Abou-Chaker (84. Arslani), Engelsing – Özcan (54. Müller), Miggel (59. Szerwinski)",4-2-2-2,4
-12,Türkiyemspor Berlin,BSV Al-Dersimspor,2,0,away,S,"Aktas – Thalhofer, Demir, Yilmas, Karaman – Simunovic (90. Özen) – Yoldas Emre (55. Tanis), Saberdest (79. Kirimoglu), Uzun, Eskin – De Almeida",4-1-4-1,3
-13,BSV Eintracht Mahlsdorf II,FC Internationale Berlin 1980,2,1,home,S,"Streiter – Eberl, Grützner, Mansour (46. Isberner), Stöver (66. Reinke) – Preiss, Maroske – Spigaht (71. Pötig), Halilcevic (71. Widmer)– Reichenberger, Schmeißer (62. Szczech)
-",4-2-2-2,5
-13,BFC Preussen II,SV Empor Berlin II,3,2,home,S,"Hartmann – Gajda (67. Özcan), Kohlmann, Mucuk, Hammoud – Miggel (78. Henseler), Müller (63. Hesse) – Engelsing (72. Timur), Gashi, Stahlberg – Abou-Chaker (63. Szerwinski)",4-2-3-1,5
-13,SV Stern Britz 1889,Berliner SC II,0,3,home,L,"Ziebarth – Frobenius, Schulz, B. Leci, Senay – Ehrich (58. Duman), Pyplatz – Höhna, Sik, Boanu (76. Özkaya) – L. Leci",4-2-3-1,2
-13,Köpenicker FC,VfB Concordia Britz 1916,10,1,home,NR,"Thiemann – Laske (67. Klauke), Nischwitz, Carius, Möhle (59. Munsky) – Foth, Borchmeier (62. Stahnke), Hartmann, Weigelt (46. Wittenburg), Tauschwitz – J.-A. Ondo Mangue (24. Ilinseer)",4-5-1,5
-13,Türkiyemspor Berlin,FC Viktoria 1889 Berlin II,2,1,home,NR,"E. Aktas – Thalhofer, Yilmas, Özen (82. Tozlu), Karaman – Simunovic – Tanis (90.+8 M. Pereira), Saberdest (89. R. Pereira), Uzun, Eskin (69. Faramarzi) – Kirimoglu",4-1-4-1,4
-13,FSV Berolina Stralau 1901,BFC Meteor 06,2,4,home,NR,"Friese – Rolke, Nikolajewski, Schönfelder – Jonach, Schwarz, Reuter, Fischer (73. Kreisel) – Stricker (58. Diallo), Stier (75. Bresemann), Welch.",3-4-3,3
-13,SC Borsigwalde 1910,Berliner SV 1892,1,3,home,S,"Kräft – Braga De Souza, Kummer, Weise, Erisen (46. Yaqoobi) – R. Ciao, Crone (46. Stefaniszin) – Rondinelli, Fu. Yildirim (79. Bartoschek), Bubner – Denis Cuesta (81. Miranda Silva)",4-2-3-1,4
-13,TSV Rudow Berlin,BSV Al-Dersimspor,2,0,home,L,"Merke – Burda, Fürstenow, Becker (76. Thonfeld) – Youssef (89. Bayram), Wuthe (90.+1 Aktas), Hassane, Maykowski (90.+3 Mursai) – Frank – Günther, T. Sennur",3-4-1-2,4
-13,FC Internationale Berlin 1980,BSV Eintracht Mahlsdorf II,1,2,away,S,"Del Fierro – Schindler, Costa Echeverria, Castro Barbera (66. French) – Schneider, Stanley (81. Guzman), Freitag, Topal, Marigo – Daus, De Rosnay (81. Bullock)",3-5-2,3
-13,SV Empor Berlin II,BFC Preussen II,2,3,away,S,"Yusuff – Nixdorf (60. Braun), Thürigen, Schinzel, Bräkow – Cerny (73. Kühn), Seiler, Lippe – Tuckerman (60. Macketanz), Bochnia (20. Stolp), Drannaschk",4-3-3,4
-13,Berliner SC II,SV Stern Britz 1889,3,0,away,L,"Schlicht – Riedel (46. Fildanboy), Ibrom, Leitner, Kaggelidids – Al-Habash (62. Heilmann), Einspannier, Niedenhoff, Akbulut (72. Drebes) – Glaser, Huse (46. Arsic)",4-4-2,4
-13,VfB Concordia Britz 1916,Köpenicker FC,1,10,away,NR,"Meißner – Öztürk (63. Jordy Gase), Auctun (23. Da-Costa), Röchert, Köse – Weglöhner, Jerry J. Gase, Wieser (73. Yassine), Hasenbank, Kühn – Höhle (18. Souza Rosa)",4-5-1,4
-13,FC Viktoria 1889 Berlin II,Türkiyemspor Berlin,1,2,away,NR,"Kühn – Westhäusser, Pereira Mendes, Littler, Stefanovic – Thiele, Herrmann – Almedom (67. Ait Manssour), Macias (62. Bendjelloul), Jeong (89. Nkrumah)– Ali (89. Stefanov)",4-2-3-1,4
-13,BFC Meteor 06,FSV Berolina Stralau 1901,4,2,away,NR,"Begzadic – Schröder, Riese, Nerlich, Adigüzel – Karasu (46. Ugur), Zahlan – Saunders (78. Demiryürek), Taflaj (25. Ben Mustapha), Heimur (87. Celik) – Böhm (87. Hamiss)",4-2-3-1,5
-13,Berliner SV 1892,SC Borsigwalde 1910,3,1,away,S,"Lüttschwager – Jost, Tedesco, Bechler – Charkov, Koschek, Gashi (66. Busche), Özsoy (9. Molalegn) – Tröger (87. Paschke), Sobczyk (72. Wolff), Zauner (87. Anker)",3-4-3,5
-13,BSV Al-Dersimspor,TSV Rudow Berlin,0,2,away,L,"Boel – Zagmouz, Tonk, Awag, Kalkan (60. Kahraman) – Diokhane, Önal (90. Yildiz), Savkovic – Baba (90. Ucbaglar), Seyyidoglu (60. Krasniqi), Polat",4-3-3,4
-14,BSV Eintracht Mahlsdorf II,TSV Rudow Berlin,0,0,home,S,"Streiter – Engfer, Grützner (46. Spigaht), Mansour, Stöver – Preiss, Maroske, Benkert – Halilcevic, Isberner, Reichenberger (72. Schmeißer)",4-3-3,2
-14,SV Stern Britz 1889,SC Borsigwalde 1910,1,2,home,L,"Ziebarth – Frobenius, Schulz, Hauf (46. Senay), B. Leci – Wojan, Pyplatz (74. L. Leci) – Boanu, Duman, Höhna – Ehrich",4-2-3-1,2
-14,FC Viktoria 1889 Berlin II,SV Empor Berlin II,1,1,home,S,"Kühn – Westhäusser, Littler, Pereira Mendes, Stefanovic – Almedom (71. Stefanov), Bendjelloul, Macias (76. Llauger), Herrmann, Ait Manssour – Ali (85. Nkrumah)",4-5-1,3
-14,Berliner SC II,FSV Berolina Stralau 1901,1,0,home,S,"Schlicht – Riedel (66. Kausch), Leitner, Ibrom, Heilmann – Lilja (63. Kücükosman), Brecht, Niedenhoff, Glaser – Einspannier (81. Peter), Huse (54. Akbulut)",4-4-2,4
-14,Berliner SV 1892,BFC Meteor 06,1,2,home,S,"Lüttschwager – Charkov, Tedesco, Jost, Bechler – Koschek, Gashi (46. Molalegn)– Zauner, Busche (71. Fischer) – Sobczyk (46. Wolff), Schleifenbaum (83. Elsaadawi)",4-2-2-2,4
-14,FC Internationale Berlin 1980,VfB Concordia Britz 1916,7,1,home,S,"Gonzalez – Marigo, Schindler (56. Daus), Boeddinghaus, Bullock – Guzman (75. Schneider), Topal – Kranz (56. Weeks), Stanley, French (75. Castro Barbera) – De Rosnay (66. Chahed)",4-2-3-1,5
-14,Türkiyemspor Berlin,BFC Preussen II,2,6,home,NR,"E. Aktas – Thalhofer (74. M. Pereira), Yilmas, Özen, Karaman – Simunovic – Tanis, Saberdest, Uzun, Demir (46. Tozlu) – Kirimoglu (77. Faramarzi)",4-1-4-1,3
-14,BSV Al-Dersimspor,Köpenicker FC,1,5,home,S,"Boel – Kalkan, Zagmouz (46. Baba), Awag – Diokhane, Önal – Kahraman, Polat, Savkovic (62. Güngör) – Krasniqi (70. Schleifring), Seyvidoglu (62. Uchaglar)",3-2-3-2,4
-14,TSV Rudow Berlin,BSV Eintracht Mahlsdorf II,0,0,away,S,"Gromotka – Burda, Fürstenow, Becker – Wuthe, Maykowski, Günther, T. Sennur (68. S. Sennur) – Thonfeld, Bayram (68. Youssef), Rötzscher (53. Tolaj, 77. Frank).",3-4-3,4
-14,SC Borsigwalde 1910,SV Stern Britz 1889,2,1,away,L,"Kräft – Crone, Kummer, Fi. Yildirim, Braga De Souza – R. Ciao, Stefaniszin (78. A. Ciao) – Bubner (78. Bartoschek), Fu. Yildirim (90. Weise), Rondinelli (84. El-Okkla) – Denis Cuesta (69. Miranda Silva)",4-2-3-1,5
-14,SV Empor Berlin II,FC Viktoria 1889 Berlin II,1,1,away,S,"Yusuff (37. Meyer) – Bräkow (80. Kurth), Nixdorf, Thürigen, Macketanz – Schinzel, Cerny (45.+3 Ettah), Udo – Stolp (66. Braun), Lippe, Drannaschk (89. Mentrup).",4-3-3,5
-14,FSV Berolina Stralau 1901,Berliner SC II,0,1,away,S,"Friese – Jonach, Nikolajewski, Schönfelder – Bode (67. Diallo), Tsuchiya (58. Schwarz), Reuter, Heßler – Stricker (67. Häberle), Bresemann, Welch",3-4-3,3
-14,BFC Meteor 06,Berliner SV 1892,2,1,away,S,"Begzadic (57. Suilmann) – Schröder, Nerlich, Riese, Adigüzel – Jantzen (79. Abouri), Karasu – Ben Mustapha (62. Saunders), Ugur (89. Celik), Heimur (79. Demiryürek) – Böhm",4-2-3-1,5
-14,VfB Concordia Britz 1916,FC Internationale Berlin 1980,1,7,away,S,"Ketel – Jerry J. Gase, Röchert, Köse, Schmidtmann (72. Behrendt), Kühn (78. Bakiroglugil) – Yassine (62. Auctun), Lozynskyy, Wieser, Weglöhner – Jordy Gase (65. Gassen)",5-4-1,4
-14,BFC Preussen II,Türkiyemspor Berlin,6,2,away,NR,"Hartmann – Hammoud, Kohlmann, Mucuk, Stahlberg – Hesse (46. Miggel), Müller (Feldmann) – De Sousa Oliveira (46. Özcan), Yilmaz, Ugbogbo (70. Henseler) – Isik (70. Engin)",4-2-3-1,5
-14,Köpenicker FC,BSV Al-Dersimspor,5,1,away,S,"Seeber – Dietrich, Hamann, Carius (74. Klauke), Möhle (46. Nischwitz) – Foth (56. Munsky), Weigelt (68. Borchmeier), Wittenburg, Bohnsack (72. Stahnke) – Hartmann, Ilinseer",4-4-2,5
-15,SC Borsigwalde 1910,TSV Rudow Berlin,0,0,home,S,"Kassem – Crone (68. Yaqoobi), Weise, El-Okkla, Braga de Souza – Kummer – Rondinelli (84. Cuesta), Stefaniszin, R.Ciao, Bubner (76. Motuk) – Miranda Silva",4-1-4-1,3
-15,BFC Preussen II,BSV Al-Dersimspor,1,1,home,S,"Hartmann – Hammoud (86. Feldmann), Kohlmann, Mucuk, Miggel (74. Berner) – Nnaemeka-Chukwurah, Müller (46. Hesse) – Ugbogbo, Yilmaz, Özcan (66. Engin)– Isik.",4-2-3-1,4
-15,SV Stern Britz 1889,FC Viktoria 1889 Berlin II,2,3,home,L,"Ziebarth – Frobenius, Schulz, B. Leci, Senay (58. Kemkes) – Wojan, Pyplatz (86. L. Leci) – Boanu (64. Höhna), Duman (46. Heikenfeld), Sik – Ehrich.",4-2-3-1,4
-15,BFC Meteor 06,FC Internationale Berlin 1980,3,1,home,M,"Suilmann – Schröder, Riese, Nerlich, Adigüzel (90.+4 Katirci) – Zahlan (82. Ben Mustapha), Jantzen (67. Saunders)– Karasu, Ugur (88. Talaj), Heimur (78. Celik) – Böhm.",4-2-3-1,5
-15,Köpenicker FC,Berliner SC II,2,0,home,NR,"Thiemann – Munsky (46. Hamann), Nischwitz, Carius, Dietrich – Bohnsack (79. J.-A. Ondo Mangue), Borchmeier (58. Klauke), Hartmann, Tauschwitz – Ilinseer (90.+2 Wiecker), Wittenburg.",4-4-2,4
-15,BSV Eintracht Mahlsdorf II,Türkiyemspor Berlin,1,2,home,S,"Streiter – Eberl, Isberner, Grützner, Pötig – Spigaht (77. Reinke), Maroske, Preiss, Halilcevic – Völckert, Reichenberger.",4-4-2,1
-15,FSV Berolina Stralau 1901,Berliner SV 1892,3,3,home,S,"Friese – Saiti (90.+2 Bode), Nikolajewski, Schönfelder, Jonach – Reuter, Schwarz – Rolke, Heßler (67. Stricker) – Adler (58. Stier), Bresemann (78. Leke).",4-2-2-2,4
-15,VfB Concordia Britz 1916,SV Empor Berlin II,1,0,home,L,"Ketel – Köse, Behrendt, Wenke, Schmidtmann – Kühn (90.+5 Bakiroglugil), Jerry J. Gase (90.+3 Schäfer), Da-Costa (60. Auctun), Wieser, Yassine (46. Röchert) – Jordy Gase",4-5-1,4
-15,TSV Rudow Berlin,SC Borsigwalde 1910,0,0,away,S,"Günther – Burda, Fürstenow, Becker – Frank, Hassane – Maykowski, Wuthe, Youssef – S. Sennur (76. Bayram), T. Sennur",3-2-3-2,1
-15,BSV Al-Dersimspor,BFC Preussen II,1,1,away,S,"Baki – Kahraman (89. Yildiz), Tonk, Awag, Kalkan – Diokhane, Önal (90.+6 Filiz), Savkovic – Ucbaglar, Krasniqi (90.+5 Schleifring), Seyyidoglu (79. Güngör)",4-3-3,4
-15,FC Viktoria 1889 Berlin II,SV Stern Britz 1889,3,2,away,L,"Kühn – Westhäusser, Nagel, Pereira Mendes, Stefanovic – Bendjelloul, Herrmann (74. Schlembach)– Jeong, Macias (46. Llauger), Ait Manssour (88. Stefanov)– Ali (68. Weinlein)",4-2-3-1,4
-15,FC Internationale Berlin 1980,BFC Meteor 06,1,3,away,M,"Gonzalez – Castro Barbera (65. Bauder), Schindler, Boeddinghaus, Marigo – Freitag, Topal – Stanley, French, Schneider – Daus (80. Bullock)",4-2-3-1,2
-15,Berliner SC II,Köpenicker FC,0,2,away,NR,"Schlicht – Joseski, Ibrom, Kausch (21. Arsic), Kaggelidids – Kücükosman (83. Antoniofrancisco), Niedenhoff (37. Akbulut), Brecht, Heilmann – Einspannier, Glaser (68. Dersch)",4-4-2,4
-15,Türkiyemspor Berlin,BSV Eintracht Mahlsdorf II,2,1,away,S,"E. Aktas – Yoldas Emre, Demis, Karaman, M. Pereira – Simunovic – Faramarzi, Uzun, Saberdest, R. Pereira – Bernardes De Almeida",4-1-4-1,0
-15,Berliner SV 1892,FSV Berolina Stralau 1901,3,3,away,S,"Hechtfisch – Anker (67. Molalegn), Jost, Tedesco, Bechler (75. Elsaadawi)– Zauner (67. Bellin), Koschek, Busche, Tröger – Wolff, Schleifenbaum",4-4-2,3
-15,SV Empor Berlin II,VfB Concordia Britz 1916,0,1,away,L,"Meyer – Bräkow (86. Kurth), Thürigen (86. Wessel), Seiler, Macketanz (72. Ako) – Ettah, Schinzel, Udo – Braun (60. Mentrup), Lippe, Drannaschk",4-3-3,4
-16,SV Stern Britz 1889,TSV Rudow Berlin,NA,NA,home,NA,NA,formation unclear,NA
-16,VfB Concordia Britz 1916,FC Viktoria 1889 Berlin II,NA,NA,home,NA,NA,formation unclear,NA
-16,BFC Meteor 06,SV Empor Berlin II,NA,NA,home,NA,NA,formation unclear,NA
-16,BFC Preussen II,Berliner SC II,NA,NA,home,NA,NA,formation unclear,NA
-16,SC Borsigwalde 1910,Türkiyemspor Berlin,NA,NA,home,NA,NA,formation unclear,NA
-16,Köpenicker FC,Berliner SV 1892,NA,NA,home,NA,NA,formation unclear,NA
-16,FSV Berolina Stralau 1901,FC Internationale Berlin 1980,NA,NA,home,NA,NA,formation unclear,NA
-16,BSV Eintracht Mahlsdorf II,BSV Al-Dersimspor,NA,NA,home,NA,NA,formation unclear,NA
-16,TSV Rudow Berlin,SV Stern Britz 1889,NA,NA,away,NA,NA,formation unclear,NA
-16,FC Viktoria 1889 Berlin II,VfB Concordia Britz 1916,NA,NA,away,NA,NA,formation unclear,NA
-16,SV Empor Berlin II,BFC Meteor 06,NA,NA,away,NA,NA,formation unclear,NA
-16,Berliner SC II,BFC Preussen II,NA,NA,away,NA,NA,formation unclear,NA
-16,Türkiyemspor Berlin,SC Borsigwalde 1910,NA,NA,away,NA,NA,formation unclear,NA
-16,Berliner SV 1892,Köpenicker FC,NA,NA,away,NA,NA,formation unclear,NA
-16,FC Internationale Berlin 1980,FSV Berolina Stralau 1901,NA,NA,away,NA,NA,formation unclear,NA
-16,BSV Al-Dersimspor,BSV Eintracht Mahlsdorf II,NA,NA,away,NA,NA,formation unclear,NA
-17,TSV Rudow Berlin,SC Borsigwalde 1910,NA,NA,home,NA,NA,formation unclear,NA
-17,BSV Al-Dersimspor,BFC Preussen II,NA,NA,home,NA,NA,formation unclear,NA
-17,FC Viktoria 1889 Berlin II,SV Stern Britz 1889,NA,NA,home,NA,NA,formation unclear,NA
-17,FC Internationale Berlin 1980,BFC Meteor 06,NA,NA,home,NA,NA,formation unclear,NA
-17,Berliner SC II,Köpenicker FC,NA,NA,home,NA,NA,formation unclear,NA
-17,Türkiyemspor Berlin,BSV Eintracht Mahlsdorf II,NA,NA,home,NA,NA,formation unclear,NA
-17,Berliner SV 1892,FSV Berolina Stralau 1901,NA,NA,home,NA,NA,formation unclear,NA
-17,SV Empor Berlin II,VfB Concordia Britz 1916,NA,NA,home,NA,NA,formation unclear,NA
-17,SC Borsigwalde 1910,TSV Rudow Berlin,NA,NA,away,NA,NA,formation unclear,NA
-17,BFC Preussen II,BSV Al-Dersimspor,NA,NA,away,NA,NA,formation unclear,NA
-17,SV Stern Britz 1889,FC Viktoria 1889 Berlin II,NA,NA,away,NA,NA,formation unclear,NA
-17,BFC Meteor 06,FC Internationale Berlin 1980,NA,NA,away,NA,NA,formation unclear,NA
-17,Köpenicker FC,Berliner SC II,NA,NA,away,NA,NA,formation unclear,NA
-17,BSV Eintracht Mahlsdorf II,Türkiyemspor Berlin,NA,NA,away,NA,NA,formation unclear,NA
-17,FSV Berolina Stralau 1901,Berliner SV 1892,NA,NA,away,NA,NA,formation unclear,NA
-17,VfB Concordia Britz 1916,SV Empor Berlin II,NA,NA,away,NA,NA,formation unclear,NA
-18,TSV Rudow Berlin,BSV Eintracht Mahlsdorf II,NA,NA,home,NA,NA,formation unclear,NA
-18,SC Borsigwalde 1910,SV Stern Britz 1889,NA,NA,home,NA,NA,formation unclear,NA
-18,SV Empor Berlin II,FC Viktoria 1889 Berlin II,NA,NA,home,NA,NA,formation unclear,NA
-18,FSV Berolina Stralau 1901,Berliner SC II,NA,NA,home,NA,NA,formation unclear,NA
-18,BFC Meteor 06,Berliner SV 1892,NA,NA,home,NA,NA,formation unclear,NA
-18,VfB Concordia Britz 1916,FC Internationale Berlin 1980,NA,NA,home,NA,NA,formation unclear,NA
-18,BFC Preussen II,Türkiyemspor Berlin,NA,NA,home,NA,NA,formation unclear,NA
-18,Köpenicker FC,BSV Al-Dersimspor,NA,NA,home,NA,NA,formation unclear,NA
-18,BSV Eintracht Mahlsdorf II,TSV Rudow Berlin,NA,NA,away,NA,NA,formation unclear,NA
-18,SV Stern Britz 1889,SC Borsigwalde 1910,NA,NA,away,NA,NA,formation unclear,NA
-18,FC Viktoria 1889 Berlin II,SV Empor Berlin II,NA,NA,away,NA,NA,formation unclear,NA
-18,Berliner SC II,FSV Berolina Stralau 1901,NA,NA,away,NA,NA,formation unclear,NA
-18,Berliner SV 1892,BFC Meteor 06,NA,NA,away,NA,NA,formation unclear,NA
-18,FC Internationale Berlin 1980,VfB Concordia Britz 1916,NA,NA,away,NA,NA,formation unclear,NA
-18,Türkiyemspor Berlin,BFC Preussen II,NA,NA,away,NA,NA,formation unclear,NA
-18,BSV Al-Dersimspor,Köpenicker FC,NA,NA,away,NA,NA,formation unclear,NA
-19,TSV Rudow Berlin,BFC Preussen II,NA,NA,home,NA,NA,formation unclear,NA
-19,FC Internationale Berlin 1980,SV Empor Berlin II,NA,NA,home,NA,NA,formation unclear,NA
-19,Berliner SC II,BFC Meteor 06,NA,NA,home,NA,NA,formation unclear,NA
-19,Türkiyemspor Berlin,Köpenicker FC,NA,NA,home,NA,NA,formation unclear,NA
-19,SV Stern Britz 1889,BSV Eintracht Mahlsdorf II,NA,NA,home,NA,NA,formation unclear,NA
-19,FC Viktoria 1889 Berlin II,SC Borsigwalde 1910,NA,NA,home,NA,NA,formation unclear,NA
-19,Berliner SV 1892,VfB Concordia Britz 1916,NA,NA,home,NA,NA,formation unclear,NA
-19,BSV Al-Dersimspor,FSV Berolina Stralau 1901,NA,NA,home,NA,NA,formation unclear,NA
-19,BFC Preussen II,TSV Rudow Berlin,NA,NA,away,NA,NA,formation unclear,NA
-19,SV Empor Berlin II,FC Internationale Berlin 1980,NA,NA,away,NA,NA,formation unclear,NA
-19,BFC Meteor 06,Berliner SC II,NA,NA,away,NA,NA,formation unclear,NA
-19,Köpenicker FC,Türkiyemspor Berlin,NA,NA,away,NA,NA,formation unclear,NA
-19,BSV Eintracht Mahlsdorf II,SV Stern Britz 1889,NA,NA,away,NA,NA,formation unclear,NA
-19,SC Borsigwalde 1910,FC Viktoria 1889 Berlin II,NA,NA,away,NA,NA,formation unclear,NA
-19,VfB Concordia Britz 1916,Berliner SV 1892,NA,NA,away,NA,NA,formation unclear,NA
-19,FSV Berolina Stralau 1901,BSV Al-Dersimspor,NA,NA,away,NA,NA,formation unclear,NA
-20,BFC Meteor 06,BSV Al-Dersimspor,NA,NA,home,NA,NA,formation unclear,NA
-20,BFC Preussen II,SV Stern Britz 1889,NA,NA,home,NA,NA,formation unclear,NA
-20,Köpenicker FC,TSV Rudow Berlin,NA,NA,home,NA,NA,formation unclear,NA
-20,FC Internationale Berlin 1980,FC Viktoria 1889 Berlin II,NA,NA,home,NA,NA,formation unclear,NA
-20,VfB Concordia Britz 1916,Berliner SC II,NA,NA,home,NA,NA,formation unclear,NA
-20,SV Empor Berlin II,Berliner SV 1892,NA,NA,home,NA,NA,formation unclear,NA
-20,BSV Eintracht Mahlsdorf II,SC Borsigwalde 1910,NA,NA,home,NA,NA,formation unclear,NA
-20,FSV Berolina Stralau 1901,Türkiyemspor Berlin,NA,NA,home,NA,NA,formation unclear,NA
-20,BSV Al-Dersimspor,BFC Meteor 06,NA,NA,away,NA,NA,formation unclear,NA
-20,SV Stern Britz 1889,BFC Preussen II,NA,NA,away,NA,NA,formation unclear,NA
-20,TSV Rudow Berlin,Köpenicker FC,NA,NA,away,NA,NA,formation unclear,NA
-20,FC Viktoria 1889 Berlin II,FC Internationale Berlin 1980,NA,NA,away,NA,NA,formation unclear,NA
-20,Berliner SC II,VfB Concordia Britz 1916,NA,NA,away,NA,NA,formation unclear,NA
-20,Berliner SV 1892,SV Empor Berlin II,NA,NA,away,NA,NA,formation unclear,NA
-20,SC Borsigwalde 1910,BSV Eintracht Mahlsdorf II,NA,NA,away,NA,NA,formation unclear,NA
-20,Türkiyemspor Berlin,FSV Berolina Stralau 1901,NA,NA,away,NA,NA,formation unclear,NA
-21,BFC Meteor 06,TSV Rudow Berlin,NA,NA,home,NA,NA,formation unclear,NA
-21,FSV Berolina Stralau 1901,SV Stern Britz 1889,NA,NA,home,NA,NA,formation unclear,NA
-21,Berliner SV 1892,FC Viktoria 1889 Berlin II,NA,NA,home,NA,NA,formation unclear,NA
-21,BFC Preussen II,BSV Eintracht Mahlsdorf II,NA,NA,home,NA,NA,formation unclear,NA
-21,FC Internationale Berlin 1980,Berliner SC II,NA,NA,home,NA,NA,formation unclear,NA
-21,Köpenicker FC,SC Borsigwalde 1910,NA,NA,home,NA,NA,formation unclear,NA
-21,VfB Concordia Britz 1916,Türkiyemspor Berlin,NA,NA,home,NA,NA,formation unclear,NA
-21,SV Empor Berlin II,BSV Al-Dersimspor,NA,NA,home,NA,NA,formation unclear,NA
-21,TSV Rudow Berlin,BFC Meteor 06,NA,NA,away,NA,NA,formation unclear,NA
-21,SV Stern Britz 1889,FSV Berolina Stralau 1901,NA,NA,away,NA,NA,formation unclear,NA
-21,FC Viktoria 1889 Berlin II,Berliner SV 1892,NA,NA,away,NA,NA,formation unclear,NA
-21,BSV Eintracht Mahlsdorf II,BFC Preussen II,NA,NA,away,NA,NA,formation unclear,NA
-21,Berliner SC II,FC Internationale Berlin 1980,NA,NA,away,NA,NA,formation unclear,NA
-21,SC Borsigwalde 1910,Köpenicker FC,NA,NA,away,NA,NA,formation unclear,NA
-21,Türkiyemspor Berlin,VfB Concordia Britz 1916,NA,NA,away,NA,NA,formation unclear,NA
-21,BSV Al-Dersimspor,SV Empor Berlin II,NA,NA,away,NA,NA,formation unclear,NA
-22,BSV Al-Dersimspor,FC Internationale Berlin 1980,NA,NA,home,NA,NA,formation unclear,NA
-22,FC Viktoria 1889 Berlin II,BFC Preussen II,NA,NA,home,NA,NA,formation unclear,NA
-22,SV Stern Britz 1889,BFC Meteor 06,NA,NA,home,NA,NA,formation unclear,NA
-22,BSV Eintracht Mahlsdorf II,Köpenicker FC,NA,NA,home,NA,NA,formation unclear,NA
-22,Türkiyemspor Berlin,SV Empor Berlin II,NA,NA,home,NA,NA,formation unclear,NA
-22,Berliner SC II,Berliner SV 1892,NA,NA,home,NA,NA,formation unclear,NA
-22,TSV Rudow Berlin,VfB Concordia Britz 1916,NA,NA,home,NA,NA,formation unclear,NA
-22,SC Borsigwalde 1910,FSV Berolina Stralau 1901,NA,NA,home,NA,NA,formation unclear,NA
-22,FC Internationale Berlin 1980,BSV Al-Dersimspor,NA,NA,away,NA,NA,formation unclear,NA
-22,BFC Preussen II,FC Viktoria 1889 Berlin II,NA,NA,away,NA,NA,formation unclear,NA
-22,BFC Meteor 06,SV Stern Britz 1889,NA,NA,away,NA,NA,formation unclear,NA
-22,Köpenicker FC,BSV Eintracht Mahlsdorf II,NA,NA,away,NA,NA,formation unclear,NA
-22,SV Empor Berlin II,Türkiyemspor Berlin,NA,NA,away,NA,NA,formation unclear,NA
-22,Berliner SV 1892,Berliner SC II,NA,NA,away,NA,NA,formation unclear,NA
-22,VfB Concordia Britz 1916,TSV Rudow Berlin,NA,NA,away,NA,NA,formation unclear,NA
-22,FSV Berolina Stralau 1901,SC Borsigwalde 1910,NA,NA,away,NA,NA,formation unclear,NA
-23,FC Viktoria 1889 Berlin II,TSV Rudow Berlin,NA,NA,home,NA,NA,formation unclear,NA
-23,VfB Concordia Britz 1916,BFC Meteor 06,NA,NA,home,NA,NA,formation unclear,NA
-23,Berliner SV 1892,BFC Preussen II,NA,NA,home,NA,NA,formation unclear,NA
-23,Türkiyemspor Berlin,SV Stern Britz 1889,NA,NA,home,NA,NA,formation unclear,NA
-23,FC Internationale Berlin 1980,Köpenicker FC,NA,NA,home,NA,NA,formation unclear,NA
-23,Berliner SC II,BSV Eintracht Mahlsdorf II,NA,NA,home,NA,NA,formation unclear,NA
-23,BSV Al-Dersimspor,SC Borsigwalde 1910,NA,NA,home,NA,NA,formation unclear,NA
-23,SV Empor Berlin II,FSV Berolina Stralau 1901,NA,NA,home,NA,NA,formation unclear,NA
-23,TSV Rudow Berlin,FC Viktoria 1889 Berlin II,NA,NA,away,NA,NA,formation unclear,NA
-23,BFC Meteor 06,VfB Concordia Britz 1916,NA,NA,away,NA,NA,formation unclear,NA
-23,BFC Preussen II,Berliner SV 1892,NA,NA,away,NA,NA,formation unclear,NA
-23,SV Stern Britz 1889,Türkiyemspor Berlin,NA,NA,away,NA,NA,formation unclear,NA
-23,Köpenicker FC,FC Internationale Berlin 1980,NA,NA,away,NA,NA,formation unclear,NA
-23,BSV Eintracht Mahlsdorf II,Berliner SC II,NA,NA,away,NA,NA,formation unclear,NA
-23,SC Borsigwalde 1910,BSV Al-Dersimspor,NA,NA,away,NA,NA,formation unclear,NA
-23,FSV Berolina Stralau 1901,SV Empor Berlin II,NA,NA,away,NA,NA,formation unclear,NA
-24,TSV Rudow Berlin,FC Internationale Berlin 1980,NA,NA,home,NA,NA,formation unclear,NA
-24,BSV Eintracht Mahlsdorf II,BFC Meteor 06,NA,NA,home,NA,NA,formation unclear,NA
-24,FC Viktoria 1889 Berlin II,Köpenicker FC,NA,NA,home,NA,NA,formation unclear,NA
-24,SV Stern Britz 1889,SV Empor Berlin II,NA,NA,home,NA,NA,formation unclear,NA
-24,BSV Al-Dersimspor,Berliner SC II,NA,NA,home,NA,NA,formation unclear,NA
-24,Türkiyemspor Berlin,Berliner SV 1892,NA,NA,home,NA,NA,formation unclear,NA
-24,BFC Preussen II,FSV Berolina Stralau 1901,NA,NA,home,NA,NA,formation unclear,NA
-24,SC Borsigwalde 1910,VfB Concordia Britz 1916,NA,NA,home,NA,NA,formation unclear,NA
-24,FC Internationale Berlin 1980,TSV Rudow Berlin,NA,NA,away,NA,NA,formation unclear,NA
-24,BFC Meteor 06,BSV Eintracht Mahlsdorf II,NA,NA,away,NA,NA,formation unclear,NA
-24,Köpenicker FC,FC Viktoria 1889 Berlin II,NA,NA,away,NA,NA,formation unclear,NA
-24,SV Empor Berlin II,SV Stern Britz 1889,NA,NA,away,NA,NA,formation unclear,NA
-24,Berliner SC II,BSV Al-Dersimspor,NA,NA,away,NA,NA,formation unclear,NA
-24,Berliner SV 1892,Türkiyemspor Berlin,NA,NA,away,NA,NA,formation unclear,NA
-24,FSV Berolina Stralau 1901,BFC Preussen II,NA,NA,away,NA,NA,formation unclear,NA
-24,VfB Concordia Britz 1916,SC Borsigwalde 1910,NA,NA,away,NA,NA,formation unclear,NA
-25,BFC Meteor 06,SC Borsigwalde 1910,NA,NA,home,NA,NA,formation unclear,NA
-25,VfB Concordia Britz 1916,SV Stern Britz 1889,NA,NA,home,NA,NA,formation unclear,NA
-25,Köpenicker FC,BFC Preussen II,NA,NA,home,NA,NA,formation unclear,NA
-25,SV Empor Berlin II,TSV Rudow Berlin,NA,NA,home,NA,NA,formation unclear,NA
-25,Berliner SC II,FC Viktoria 1889 Berlin II,NA,NA,home,NA,NA,formation unclear,NA
-25,FSV Berolina Stralau 1901,BSV Eintracht Mahlsdorf II,NA,NA,home,NA,NA,formation unclear,NA
-25,FC Internationale Berlin 1980,Türkiyemspor Berlin,NA,NA,home,NA,NA,formation unclear,NA
-25,Berliner SV 1892,BSV Al-Dersimspor,NA,NA,home,NA,NA,formation unclear,NA
-25,SC Borsigwalde 1910,BFC Meteor 06,NA,NA,away,NA,NA,formation unclear,NA
-25,SV Stern Britz 1889,VfB Concordia Britz 1916,NA,NA,away,NA,NA,formation unclear,NA
-25,BFC Preussen II,Köpenicker FC,NA,NA,away,NA,NA,formation unclear,NA
-25,TSV Rudow Berlin,SV Empor Berlin II,NA,NA,away,NA,NA,formation unclear,NA
-25,FC Viktoria 1889 Berlin II,Berliner SC II,NA,NA,away,NA,NA,formation unclear,NA
-25,BSV Eintracht Mahlsdorf II,FSV Berolina Stralau 1901,NA,NA,away,NA,NA,formation unclear,NA
-25,Türkiyemspor Berlin,FC Internationale Berlin 1980,NA,NA,away,NA,NA,formation unclear,NA
-25,BSV Al-Dersimspor,Berliner SV 1892,NA,NA,away,NA,NA,formation unclear,NA
-26,SV Stern Britz 1889,Köpenicker FC,NA,NA,home,NA,NA,formation unclear,NA
-26,SC Borsigwalde 1910,BFC Preussen II,NA,NA,home,NA,NA,formation unclear,NA
-26,Türkiyemspor Berlin,BFC Meteor 06,NA,NA,home,NA,NA,formation unclear,NA
-26,Berliner SC II,SV Empor Berlin II,NA,NA,home,NA,NA,formation unclear,NA
-26,FC Viktoria 1889 Berlin II,BSV Eintracht Mahlsdorf II,NA,NA,home,NA,NA,formation unclear,NA
-26,BSV Al-Dersimspor,VfB Concordia Britz 1916,NA,NA,home,NA,NA,formation unclear,NA
-26,Berliner SV 1892,FC Internationale Berlin 1980,NA,NA,home,NA,NA,formation unclear,NA
-26,TSV Rudow Berlin,FSV Berolina Stralau 1901,NA,NA,home,NA,NA,formation unclear,NA
-26,Köpenicker FC,SV Stern Britz 1889,NA,NA,away,NA,NA,formation unclear,NA
-26,BFC Preussen II,SC Borsigwalde 1910,NA,NA,away,NA,NA,formation unclear,NA
-26,BFC Meteor 06,Türkiyemspor Berlin,NA,NA,away,NA,NA,formation unclear,NA
-26,SV Empor Berlin II,Berliner SC II,NA,NA,away,NA,NA,formation unclear,NA
-26,BSV Eintracht Mahlsdorf II,FC Viktoria 1889 Berlin II,NA,NA,away,NA,NA,formation unclear,NA
-26,VfB Concordia Britz 1916,BSV Al-Dersimspor,NA,NA,away,NA,NA,formation unclear,NA
-26,FC Internationale Berlin 1980,Berliner SV 1892,NA,NA,away,NA,NA,formation unclear,NA
-26,FSV Berolina Stralau 1901,TSV Rudow Berlin,NA,NA,away,NA,NA,formation unclear,NA
-27,BSV Al-Dersimspor,FC Viktoria 1889 Berlin II,NA,NA,home,NA,NA,formation unclear,NA
-27,BFC Meteor 06,BFC Preussen II,NA,NA,home,NA,NA,formation unclear,NA
-27,FC Internationale Berlin 1980,SV Stern Britz 1889,NA,NA,home,NA,NA,formation unclear,NA
-27,Berliner SV 1892,TSV Rudow Berlin,NA,NA,home,NA,NA,formation unclear,NA
-27,FSV Berolina Stralau 1901,Köpenicker FC,NA,NA,home,NA,NA,formation unclear,NA
-27,VfB Concordia Britz 1916,BSV Eintracht Mahlsdorf II,NA,NA,home,NA,NA,formation unclear,NA
-27,SV Empor Berlin II,SC Borsigwalde 1910,NA,NA,home,NA,NA,formation unclear,NA
-27,Berliner SC II,Türkiyemspor Berlin,NA,NA,home,NA,NA,formation unclear,NA
-27,FC Viktoria 1889 Berlin II,BSV Al-Dersimspor,NA,NA,away,NA,NA,formation unclear,NA
-27,BFC Preussen II,BFC Meteor 06,NA,NA,away,NA,NA,formation unclear,NA
-27,SV Stern Britz 1889,FC Internationale Berlin 1980,NA,NA,away,NA,NA,formation unclear,NA
-27,TSV Rudow Berlin,Berliner SV 1892,NA,NA,away,NA,NA,formation unclear,NA
-27,Köpenicker FC,FSV Berolina Stralau 1901,NA,NA,away,NA,NA,formation unclear,NA
-27,BSV Eintracht Mahlsdorf II,VfB Concordia Britz 1916,NA,NA,away,NA,NA,formation unclear,NA
-27,SC Borsigwalde 1910,SV Empor Berlin II,NA,NA,away,NA,NA,formation unclear,NA
-27,Türkiyemspor Berlin,Berliner SC II,NA,NA,away,NA,NA,formation unclear,NA
-28,Köpenicker FC,BFC Meteor 06,NA,NA,home,NA,NA,formation unclear,NA
-28,BSV Eintracht Mahlsdorf II,SV Empor Berlin II,NA,NA,home,NA,NA,formation unclear,NA
-28,FSV Berolina Stralau 1901,FC Viktoria 1889 Berlin II,NA,NA,home,NA,NA,formation unclear,NA
-28,TSV Rudow Berlin,Berliner SC II,NA,NA,home,NA,NA,formation unclear,NA
-28,SV Stern Britz 1889,Berliner SV 1892,NA,NA,home,NA,NA,formation unclear,NA
-28,SC Borsigwalde 1910,FC Internationale Berlin 1980,NA,NA,home,NA,NA,formation unclear,NA
-28,BFC Preussen II,VfB Concordia Britz 1916,NA,NA,home,NA,NA,formation unclear,NA
-28,Türkiyemspor Berlin,BSV Al-Dersimspor,NA,NA,home,NA,NA,formation unclear,NA
-28,BFC Meteor 06,Köpenicker FC,NA,NA,away,NA,NA,formation unclear,NA
-28,SV Empor Berlin II,BSV Eintracht Mahlsdorf II,NA,NA,away,NA,NA,formation unclear,NA
-28,FC Viktoria 1889 Berlin II,FSV Berolina Stralau 1901,NA,NA,away,NA,NA,formation unclear,NA
-28,Berliner SC II,TSV Rudow Berlin,NA,NA,away,NA,NA,formation unclear,NA
-28,Berliner SV 1892,SV Stern Britz 1889,NA,NA,away,NA,NA,formation unclear,NA
-28,FC Internationale Berlin 1980,SC Borsigwalde 1910,NA,NA,away,NA,NA,formation unclear,NA
-28,VfB Concordia Britz 1916,BFC Preussen II,NA,NA,away,NA,NA,formation unclear,NA
-28,BSV Al-Dersimspor,Türkiyemspor Berlin,NA,NA,away,NA,NA,formation unclear,NA
-29,FC Internationale Berlin 1980,BSV Eintracht Mahlsdorf II,NA,NA,home,NA,NA,formation unclear,NA
-29,SV Empor Berlin II,BFC Preussen II,NA,NA,home,NA,NA,formation unclear,NA
-29,Berliner SC II,SV Stern Britz 1889,NA,NA,home,NA,NA,formation unclear,NA
-29,VfB Concordia Britz 1916,Köpenicker FC,NA,NA,home,NA,NA,formation unclear,NA
-29,FC Viktoria 1889 Berlin II,Türkiyemspor Berlin,NA,NA,home,NA,NA,formation unclear,NA
-29,BFC Meteor 06,FSV Berolina Stralau 1901,NA,NA,home,NA,NA,formation unclear,NA
-29,Berliner SV 1892,SC Borsigwalde 1910,NA,NA,home,NA,NA,formation unclear,NA
-29,BSV Al-Dersimspor,TSV Rudow Berlin,NA,NA,home,NA,NA,formation unclear,NA
-29,BSV Eintracht Mahlsdorf II,FC Internationale Berlin 1980,NA,NA,away,NA,NA,formation unclear,NA
-29,BFC Preussen II,SV Empor Berlin II,NA,NA,away,NA,NA,formation unclear,NA
-29,SV Stern Britz 1889,Berliner SC II,NA,NA,away,NA,NA,formation unclear,NA
-29,Köpenicker FC,VfB Concordia Britz 1916,NA,NA,away,NA,NA,formation unclear,NA
-29,Türkiyemspor Berlin,FC Viktoria 1889 Berlin II,NA,NA,away,NA,NA,formation unclear,NA
-29,FSV Berolina Stralau 1901,BFC Meteor 06,NA,NA,away,NA,NA,formation unclear,NA
-29,SC Borsigwalde 1910,Berliner SV 1892,NA,NA,away,NA,NA,formation unclear,NA
-29,TSV Rudow Berlin,BSV Al-Dersimspor,NA,NA,away,NA,NA,formation unclear,NA
-30,BFC Preussen II,FC Internationale Berlin 1980,NA,NA,home,NA,NA,formation unclear,NA
-30,BFC Meteor 06,FC Viktoria 1889 Berlin II,NA,NA,home,NA,NA,formation unclear,NA
-30,SC Borsigwalde 1910,Berliner SC II,NA,NA,home,NA,NA,formation unclear,NA
-30,TSV Rudow Berlin,Türkiyemspor Berlin,NA,NA,home,NA,NA,formation unclear,NA
-30,BSV Eintracht Mahlsdorf II,Berliner SV 1892,NA,NA,home,NA,NA,formation unclear,NA
-30,FSV Berolina Stralau 1901,VfB Concordia Britz 1916,NA,NA,home,NA,NA,formation unclear,NA
-30,SV Stern Britz 1889,BSV Al-Dersimspor,NA,NA,home,NA,NA,formation unclear,NA
-30,Köpenicker FC,SV Empor Berlin II,NA,NA,home,NA,NA,formation unclear,NA
-30,FC Internationale Berlin 1980,BFC Preussen II,NA,NA,away,NA,NA,formation unclear,NA
-30,FC Viktoria 1889 Berlin II,BFC Meteor 06,NA,NA,away,NA,NA,formation unclear,NA
-30,Berliner SC II,SC Borsigwalde 1910,NA,NA,away,NA,NA,formation unclear,NA
-30,Türkiyemspor Berlin,TSV Rudow Berlin,NA,NA,away,NA,NA,formation unclear,NA
-30,Berliner SV 1892,BSV Eintracht Mahlsdorf II,NA,NA,away,NA,NA,formation unclear,NA
-30,VfB Concordia Britz 1916,FSV Berolina Stralau 1901,NA,NA,away,NA,NA,formation unclear,NA
-30,BSV Al-Dersimspor,SV Stern Britz 1889,NA,NA,away,NA,NA,formation unclear,NA
-30,SV Empor Berlin II,Köpenicker FC,NA,NA,away,NA,NA,formation unclear,NA
+Spieltag,Team,Gegner,Tore,Gegentore,Wo,Platz,Formation,Wechsel
+1,TSV Rudow Berlin,FC Viktoria 1889 Berlin II,1,2,home,L,4-4-2,4
+1,BFC Meteor 06,VfB Concordia Britz 1916,3,2,home,M,4-2-3-1,3
+1,BFC Preussen II,Berliner SV 1892,3,1,home,S,4-2-3-1,4
+1,SV Stern Britz 1889,Türkiyemspor Berlin,1,0,home,L,4-3-3,4
+1,Köpenicker FC,FC Internationale Berlin 1980,1,1,home,NR,4-5-1,5
+1,BSV Eintracht Mahlsdorf II,Berliner SC II,3,1,home,M,4-4-2,5
+1,SC Borsigwalde 1910,BSV Al-Dersimspor,1,0,home,S,4-4-1-1,4
+1,FSV Berolina Stralau 1901,SV Empor Berlin II,1,1,home,S,3-5-2,5
+1,FC Viktoria 1889 Berlin II,TSV Rudow Berlin,2,1,away,L,4-4-2,3
+1,VfB Concordia Britz 1916,BFC Meteor 06,2,3,away,M,4-4-2,5
+1,Berliner SV 1892,BFC Preussen II,1,3,away,S,4-4-2,4
+1,Türkiyemspor Berlin,SV Stern Britz 1889,0,1,away,NR,4-2-3-1,5
+1,FC Internationale Berlin 1980,Köpenicker FC,1,1,away,NR,3-5-2,3
+1,Berliner SC II,BSV Eintracht Mahlsdorf II,1,3,away,M,4-2-3-1,3
+1,BSV Al-Dersimspor,SC Borsigwalde 1910,0,1,away,S,4-4-2,5
+1,SV Empor Berlin II,FSV Berolina Stralau 1901,1,1,away,S,4-5-1,4
+2,FC Internationale Berlin 1980,BFC Preussen II,1,2,home,S,4-2-3-1,3
+2,FC Viktoria 1889 Berlin II,BFC Meteor 06,3,2,home,S,4-2-3-1,3
+2,Berliner SC II,SC Borsigwalde 1910,1,0,home,S,4-4-2,5
+2,Türkiyemspor Berlin,TSV Rudow Berlin,0,0,home,NR,4-2-3-1,3
+2,Berliner SV 1892,BSV Eintracht Mahlsdorf II,0,4,home,NR,5-3-2,5
+2,VfB Concordia Britz 1916,FSV Berolina Stralau 1901,1,2,home,L,4-4-2,4
+2,BSV Al-Dersimspor,SV Stern Britz 1889,4,1,home,S,4-2-3-1,5
+2,SV Empor Berlin II,Köpenicker FC,1,2,home,S,4-3-3,5
+2,BFC Preussen II,FC Internationale Berlin 1980,2,1,away,S,4-2-2-2,5
+2,BFC Meteor 06,FC Viktoria 1889 Berlin II,2,3,away,S,4-2-3-1,5
+2,SC Borsigwalde 1910,Berliner SC II,0,1,away,S,5-2-1-2,3
+2,TSV Rudow Berlin,Türkiyemspor Berlin,0,0,away,NR,3-4-1-2,1
+2,BSV Eintracht Mahlsdorf II,Berliner SV 1892,4,0,away,NR,4-4-2,5
+2,FSV Berolina Stralau 1901,VfB Concordia Britz 1916,2,1,away,L,3-5-2,5
+2,SV Stern Britz 1889,BSV Al-Dersimspor,1,4,away,S,4-3-3,2
+2,Köpenicker FC,SV Empor Berlin II,2,1,away,S,4-4-2,5
+3,BFC Preussen II,TSV Rudow Berlin,1,4,home,S,4-2-3-1,5
+3,SV Empor Berlin II,FC Internationale Berlin 1980,2,2,home,S,4-3-3,4
+3,BFC Meteor 06,Berliner SC II,1,2,home,M,4-5-1,5
+3,Köpenicker FC,Türkiyemspor Berlin,3,4,home,NR,4-4-2,4
+3,BSV Eintracht Mahlsdorf II,SV Stern Britz 1889,2,1,home,M,4-4-2,4
+3,SC Borsigwalde 1910,FC Viktoria 1889 Berlin II,3,3,home,S,4-2-3-1,4
+3,VfB Concordia Britz 1916,Berliner SV 1892,1,5,home,L,4-4-2,5
+3,FSV Berolina Stralau 1901,BSV Al-Dersimspor,0,1,home,S,3-5-2,4
+3,TSV Rudow Berlin,BFC Preussen II,4,1,away,S,3-4-1-2,5
+3,FC Internationale Berlin 1980,SV Empor Berlin II,2,2,away,S,4-4-2,3
+3,Berliner SC II,BFC Meteor 06,2,1,away,M,4-4-2,4
+3,Türkiyemspor Berlin,Köpenicker FC,4,3,away,NR,4-5-1,5
+3,SV Stern Britz 1889,BSV Eintracht Mahlsdorf II,1,2,away,M,4-3-3,4
+3,FC Viktoria 1889 Berlin II,SC Borsigwalde 1910,3,3,away,S,4-4-2,5
+3,Berliner SV 1892,VfB Concordia Britz 1916,5,1,away,L,4-4-2,4
+3,BSV Al-Dersimspor,FSV Berolina Stralau 1901,1,0,away,S,4-2-3-1,5
+4,BSV Al-Dersimspor,BFC Meteor 06,0,2,home,S,4-2-3-1,4
+4,SV Stern Britz 1889,BFC Preussen II,0,6,home,L,4-4-1-1,2
+4,TSV Rudow Berlin,Köpenicker FC,1,0,home,L,4-4-2,4
+4,FC Viktoria 1889 Berlin II,FC Internationale Berlin 1980,1,2,home,S,4-4-2,5
+4,Berliner SC II,VfB Concordia Britz 1916,1,1,home,NR,4-4-2,4
+4,Berliner SV 1892,SV Empor Berlin II,3,1,home,NR,5-1-2-2,4
+4,SC Borsigwalde 1910,BSV Eintracht Mahlsdorf II,3,3,home,S,4-2-3-1,3
+4,Türkiyemspor Berlin,FSV Berolina Stralau 1901,5,0,home,NR,4-2-3-1,5
+4,BFC Meteor 06,BSV Al-Dersimspor,2,0,away,S,4-2-3-1,5
+4,BFC Preussen II,SV Stern Britz 1889,6,0,away,L,3-2-3-2,4
+4,Köpenicker FC,TSV Rudow Berlin,0,1,away,L,4-4-2,4
+4,FC Internationale Berlin 1980,FC Viktoria 1889 Berlin II,2,1,away,S,4-4-2,3
+4,VfB Concordia Britz 1916,Berliner SC II,1,1,away,NR,4-5-1,3
+4,SV Empor Berlin II,Berliner SV 1892,1,3,away,NR,4-3-3,5
+4,BSV Eintracht Mahlsdorf II,SC Borsigwalde 1910,3,3,away,S,4-4-2,4
+4,FSV Berolina Stralau 1901,Türkiyemspor Berlin,0,5,away,NR,3-5-2,5
+5,Köpenicker FC,SV Stern Britz 1889,5,0,home,NR,4-2-2-2,5
+5,BFC Preussen II,SC Borsigwalde 1910,3,5,home,S,4-5-1,4
+5,BFC Meteor 06,Türkiyemspor Berlin,2,1,home,M,4-2-3-1,5
+5,SV Empor Berlin II,Berliner SC II,1,1,home,S,4-3-3,4
+5,BSV Eintracht Mahlsdorf II,FC Viktoria 1889 Berlin II,4,0,home,M,4-2-2-2,5
+5,VfB Concordia Britz 1916,BSV Al-Dersimspor,2,4,home,L,4-5-1,5
+5,FC Internationale Berlin 1980,Berliner SV 1892,0,2,home,L,4-2-3-1,5
+5,FSV Berolina Stralau 1901,TSV Rudow Berlin,0,4,home,S,3-5-2,5
+5,SV Stern Britz 1889,Köpenicker FC,0,5,away,NR,4-2-3-1,2
+5,SC Borsigwalde 1910,BFC Preussen II,5,3,away,S,4-2-3-1,4
+5,Türkiyemspor Berlin,BFC Meteor 06,1,2,away,M,4-2-3-1,3
+5,Berliner SC II,SV Empor Berlin II,1,1,away,S,4-4-2,3
+5,FC Viktoria 1889 Berlin II,BSV Eintracht Mahlsdorf II,0,4,away,M,4-4-2,5
+5,BSV Al-Dersimspor,VfB Concordia Britz 1916,4,2,away,L,4-4-2,5
+5,Berliner SV 1892,FC Internationale Berlin 1980,2,0,away,S,3-2-3-2,5
+5,TSV Rudow Berlin,FSV Berolina Stralau 1901,4,0,away,L,3-5-2,5
+6,TSV Rudow Berlin,BFC Meteor 06,1,0,home,L,4-4-2,3
+6,SV Stern Britz 1889,FSV Berolina Stralau 1901,2,1,home,L,4-4-1-1,5
+6,FC Viktoria 1889 Berlin II,Berliner SV 1892,4,2,home,S,4-4-2,5
+6,BSV Eintracht Mahlsdorf II,BFC Preussen II,3,2,home,M,4-4-2,4
+6,Berliner SC II,FC Internationale Berlin 1980,1,1,home,NR,4-4-2,4
+6,SC Borsigwalde 1910,Köpenicker FC,2,2,home,S,4-2-3-1,3
+6,Türkiyemspor Berlin,VfB Concordia Britz 1916,6,1,home,NR,4-2-3-1,5
+6,BSV Al-Dersimspor,SV Empor Berlin II,3,3,home,S,4-1-4-1,5
+6,BFC Meteor 06,TSV Rudow Berlin,0,1,away,L,4-4-2,5
+6,FSV Berolina Stralau 1901,SV Stern Britz 1889,1,2,away,L,3-4-3,5
+6,Berliner SV 1892,FC Viktoria 1889 Berlin II,2,4,away,S,3-4-3,5
+6,BFC Preussen II,BSV Eintracht Mahlsdorf II,2,3,away,M,4-4-1-1,3
+6,FC Internationale Berlin 1980,Berliner SC II,1,1,away,NR,4-2-3-1,5
+6,Köpenicker FC,SC Borsigwalde 1910,2,2,away,S,4-4-2,5
+6,VfB Concordia Britz 1916,Türkiyemspor Berlin,1,6,away,NR,4-5-1,3
+6,SV Empor Berlin II,BSV Al-Dersimspor,3,3,away,S,3-4-3,2
+7,FC Internationale Berlin 1980,BSV Al-Dersimspor,7,1,home,S,4-2-3-1,4
+7,BFC Preussen II,FC Viktoria 1889 Berlin II,5,2,home,S,4-2-3-1,3
+7,BFC Meteor 06,SV Stern Britz 1889,9,2,home,M,4-4-2,4
+7,Köpenicker FC,BSV Eintracht Mahlsdorf II,1,4,home,NR,4-5-1,5
+7,SV Empor Berlin II,Türkiyemspor Berlin,2,0,home,S,3-5-2,2
+7,Berliner SV 1892,Berliner SC II,1,0,home,NR,4-4-2,5
+7,VfB Concordia Britz 1916,TSV Rudow Berlin,0,3,home,L,4-5-1,3
+7,FSV Berolina Stralau 1901,SC Borsigwalde 1910,0,2,home,S,4-3-3,5
+7,BSV Al-Dersimspor,FC Internationale Berlin 1980,1,7,away,S,4-2-3-1,5
+7,FC Viktoria 1889 Berlin II,BFC Preussen II,2,5,away,S,4-4-2,5
+7,SV Stern Britz 1889,BFC Meteor 06,2,9,away,M,4-2-3-1,3
+7,BSV Eintracht Mahlsdorf II,Köpenicker FC,4,1,away,NR,4-4-2,5
+7,Türkiyemspor Berlin,SV Empor Berlin II,0,2,away,S,3-4-3,3
+7,Berliner SC II,Berliner SV 1892,0,1,away,NR,4-4-2,4
+7,TSV Rudow Berlin,VfB Concordia Britz 1916,3,0,away,L,3-4-1-2,5
+7,SC Borsigwalde 1910,FSV Berolina Stralau 1901,2,0,away,S,3-6-1,4
+8,SC Borsigwalde 1910,BFC Meteor 06,3,1,home,S,4-2-3-1,5
+8,SV Stern Britz 1889,VfB Concordia Britz 1916,3,0,home,L,3-2-3-2,4
+8,BFC Preussen II,Köpenicker FC,4,1,home,S,4-2-3-1,4
+8,TSV Rudow Berlin,SV Empor Berlin II,1,0,home,L,3-4-1-2,3
+8,FC Viktoria 1889 Berlin II,Berliner SC II,2,1,home,S,4-2-3-1,4
+8,BSV Eintracht Mahlsdorf II,FSV Berolina Stralau 1901,0,2,home,M,4-2-2-2,5
+8,Türkiyemspor Berlin,FC Internationale Berlin 1980,0,2,home,NR,4-2-3-1,5
+8,BSV Al-Dersimspor,Berliner SV 1892,3,0,home,S,4-1-3-2,5
+8,BFC Meteor 06,SC Borsigwalde 1910,1,3,away,S,4-2-3-1,4
+8,VfB Concordia Britz 1916,SV Stern Britz 1889,0,3,away,L,4-4-1-1,5
+8,Köpenicker FC,BFC Preussen II,1,4,away,S,4-4-2,5
+8,SV Empor Berlin II,TSV Rudow Berlin,0,1,away,L,3-4-1-2,4
+8,Berliner SC II,FC Viktoria 1889 Berlin II,1,2,away,S,4-4-2,3
+8,FSV Berolina Stralau 1901,BSV Eintracht Mahlsdorf II,2,0,away,M,3-4-3,4
+8,FC Internationale Berlin 1980,Türkiyemspor Berlin,2,0,away,NR,4-2-3-1,3
+8,Berliner SV 1892,BSV Al-Dersimspor,0,3,away,S,4-4-2,5
+9,TSV Rudow Berlin,SV Stern Britz 1889,9,2,home,L,4-4-2,5
+9,FC Viktoria 1889 Berlin II,VfB Concordia Britz 1916,5,1,home,S,4-2-3-1,3
+9,SV Empor Berlin II,BFC Meteor 06,2,5,home,S,3-2-3-2,5
+9,Berliner SC II,BFC Preussen II,0,0,home,S,4-4-2,4
+9,Türkiyemspor Berlin,SC Borsigwalde 1910,1,1,home,NR,4-2-3-1,3
+9,Berliner SV 1892,Köpenicker FC,4,0,home,NR,4-4-2,5
+9,FC Internationale Berlin 1980,FSV Berolina Stralau 1901,2,1,home,L,4-3-3,5
+9,BSV Al-Dersimspor,BSV Eintracht Mahlsdorf II,1,0,home,S,4-1-3-2,4
+9,SV Stern Britz 1889,TSV Rudow Berlin,2,9,away,L,3-4-3,3
+9,VfB Concordia Britz 1916,FC Viktoria 1889 Berlin II,1,5,away,S,4-5-1,4
+9,BFC Meteor 06,SV Empor Berlin II,5,2,away,S,4-2-3-1,4
+9,BFC Preussen II,Berliner SC II,0,0,away,S,4-2-3-1,4
+9,SC Borsigwalde 1910,Türkiyemspor Berlin,1,1,away,NR,4-2-3-1,2
+9,Köpenicker FC,Berliner SV 1892,0,4,away,NR,4-5-1,5
+9,FSV Berolina Stralau 1901,FC Internationale Berlin 1980,1,2,away,S,3-4-3,5
+9,BSV Eintracht Mahlsdorf II,BSV Al-Dersimspor,0,1,away,S,4-2-2-2,3
+10,FC Viktoria 1889 Berlin II,BSV Al-Dersimspor,3,2,home,S,4-3-2-1,4
+10,BFC Preussen II,BFC Meteor 06,5,2,home,S,4-2-3-1,3
+10,SV Stern Britz 1889,FC Internationale Berlin 1980,0,3,home,L,3-4-3,3
+10,TSV Rudow Berlin,Berliner SV 1892,2,0,home,L,3-4-1-2,5
+10,Köpenicker FC,FSV Berolina Stralau 1901,0,0,home,NR,4-4-2,2
+10,BSV Eintracht Mahlsdorf II,VfB Concordia Britz 1916,3,1,home,M,3-1-2-2-2,5
+10,SC Borsigwalde 1910,SV Empor Berlin II,1,1,home,S,4-2-3-1,5
+10,Türkiyemspor Berlin,Berliner SC II,1,1,home,NR,4-2-3-1,4
+10,BSV Al-Dersimspor,FC Viktoria 1889 Berlin II,2,3,away,S,4-3-1-2,5
+10,BFC Meteor 06,BFC Preussen II,2,5,away,S,4-2-3-1,3
+10,FC Internationale Berlin 1980,SV Stern Britz 1889,3,0,away,L,3-2-3-2,5
+10,Berliner SV 1892,TSV Rudow Berlin,0,2,away,L,3-4-3,5
+10,FSV Berolina Stralau 1901,Köpenicker FC,0,0,away,NR,3-4-3,5
+10,VfB Concordia Britz 1916,BSV Eintracht Mahlsdorf II,1,3,away,M,4-1-3-1-1,4
+10,SV Empor Berlin II,SC Borsigwalde 1910,1,1,away,S,3-2-3-2,2
+10,Berliner SC II,Türkiyemspor Berlin,1,1,away,NR,4-4-2,2
+11,FC Internationale Berlin 1980,TSV Rudow Berlin,1,1,home,S,3-2-3-2,2
+11,BFC Meteor 06,BSV Eintracht Mahlsdorf II,1,0,home,M,4-2-3-1,5
+11,Köpenicker FC,FC Viktoria 1889 Berlin II,3,3,home,NR,4-4-2,5
+11,SV Empor Berlin II,SV Stern Britz 1889,2,2,home,S,3-4-3,4
+11,Berliner SC II,BSV Al-Dersimspor,2,0,home,S,4-2-3-1,4
+11,Berliner SV 1892,Türkiyemspor Berlin,2,0,home,NR,3-4-3,5
+11,FSV Berolina Stralau 1901,BFC Preussen II,0,3,home,S,3-4-3,5
+11,VfB Concordia Britz 1916,SC Borsigwalde 1910,3,4,home,L,4-2-3-1,3
+11,TSV Rudow Berlin,FC Internationale Berlin 1980,1,1,away,S,3-2-3-2,2
+11,BSV Eintracht Mahlsdorf II,BFC Meteor 06,0,1,away,M,4-4-2,5
+11,FC Viktoria 1889 Berlin II,Köpenicker FC,3,3,away,NR,4-2-3-1,2
+11,SV Stern Britz 1889,SV Empor Berlin II,2,2,away,S,4-2-3-1,0
+11,BSV Al-Dersimspor,Berliner SC II,0,2,away,S,4-2-3-1,5
+11,Türkiyemspor Berlin,Berliner SV 1892,0,2,away,NR,4-2-3-1,5
+11,BFC Preussen II,FSV Berolina Stralau 1901,3,0,away,S,4-2-3-1,5
+11,SC Borsigwalde 1910,VfB Concordia Britz 1916,4,3,away,L,4-2-3-1,5
+12,BFC Meteor 06,Köpenicker FC,3,0,home,M,4-3-3,5
+12,SV Empor Berlin II,BSV Eintracht Mahlsdorf II,1,8,home,S,3-5-2,5
+12,FC Viktoria 1889 Berlin II,FSV Berolina Stralau 1901,3,6,home,S,4-2-3-1,4
+12,Berliner SC II,TSV Rudow Berlin,1,2,home,S,4-4-2,2
+12,Berliner SV 1892,SV Stern Britz 1889,1,0,home,S,4-4-2,3
+12,FC Internationale Berlin 1980,SC Borsigwalde 1910,1,1,home,S,4-3-3,3
+12,VfB Concordia Britz 1916,BFC Preussen II,1,2,home,L,4-2-2-2,3
+12,BSV Al-Dersimspor,Türkiyemspor Berlin,0,2,home,S,3-2-3-2,4
+12,Köpenicker FC,BFC Meteor 06,0,3,away,M,4-4-2,5
+12,BSV Eintracht Mahlsdorf II,SV Empor Berlin II,8,1,away,S,4-2-2-2,4
+12,FSV Berolina Stralau 1901,FC Viktoria 1889 Berlin II,6,3,away,S,3-4-3,5
+12,TSV Rudow Berlin,Berliner SC II,2,1,away,S,3-2-3-2,5
+12,SV Stern Britz 1889,Berliner SV 1892,0,1,away,S,4-2-3-1,3
+12,SC Borsigwalde 1910,FC Internationale Berlin 1980,1,1,away,S,3-2-3-2,5
+12,BFC Preussen II,VfB Concordia Britz 1916,2,1,away,L,4-2-2-2,4
+12,Türkiyemspor Berlin,BSV Al-Dersimspor,2,0,away,S,4-1-4-1,3
+13,BSV Eintracht Mahlsdorf II,FC Internationale Berlin 1980,2,1,home,S,4-2-2-2,5
+13,BFC Preussen II,SV Empor Berlin II,3,2,home,S,4-2-3-1,5
+13,SV Stern Britz 1889,Berliner SC II,0,3,home,L,4-2-3-1,2
+13,Köpenicker FC,VfB Concordia Britz 1916,10,1,home,NR,4-5-1,5
+13,Türkiyemspor Berlin,FC Viktoria 1889 Berlin II,2,1,home,NR,4-1-4-1,4
+13,FSV Berolina Stralau 1901,BFC Meteor 06,2,4,home,NR,3-4-3,3
+13,SC Borsigwalde 1910,Berliner SV 1892,1,3,home,S,4-2-3-1,4
+13,TSV Rudow Berlin,BSV Al-Dersimspor,2,0,home,L,3-4-1-2,4
+13,FC Internationale Berlin 1980,BSV Eintracht Mahlsdorf II,1,2,away,S,3-5-2,3
+13,SV Empor Berlin II,BFC Preussen II,2,3,away,S,4-3-3,4
+13,Berliner SC II,SV Stern Britz 1889,3,0,away,L,4-4-2,4
+13,VfB Concordia Britz 1916,Köpenicker FC,1,10,away,NR,4-5-1,4
+13,FC Viktoria 1889 Berlin II,Türkiyemspor Berlin,1,2,away,NR,4-2-3-1,4
+13,BFC Meteor 06,FSV Berolina Stralau 1901,4,2,away,NR,4-2-3-1,5
+13,Berliner SV 1892,SC Borsigwalde 1910,3,1,away,S,3-4-3,5
+13,BSV Al-Dersimspor,TSV Rudow Berlin,0,2,away,L,4-3-3,4
+14,BSV Eintracht Mahlsdorf II,TSV Rudow Berlin,0,0,home,S,4-3-3,2
+14,SV Stern Britz 1889,SC Borsigwalde 1910,1,2,home,L,4-2-3-1,2
+14,FC Viktoria 1889 Berlin II,SV Empor Berlin II,1,1,home,S,4-5-1,3
+14,Berliner SC II,FSV Berolina Stralau 1901,1,0,home,S,4-4-2,4
+14,Berliner SV 1892,BFC Meteor 06,1,2,home,S,4-2-2-2,4
+14,FC Internationale Berlin 1980,VfB Concordia Britz 1916,7,1,home,S,4-2-3-1,5
+14,Türkiyemspor Berlin,BFC Preussen II,2,6,home,NR,4-1-4-1,3
+14,BSV Al-Dersimspor,Köpenicker FC,1,5,home,S,3-2-3-2,4
+14,TSV Rudow Berlin,BSV Eintracht Mahlsdorf II,0,0,away,S,3-4-3,4
+14,SC Borsigwalde 1910,SV Stern Britz 1889,2,1,away,L,4-2-3-1,5
+14,SV Empor Berlin II,FC Viktoria 1889 Berlin II,1,1,away,S,4-3-3,5
+14,FSV Berolina Stralau 1901,Berliner SC II,0,1,away,S,3-4-3,3
+14,BFC Meteor 06,Berliner SV 1892,2,1,away,S,4-2-3-1,5
+14,VfB Concordia Britz 1916,FC Internationale Berlin 1980,1,7,away,S,5-4-1,4
+14,BFC Preussen II,Türkiyemspor Berlin,6,2,away,NR,4-2-3-1,5
+14,Köpenicker FC,BSV Al-Dersimspor,5,1,away,S,4-4-2,5
+15,SC Borsigwalde 1910,TSV Rudow Berlin,0,0,home,S,4-1-4-1,3
+15,BFC Preussen II,BSV Al-Dersimspor,1,1,home,S,4-2-3-1,4
+15,SV Stern Britz 1889,FC Viktoria 1889 Berlin II,2,3,home,L,4-2-3-1,4
+15,BFC Meteor 06,FC Internationale Berlin 1980,3,1,home,M,4-2-3-1,5
+15,Köpenicker FC,Berliner SC II,2,0,home,NR,4-4-2,4
+15,BSV Eintracht Mahlsdorf II,Türkiyemspor Berlin,1,2,home,S,4-4-2,1
+15,FSV Berolina Stralau 1901,Berliner SV 1892,3,3,home,S,4-2-2-2,4
+15,VfB Concordia Britz 1916,SV Empor Berlin II,1,0,home,L,4-5-1,4
+15,TSV Rudow Berlin,SC Borsigwalde 1910,0,0,away,S,3-2-3-2,1
+15,BSV Al-Dersimspor,BFC Preussen II,1,1,away,S,4-3-3,4
+15,FC Viktoria 1889 Berlin II,SV Stern Britz 1889,3,2,away,L,4-2-3-1,4
+15,FC Internationale Berlin 1980,BFC Meteor 06,1,3,away,M,4-2-3-1,2
+15,Berliner SC II,Köpenicker FC,0,2,away,NR,4-4-2,4
+15,Türkiyemspor Berlin,BSV Eintracht Mahlsdorf II,2,1,away,S,4-1-4-1,0
+15,Berliner SV 1892,FSV Berolina Stralau 1901,3,3,away,S,4-4-2,3
+15,SV Empor Berlin II,VfB Concordia Britz 1916,0,1,away,L,4-3-3,4
+16,SV Stern Britz 1889,TSV Rudow Berlin,NA,NA,home,NA,formation unclear,NA
+16,VfB Concordia Britz 1916,FC Viktoria 1889 Berlin II,NA,NA,home,NA,formation unclear,NA
+16,BFC Meteor 06,SV Empor Berlin II,NA,NA,home,NA,formation unclear,NA
+16,BFC Preussen II,Berliner SC II,NA,NA,home,NA,formation unclear,NA
+16,SC Borsigwalde 1910,Türkiyemspor Berlin,NA,NA,home,NA,formation unclear,NA
+16,Köpenicker FC,Berliner SV 1892,NA,NA,home,NA,formation unclear,NA
+16,FSV Berolina Stralau 1901,FC Internationale Berlin 1980,NA,NA,home,NA,formation unclear,NA
+16,BSV Eintracht Mahlsdorf II,BSV Al-Dersimspor,NA,NA,home,NA,formation unclear,NA
+16,TSV Rudow Berlin,SV Stern Britz 1889,NA,NA,away,NA,formation unclear,NA
+16,FC Viktoria 1889 Berlin II,VfB Concordia Britz 1916,NA,NA,away,NA,formation unclear,NA
+16,SV Empor Berlin II,BFC Meteor 06,NA,NA,away,NA,formation unclear,NA
+16,Berliner SC II,BFC Preussen II,NA,NA,away,NA,formation unclear,NA
+16,Türkiyemspor Berlin,SC Borsigwalde 1910,NA,NA,away,NA,formation unclear,NA
+16,Berliner SV 1892,Köpenicker FC,NA,NA,away,NA,formation unclear,NA
+16,FC Internationale Berlin 1980,FSV Berolina Stralau 1901,NA,NA,away,NA,formation unclear,NA
+16,BSV Al-Dersimspor,BSV Eintracht Mahlsdorf II,NA,NA,away,NA,formation unclear,NA
+17,TSV Rudow Berlin,SC Borsigwalde 1910,NA,NA,home,NA,formation unclear,NA
+17,BSV Al-Dersimspor,BFC Preussen II,NA,NA,home,NA,formation unclear,NA
+17,FC Viktoria 1889 Berlin II,SV Stern Britz 1889,NA,NA,home,NA,formation unclear,NA
+17,FC Internationale Berlin 1980,BFC Meteor 06,NA,NA,home,NA,formation unclear,NA
+17,Berliner SC II,Köpenicker FC,NA,NA,home,NA,formation unclear,NA
+17,Türkiyemspor Berlin,BSV Eintracht Mahlsdorf II,NA,NA,home,NA,formation unclear,NA
+17,Berliner SV 1892,FSV Berolina Stralau 1901,NA,NA,home,NA,formation unclear,NA
+17,SV Empor Berlin II,VfB Concordia Britz 1916,NA,NA,home,NA,formation unclear,NA
+17,SC Borsigwalde 1910,TSV Rudow Berlin,NA,NA,away,NA,formation unclear,NA
+17,BFC Preussen II,BSV Al-Dersimspor,NA,NA,away,NA,formation unclear,NA
+17,SV Stern Britz 1889,FC Viktoria 1889 Berlin II,NA,NA,away,NA,formation unclear,NA
+17,BFC Meteor 06,FC Internationale Berlin 1980,NA,NA,away,NA,formation unclear,NA
+17,Köpenicker FC,Berliner SC II,NA,NA,away,NA,formation unclear,NA
+17,BSV Eintracht Mahlsdorf II,Türkiyemspor Berlin,NA,NA,away,NA,formation unclear,NA
+17,FSV Berolina Stralau 1901,Berliner SV 1892,NA,NA,away,NA,formation unclear,NA
+17,VfB Concordia Britz 1916,SV Empor Berlin II,NA,NA,away,NA,formation unclear,NA
+18,TSV Rudow Berlin,BSV Eintracht Mahlsdorf II,NA,NA,home,NA,formation unclear,NA
+18,SC Borsigwalde 1910,SV Stern Britz 1889,NA,NA,home,NA,formation unclear,NA
+18,SV Empor Berlin II,FC Viktoria 1889 Berlin II,NA,NA,home,NA,formation unclear,NA
+18,FSV Berolina Stralau 1901,Berliner SC II,NA,NA,home,NA,formation unclear,NA
+18,BFC Meteor 06,Berliner SV 1892,NA,NA,home,NA,formation unclear,NA
+18,VfB Concordia Britz 1916,FC Internationale Berlin 1980,NA,NA,home,NA,formation unclear,NA
+18,BFC Preussen II,Türkiyemspor Berlin,NA,NA,home,NA,formation unclear,NA
+18,Köpenicker FC,BSV Al-Dersimspor,NA,NA,home,NA,formation unclear,NA
+18,BSV Eintracht Mahlsdorf II,TSV Rudow Berlin,NA,NA,away,NA,formation unclear,NA
+18,SV Stern Britz 1889,SC Borsigwalde 1910,NA,NA,away,NA,formation unclear,NA
+18,FC Viktoria 1889 Berlin II,SV Empor Berlin II,NA,NA,away,NA,formation unclear,NA
+18,Berliner SC II,FSV Berolina Stralau 1901,NA,NA,away,NA,formation unclear,NA
+18,Berliner SV 1892,BFC Meteor 06,NA,NA,away,NA,formation unclear,NA
+18,FC Internationale Berlin 1980,VfB Concordia Britz 1916,NA,NA,away,NA,formation unclear,NA
+18,Türkiyemspor Berlin,BFC Preussen II,NA,NA,away,NA,formation unclear,NA
+18,BSV Al-Dersimspor,Köpenicker FC,NA,NA,away,NA,formation unclear,NA
+19,TSV Rudow Berlin,BFC Preussen II,NA,NA,home,NA,formation unclear,NA
+19,FC Internationale Berlin 1980,SV Empor Berlin II,NA,NA,home,NA,formation unclear,NA
+19,Berliner SC II,BFC Meteor 06,NA,NA,home,NA,formation unclear,NA
+19,Türkiyemspor Berlin,Köpenicker FC,NA,NA,home,NA,formation unclear,NA
+19,SV Stern Britz 1889,BSV Eintracht Mahlsdorf II,NA,NA,home,NA,formation unclear,NA
+19,FC Viktoria 1889 Berlin II,SC Borsigwalde 1910,NA,NA,home,NA,formation unclear,NA
+19,Berliner SV 1892,VfB Concordia Britz 1916,NA,NA,home,NA,formation unclear,NA
+19,BSV Al-Dersimspor,FSV Berolina Stralau 1901,NA,NA,home,NA,formation unclear,NA
+19,BFC Preussen II,TSV Rudow Berlin,NA,NA,away,NA,formation unclear,NA
+19,SV Empor Berlin II,FC Internationale Berlin 1980,NA,NA,away,NA,formation unclear,NA
+19,BFC Meteor 06,Berliner SC II,NA,NA,away,NA,formation unclear,NA
+19,Köpenicker FC,Türkiyemspor Berlin,NA,NA,away,NA,formation unclear,NA
+19,BSV Eintracht Mahlsdorf II,SV Stern Britz 1889,NA,NA,away,NA,formation unclear,NA
+19,SC Borsigwalde 1910,FC Viktoria 1889 Berlin II,NA,NA,away,NA,formation unclear,NA
+19,VfB Concordia Britz 1916,Berliner SV 1892,NA,NA,away,NA,formation unclear,NA
+19,FSV Berolina Stralau 1901,BSV Al-Dersimspor,NA,NA,away,NA,formation unclear,NA
+20,BFC Meteor 06,BSV Al-Dersimspor,NA,NA,home,NA,formation unclear,NA
+20,BFC Preussen II,SV Stern Britz 1889,NA,NA,home,NA,formation unclear,NA
+20,Köpenicker FC,TSV Rudow Berlin,NA,NA,home,NA,formation unclear,NA
+20,FC Internationale Berlin 1980,FC Viktoria 1889 Berlin II,NA,NA,home,NA,formation unclear,NA
+20,VfB Concordia Britz 1916,Berliner SC II,NA,NA,home,NA,formation unclear,NA
+20,SV Empor Berlin II,Berliner SV 1892,NA,NA,home,NA,formation unclear,NA
+20,BSV Eintracht Mahlsdorf II,SC Borsigwalde 1910,NA,NA,home,NA,formation unclear,NA
+20,FSV Berolina Stralau 1901,Türkiyemspor Berlin,NA,NA,home,NA,formation unclear,NA
+20,BSV Al-Dersimspor,BFC Meteor 06,NA,NA,away,NA,formation unclear,NA
+20,SV Stern Britz 1889,BFC Preussen II,NA,NA,away,NA,formation unclear,NA
+20,TSV Rudow Berlin,Köpenicker FC,NA,NA,away,NA,formation unclear,NA
+20,FC Viktoria 1889 Berlin II,FC Internationale Berlin 1980,NA,NA,away,NA,formation unclear,NA
+20,Berliner SC II,VfB Concordia Britz 1916,NA,NA,away,NA,formation unclear,NA
+20,Berliner SV 1892,SV Empor Berlin II,NA,NA,away,NA,formation unclear,NA
+20,SC Borsigwalde 1910,BSV Eintracht Mahlsdorf II,NA,NA,away,NA,formation unclear,NA
+20,Türkiyemspor Berlin,FSV Berolina Stralau 1901,NA,NA,away,NA,formation unclear,NA
+21,BFC Meteor 06,TSV Rudow Berlin,NA,NA,home,NA,formation unclear,NA
+21,FSV Berolina Stralau 1901,SV Stern Britz 1889,NA,NA,home,NA,formation unclear,NA
+21,Berliner SV 1892,FC Viktoria 1889 Berlin II,NA,NA,home,NA,formation unclear,NA
+21,BFC Preussen II,BSV Eintracht Mahlsdorf II,NA,NA,home,NA,formation unclear,NA
+21,FC Internationale Berlin 1980,Berliner SC II,NA,NA,home,NA,formation unclear,NA
+21,Köpenicker FC,SC Borsigwalde 1910,NA,NA,home,NA,formation unclear,NA
+21,VfB Concordia Britz 1916,Türkiyemspor Berlin,NA,NA,home,NA,formation unclear,NA
+21,SV Empor Berlin II,BSV Al-Dersimspor,NA,NA,home,NA,formation unclear,NA
+21,TSV Rudow Berlin,BFC Meteor 06,NA,NA,away,NA,formation unclear,NA
+21,SV Stern Britz 1889,FSV Berolina Stralau 1901,NA,NA,away,NA,formation unclear,NA
+21,FC Viktoria 1889 Berlin II,Berliner SV 1892,NA,NA,away,NA,formation unclear,NA
+21,BSV Eintracht Mahlsdorf II,BFC Preussen II,NA,NA,away,NA,formation unclear,NA
+21,Berliner SC II,FC Internationale Berlin 1980,NA,NA,away,NA,formation unclear,NA
+21,SC Borsigwalde 1910,Köpenicker FC,NA,NA,away,NA,formation unclear,NA
+21,Türkiyemspor Berlin,VfB Concordia Britz 1916,NA,NA,away,NA,formation unclear,NA
+21,BSV Al-Dersimspor,SV Empor Berlin II,NA,NA,away,NA,formation unclear,NA
+22,BSV Al-Dersimspor,FC Internationale Berlin 1980,NA,NA,home,NA,formation unclear,NA
+22,FC Viktoria 1889 Berlin II,BFC Preussen II,NA,NA,home,NA,formation unclear,NA
+22,SV Stern Britz 1889,BFC Meteor 06,NA,NA,home,NA,formation unclear,NA
+22,BSV Eintracht Mahlsdorf II,Köpenicker FC,NA,NA,home,NA,formation unclear,NA
+22,Türkiyemspor Berlin,SV Empor Berlin II,NA,NA,home,NA,formation unclear,NA
+22,Berliner SC II,Berliner SV 1892,NA,NA,home,NA,formation unclear,NA
+22,TSV Rudow Berlin,VfB Concordia Britz 1916,NA,NA,home,NA,formation unclear,NA
+22,SC Borsigwalde 1910,FSV Berolina Stralau 1901,NA,NA,home,NA,formation unclear,NA
+22,FC Internationale Berlin 1980,BSV Al-Dersimspor,NA,NA,away,NA,formation unclear,NA
+22,BFC Preussen II,FC Viktoria 1889 Berlin II,NA,NA,away,NA,formation unclear,NA
+22,BFC Meteor 06,SV Stern Britz 1889,NA,NA,away,NA,formation unclear,NA
+22,Köpenicker FC,BSV Eintracht Mahlsdorf II,NA,NA,away,NA,formation unclear,NA
+22,SV Empor Berlin II,Türkiyemspor Berlin,NA,NA,away,NA,formation unclear,NA
+22,Berliner SV 1892,Berliner SC II,NA,NA,away,NA,formation unclear,NA
+22,VfB Concordia Britz 1916,TSV Rudow Berlin,NA,NA,away,NA,formation unclear,NA
+22,FSV Berolina Stralau 1901,SC Borsigwalde 1910,NA,NA,away,NA,formation unclear,NA
+23,FC Viktoria 1889 Berlin II,TSV Rudow Berlin,NA,NA,home,NA,formation unclear,NA
+23,VfB Concordia Britz 1916,BFC Meteor 06,NA,NA,home,NA,formation unclear,NA
+23,Berliner SV 1892,BFC Preussen II,NA,NA,home,NA,formation unclear,NA
+23,Türkiyemspor Berlin,SV Stern Britz 1889,NA,NA,home,NA,formation unclear,NA
+23,FC Internationale Berlin 1980,Köpenicker FC,NA,NA,home,NA,formation unclear,NA
+23,Berliner SC II,BSV Eintracht Mahlsdorf II,NA,NA,home,NA,formation unclear,NA
+23,BSV Al-Dersimspor,SC Borsigwalde 1910,NA,NA,home,NA,formation unclear,NA
+23,SV Empor Berlin II,FSV Berolina Stralau 1901,NA,NA,home,NA,formation unclear,NA
+23,TSV Rudow Berlin,FC Viktoria 1889 Berlin II,NA,NA,away,NA,formation unclear,NA
+23,BFC Meteor 06,VfB Concordia Britz 1916,NA,NA,away,NA,formation unclear,NA
+23,BFC Preussen II,Berliner SV 1892,NA,NA,away,NA,formation unclear,NA
+23,SV Stern Britz 1889,Türkiyemspor Berlin,NA,NA,away,NA,formation unclear,NA
+23,Köpenicker FC,FC Internationale Berlin 1980,NA,NA,away,NA,formation unclear,NA
+23,BSV Eintracht Mahlsdorf II,Berliner SC II,NA,NA,away,NA,formation unclear,NA
+23,SC Borsigwalde 1910,BSV Al-Dersimspor,NA,NA,away,NA,formation unclear,NA
+23,FSV Berolina Stralau 1901,SV Empor Berlin II,NA,NA,away,NA,formation unclear,NA
+24,TSV Rudow Berlin,FC Internationale Berlin 1980,NA,NA,home,NA,formation unclear,NA
+24,BSV Eintracht Mahlsdorf II,BFC Meteor 06,NA,NA,home,NA,formation unclear,NA
+24,FC Viktoria 1889 Berlin II,Köpenicker FC,NA,NA,home,NA,formation unclear,NA
+24,SV Stern Britz 1889,SV Empor Berlin II,NA,NA,home,NA,formation unclear,NA
+24,BSV Al-Dersimspor,Berliner SC II,NA,NA,home,NA,formation unclear,NA
+24,Türkiyemspor Berlin,Berliner SV 1892,NA,NA,home,NA,formation unclear,NA
+24,BFC Preussen II,FSV Berolina Stralau 1901,NA,NA,home,NA,formation unclear,NA
+24,SC Borsigwalde 1910,VfB Concordia Britz 1916,NA,NA,home,NA,formation unclear,NA
+24,FC Internationale Berlin 1980,TSV Rudow Berlin,NA,NA,away,NA,formation unclear,NA
+24,BFC Meteor 06,BSV Eintracht Mahlsdorf II,NA,NA,away,NA,formation unclear,NA
+24,Köpenicker FC,FC Viktoria 1889 Berlin II,NA,NA,away,NA,formation unclear,NA
+24,SV Empor Berlin II,SV Stern Britz 1889,NA,NA,away,NA,formation unclear,NA
+24,Berliner SC II,BSV Al-Dersimspor,NA,NA,away,NA,formation unclear,NA
+24,Berliner SV 1892,Türkiyemspor Berlin,NA,NA,away,NA,formation unclear,NA
+24,FSV Berolina Stralau 1901,BFC Preussen II,NA,NA,away,NA,formation unclear,NA
+24,VfB Concordia Britz 1916,SC Borsigwalde 1910,NA,NA,away,NA,formation unclear,NA
+25,BFC Meteor 06,SC Borsigwalde 1910,NA,NA,home,NA,formation unclear,NA
+25,VfB Concordia Britz 1916,SV Stern Britz 1889,NA,NA,home,NA,formation unclear,NA
+25,Köpenicker FC,BFC Preussen II,NA,NA,home,NA,formation unclear,NA
+25,SV Empor Berlin II,TSV Rudow Berlin,NA,NA,home,NA,formation unclear,NA
+25,Berliner SC II,FC Viktoria 1889 Berlin II,NA,NA,home,NA,formation unclear,NA
+25,FSV Berolina Stralau 1901,BSV Eintracht Mahlsdorf II,NA,NA,home,NA,formation unclear,NA
+25,FC Internationale Berlin 1980,Türkiyemspor Berlin,NA,NA,home,NA,formation unclear,NA
+25,Berliner SV 1892,BSV Al-Dersimspor,NA,NA,home,NA,formation unclear,NA
+25,SC Borsigwalde 1910,BFC Meteor 06,NA,NA,away,NA,formation unclear,NA
+25,SV Stern Britz 1889,VfB Concordia Britz 1916,NA,NA,away,NA,formation unclear,NA
+25,BFC Preussen II,Köpenicker FC,NA,NA,away,NA,formation unclear,NA
+25,TSV Rudow Berlin,SV Empor Berlin II,NA,NA,away,NA,formation unclear,NA
+25,FC Viktoria 1889 Berlin II,Berliner SC II,NA,NA,away,NA,formation unclear,NA
+25,BSV Eintracht Mahlsdorf II,FSV Berolina Stralau 1901,NA,NA,away,NA,formation unclear,NA
+25,Türkiyemspor Berlin,FC Internationale Berlin 1980,NA,NA,away,NA,formation unclear,NA
+25,BSV Al-Dersimspor,Berliner SV 1892,NA,NA,away,NA,formation unclear,NA
+26,SV Stern Britz 1889,Köpenicker FC,NA,NA,home,NA,formation unclear,NA
+26,SC Borsigwalde 1910,BFC Preussen II,NA,NA,home,NA,formation unclear,NA
+26,Türkiyemspor Berlin,BFC Meteor 06,NA,NA,home,NA,formation unclear,NA
+26,Berliner SC II,SV Empor Berlin II,NA,NA,home,NA,formation unclear,NA
+26,FC Viktoria 1889 Berlin II,BSV Eintracht Mahlsdorf II,NA,NA,home,NA,formation unclear,NA
+26,BSV Al-Dersimspor,VfB Concordia Britz 1916,NA,NA,home,NA,formation unclear,NA
+26,Berliner SV 1892,FC Internationale Berlin 1980,NA,NA,home,NA,formation unclear,NA
+26,TSV Rudow Berlin,FSV Berolina Stralau 1901,NA,NA,home,NA,formation unclear,NA
+26,Köpenicker FC,SV Stern Britz 1889,NA,NA,away,NA,formation unclear,NA
+26,BFC Preussen II,SC Borsigwalde 1910,NA,NA,away,NA,formation unclear,NA
+26,BFC Meteor 06,Türkiyemspor Berlin,NA,NA,away,NA,formation unclear,NA
+26,SV Empor Berlin II,Berliner SC II,NA,NA,away,NA,formation unclear,NA
+26,BSV Eintracht Mahlsdorf II,FC Viktoria 1889 Berlin II,NA,NA,away,NA,formation unclear,NA
+26,VfB Concordia Britz 1916,BSV Al-Dersimspor,NA,NA,away,NA,formation unclear,NA
+26,FC Internationale Berlin 1980,Berliner SV 1892,NA,NA,away,NA,formation unclear,NA
+26,FSV Berolina Stralau 1901,TSV Rudow Berlin,NA,NA,away,NA,formation unclear,NA
+27,BSV Al-Dersimspor,FC Viktoria 1889 Berlin II,NA,NA,home,NA,formation unclear,NA
+27,BFC Meteor 06,BFC Preussen II,NA,NA,home,NA,formation unclear,NA
+27,FC Internationale Berlin 1980,SV Stern Britz 1889,NA,NA,home,NA,formation unclear,NA
+27,Berliner SV 1892,TSV Rudow Berlin,NA,NA,home,NA,formation unclear,NA
+27,FSV Berolina Stralau 1901,Köpenicker FC,NA,NA,home,NA,formation unclear,NA
+27,VfB Concordia Britz 1916,BSV Eintracht Mahlsdorf II,NA,NA,home,NA,formation unclear,NA
+27,SV Empor Berlin II,SC Borsigwalde 1910,NA,NA,home,NA,formation unclear,NA
+27,Berliner SC II,Türkiyemspor Berlin,NA,NA,home,NA,formation unclear,NA
+27,FC Viktoria 1889 Berlin II,BSV Al-Dersimspor,NA,NA,away,NA,formation unclear,NA
+27,BFC Preussen II,BFC Meteor 06,NA,NA,away,NA,formation unclear,NA
+27,SV Stern Britz 1889,FC Internationale Berlin 1980,NA,NA,away,NA,formation unclear,NA
+27,TSV Rudow Berlin,Berliner SV 1892,NA,NA,away,NA,formation unclear,NA
+27,Köpenicker FC,FSV Berolina Stralau 1901,NA,NA,away,NA,formation unclear,NA
+27,BSV Eintracht Mahlsdorf II,VfB Concordia Britz 1916,NA,NA,away,NA,formation unclear,NA
+27,SC Borsigwalde 1910,SV Empor Berlin II,NA,NA,away,NA,formation unclear,NA
+27,Türkiyemspor Berlin,Berliner SC II,NA,NA,away,NA,formation unclear,NA
+28,Köpenicker FC,BFC Meteor 06,NA,NA,home,NA,formation unclear,NA
+28,BSV Eintracht Mahlsdorf II,SV Empor Berlin II,NA,NA,home,NA,formation unclear,NA
+28,FSV Berolina Stralau 1901,FC Viktoria 1889 Berlin II,NA,NA,home,NA,formation unclear,NA
+28,TSV Rudow Berlin,Berliner SC II,NA,NA,home,NA,formation unclear,NA
+28,SV Stern Britz 1889,Berliner SV 1892,NA,NA,home,NA,formation unclear,NA
+28,SC Borsigwalde 1910,FC Internationale Berlin 1980,NA,NA,home,NA,formation unclear,NA
+28,BFC Preussen II,VfB Concordia Britz 1916,NA,NA,home,NA,formation unclear,NA
+28,Türkiyemspor Berlin,BSV Al-Dersimspor,NA,NA,home,NA,formation unclear,NA
+28,BFC Meteor 06,Köpenicker FC,NA,NA,away,NA,formation unclear,NA
+28,SV Empor Berlin II,BSV Eintracht Mahlsdorf II,NA,NA,away,NA,formation unclear,NA
+28,FC Viktoria 1889 Berlin II,FSV Berolina Stralau 1901,NA,NA,away,NA,formation unclear,NA
+28,Berliner SC II,TSV Rudow Berlin,NA,NA,away,NA,formation unclear,NA
+28,Berliner SV 1892,SV Stern Britz 1889,NA,NA,away,NA,formation unclear,NA
+28,FC Internationale Berlin 1980,SC Borsigwalde 1910,NA,NA,away,NA,formation unclear,NA
+28,VfB Concordia Britz 1916,BFC Preussen II,NA,NA,away,NA,formation unclear,NA
+28,BSV Al-Dersimspor,Türkiyemspor Berlin,NA,NA,away,NA,formation unclear,NA
+29,FC Internationale Berlin 1980,BSV Eintracht Mahlsdorf II,NA,NA,home,NA,formation unclear,NA
+29,SV Empor Berlin II,BFC Preussen II,NA,NA,home,NA,formation unclear,NA
+29,Berliner SC II,SV Stern Britz 1889,NA,NA,home,NA,formation unclear,NA
+29,VfB Concordia Britz 1916,Köpenicker FC,NA,NA,home,NA,formation unclear,NA
+29,FC Viktoria 1889 Berlin II,Türkiyemspor Berlin,NA,NA,home,NA,formation unclear,NA
+29,BFC Meteor 06,FSV Berolina Stralau 1901,NA,NA,home,NA,formation unclear,NA
+29,Berliner SV 1892,SC Borsigwalde 1910,NA,NA,home,NA,formation unclear,NA
+29,BSV Al-Dersimspor,TSV Rudow Berlin,NA,NA,home,NA,formation unclear,NA
+29,BSV Eintracht Mahlsdorf II,FC Internationale Berlin 1980,NA,NA,away,NA,formation unclear,NA
+29,BFC Preussen II,SV Empor Berlin II,NA,NA,away,NA,formation unclear,NA
+29,SV Stern Britz 1889,Berliner SC II,NA,NA,away,NA,formation unclear,NA
+29,Köpenicker FC,VfB Concordia Britz 1916,NA,NA,away,NA,formation unclear,NA
+29,Türkiyemspor Berlin,FC Viktoria 1889 Berlin II,NA,NA,away,NA,formation unclear,NA
+29,FSV Berolina Stralau 1901,BFC Meteor 06,NA,NA,away,NA,formation unclear,NA
+29,SC Borsigwalde 1910,Berliner SV 1892,NA,NA,away,NA,formation unclear,NA
+29,TSV Rudow Berlin,BSV Al-Dersimspor,NA,NA,away,NA,formation unclear,NA
+30,BFC Preussen II,FC Internationale Berlin 1980,NA,NA,home,NA,formation unclear,NA
+30,BFC Meteor 06,FC Viktoria 1889 Berlin II,NA,NA,home,NA,formation unclear,NA
+30,SC Borsigwalde 1910,Berliner SC II,NA,NA,home,NA,formation unclear,NA
+30,TSV Rudow Berlin,Türkiyemspor Berlin,NA,NA,home,NA,formation unclear,NA
+30,BSV Eintracht Mahlsdorf II,Berliner SV 1892,NA,NA,home,NA,formation unclear,NA
+30,FSV Berolina Stralau 1901,VfB Concordia Britz 1916,NA,NA,home,NA,formation unclear,NA
+30,SV Stern Britz 1889,BSV Al-Dersimspor,NA,NA,home,NA,formation unclear,NA
+30,Köpenicker FC,SV Empor Berlin II,NA,NA,home,NA,formation unclear,NA
+30,FC Internationale Berlin 1980,BFC Preussen II,NA,NA,away,NA,formation unclear,NA
+30,FC Viktoria 1889 Berlin II,BFC Meteor 06,NA,NA,away,NA,formation unclear,NA
+30,Berliner SC II,SC Borsigwalde 1910,NA,NA,away,NA,formation unclear,NA
+30,Türkiyemspor Berlin,TSV Rudow Berlin,NA,NA,away,NA,formation unclear,NA
+30,Berliner SV 1892,BSV Eintracht Mahlsdorf II,NA,NA,away,NA,formation unclear,NA
+30,VfB Concordia Britz 1916,FSV Berolina Stralau 1901,NA,NA,away,NA,formation unclear,NA
+30,BSV Al-Dersimspor,SV Stern Britz 1889,NA,NA,away,NA,formation unclear,NA
+30,SV Empor Berlin II,Köpenicker FC,NA,NA,away,NA,formation unclear,NA

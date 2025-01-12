@@ -3,15 +3,13 @@ title: second
 output: html_document
 ---
 <head>
-<title>second-page</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="/Users/mkreuschnervsp/git/berlinersc-football-analysis.github.io/styles/third_page.css">
-<!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata"> -->
 <style>
 @font-face {
   font-family: 'Inconsolata';
-  src: url('https://github.com/mkreuschner/berlinersc-football-analysis.github.io/tree/main/styles/fonts/Inconsolata/static/Inconsolata-Regular.ttf') format('ttf');
+  src: url('/Users/mkreuschnervsp/git/berlinersc-football-analysis.github.io/styles/fonts/Inconsolata/static/Inconsolata-Regular.ttf') format('ttf');
 }
 body {
   font-family: 'Inconsolata', monospace;
@@ -43,14 +41,15 @@ button:hover {
 }
 
 #result {
-    margin-top: 20px;
-    padding: 20px;
+    margin-top: 0.2rem;
+    padding: 0.2rem;
     background-color: #f9f9f9;
     color: #333;
-    border-radius: 5px;
+    border-radius: 0.5rem;
     text-align: left;
-    max-width: 400px;
-    margin: 20px auto;
+    max-width: 40rem;
+    min-height: 20rem;
+    margin: 0.2rem auto;
 }
 
 /* Ensure the navigation bar spans the full width of the screen */
@@ -92,12 +91,15 @@ body {
     width: 100%;
     border-collapse: collapse;
     margin-top: 20px;
+    text-align: left;
+    justify-content: center; /* Zentriert horizontal */
+    text-align: center; /* Horizontales Zentrieren */
+    overflow-x: auto;
+    display: block;
 }
 
-#statsTable th, #statsTable td {
-    border: 1px solid #ccc;
-    padding: 10px;
-    text-align: left;
+#statsTable tr:hover {
+    background-color: #e0e0e0;
 }
 
 #statsTable th {
@@ -112,6 +114,11 @@ text-align: center; /* Horizontales Zentrieren */
     background-color: #000;
     color: white;
     font-size: 1.5rem;
+}
+#chart {
+    margin-top: 2rem;
+    max-width: 100%;
+    max-height: 100%;
 }
 </style>
 </head>
@@ -151,18 +158,18 @@ text-align: center; /* Horizontales Zentrieren */
 <br>
 <select id="categorySelect">
 <option value="">-- wähle eine Kategorie --</option>
-<option value="keypoints">Keypoints</option>
-<option value="letzte_spiele">Letzte Spiele</option>
 <option value="formation">Formation</option>
-<option value="erwartete_s11">Erwartete S11</option>
 <option value="tore">Tore</option>
-<option value="spieler">Spieler</option>
+<option value="beste_spieler">Beste Spieler</option>
+<option value="torschuetzen">Torschützen</option>
+<option value="assists">Assists</option>
+<option value="scorer">Scorer</option>
 </select>
-<br>
-<button id="showStats">Anzeigen</button>
 <div id="result">
-<canvas id="chart" width="400" height="200"></canvas>
-<table id="statsTable"></table>
+  <canvas id="chart" style="display: none; width: 100%;height: 40rem;"></canvas>
+  <table id="statsTable" style="display: none; width: 100%;"></table>
+  <table id="goalSummaryTable" style="display: none; width: 100%; margin-top: 20px;"></table>
+</div>
 </div>
 </div>
 </div>
@@ -178,110 +185,260 @@ text-align: center; /* Horizontales Zentrieren */
 <p>Created by Moritz</p>
 </footer>
 
-<script src="https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/styles/js/chart.umd.min.js"></script>
-<script src="https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/styles/js/papaparse.min.js"></script>
+<script src="/Users/mkreuschnervsp/git/berlinersc-football-analysis.github.io/styles/js/chart.umd.min.js"></script>
+<script src="/Users/mkreuschnervsp/git/berlinersc-football-analysis.github.io/styles/js/papaparse.min.js"></script>
 <script>
 document.addEventListener("DOMContentLoaded", () => {
-    const teams = ["Berliner SC II", "Team B", "Team C"]; // Beispielteams
-    const teamSelect = document.getElementById("teamSelect");
-    const categorySelect = document.getElementById("categorySelect");
-    const showStatsButton = document.getElementById("showStats");
-    const resultTable = document.getElementById("statsTable");
-    const chartCanvas = document.getElementById("chart");
-    // Teams in das Dropdown einfügen
-    teams.forEach(team => {
-        const option = document.createElement("option");
-        option.value = team;
-        option.textContent = team;
-        teamSelect.appendChild(option);
-    });
-    // Event Listener für den Button
-    showStatsButton.addEventListener("click", () => {
-        const selectedTeam = teamSelect.value;
-        const selectedCategory = categorySelect.value;
-        if (!selectedTeam || !selectedCategory) {
-            alert("Bitte wähle ein Team und eine Kategorie.");
-            return;
-        }
-        // Lade Daten je nach Kategorie
-        if (selectedCategory === "keypoints") {
-            loadCSV("keypoints.csv", selectedTeam, displayKeypoints);
-        } else if (selectedCategory === "letzte_spiele") {
-            loadCSV("letzte_spiele.csv", selectedTeam, displayLastGames);
-        } else {
-            alert("Diese Kategorie wird noch nicht unterstützt.");
-        }
-    });
-    // CSV-Datei laden
-    function loadCSV(file, team, callback) {
-        Papa.parse(file, {
-            download: true,
-            header: true,
-            complete: function(results) {
-                const filteredData = results.data.filter(row => row.team === team);
-                callback(filteredData);
-            }
-        });
+const teams = [
+"Berliner SC II", "TSV Rudow Berlin", "BFC Preussen II", "BFC Meteor 06",
+"BSV Eintracht Mahlsdorf II", "SC Borsigwalde 1910", "Berliner SV 1892",
+"FC Viktoria 1889 Berlin II", "FC Internationale Berlin 1980", "Türkiyemspor Berlin",
+"Köpenicker FC", "BSV Al-Dersimspor", "FSV Berolina Stralau 1901",
+"SV Empor Berlin II", "SV Stern Britz 1889", "VfB Concordia Britz 1916"
+];
+
+const teamSelect = document.getElementById("teamSelect");
+const categorySelect = document.getElementById("categorySelect");
+const resultTable = document.getElementById("statsTable");
+const chartCanvas = document.getElementById("chart");
+const goalSummaryTable = document.getElementById("goalSummaryTable");
+
+teams.forEach(team => {
+const option = document.createElement("option");
+option.value = team;
+option.textContent = team;
+teamSelect.appendChild(option);
+});
+
+teamSelect.addEventListener("change", handleSelectionChange);
+categorySelect.addEventListener("change", handleSelectionChange);
+
+function handleSelectionChange() {
+const selectedTeam = teamSelect.value;
+const selectedCategory = categorySelect.value;
+
+if (!selectedTeam || !selectedCategory) {
+alert("Bitte wähle ein Team und eine Kategorie.");
+return;
+}
+
+if (selectedCategory === "tore") {
+loadAndDisplayChart(
+"https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/goals.csv",
+selectedTeam
+);
+} else if (selectedCategory === "formation") {
+loadAndDisplayFormationAnalysis(
+selectedTeam,
+"https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/formation_data.csv"
+);
+} else {
+let csvFile;
+switch (selectedCategory) {
+case "beste_spieler":
+csvFile = "https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/best_score.csv";
+break;
+case "torschuetzen":
+csvFile = "https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/goalscorer.csv";
+break;
+case "assists":
+csvFile = "https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/assists.csv";
+break;
+case "scorer":
+csvFile = "https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/scorerpoints.csv";
+break;
+default:
+alert("Ungültige Kategorie.");
+return;
+}
+loadAndDisplayTable(csvFile, selectedTeam);
+}
+}
+
+function loadAndDisplayTable(filePath, team) {
+Papa.parse(filePath, {
+download: true,
+header: true,
+skipEmptyLines: true,
+complete: results => {
+const filteredData = results.data
+.filter(row => row.Team === team)
+.sort((a, b) => parseInt(a.Rank) - parseInt(b.Rank))
+.slice(0, 5);
+
+chartCanvas.style.display = "none";
+goalSummaryTable.style.display = "none";
+resultTable.style.display = "table";
+displayTable(filteredData);
+},
+error: error => {
+console.error("Fehler beim Laden der CSV-Datei:", error);
+resultTable.innerHTML = "<tr><td>Fehler beim Laden der Daten.</td></tr>";
+}
+});
+}
+
+function displayTable(data) {
+resultTable.innerHTML = "";
+if (data.length === 0) {
+resultTable.innerHTML = "<tr><td>Keine Daten verfügbar</td></tr>";
+return;
+}
+
+const headerRow = document.createElement("tr");
+const columns = Object.keys(data[0]).filter(key => key !== "Team");
+
+columns.forEach(key => {
+const th = document.createElement("th");
+th.textContent = key;
+th.style.cssText = "border: 0.1rem solid #fff; padding: 0.2rem; background-color: #f4f4f4; font-family: Inconsolata, monospace; font-size: 1rem;";
+headerRow.appendChild(th);
+});
+resultTable.appendChild(headerRow);
+
+data.forEach(row => {
+const tr = document.createElement("tr");
+columns.forEach(key => {
+const td = document.createElement("td");
+td.textContent = row[key];
+td.style.cssText = "border: 0.1rem solid #fff; padding: 0.2rem; font-family: Inconsolata, monospace; font-size: 1rem;";
+tr.appendChild(td);
+});
+resultTable.appendChild(tr);
+});
+}
+
+function loadAndDisplayChart(filePath, team) {
+Papa.parse(filePath, {
+download: true,
+header: true,
+skipEmptyLines: true,
+complete: results => {
+const filteredData = results.data.filter(row => row.team === team || row.opponent === team);
+const chartData = processGoalData(filteredData, team);
+const goalSummary = calculateGoalSummary(filteredData, team);
+
+resultTable.style.display = "none";
+chartCanvas.style.display = "block";
+goalSummaryTable.style.display = "table";
+
+renderBarChart(chartData);
+displayGoalSummary(goalSummary);
+},
+error: error => {
+console.error("Fehler beim Laden der CSV-Datei:", error);
+}
+});
+}
+
+function processGoalData(data, team) {
+const bins = Array(18).fill(0);
+const binsOpponent = Array(18).fill(0);
+
+data.forEach(row => {
+const minute = parseInt(row.minute, 10);
+if (!isNaN(minute)) {
+const binIndex = Math.floor(minute / 5);
+if (row.team === team) {
+bins[binIndex] += 1;
+} else if (row.opponent === team) {
+binsOpponent[binIndex] += 1;
+}
+}
+});
+
+return {
+bins,
+binsOpponent,
+labels: Array.from({ length: 18 }, (_, i) => `${i * 5}-${i * 5 + 4}min`)
+};
+}
+
+function calculateGoalSummary(data, team) {
+const totalGoals = data.reduce((sum, row) => sum + (row.team === team ? 1 : 0), 0);
+const totalConceded = data.reduce((sum, row) => sum + (row.opponent === team ? 1 : 0), 0);
+return { totalGoals, totalConceded };
+}
+
+function renderBarChart({ bins, binsOpponent, labels }) {
+const ctx = chartCanvas.getContext("2d");
+
+if (window.myChart) {
+window.myChart.destroy();
+}
+
+window.myChart = new Chart(ctx, {
+type: "bar",
+data: {
+labels,
+datasets: [
+{
+    label: "Tore",
+    data: bins,
+    backgroundColor: "rgba(75, 192, 192, 0.6)"
+},
+{
+    label: "Gegentore",
+    data: binsOpponent.map(value => -value),
+    backgroundColor: "rgba(255, 99, 132, 0.6)"
+}
+]
+},
+options: {
+indexAxis: "y",
+responsive: true,
+scales: {
+x: {
+    beginAtZero: true,
+    ticks: {
+        callback: value => Math.abs(value)
     }
-    // Keypoints anzeigen
-    function displayKeypoints(data) {
-        resultTable.innerHTML = "";
-        if (data.length === 0) {
-            resultTable.innerHTML = "<tr><td>Keine Daten verfügbar</td></tr>";
-            return;
-        }
-        // Kopfzeile
-        const headerRow = document.createElement("tr");
-        ["Key", "Value"].forEach(column => {
-            const th = document.createElement("th");
-            th.textContent = column;
-            headerRow.appendChild(th);
-        });
-        resultTable.appendChild(headerRow);
-        // Datenzeilen
-        data.forEach(row => {
-            const tr = document.createElement("tr");
-            const keyCell = document.createElement("td");
-            keyCell.textContent = row.key;
-            const valueCell = document.createElement("td");
-            valueCell.textContent = row.value;
-            tr.appendChild(keyCell);
-            tr.appendChild(valueCell);
-            resultTable.appendChild(tr);
-        });
-    }
-    // Letzte Spiele anzeigen
-    function displayLastGames(data) {
-        resultTable.innerHTML = "";
-        if (data.length === 0) {
-            resultTable.innerHTML = "<tr><td>Keine Daten verfügbar</td></tr>";
-            return;
-        }
-        // Kopfzeile
-        const headerRow = document.createElement("tr");
-        ["Spieltag", "Gegner", "Ergebnis"].forEach(column => {
-            const th = document.createElement("th");
-            th.textContent = column;
-            headerRow.appendChild(th);
-        });
-        resultTable.appendChild(headerRow);
-        // Datenzeilen
-        data.forEach(row => {
-            const tr = document.createElement("tr");
-            const spieltagCell = document.createElement("td");
-            spieltagCell.textContent = row.spieltag;
-            const gegnerCell = document.createElement("td");
-            gegnerCell.textContent = row.gegner;
-            const ergebnisCell = document.createElement("td");
-            ergebnisCell.textContent = row.ergebnis;
-            tr.appendChild(spieltagCell);
-            tr.appendChild(gegnerCell);
-            tr.appendChild(ergebnisCell);
-            resultTable.appendChild(tr);
-        });
-    }
+}
+}
+}
+});
+}
+
+function displayGoalSummary({ totalGoals, totalConceded }) {
+goalSummaryTable.innerHTML = `
+<tr>
+<th>Gesamt</th>
+<th>Gegentore</th>
+<th>Tore</th>
+</tr>
+<tr>
+<td>${totalGoals}</td>
+<td>${totalConceded}</td>
+</tr>
+`;
+}
+
+function loadAndDisplayFormationAnalysis(team, filePath) {
+Papa.parse(filePath, {
+download: true,
+header: true,
+skipEmptyLines: true,
+complete: (results) => {
+const data = results.data.filter((row) => !team || row.Team === team);
+displayFormationCharts(data);
+displayFormationTable(data);
+},
+error: (error) => {
+console.error("Fehler beim Laden der CSV-Datei:", error);
+},
+});
+}
+
+function displayFormationCharts(data) {
+// Implement charts for "Formation" category
+}
+
+function displayFormationTable(data) {
+// Implement table for "Formation" category
+}
 });
 </script>
+
 </body>
 </html>
 

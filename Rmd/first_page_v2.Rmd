@@ -9,7 +9,7 @@ output: html_document
 <style>
 @font-face {
   font-family: 'Inconsolata';
-  src: url('~/git/berlinersc-football-analysis.github.io/styles/fonts/Inconsolata/static/Inconsolata-Regular.ttf') format('ttf');
+  src: url('/Users/mkreuschnervsp/git/berlinersc-football-analysis.github.io/styles/fonts/Inconsolata/static/Inconsolata-Regular.ttf') format('ttf');
 }
 body {
   font-family: 'Inconsolata', monospace;
@@ -32,7 +32,7 @@ table {
     display: block;
 }
 .select-container {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 /* Formatierung der Auswahlfelder */
@@ -40,12 +40,75 @@ select {
     border: 2px solid #007bff;
     border-radius: 5px;
     font-size: 14px;
-    font-family: 'Inconsolata', monospace;
+    font-family: 'Inconsolata', sans-serif;
     padding: 10px;
     width: 100%;
     max-width: 400px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
 }
+/* Ensure the navigation bar spans the full width of the screen */
+#navbar {
+  width: 100%; /* Make it span the full width */
+  position: fixed; /* Keep it fixed at the top */
+  top: 0;
+  left: 0;
+  z-index: 1000; /* Ensure it's above other elements */
+  background-color: #000; /* Black background */
+  font-size: 1.4rem;
+}
+
+/* Make the nav buttons also fill their columns properly */
+.w3-row .w3-button {
+  width: 100%;
+  text-align: center;
+  padding: 10px 0;
+  color: white;
+  text-decoration: none;
+}
+
+.w3-row .w3-button:hover {
+  background-color: #333; /* Lighter shade for hover effect */
+}
+
+/* Ensure the content below starts after the navbar */
+body {
+  margin-top: 40px; /* Adjust based on navbar height */
+}
+
+/* General styling for the rest of the content */
+.w3-content {
+  margin-top:5px;
+  padding: 10px;
+}
+
+#dataTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    justify-content: center; /* Zentriert horizontal */
+    text-align: center; /* Horizontales Zentrieren */
+}
+
+#statsTable th, #statsTable td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+#statsTable th {
+    background: #f4f4f4;
+}
+#about {
+justify-content: center; /* Zentriert horizontal */
+text-align: center; /* Horizontales Zentrieren */
+}
+
+#showStats {
+    background-color: #000;
+    color: white;
+    font-size: 1.5rem;
+}
+
 </style>
 </head>
 <body>
@@ -117,10 +180,18 @@ select {
 </div>
 </div>
 
+<!-- End page content -->
+</div>
+
+<!-- Footer -->
+<footer class="w3-center w3-light-grey w3-padding-48 w3-large">
+<p>Created by Moritz</p>
+</footer>
 
 <script src="/Users/mkreuschnervsp/git/berlinersc-football-analysis.github.io/styles/js/chart.umd.min.js"></script>
 <script src="/Users/mkreuschnervsp/git/berlinersc-football-analysis.github.io/styles/js/papaparse.min.js"></script>
 <script>
+
 // Event Listener für Spieltage
 const matchdaySelect = document.getElementById("matchdaySelect");
 const matchdayContainer = document.getElementById("dataMatchday");
@@ -147,17 +218,38 @@ tableSelect.addEventListener("change", function () {
     }
 });
 
-
-// Spieltag-CSV-Datei laden und Teamnamen ersetzen
+// Funktion zum Laden und Filtern der Spieltag-CSV-Datei
 function loadMatchdayCSV(filePath) {
     Papa.parse(filePath, {
         download: true,
         header: true,
         skipEmptyLines: true,
         complete: function (results) {
-            let data = results.data;
-            data = replaceTeamNames(data, ["Heimteam", "Auswärtsteam"]);
-            displayData(data, matchdayContainer, ["Spieltag", "Heimteam", "Auswärtsteam", "Ergebnis"]);
+            const data = results.data;
+            const selectedOption = matchdaySelect.options[matchdaySelect.selectedIndex].text;
+            let filteredData = [];
+            if (selectedOption === "Letzter Spieltag") {
+                // Spieltage mit Ergebnissen wie "2:1" filtern
+                const playedMatchdays = data.filter(row => /^\d+:\d+$/.test(row["Tore"]));
+                if (playedMatchdays.length > 0) {
+                    const lastMatchdayNumber = Math.max(...playedMatchdays.map(row => parseInt(row["#"])));
+                    filteredData = data.filter(row => parseInt(row["#"]) === lastMatchdayNumber);
+                }
+            } else if (selectedOption === "Nächster Spieltag") {
+                // Der nächste Spieltag nach dem letzten Ergebnis
+                const playedMatchdays = data.filter(row => /^\d+:\d+$/.test(row["Tore"]));
+                if (playedMatchdays.length > 0) {
+                    const lastMatchdayNumber = Math.max(...playedMatchdays.map(row => parseInt(row["#"])));
+                    filteredData = data.filter(row => parseInt(row["#"]) === lastMatchdayNumber + 1);
+                }
+            }
+            // Ersetzen der Teamnamen
+            filteredData = replaceTeamNames(filteredData, ["H", "A"]);
+            // Fülle auf 8 Zeilen, falls weniger vorhanden
+            while (filteredData.length < 8) {
+                filteredData.push({ "#": "-", H: "-", A: "-", Tore: "-" });
+            }
+            displayData(filteredData, matchdayContainer, ["#", "H", "A", "Tore"]);
         },
         error: function (error) {
             console.error("Fehler beim Laden der CSV-Datei:", error);
@@ -166,7 +258,7 @@ function loadMatchdayCSV(filePath) {
     });
 }
 
-// Tabellen-CSV-Datei laden und Teamnamen ersetzen
+// Funktion zum Laden und Anzeigen der Tabellen-CSV-Datei
 function loadTableCSV(filePath) {
     Papa.parse(filePath, {
         download: true,
@@ -174,8 +266,11 @@ function loadTableCSV(filePath) {
         skipEmptyLines: true,
         complete: function (results) {
             let data = results.data;
-            data = replaceTeamNames(data, ["Team", "Gegner"]);
-            displayData(data, tableContainer, null);
+            // Teamnamen basierend auf der Bildschirmgröße ersetzen
+            if (isSmallScreen()) {
+                data = replaceTeamNames(data, ["team"]);
+            }
+            displayData(data, tableContainer, null); // Lädt alle Spalten für Tabellen
         },
         error: function (error) {
             console.error("Fehler beim Laden der CSV-Datei:", error);
@@ -190,7 +285,7 @@ function displayData(data, container, columnsToShow) {
         container.innerHTML = "<p>Keine Daten verfügbar.</p>";
         return;
     }
-    // Filtere nur die Spalten, die angezeigt werden sollen (falls definiert)
+    // Filtere nur die Spalten, die angezeigt werden sollen
     const filteredData = columnsToShow
         ? data.map(row => {
               const filteredRow = {};
@@ -201,17 +296,17 @@ function displayData(data, container, columnsToShow) {
           })
         : data;
     // Erstelle die Tabelle
-    let html = "<table style='width: 100%; border-collapse: collapse; font-size: 16px; margin-top: 20px;'>";
+    let html = "<table style='width: 100%; border-collapse: collapse; font-size: 1rem; margin-top: 0.2rem;'>";
     html += "<thead style='background-color: #f4f4f4;'>";
     html += "<tr>";
     Object.keys(filteredData[0]).forEach(key => {
-        html += `<th style='border: 1px solid #ccc; padding: 10px; font-family: Inconsolata, monospace;'>${key}</th>`;
+        html += `<th style='border: 0.1rem solid #fff; padding: 0.2rem; font-family: Inconsolata, monospace;'>${key}</th>`;
     });
     html += "</tr></thead><tbody>";
     filteredData.forEach(row => {
         html += "<tr>";
         Object.values(row).forEach(value => {
-            html += `<td style='border: 1px solid #ccc; padding: 8px; font-family: Inconsolata, monospace;'>${value}</td>`;
+            html += `<td style='border: 0.1rem solid #fff; padding: 0.2rem; font-family: Inconsolata, monospace;'>${value}</td>`;
         });
         html += "</tr>";
     });
@@ -219,34 +314,31 @@ function displayData(data, container, columnsToShow) {
     container.innerHTML = html;
 }
 
-// Überprüfung der Fenstergröße bei Änderung
-window.addEventListener("resize", () => {
-    if (isSmallScreen()) {
-        console.log("Kleiner Bildschirm erkannt. Teamnamen werden angepasst.");
-    }
-});
-
-// Überprüfen der Fensterbreite
+// Funktion zur Erkennung der Bildschirmgröße
 function isSmallScreen() {
-    return window.innerWidth <= 768; // Definiert eine kleine Bildschirmbreite
+    return window.innerWidth <= 768; // Definiert kleine Bildschirme (z. B. mobile Geräte)
 }
 
-// Mapping der Teamnamen
+// Funktion zum Ersetzen der Teamnamen
 const teamNameMapping = {
-    "TSV Rudow Berlin": "Rudow",
-    "BSV Eintracht Mahlsdorf II": "Mahlsdorf II",
-    "BFC Preussen II": "Preussen II",
-    "BFC Meteor 06": "Meteor 06",
-    "SC Borsigwalde 1910": "Borsigwalde",
-    "Berliner SV 1892": "BSV 1892",
-    "FC Viktoria 1889 Berlin II": "Viktoria II",
-    "FC Internationale Berlin 1980": "Inter",
-    "Türkiyemspor Berlin": "Türkiyemspor",
-    "Berliner SC II": "BSC II"
+    "TSV Rudow Berlin": "RUD",
+    "BFC Preussen II": "PRE",
+    "BFC Meteor 06": "MET",
+    "BSV Eintracht Mahlsdorf II": "MAH",
+    "SC Borsigwalde 1910": "BOR",
+    "Berliner SV 1892": "BSV",
+    "FC Viktoria 1889 Berlin II": "VIK",
+    "FC Internationale Berlin 1980": "INT",
+    "Türkiyemspor Berlin": "TUR",
+    "Berliner SC II": "BSC",
+    "Köpenicker FC": "KOP",
+    "BSV Al-Dersimspor": "ALD",
+    "FSV Berolina Stralau 1901": "STR",
+    "SV Empor Berlin II": "EMP",
+    "SV Stern Britz 1889": "BRI",
+    "VfB Concordia Britz 1916": "CON"
 };
 
-
-// Funktion zum Ersetzen der Teamnamen
 function replaceTeamNames(data, columns) {
     return data.map(row => {
         columns.forEach(column => {
@@ -257,6 +349,8 @@ function replaceTeamNames(data, columns) {
         return row;
     });
 }
+
+
 
 </script>
 </body>
