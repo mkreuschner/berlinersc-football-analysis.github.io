@@ -64,7 +64,7 @@ document.addEventListener("DOMContentLoaded", () => {
             const awayGoals = row["Tore_A"] || "0";
 
             html += `
-            <div style="font-size: 0.8rem; border: 1px solid #ddd; border-radius: 0.1rem; padding: 0.3rem; background-color: #f9f9f9; box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);">
+            <div style="font-size: 0.9rem; border: 1px solid #ddd; border-radius: 0.1rem; padding: 0.3rem; background-color: #f9f9f9; box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);">
                 <div style="display: flex; justify-content: space-between; margin-bottom: 0.1rem;">
                     <span style="font-weight: bold;">${homeTeam}</span>
                     <span>${homeGoals}</span>
@@ -190,7 +190,7 @@ document.addEventListener("DOMContentLoaded", () => {
         // HTML für die Tabelle mit Header und angepasster Spaltenausrichtung
         let html = `
     <div style="border: 1px solid #ddd; border-radius: 0.5rem; padding: 0.5rem; background-color: #f9f9f9; box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1); margin-top: 0.5rem;">
-        <table style="width: 100%; border-collapse: collapse; font-size: 0.8rem; table-layout: fixed;">
+        <table style="width: 100%; border-collapse: collapse; font-size: 0.9rem; table-layout: fixed;">
             <colgroup>
                 <col style="width: 5%;"> <!-- Spalte 1 -->
                 <col style="width: auto; text-align: left; font-weight: bold;"> <!-- Dynamische Spalte 2 -->
@@ -204,7 +204,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         // Erstelle Tabellen-Header
         columnsToShow.forEach((column, index) => {
-            const alignStyle = index >= 2 ? "text-align: right;" : "text-align: left;";
+            const alignStyle = index === 1 ? "text-align: left;" : "text-align: center;";
             html += `<th style="padding: 0.5rem; ${alignStyle} border-bottom: 1px solid #ddd;">${column}</th>`;
         });
 
@@ -255,7 +255,7 @@ document.addEventListener("DOMContentLoaded", () => {
         // HTML für die Tabelle mit Header und angepasster Spaltenausrichtung
         let html = `
     <div style="border: 1px solid #ddd; border-radius: 0.5rem; padding: 0.5rem; background-color: #f9f9f9; box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1); margin-top: 0.5rem;">
-        <table style="width: 100%; border-collapse: collapse; font-size: 0.8rem; table-layout: fixed;">
+        <table style="width: 100%; border-collapse: collapse; font-size: 0.9rem; table-layout: fixed;">
             <colgroup>
                 <col style="width: 2%;"> <!-- Spalte 1 -->
                 <col style="width: auto;"> <!-- Spalte 2 -->

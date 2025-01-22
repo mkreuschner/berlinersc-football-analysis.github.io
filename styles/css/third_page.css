@@ -1,0 +1,89 @@
+@font-face {
+    font-family: 'Inconsolata';
+    src: url('https://github.com/mkreuschner/berlinersc-football-analysis.github.io/tree/main/styles/fonts/Inconsolata/static/Inconsolata-Regular.ttf') format('ttf');
+}
+h1.title {
+    display: none;  /* Titel verstecken */
+}
+body, html {
+    height: 100%;
+    font-family: "Inconsolata", monospace;
+    justify-content: center; /* Zentriert horizontal */
+    text-align: center; /* Horizontales Zentrieren */
+}
+select, button {
+    margin: 10px 0;
+    padding: 10px;
+    font-size: 1.0rem;
+    width: 100%;
+    max-width: 400px;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+#result {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    color: #333;
+    border-radius: 5px;
+    text-align: left;
+    max-width: 400px;
+    margin: 20px auto;
+}
+
+
+/* Ensure the navigation bar spans the full width of the screen */
+#navbar {
+    width: 100%; /* Make it span the full width */
+    position: fixed; /* Keep it fixed at the top */
+    top: 0;
+    left: 0;
+    z-index: 1000; /* Ensure it's above other elements */
+    background-color: #000; /* Black background */
+    font-size: 1.3rem;
+}
+
+/* Make the nav buttons also fill their columns properly */
+.w3-row .w3-button {
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+    color: white;
+    text-decoration: none;
+}
+
+.w3-row .w3-button:hover {
+    background-color: #333; /* Lighter shade for hover effect */
+}
+
+/* Ensure the content below starts after the navbar */
+body {
+    margin-top: 2.5rem; /* Adjust based on navbar height */
+}
+
+/* General styling for the rest of the content */
+.w3-content {
+    margin-top: 20px;
+    padding: 10px;
+}
+
+#about {
+    justify-content: center; /* Zentriert horizontal */
+    text-align: center; /* Horizontales Zentrieren */
+}
+
+#Suchen {
+    background-color: #000;
+    color: white;
+    font-size: 1.0rem;
+}
