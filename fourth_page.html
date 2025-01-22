@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/css/all_pages.css">
+    <link rel="stylesheet" href="styles/css/fourth_page.css">
+    <title>REAL 11</title>
+</head>
+<body>
+
+<!-- Navigation Bar -->
+<div class="w3-top" >
+    <div class="w3-row w3-padding w3-black">
+        <div class="navbar" id="navbar">
+            <div class="w3-col s3">
+                <a href="index.html" class="w3-button w3-block w3-black">RESULTS</a>
+            </div>
+            <div class="w3-col s3">
+                <a href="second_page.html" class="w3-button w3-block w3-black">TEAMS</a>
+            </div>
+            <div class="w3-col s3">
+                <a href="third_page.html" class="w3-button w3-block w3-black">PLAYER</a>
+            </div>
+            <div class="w3-col s3">
+                <a href="fourth_page.html" class="w3-button w3-block w3-black">REAL11</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Main Content -->
+<!-- About Container -->
+<div class="w3-container" id="about">
+    <div class="w3-content" style="max-width:700px">
+        <h5 class="w3-center w3-padding-16"><span class="w3-tag w3-wide">REALE 11</span></h5>
+        <select id="teamSelect" onchange="updateTable()"></select>
+        <br>
+        <select id="formationSelect" onchange="updateTable()">
+            <option value="4-4-2">4-4-2</option>
+            <option value="4-4-1-1">4-4-1-1</option>
+            <option value="4-2-2-2">4-2-2-2</option>
+            <option value="4-3-3">4-3-3</option>
+            <option value="4-2-3-1">4-2-3-1</option>
+            <option value="4-1-4-1">4-1-4-1</option>
+            <option value="3-5-2">3-5-2</option>
+            <option value="3-4-3">3-4-3</option>
+            <option value="3-4-1-2">3-4-1-2</option>
+            <option value="3-2-3-2">3-2-3-2</option>
+            <option value="3-6-1">3-6-1</option>
+            <option value="5-3-2">5-3-2</option>
+            <option value="5-2-1-2">5-2-1-2</option>
+            <option value="5-4-1">5-4-1</option>
+            <option value="5-1-2-2">5-1-2-2</option>
+        </select>
+
+        <div>
+            <!-- Tabelle -->
+            <div id="tableContainer">
+                <table border="1" style="width: 100%; text-align: left;">
+                    <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Pos</th>
+                        <th>Name</th>
+                        <th>Score</th>
+                    </tr>
+                    </thead>
+                    <tbody id="tableBody">
+                    <!-- Tabelleninhalte werden dynamisch generiert -->
+                    </tbody>
+                </table>
+            </div>
+
+            <div id="footballFieldContainer" style="position: relative; max-width: 100%; margin: 10px auto; aspect-ratio: 2 / 3; background-color: black; border: 2px solid white;">
+                <svg viewBox="0 0 100 150" xmlns="http://www.w3.org/2000/svg" style="width: 100%; height: 100%;"> <!-- Außenlinie -->
+                    <rect x="0" y="0" width="100" height="150" fill="none" stroke="white" stroke-width="0.5"/> <!-- Mittellinie -->
+                    <line x1="0" y1="75" x2="100" y2="75" stroke="white" stroke-width="0.5"/> <!-- Mittelkreis -->
+                    <circle cx="50" cy="75" r="10" fill="none" stroke="white" stroke-width="0.5"/> <!-- Strafraum unten -->
+                    <rect x="30" y="135" width="40" height="15" fill="none" stroke="white" stroke-width="0.5"/> <!-- Strafraum oben -->
+                    <rect x="30" y="0" width="40" height="15" fill="none" stroke="white" stroke-width="0.5"/> <!-- Torbereich unten -->
+                    <rect x="43" y="145" width="14" height="5" fill="none" stroke="white" stroke-width="0.5"/> <!-- Torbereich oben -->
+                    <rect x="43" y="0" width="14" height="5" fill="none" stroke="white" stroke-width="0.5"/>
+                </svg>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+
+<!-- End page content -->
+</div>
+
+<!-- Footer -->
+<footer class="w3-center w3-light-grey w3-padding-48 w3-large">
+    <p>Created by Moritz</p>
+</footer>
+
+<script src="js/chart.umd.min.js"></script>
+<script src="js/papaparse.min.js"></script>
+<script src="js/fourth_page.js"></script>
+
+</body>
+</html>
