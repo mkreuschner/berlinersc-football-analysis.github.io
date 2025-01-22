@@ -47,15 +47,25 @@ document.addEventListener("DOMContentLoaded", () => {
         matchdaySelect.value = currentMatchday; // Standardwert setzen
     }
 
-    // Spieltag anzeigen
     function displayMatchday(matchday) {
         const filteredData = matchdaysData.filter(row => parseInt(row["matchday"]) === matchday);
         if (filteredData.length === 0) {
-            matchdayContainer.innerHTML = "<p>Keine Spiele für diesen Spieltag verfügbar.</p>";
+            matchdayContainer.innerHTML = "<p style='text-align: center;'>Keine Spiele für diesen Spieltag verfügbar.</p>";
             return;
         }
 
-        let html = `<div style="display: flex; flex-direction: column; gap: 0.3rem; margin-top: 0.3rem;">`;
+        let html = `
+    <div style="
+        display: flex; 
+        flex-direction: column; 
+        gap: 0.3rem; 
+        margin-top: 0.3rem; 
+        max-width: 400px; 
+        align-items: center; 
+        justify-content: center; 
+        margin-left: auto; 
+        margin-right: auto;
+    ">`;
 
         filteredData.forEach(row => {
             const homeTeam = row["H"] || "Unbekannt";
@@ -64,16 +74,24 @@ document.addEventListener("DOMContentLoaded", () => {
             const awayGoals = row["Tore_A"] || "0";
 
             html += `
-            <div style="font-size: 0.9rem; border: 1px solid #ddd; border-radius: 0.1rem; padding: 0.3rem; background-color: #f9f9f9; box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);">
-                <div style="display: flex; justify-content: space-between; margin-bottom: 0.1rem;">
-                    <span style="font-weight: bold;">${homeTeam}</span>
-                    <span>${homeGoals}</span>
-                </div>
-                <div style="display: flex; justify-content: space-between;">
-                    <span style="font-weight: bold;">${awayTeam}</span>
-                    <span>${awayGoals}</span>
-                </div>
+        <div style="
+            font-size: 0.9rem; 
+            border: 1px solid #ddd; 
+            border-radius: 0.1rem; 
+            padding: 0.3rem; 
+            background-color: #f9f9f9; 
+            box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1); 
+            width: 100%;
+        ">
+            <div style="display: flex; justify-content: space-between; margin-bottom: 0.1rem;">
+                <span style="font-weight: bold;">${homeTeam}</span>
+                <span>${homeGoals}</span>
             </div>
+            <div style="display: flex; justify-content: space-between;">
+                <span style="font-weight: bold;">${awayTeam}</span>
+                <span>${awayGoals}</span>
+            </div>
+        </div>
         `;
         });
 
@@ -134,18 +152,18 @@ document.addEventListener("DOMContentLoaded", () => {
                 let data = results.data;
 
                 // Teamnamen ersetzen
-                data = replaceTeamNames(data, "team"); // Ersetzt Teamnamen in der Spalte "Team"
+                data = replaceTeamNames(data, "team");
 
+                // Tabelle anzeigen
                 displayFilteredTable(data, container, columnsToShow);
             },
             error: function (error) {
                 console.error("Fehler beim Laden der CSV-Datei:", error);
-                container.innerHTML = "<p>Fehler beim Laden der Tabellendaten.</p>";
+                container.innerHTML = `<p style="text-align: center;">Fehler beim Laden der Tabellendaten.</p>`;
             }
         });
     }
 
-    // Spezielle Formatierung für die Formtabelle
     function loadTableCSVWithSpecialFormatting(filePath, columnsToShow, container) {
         Papa.parse(filePath, {
             download: true,
@@ -161,20 +179,132 @@ document.addEventListener("DOMContentLoaded", () => {
                 });
 
                 // Teamnamen ersetzen
-                data = replaceTeamNames(data, "team"); // Ersetzt Teamnamen in der Spalte "Team"
+                data = replaceTeamNames(data, "team");
 
+                // Tabelle mit spezieller Formatierung anzeigen
                 displayFormattedTable(data, container);
             },
             error: function (error) {
                 console.error("Fehler beim Laden der Formtabelle:", error);
-                container.innerHTML = "<p>Fehler beim Laden der Formtabelle.</p>";
+                container.innerHTML = `<p style="text-align: center;">Fehler beim Laden der Formtabelle.</p>`;
             }
         });
     }
 
+    function displayFormattedTable(data, container) {
+        if (data.length === 0) {
+            container.innerHTML = `<p style="text-align: center;">Keine Daten verfügbar.</p>`;
+            return;
+        }
+
+        // Gewichtung für die Spalten E5 bis E1
+        const formWeights = {
+            E5: 1,
+            E4: 2,
+            E3: 3,
+            E2: 4,
+            E1: 5
+        };
+
+        // Punktezuordnung
+        const points = {
+            S: 3,
+            U: 1,
+            N: 0
+        };
+
+        // HTML für die Tabelle mit zentriertem Container
+        let html = `
+    <div style="
+        border: 1px solid #ddd; 
+        border-radius: 0.5rem; 
+        padding: 1rem; 
+        background-color: #f9f9f9; 
+        box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.1); 
+        max-width: 500px; 
+        margin: 1rem auto; 
+        display: flex; 
+        flex-direction: column;
+    ">
+        <table style="
+            width: 100%; 
+            border-collapse: collapse; 
+            font-size: 0.9rem; 
+            table-layout: fixed;
+        ">
+            <colgroup>
+                <col style="width: 10%;">   <!-- Spalte 1: Feste Breite -->
+                <col style="width: auto;"> <!-- Spalte 2 (Team): Flexibel -->
+                <col style="width: 5%;">  <!-- Spalte 3: Feste Breite -->
+                <col style="width: 5%;">  <!-- Spalte 4: Feste Breite -->
+                <col style="width: 5%;">  <!-- Spalte 5: Feste Breite -->
+                <col style="width: 5%;">  <!-- Spalte 6: Feste Breite -->
+                <col style="width: 10%;">  <!-- Spalte 7: Feste Breite -->
+            </colgroup>
+            <thead style="background-color: #f4f4f4;">
+                <tr>`;
+
+        // Tabellen-Header erstellen
+        Object.keys(data[0]).forEach((key, index) => {
+            const alignStyle = index === 1 ? "text-align: left;" : "text-align: center;";
+            html += `<th style="padding: 0.5rem; ${alignStyle} border-bottom: 1px solid #ddd;">${key}</th>`;
+        });
+        html += `<th style="padding: 0.5rem; text-align: center; border-bottom: 1px solid #ddd;">Formwert</th>`;
+        html += `</tr></thead><tbody>`;
+
+        // Tabellen-Zeilen erstellen
+        data.forEach(row => {
+            html += `<tr style="border-bottom: 1px solid #ddd;">`;
+
+            let totalScore = 0;
+            let totalWeight = 0;
+
+            Object.entries(row).forEach(([key, value], index) => {
+                let style = "padding: 0.5rem; white-space: nowrap;"; // Text wird nicht umgebrochen
+
+                // Spalte 2 (Team): Links ausgerichtet und flexibel
+                if (index === 1) {
+                    style += "text-align: left; font-weight: bold; width: auto; overflow: hidden; text-overflow: ellipsis;";
+                } else {
+                    style += "text-align: center;";
+                }
+
+                // Farbzuweisung für "S", "U", "N"
+                if (["S", "U", "N"].includes(value)) {
+                    if (value === "S") {
+                        style += "background-color: #d4edda; color: #155724;"; // Grün für "S"
+                        totalScore += points[value] * formWeights[key];
+                    } else if (value === "U") {
+                        style += "background-color: #fff3cd; color: #856404;"; // Orange für "U"
+                        totalScore += points[value] * formWeights[key];
+                    } else if (value === "N") {
+                        style += "background-color: #f8d7da; color: #721c24;"; // Rot für "N"
+                    }
+                    totalWeight += formWeights[key];
+                }
+
+                html += `<td style="${style}">${value}</td>`;
+            });
+
+            // Berechnung des gewichteten Durchschnittswerts mit einer Nachkommastelle
+            const weightedScore = totalWeight > 0 ? (totalScore / totalWeight).toFixed(1) : "0.0";
+
+            // Hinzufügen der berechneten Spalte
+            html += `<td style="padding: 0.5rem; text-align: center; font-weight: bold;">${weightedScore}</td>`;
+            html += `</tr>`;
+        });
+
+        html += `</tbody></table></div>`;
+        container.innerHTML = html;
+    }
+
+
+
+
+
     function displayFilteredTable(data, container, columnsToShow) {
         if (data.length === 0) {
-            container.innerHTML = "<p>Keine Daten verfügbar.</p>";
+            container.innerHTML = `<p style="text-align: center;">Keine Daten verfügbar.</p>`;
             return;
         }
 
@@ -187,22 +317,32 @@ document.addEventListener("DOMContentLoaded", () => {
             return filteredRow;
         });
 
-        // HTML für die Tabelle mit Header und angepasster Spaltenausrichtung
+        // HTML für die Tabelle mit zentriertem Container
         let html = `
-    <div style="border: 1px solid #ddd; border-radius: 0.5rem; padding: 0.5rem; background-color: #f9f9f9; box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1); margin-top: 0.5rem;">
-        <table style="width: 100%; border-collapse: collapse; font-size: 0.9rem; table-layout: fixed;">
+    <div style="
+        border: 1px solid #ddd; 
+        border-radius: 0.5rem; 
+        padding: 1rem; 
+        background-color: #f9f9f9; 
+        box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.1); 
+        max-width: 500px; 
+        margin: 1rem auto; 
+        display: flex; 
+        flex-direction: column;
+    ">
+        <table style="width: 100%; border-collapse: collapse; font-size: 0.9rem;">
             <colgroup>
-                <col style="width: 5%;"> <!-- Spalte 1 -->
-                <col style="width: auto; text-align: left; font-weight: bold;"> <!-- Dynamische Spalte 2 -->
-                <col style="width: 5%; text-align: center;"> <!-- Spalte 3 -->
-                <col style="width: 5%; text-align: center;"> <!-- Spalte 4 -->
-                <col style="width: 5%; text-align: center;"> <!-- Spalte 5 -->
-                <col style="width: 5%; text-align: center;"> <!-- Spalte 6 -->
+                <col style="width: 5%;">   <!-- Spalte 1: Feste Breite -->
+                <col style="width: auto;"> <!-- Spalte 2 (Team): Flexibel -->
+                <col style="width: 5%;">  <!-- Spalte 3: Feste Breite -->
+                <col style="width: 10%;">  <!-- Spalte 4: Feste Breite -->
+                <col style="width: 10%;">  <!-- Spalte 5: Feste Breite -->
+                <col style="width: 10%;">  <!-- Spalte 6: Feste Breite -->
             </colgroup>
             <thead style="background-color: #f4f4f4;">
                 <tr>`;
 
-        // Erstelle Tabellen-Header
+        // Tabellen-Header erstellen
         columnsToShow.forEach((column, index) => {
             const alignStyle = index === 1 ? "text-align: left;" : "text-align: center;";
             html += `<th style="padding: 0.5rem; ${alignStyle} border-bottom: 1px solid #ddd;">${column}</th>`;
@@ -210,28 +350,18 @@ document.addEventListener("DOMContentLoaded", () => {
 
         html += `</tr></thead><tbody>`;
 
-        // Erstelle Tabellen-Zeilen
+        // Tabellen-Zeilen erstellen
         filteredData.forEach(row => {
             html += `<tr style="border-bottom: 1px solid #ddd;">`;
 
             Object.entries(row).forEach(([key, value], index) => {
                 let style = "padding: 0.5rem;";
 
-                // Spalte 2: Links ausgerichtet und fett
+                // Spalte 2 (Team): Links ausgerichtet und flexibel
                 if (index === 1) {
-                    style += "text-align: left; font-weight: bold;";
-                }
-
-                // Spalten 3 bis 7: Inhalte einfärben (für "S", "U", "N")
-                if (index == 0 ) {
+                    style += "text-align: left; font-weight: bold; width: auto; overflow: hidden; text-overflow: ellipsis;";
+                } else {
                     style += "text-align: center;";
-                    if (value === "1") {
-                        style += "background-color: #d4edda; color: #155724;"; // Grün für "S"
-                    } else if (value === "2") {
-                        style += "background-color: #fff3cd; color: #856404;"; // Gelb für "U"
-                    } else if (value === "14" || value === "15" || value === "16") {
-                        style += "background-color: #f8d7da; color: #721c24;"; // Rot für "N"
-                    }
                 }
 
                 html += `<td style="${style}">${value}</td>`;
@@ -245,70 +375,6 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
 
-    // Anzeige der Formtabelle mit spezieller Formatierung
-    function displayFormattedTable(data, container) {
-        if (data.length === 0) {
-            container.innerHTML = "<p>Keine Daten verfügbar.</p>";
-            return;
-        }
-
-        // HTML für die Tabelle mit Header und angepasster Spaltenausrichtung
-        let html = `
-    <div style="border: 1px solid #ddd; border-radius: 0.5rem; padding: 0.5rem; background-color: #f9f9f9; box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1); margin-top: 0.5rem;">
-        <table style="width: 100%; border-collapse: collapse; font-size: 0.9rem; table-layout: fixed;">
-            <colgroup>
-                <col style="width: 2%;"> <!-- Spalte 1 -->
-                <col style="width: auto;"> <!-- Spalte 2 -->
-                <col style="width: 5%;"> <!-- Spalte 3 -->
-                <col style="width: 5%;"> <!-- Spalte 4 -->
-                <col style="width: 5%;"> <!-- Spalte 5 -->
-                <col style="width: 5%;"> <!-- Spalte 6 -->
-                <col style="width: 5%;"> <!-- Spalte 7 -->
-            </colgroup>
-            <thead style="background-color: #f4f4f4;">
-                <tr>`;
-
-        // Erstelle Tabellen-Header basierend auf den Spaltennamen
-        Object.keys(data[0]).forEach((key, index) => {
-            const alignStyle = index === 1 ? "text-align: left;" : "text-align: center;";
-            html += `<th style="padding: 0.5rem; ${alignStyle} border-bottom: 1px solid #ddd;">${key}</th>`;
-        });
-
-        html += `</tr></thead><tbody>`;
-
-        // Erstelle Tabellen-Zeilen
-        data.forEach(row => {
-            html += `<tr style="border-bottom: 1px solid #ddd;">`;
-
-            Object.entries(row).forEach(([key, value], index) => {
-                let style = "padding: 0.5rem;";
-
-                // Spalte 2: Links ausgerichtet und fett
-                if (index === 1) {
-                    style += "text-align: left; font-weight: bold;";
-                }
-
-                // Spalten 3 bis 7: Inhalte einfärben (für "S", "U", "N")
-                if (index >= 2 && index <= 6) {
-                    style += "text-align: center;";
-                    if (value === "S") {
-                        style += "background-color: #d4edda; color: #155724;"; // Grün für "S"
-                    } else if (value === "U") {
-                        style += "background-color: #fff3cd; color: #856404;"; // Gelb für "U"
-                    } else if (value === "N") {
-                        style += "background-color: #f8d7da; color: #721c24;"; // Rot für "N"
-                    }
-                }
-
-                html += `<td style="${style}">${value}</td>`;
-            });
-
-            html += `</tr>`;
-        });
-
-        html += `</tbody></table></div>`;
-        container.innerHTML = html;
-    }
 
     // CSV-Datei für die Formtabelle laden
     displayFormattedTable(data, document.getElementById("table-container"));
