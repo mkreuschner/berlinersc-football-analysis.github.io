@@ -1,17 +1,17 @@
 team,Spiele,E5,E4,E3,E2,E1,Tore,Dif,Pkt,#
-Köpenicker FC,5,S,S,S,S,S,23:3,20,3,1
-BFC Meteor 06,5,S,S,S,S,S,16:5,11,3,2
-TSV Rudow Berlin,5,S,U,U,S,S,5:0,5,2.2,3
-BFC Preussen II,5,S,S,U,S,N,15:10,5,2,4
-FC Viktoria 1889 Berlin II,5,N,U,S,N,S,15:10,5,1.4,5
-Berliner SV 1892,5,S,N,U,N,S,10:9,1,1.4,6
-BSV Eintracht Mahlsdorf II,5,S,U,N,N,S,5:6,-1,1.4,7
-SC Borsigwalde 1910,5,N,S,U,S,N,11:12,-1,1.4,8
-FC Internationale Berlin 1980,5,N,S,N,N,S,15:10,5,1.2,9
-Berliner SC II,5,S,S,N,N,N,5:9,-4,1.2,10
-Türkiyemspor Berlin,5,S,N,S,N,N,10:14,-4,1.2,11
-VfB Concordia Britz 1916,5,N,N,S,S,N,5:19,-14,1.2,12
-FSV Berolina Stralau 1901,5,N,N,U,S,U,10:11,-1,1,13
-SV Empor Berlin II,5,N,U,N,S,N,9:14,-5,0.8,14
-BSV Al-Dersimspor,5,N,N,U,N,U,5:15,-10,0.4,15
-SV Stern Britz 1889,5,N,N,N,N,N,5:17,-12,0,16
+BFC Meteor 06,4,NA,S,S,S,S,19:3,16,3,1
+TSV Rudow Berlin,5,U,S,S,S,S,9:3,6,2.6,2
+FSV Berolina Stralau 1901,5,U,S,S,U,S,14:9,5,2.2,3
+FC Viktoria 1889 Berlin II,6,S,S,N,S,S,19:10,9,2.167,4
+Berliner SV 1892,5,U,S,N,S,S,12:7,5,2,5
+Köpenicker FC,5,S,N,S,S,N,10:7,3,1.8,6
+BFC Preussen II,4,NA,U,S,N,S,8:7,1,1.75,7
+BSV Eintracht Mahlsdorf II,6,N,S,N,S,U,8:8,0,1.333,8
+Türkiyemspor Berlin,5,S,S,N,N,N,9:10,-1,1.2,9
+VfB Concordia Britz 1916,5,S,N,S,N,N,7:8,-1,1.2,10
+Berliner SC II,5,S,N,N,N,S,5:11,-6,1.2,11
+SC Borsigwalde 1910,5,U,N,S,N,U,11:12,-1,1,12
+SV Empor Berlin II,4,NA,N,S,N,N,7:13,-6,0.75,13
+FC Internationale Berlin 1980,5,N,N,N,S,N,8:12,-4,0.6,14
+BSV Al-Dersimspor,5,U,N,N,U,N,5:19,-14,0.4,15
+SV Stern Britz 1889,6,N,N,N,N,N,7:19,-12,0,16
