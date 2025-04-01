@@ -299,3 +299,19 @@
 20	"Berliner SV 1892"	"SV Empor Berlin II"	3	1	"away"	"S"	"3-5-2"	4
 20	"SC Borsigwalde 1910"	"BSV Eintracht Mahlsdorf II"	3	3	"away"	"S"	"4-2-3-1"	4
 20	"Türkiyemspor Berlin"	"FSV Berolina Stralau 1901"	2	3	"away"	"S"	"4-2-3-1"	4
+21	"BFC Meteor 06"	"TSV Rudow Berlin"	2	2	"home"	"M"	"4-1-3-2"	5
+21	"FSV Berolina Stralau 1901"	"SV Stern Britz 1889"	2	1	"home"	"S"	"4-4-2"	5
+21	"Berliner SV 1892"	"FC Viktoria 1889 Berlin II"	1	3	"home"	"NR"	"4-4-2"	3
+21	"BFC Preussen II"	"BSV Eintracht Mahlsdorf II"	3	1	"home"	"S"	"4-2-3-1"	1
+21	"FC Internationale Berlin 1980"	"Berliner SC II"	3	1	"home"	"S"	"4-4-2"	5
+21	"Köpenicker FC"	"SC Borsigwalde 1910"	1	2	"home"	"NR"	"4-3-3"	3
+21	"VfB Concordia Britz 1916"	"Türkiyemspor Berlin"	2	0	"home"	"L"	"4-4-2"	5
+21	"SV Empor Berlin II"	"BSV Al-Dersimspor"	2	3	"home"	"S"	"4-2-3-1"	4
+21	"TSV Rudow Berlin"	"BFC Meteor 06"	2	2	"away"	"M"	"3-4-2-1"	4
+21	"SV Stern Britz 1889"	"FSV Berolina Stralau 1901"	1	2	"away"	"S"	"4-2-3-1"	4
+21	"FC Viktoria 1889 Berlin II"	"Berliner SV 1892"	3	1	"away"	"NR"	"formation unclear"	5
+21	"BSV Eintracht Mahlsdorf II"	"BFC Preussen II"	1	3	"away"	"S"	"4-4-2"	2
+21	"Berliner SC II"	"FC Internationale Berlin 1980"	1	3	"away"	"S"	"formation unclear"	2
+21	"SC Borsigwalde 1910"	"Köpenicker FC"	2	1	"away"	"NR"	"formation unclear"	3
+21	"Türkiyemspor Berlin"	"VfB Concordia Britz 1916"	0	2	"away"	"L"	"4-4-2"	5
+21	"BSV Al-Dersimspor"	"SV Empor Berlin II"	3	2	"away"	"S"	"4-4-2"	4

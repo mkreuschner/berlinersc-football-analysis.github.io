@@ -54,7 +54,7 @@ select {
   left: 0;
   z-index: 1000; /* Ensure it's above other elements */
   background-color: #000; /* Black background */
-  font-size: 1.4rem;
+  font-size: 1.3rem;
 }
 
 /* Make the nav buttons also fill their columns properly */

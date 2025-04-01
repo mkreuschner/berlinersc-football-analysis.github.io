@@ -1,921 +1,933 @@
 Team,Formation,Anzahl,Total_Spiele,Wahrscheinlichkeit,dreier_kette,vierer_kette,Starting11_Team,Starting11_Position,Starting11_Nummer,Starting11_Name,Starting11_Weighted_Score
-BFC Meteor 06,4-2-2-2,1,18,6%,Nein,Ja,BFC Meteor 06,ZM,NA,Abdoulaye Djibril Diallo,1.126
-BFC Meteor 06,4-2-2-2,1,18,6%,Nein,Ja,BFC Meteor 06,ST,11,Simon Böhm,0.798
-BFC Meteor 06,4-2-2-2,1,18,6%,Nein,Ja,BFC Meteor 06,IV,4,Tim Riese,0.784
-BFC Meteor 06,4-2-2-2,1,18,6%,Nein,Ja,BFC Meteor 06,IV,5,Lennart Nerlich,0.75
-BFC Meteor 06,4-2-2-2,1,18,6%,Nein,Ja,BFC Meteor 06,ZM,6,Ahmad Zahlan,0.709
-BFC Meteor 06,4-2-2-2,1,18,6%,Nein,Ja,BFC Meteor 06,LV,3,Serkan Karasu,0.687
-BFC Meteor 06,4-2-2-2,1,18,6%,Nein,Ja,BFC Meteor 06,RV,15,Julian Schröder,0.673
-BFC Meteor 06,4-2-2-2,1,18,6%,Nein,Ja,BFC Meteor 06,TW,22,Selvedin Begzadic,0.61
-BFC Meteor 06,4-2-2-2,1,18,6%,Nein,Ja,BFC Meteor 06,LM,92,Ayham Heimur,0.557
-BFC Meteor 06,4-2-2-2,1,18,6%,Nein,Ja,BFC Meteor 06,ST,18,Farouk Ben Mustapha,0.539
-BFC Meteor 06,4-2-2-2,1,18,6%,Nein,Ja,BFC Meteor 06,RM,84,Pascal-Rene Jüterbock,0.523
-BFC Meteor 06,4-2-3-1,12,18,67%,Nein,Ja,BFC Meteor 06,RV,NA,Abdoulaye Djibril Diallo,1.126
-BFC Meteor 06,4-2-3-1,12,18,67%,Nein,Ja,BFC Meteor 06,ST,11,Simon Böhm,0.798
-BFC Meteor 06,4-2-3-1,12,18,67%,Nein,Ja,BFC Meteor 06,IV,4,Tim Riese,0.784
-BFC Meteor 06,4-2-3-1,12,18,67%,Nein,Ja,BFC Meteor 06,IV,5,Lennart Nerlich,0.75
-BFC Meteor 06,4-2-3-1,12,18,67%,Nein,Ja,BFC Meteor 06,ZDM,6,Ahmad Zahlan,0.709
-BFC Meteor 06,4-2-3-1,12,18,67%,Nein,Ja,BFC Meteor 06,ZDM,3,Serkan Karasu,0.687
-BFC Meteor 06,4-2-3-1,12,18,67%,Nein,Ja,BFC Meteor 06,LV,15,Julian Schröder,0.673
-BFC Meteor 06,4-2-3-1,12,18,67%,Nein,Ja,BFC Meteor 06,ZOM,27,Jannik Jantzen,0.66
-BFC Meteor 06,4-2-3-1,12,18,67%,Nein,Ja,BFC Meteor 06,TW,22,Selvedin Begzadic,0.61
-BFC Meteor 06,4-2-3-1,12,18,67%,Nein,Ja,BFC Meteor 06,LM,92,Ayham Heimur,0.557
-BFC Meteor 06,4-2-3-1,12,18,67%,Nein,Ja,BFC Meteor 06,RM,84,Pascal-Rene Jüterbock,0.523
-BFC Meteor 06,4-3-3,2,18,11%,Nein,Ja,BFC Meteor 06,ZM,NA,Abdoulaye Djibril Diallo,1.126
-BFC Meteor 06,4-3-3,2,18,11%,Nein,Ja,BFC Meteor 06,ST,11,Simon Böhm,0.798
-BFC Meteor 06,4-3-3,2,18,11%,Nein,Ja,BFC Meteor 06,IV,4,Tim Riese,0.784
-BFC Meteor 06,4-3-3,2,18,11%,Nein,Ja,BFC Meteor 06,IV,5,Lennart Nerlich,0.75
-BFC Meteor 06,4-3-3,2,18,11%,Nein,Ja,BFC Meteor 06,ZM,6,Ahmad Zahlan,0.709
-BFC Meteor 06,4-3-3,2,18,11%,Nein,Ja,BFC Meteor 06,LV,3,Serkan Karasu,0.687
-BFC Meteor 06,4-3-3,2,18,11%,Nein,Ja,BFC Meteor 06,RV,15,Julian Schröder,0.673
-BFC Meteor 06,4-3-3,2,18,11%,Nein,Ja,BFC Meteor 06,TW,22,Selvedin Begzadic,0.61
-BFC Meteor 06,4-3-3,2,18,11%,Nein,Ja,BFC Meteor 06,ZM,NA,Metin Aktürk,0.61
-BFC Meteor 06,4-3-3,2,18,11%,Nein,Ja,BFC Meteor 06,LM,92,Ayham Heimur,0.557
-BFC Meteor 06,4-3-3,2,18,11%,Nein,Ja,BFC Meteor 06,RM,84,Pascal-Rene Jüterbock,0.523
-BFC Meteor 06,4-4-2,2,18,11%,Nein,Ja,BFC Meteor 06,ZM,NA,Abdoulaye Djibril Diallo,1.126
-BFC Meteor 06,4-4-2,2,18,11%,Nein,Ja,BFC Meteor 06,ST,11,Simon Böhm,0.798
-BFC Meteor 06,4-4-2,2,18,11%,Nein,Ja,BFC Meteor 06,IV,4,Tim Riese,0.784
-BFC Meteor 06,4-4-2,2,18,11%,Nein,Ja,BFC Meteor 06,IV,5,Lennart Nerlich,0.75
-BFC Meteor 06,4-4-2,2,18,11%,Nein,Ja,BFC Meteor 06,ZM,6,Ahmad Zahlan,0.709
-BFC Meteor 06,4-4-2,2,18,11%,Nein,Ja,BFC Meteor 06,LV,3,Serkan Karasu,0.687
-BFC Meteor 06,4-4-2,2,18,11%,Nein,Ja,BFC Meteor 06,RV,15,Julian Schröder,0.673
-BFC Meteor 06,4-4-2,2,18,11%,Nein,Ja,BFC Meteor 06,TW,22,Selvedin Begzadic,0.61
-BFC Meteor 06,4-4-2,2,18,11%,Nein,Ja,BFC Meteor 06,LM,92,Ayham Heimur,0.557
-BFC Meteor 06,4-4-2,2,18,11%,Nein,Ja,BFC Meteor 06,ST,18,Farouk Ben Mustapha,0.539
-BFC Meteor 06,4-4-2,2,18,11%,Nein,Ja,BFC Meteor 06,RM,84,Pascal-Rene Jüterbock,0.523
-BFC Meteor 06,4-5-1,1,18,6%,Nein,Ja,BFC Meteor 06,ZM,NA,Abdoulaye Djibril Diallo,1.126
-BFC Meteor 06,4-5-1,1,18,6%,Nein,Ja,BFC Meteor 06,ST,11,Simon Böhm,0.798
-BFC Meteor 06,4-5-1,1,18,6%,Nein,Ja,BFC Meteor 06,IV,4,Tim Riese,0.784
-BFC Meteor 06,4-5-1,1,18,6%,Nein,Ja,BFC Meteor 06,IV,5,Lennart Nerlich,0.75
-BFC Meteor 06,4-5-1,1,18,6%,Nein,Ja,BFC Meteor 06,ZM,6,Ahmad Zahlan,0.709
-BFC Meteor 06,4-5-1,1,18,6%,Nein,Ja,BFC Meteor 06,LV,3,Serkan Karasu,0.687
-BFC Meteor 06,4-5-1,1,18,6%,Nein,Ja,BFC Meteor 06,RV,15,Julian Schröder,0.673
-BFC Meteor 06,4-5-1,1,18,6%,Nein,Ja,BFC Meteor 06,TW,22,Selvedin Begzadic,0.61
-BFC Meteor 06,4-5-1,1,18,6%,Nein,Ja,BFC Meteor 06,ZM,NA,Metin Aktürk,0.61
-BFC Meteor 06,4-5-1,1,18,6%,Nein,Ja,BFC Meteor 06,LM,92,Ayham Heimur,0.557
-BFC Meteor 06,4-5-1,1,18,6%,Nein,Ja,BFC Meteor 06,RM,84,Pascal-Rene Jüterbock,0.523
-BFC Preussen II,3-2-3-2,1,18,6%,Ja,Nein,BFC Preussen II,IV,NA,Oliver Schill,0.91
-BFC Preussen II,3-2-3-2,1,18,6%,Ja,Nein,BFC Preussen II,ST,NA,Arda Isik,0.894
-BFC Preussen II,3-2-3-2,1,18,6%,Ja,Nein,BFC Preussen II,IV,16,Magnus Stahlberg,0.792
-BFC Preussen II,3-2-3-2,1,18,6%,Ja,Nein,BFC Preussen II,IV,20,Lukas Kohlmann,0.75
-BFC Preussen II,3-2-3-2,1,18,6%,Ja,Nein,BFC Preussen II,TW,1,Dominik Dietzel,0.75
-BFC Preussen II,3-2-3-2,1,18,6%,Ja,Nein,BFC Preussen II,LM,12,Lasse Engelsing,0.702
-BFC Preussen II,3-2-3-2,1,18,6%,Ja,Nein,BFC Preussen II,RM,18,Kevin Anderson Moreira Godinho,0.621
-BFC Preussen II,3-2-3-2,1,18,6%,Ja,Nein,BFC Preussen II,ZDM,6,Meiko Hesse,0.565
-BFC Preussen II,3-2-3-2,1,18,6%,Ja,Nein,BFC Preussen II,ZOM,48,Ugurcan Yilmaz,0.555
-BFC Preussen II,3-2-3-2,1,18,6%,Ja,Nein,BFC Preussen II,ST,7,Hugo Timur,0.521
-BFC Preussen II,3-2-3-2,1,18,6%,Ja,Nein,BFC Preussen II,ZDM,30,Yasin Demir,0.476
-BFC Preussen II,4-2-2-2,2,18,11%,Nein,Ja,BFC Preussen II,IV,NA,Oliver Schill,0.91
-BFC Preussen II,4-2-2-2,2,18,11%,Nein,Ja,BFC Preussen II,ST,NA,Arda Isik,0.894
-BFC Preussen II,4-2-2-2,2,18,11%,Nein,Ja,BFC Preussen II,IV,16,Magnus Stahlberg,0.792
-BFC Preussen II,4-2-2-2,2,18,11%,Nein,Ja,BFC Preussen II,ZM,20,Lukas Kohlmann,0.75
-BFC Preussen II,4-2-2-2,2,18,11%,Nein,Ja,BFC Preussen II,TW,1,Dominik Dietzel,0.75
-BFC Preussen II,4-2-2-2,2,18,11%,Nein,Ja,BFC Preussen II,LV,12,Lasse Engelsing,0.702
-BFC Preussen II,4-2-2-2,2,18,11%,Nein,Ja,BFC Preussen II,ZM,31,Malte Hartmann,0.684
-BFC Preussen II,4-2-2-2,2,18,11%,Nein,Ja,BFC Preussen II,RM,18,Kevin Anderson Moreira Godinho,0.621
-BFC Preussen II,4-2-2-2,2,18,11%,Nein,Ja,BFC Preussen II,LM,NA,Lucky Ugbogbo,0.596
-BFC Preussen II,4-2-2-2,2,18,11%,Nein,Ja,BFC Preussen II,RV,48,Ugurcan Yilmaz,0.555
-BFC Preussen II,4-2-2-2,2,18,11%,Nein,Ja,BFC Preussen II,ST,7,Hugo Timur,0.521
-BFC Preussen II,4-2-3-1,12,18,67%,Nein,Ja,BFC Preussen II,IV,NA,Oliver Schill,0.91
-BFC Preussen II,4-2-3-1,12,18,67%,Nein,Ja,BFC Preussen II,ST,NA,Arda Isik,0.894
-BFC Preussen II,4-2-3-1,12,18,67%,Nein,Ja,BFC Preussen II,IV,16,Magnus Stahlberg,0.792
-BFC Preussen II,4-2-3-1,12,18,67%,Nein,Ja,BFC Preussen II,TW,1,Dominik Dietzel,0.75
-BFC Preussen II,4-2-3-1,12,18,67%,Nein,Ja,BFC Preussen II,LV,12,Lasse Engelsing,0.702
-BFC Preussen II,4-2-3-1,12,18,67%,Nein,Ja,BFC Preussen II,RM,18,Kevin Anderson Moreira Godinho,0.621
-BFC Preussen II,4-2-3-1,12,18,67%,Nein,Ja,BFC Preussen II,LM,NA,Lucky Ugbogbo,0.596
-BFC Preussen II,4-2-3-1,12,18,67%,Nein,Ja,BFC Preussen II,ZDM,6,Meiko Hesse,0.565
-BFC Preussen II,4-2-3-1,12,18,67%,Nein,Ja,BFC Preussen II,ZOM,48,Ugurcan Yilmaz,0.555
-BFC Preussen II,4-2-3-1,12,18,67%,Nein,Ja,BFC Preussen II,RV,NA,Ali Hammoud,0.543
-BFC Preussen II,4-2-3-1,12,18,67%,Nein,Ja,BFC Preussen II,ZDM,30,Yasin Demir,0.476
-BFC Preussen II,4-4-1-1,1,18,6%,Nein,Ja,BFC Preussen II,IV,NA,Oliver Schill,0.91
-BFC Preussen II,4-4-1-1,1,18,6%,Nein,Ja,BFC Preussen II,ST,NA,Arda Isik,0.894
-BFC Preussen II,4-4-1-1,1,18,6%,Nein,Ja,BFC Preussen II,IV,16,Magnus Stahlberg,0.792
-BFC Preussen II,4-4-1-1,1,18,6%,Nein,Ja,BFC Preussen II,ZM,20,Lukas Kohlmann,0.75
-BFC Preussen II,4-4-1-1,1,18,6%,Nein,Ja,BFC Preussen II,TW,1,Dominik Dietzel,0.75
-BFC Preussen II,4-4-1-1,1,18,6%,Nein,Ja,BFC Preussen II,LV,12,Lasse Engelsing,0.702
-BFC Preussen II,4-4-1-1,1,18,6%,Nein,Ja,BFC Preussen II,ZM,31,Malte Hartmann,0.684
-BFC Preussen II,4-4-1-1,1,18,6%,Nein,Ja,BFC Preussen II,RM,18,Kevin Anderson Moreira Godinho,0.621
-BFC Preussen II,4-4-1-1,1,18,6%,Nein,Ja,BFC Preussen II,LM,NA,Lucky Ugbogbo,0.596
-BFC Preussen II,4-4-1-1,1,18,6%,Nein,Ja,BFC Preussen II,RV,48,Ugurcan Yilmaz,0.555
-BFC Preussen II,4-4-1-1,1,18,6%,Nein,Ja,BFC Preussen II,ST,7,Hugo Timur,0.521
-BFC Preussen II,4-5-1,1,18,6%,Nein,Ja,BFC Preussen II,IV,NA,Oliver Schill,0.91
-BFC Preussen II,4-5-1,1,18,6%,Nein,Ja,BFC Preussen II,ST,NA,Arda Isik,0.894
-BFC Preussen II,4-5-1,1,18,6%,Nein,Ja,BFC Preussen II,IV,16,Magnus Stahlberg,0.792
-BFC Preussen II,4-5-1,1,18,6%,Nein,Ja,BFC Preussen II,ZM,20,Lukas Kohlmann,0.75
-BFC Preussen II,4-5-1,1,18,6%,Nein,Ja,BFC Preussen II,TW,1,Dominik Dietzel,0.75
-BFC Preussen II,4-5-1,1,18,6%,Nein,Ja,BFC Preussen II,LV,12,Lasse Engelsing,0.702
-BFC Preussen II,4-5-1,1,18,6%,Nein,Ja,BFC Preussen II,ZM,31,Malte Hartmann,0.684
-BFC Preussen II,4-5-1,1,18,6%,Nein,Ja,BFC Preussen II,RM,18,Kevin Anderson Moreira Godinho,0.621
-BFC Preussen II,4-5-1,1,18,6%,Nein,Ja,BFC Preussen II,ZM,24,Maximilian Schatz,0.61
-BFC Preussen II,4-5-1,1,18,6%,Nein,Ja,BFC Preussen II,LM,NA,Lucky Ugbogbo,0.596
-BFC Preussen II,4-5-1,1,18,6%,Nein,Ja,BFC Preussen II,RV,48,Ugurcan Yilmaz,0.555
-BSV Al-Dersimspor,3-2-3-2,2,19,11%,Ja,Nein,BSV Al-Dersimspor,ST,NA,Zana-Kazim Baba,0.677
-BSV Al-Dersimspor,3-2-3-2,2,19,11%,Ja,Nein,BSV Al-Dersimspor,IV,24,Etem Tonk,0.566
-BSV Al-Dersimspor,3-2-3-2,2,19,11%,Ja,Nein,BSV Al-Dersimspor,ST,10,Merdan Baba,0.557
-BSV Al-Dersimspor,3-2-3-2,2,19,11%,Ja,Nein,BSV Al-Dersimspor,IV,6,Karim Zagmouz,0.551
-BSV Al-Dersimspor,3-2-3-2,2,19,11%,Ja,Nein,BSV Al-Dersimspor,LM,47,Mohamad-Ali Chawraba,0.537
-BSV Al-Dersimspor,3-2-3-2,2,19,11%,Ja,Nein,BSV Al-Dersimspor,IV,5,Amir Awag,0.512
-BSV Al-Dersimspor,3-2-3-2,2,19,11%,Ja,Nein,BSV Al-Dersimspor,TW,1,Mustafa Arslan,0.51
-BSV Al-Dersimspor,3-2-3-2,2,19,11%,Ja,Nein,BSV Al-Dersimspor,ZDM,20,Merdie Tshondo,0.499
-BSV Al-Dersimspor,3-2-3-2,2,19,11%,Ja,Nein,BSV Al-Dersimspor,ZOM,27,Caglar Polat,0.484
-BSV Al-Dersimspor,3-2-3-2,2,19,11%,Ja,Nein,BSV Al-Dersimspor,ZDM,4,Sam Diokhane,0.474
-BSV Al-Dersimspor,3-2-3-2,2,19,11%,Ja,Nein,BSV Al-Dersimspor,RM,8,Milos Savkovic,0.458
-BSV Al-Dersimspor,4-1-3-2,2,19,11%,Nein,Ja,BSV Al-Dersimspor,ST,NA,Zana-Kazim Baba,0.677
-BSV Al-Dersimspor,4-1-3-2,2,19,11%,Nein,Ja,BSV Al-Dersimspor,IV,24,Etem Tonk,0.566
-BSV Al-Dersimspor,4-1-3-2,2,19,11%,Nein,Ja,BSV Al-Dersimspor,ST,10,Merdan Baba,0.557
-BSV Al-Dersimspor,4-1-3-2,2,19,11%,Nein,Ja,BSV Al-Dersimspor,IV,6,Karim Zagmouz,0.551
-BSV Al-Dersimspor,4-1-3-2,2,19,11%,Nein,Ja,BSV Al-Dersimspor,LM,47,Mohamad-Ali Chawraba,0.537
-BSV Al-Dersimspor,4-1-3-2,2,19,11%,Nein,Ja,BSV Al-Dersimspor,RM,5,Amir Awag,0.512
-BSV Al-Dersimspor,4-1-3-2,2,19,11%,Nein,Ja,BSV Al-Dersimspor,TW,1,Mustafa Arslan,0.51
-BSV Al-Dersimspor,4-1-3-2,2,19,11%,Nein,Ja,BSV Al-Dersimspor,LV,18,Jonathan Schäfer,0.506
-BSV Al-Dersimspor,4-1-3-2,2,19,11%,Nein,Ja,BSV Al-Dersimspor,RV,20,Merdie Tshondo,0.499
-BSV Al-Dersimspor,4-1-3-2,2,19,11%,Nein,Ja,BSV Al-Dersimspor,ZOM,27,Caglar Polat,0.484
-BSV Al-Dersimspor,4-1-3-2,2,19,11%,Nein,Ja,BSV Al-Dersimspor,ZDM,4,Sam Diokhane,0.474
-BSV Al-Dersimspor,4-1-4-1,1,19,5%,Nein,Ja,BSV Al-Dersimspor,ST,NA,Zana-Kazim Baba,0.677
-BSV Al-Dersimspor,4-1-4-1,1,19,5%,Nein,Ja,BSV Al-Dersimspor,IV,24,Etem Tonk,0.566
-BSV Al-Dersimspor,4-1-4-1,1,19,5%,Nein,Ja,BSV Al-Dersimspor,IV,10,Merdan Baba,0.557
-BSV Al-Dersimspor,4-1-4-1,1,19,5%,Nein,Ja,BSV Al-Dersimspor,RV,6,Karim Zagmouz,0.551
-BSV Al-Dersimspor,4-1-4-1,1,19,5%,Nein,Ja,BSV Al-Dersimspor,LM,47,Mohamad-Ali Chawraba,0.537
-BSV Al-Dersimspor,4-1-4-1,1,19,5%,Nein,Ja,BSV Al-Dersimspor,RM,5,Amir Awag,0.512
-BSV Al-Dersimspor,4-1-4-1,1,19,5%,Nein,Ja,BSV Al-Dersimspor,TW,1,Mustafa Arslan,0.51
-BSV Al-Dersimspor,4-1-4-1,1,19,5%,Nein,Ja,BSV Al-Dersimspor,LV,18,Jonathan Schäfer,0.506
-BSV Al-Dersimspor,4-1-4-1,1,19,5%,Nein,Ja,BSV Al-Dersimspor,ZDM,20,Merdie Tshondo,0.499
-BSV Al-Dersimspor,4-1-4-1,1,19,5%,Nein,Ja,BSV Al-Dersimspor,ZOM,27,Caglar Polat,0.484
-BSV Al-Dersimspor,4-1-4-1,1,19,5%,Nein,Ja,BSV Al-Dersimspor,ZOM,NA,Baris Güngör,0.313
-BSV Al-Dersimspor,4-2-3-1,7,19,37%,Nein,Ja,BSV Al-Dersimspor,ST,NA,Zana-Kazim Baba,0.677
-BSV Al-Dersimspor,4-2-3-1,7,19,37%,Nein,Ja,BSV Al-Dersimspor,IV,24,Etem Tonk,0.566
-BSV Al-Dersimspor,4-2-3-1,7,19,37%,Nein,Ja,BSV Al-Dersimspor,IV,10,Merdan Baba,0.557
-BSV Al-Dersimspor,4-2-3-1,7,19,37%,Nein,Ja,BSV Al-Dersimspor,RV,6,Karim Zagmouz,0.551
-BSV Al-Dersimspor,4-2-3-1,7,19,37%,Nein,Ja,BSV Al-Dersimspor,LM,47,Mohamad-Ali Chawraba,0.537
-BSV Al-Dersimspor,4-2-3-1,7,19,37%,Nein,Ja,BSV Al-Dersimspor,RM,5,Amir Awag,0.512
-BSV Al-Dersimspor,4-2-3-1,7,19,37%,Nein,Ja,BSV Al-Dersimspor,TW,1,Mustafa Arslan,0.51
-BSV Al-Dersimspor,4-2-3-1,7,19,37%,Nein,Ja,BSV Al-Dersimspor,LV,18,Jonathan Schäfer,0.506
-BSV Al-Dersimspor,4-2-3-1,7,19,37%,Nein,Ja,BSV Al-Dersimspor,ZDM,20,Merdie Tshondo,0.499
-BSV Al-Dersimspor,4-2-3-1,7,19,37%,Nein,Ja,BSV Al-Dersimspor,ZOM,27,Caglar Polat,0.484
-BSV Al-Dersimspor,4-2-3-1,7,19,37%,Nein,Ja,BSV Al-Dersimspor,ZDM,4,Sam Diokhane,0.474
-BSV Al-Dersimspor,4-3-3,2,19,11%,Nein,Ja,BSV Al-Dersimspor,ST,NA,Zana-Kazim Baba,0.677
-BSV Al-Dersimspor,4-3-3,2,19,11%,Nein,Ja,BSV Al-Dersimspor,IV,24,Etem Tonk,0.566
-BSV Al-Dersimspor,4-3-3,2,19,11%,Nein,Ja,BSV Al-Dersimspor,IV,10,Merdan Baba,0.557
-BSV Al-Dersimspor,4-3-3,2,19,11%,Nein,Ja,BSV Al-Dersimspor,RV,6,Karim Zagmouz,0.551
-BSV Al-Dersimspor,4-3-3,2,19,11%,Nein,Ja,BSV Al-Dersimspor,LM,47,Mohamad-Ali Chawraba,0.537
-BSV Al-Dersimspor,4-3-3,2,19,11%,Nein,Ja,BSV Al-Dersimspor,RM,5,Amir Awag,0.512
-BSV Al-Dersimspor,4-3-3,2,19,11%,Nein,Ja,BSV Al-Dersimspor,TW,1,Mustafa Arslan,0.51
-BSV Al-Dersimspor,4-3-3,2,19,11%,Nein,Ja,BSV Al-Dersimspor,LV,18,Jonathan Schäfer,0.506
-BSV Al-Dersimspor,4-3-3,2,19,11%,Nein,Ja,BSV Al-Dersimspor,ZM,4,Sam Diokhane,0.474
-BSV Al-Dersimspor,4-3-3,2,19,11%,Nein,Ja,BSV Al-Dersimspor,ZM,7,Emre-Eyüp Önal,0.36
-BSV Al-Dersimspor,4-3-3,2,19,11%,Nein,Ja,BSV Al-Dersimspor,ZM,12,Argjent Krasniqi,0.337
-BSV Al-Dersimspor,4-4-2,3,19,16%,Nein,Ja,BSV Al-Dersimspor,ST,NA,Zana-Kazim Baba,0.677
-BSV Al-Dersimspor,4-4-2,3,19,16%,Nein,Ja,BSV Al-Dersimspor,IV,24,Etem Tonk,0.566
-BSV Al-Dersimspor,4-4-2,3,19,16%,Nein,Ja,BSV Al-Dersimspor,ST,10,Merdan Baba,0.557
-BSV Al-Dersimspor,4-4-2,3,19,16%,Nein,Ja,BSV Al-Dersimspor,IV,6,Karim Zagmouz,0.551
-BSV Al-Dersimspor,4-4-2,3,19,16%,Nein,Ja,BSV Al-Dersimspor,LM,47,Mohamad-Ali Chawraba,0.537
-BSV Al-Dersimspor,4-4-2,3,19,16%,Nein,Ja,BSV Al-Dersimspor,RM,5,Amir Awag,0.512
-BSV Al-Dersimspor,4-4-2,3,19,16%,Nein,Ja,BSV Al-Dersimspor,TW,1,Mustafa Arslan,0.51
-BSV Al-Dersimspor,4-4-2,3,19,16%,Nein,Ja,BSV Al-Dersimspor,LV,18,Jonathan Schäfer,0.506
-BSV Al-Dersimspor,4-4-2,3,19,16%,Nein,Ja,BSV Al-Dersimspor,RV,20,Merdie Tshondo,0.499
-BSV Al-Dersimspor,4-4-2,3,19,16%,Nein,Ja,BSV Al-Dersimspor,ZM,4,Sam Diokhane,0.474
-BSV Al-Dersimspor,4-4-2,3,19,16%,Nein,Ja,BSV Al-Dersimspor,ZM,7,Emre-Eyüp Önal,0.36
-BSV Eintracht Mahlsdorf II,3-6-1,1,19,5%,Ja,Nein,BSV Eintracht Mahlsdorf II,TW,NA,Devis Meißner,0.761
-BSV Eintracht Mahlsdorf II,3-6-1,1,19,5%,Ja,Nein,BSV Eintracht Mahlsdorf II,ZM,16,Christian Preiss,0.719
-BSV Eintracht Mahlsdorf II,3-6-1,1,19,5%,Ja,Nein,BSV Eintracht Mahlsdorf II,ST,7,Reto Reichenberger,0.625
-BSV Eintracht Mahlsdorf II,3-6-1,1,19,5%,Ja,Nein,BSV Eintracht Mahlsdorf II,IV,12,Tom Bothe,0.616
-BSV Eintracht Mahlsdorf II,3-6-1,1,19,5%,Ja,Nein,BSV Eintracht Mahlsdorf II,RM,20,Justin Engfer,0.596
-BSV Eintracht Mahlsdorf II,3-6-1,1,19,5%,Ja,Nein,BSV Eintracht Mahlsdorf II,LM,17,Kenan Halilcevic,0.594
-BSV Eintracht Mahlsdorf II,3-6-1,1,19,5%,Ja,Nein,BSV Eintracht Mahlsdorf II,IV,5,Mohammad Mansour,0.588
-BSV Eintracht Mahlsdorf II,3-6-1,1,19,5%,Ja,Nein,BSV Eintracht Mahlsdorf II,ZM,6,Jonas Maroske,0.566
-BSV Eintracht Mahlsdorf II,3-6-1,1,19,5%,Ja,Nein,BSV Eintracht Mahlsdorf II,IV,8,Lukas Grützner,0.555
-BSV Eintracht Mahlsdorf II,3-6-1,1,19,5%,Ja,Nein,BSV Eintracht Mahlsdorf II,ZM,10,Marc Michas,0.532
-BSV Eintracht Mahlsdorf II,3-6-1,1,19,5%,Ja,Nein,BSV Eintracht Mahlsdorf II,ZM,NA,Fabio Findeisen,0.487
-BSV Eintracht Mahlsdorf II,4-2-2-2,6,19,32%,Nein,Ja,BSV Eintracht Mahlsdorf II,TW,NA,Devis Meißner,0.761
-BSV Eintracht Mahlsdorf II,4-2-2-2,6,19,32%,Nein,Ja,BSV Eintracht Mahlsdorf II,ZM,16,Christian Preiss,0.719
-BSV Eintracht Mahlsdorf II,4-2-2-2,6,19,32%,Nein,Ja,BSV Eintracht Mahlsdorf II,ST,7,Reto Reichenberger,0.625
-BSV Eintracht Mahlsdorf II,4-2-2-2,6,19,32%,Nein,Ja,BSV Eintracht Mahlsdorf II,IV,12,Tom Bothe,0.616
-BSV Eintracht Mahlsdorf II,4-2-2-2,6,19,32%,Nein,Ja,BSV Eintracht Mahlsdorf II,LV,8,Marius Schreiber,0.61
-BSV Eintracht Mahlsdorf II,4-2-2-2,6,19,32%,Nein,Ja,BSV Eintracht Mahlsdorf II,RV,20,Justin Engfer,0.596
-BSV Eintracht Mahlsdorf II,4-2-2-2,6,19,32%,Nein,Ja,BSV Eintracht Mahlsdorf II,LM,17,Kenan Halilcevic,0.594
-BSV Eintracht Mahlsdorf II,4-2-2-2,6,19,32%,Nein,Ja,BSV Eintracht Mahlsdorf II,ST,NA,Björn Heydemann,0.592
-BSV Eintracht Mahlsdorf II,4-2-2-2,6,19,32%,Nein,Ja,BSV Eintracht Mahlsdorf II,IV,5,Mohammad Mansour,0.588
-BSV Eintracht Mahlsdorf II,4-2-2-2,6,19,32%,Nein,Ja,BSV Eintracht Mahlsdorf II,ZM,6,Jonas Maroske,0.566
-BSV Eintracht Mahlsdorf II,4-2-2-2,6,19,32%,Nein,Ja,BSV Eintracht Mahlsdorf II,RM,20,Leon Schmeißer,0.511
-BSV Eintracht Mahlsdorf II,4-3-3,1,19,5%,Nein,Ja,BSV Eintracht Mahlsdorf II,TW,NA,Devis Meißner,0.761
-BSV Eintracht Mahlsdorf II,4-3-3,1,19,5%,Nein,Ja,BSV Eintracht Mahlsdorf II,ZM,16,Christian Preiss,0.719
-BSV Eintracht Mahlsdorf II,4-3-3,1,19,5%,Nein,Ja,BSV Eintracht Mahlsdorf II,ST,7,Reto Reichenberger,0.625
-BSV Eintracht Mahlsdorf II,4-3-3,1,19,5%,Nein,Ja,BSV Eintracht Mahlsdorf II,IV,12,Tom Bothe,0.616
-BSV Eintracht Mahlsdorf II,4-3-3,1,19,5%,Nein,Ja,BSV Eintracht Mahlsdorf II,LV,8,Marius Schreiber,0.61
-BSV Eintracht Mahlsdorf II,4-3-3,1,19,5%,Nein,Ja,BSV Eintracht Mahlsdorf II,RV,20,Justin Engfer,0.596
-BSV Eintracht Mahlsdorf II,4-3-3,1,19,5%,Nein,Ja,BSV Eintracht Mahlsdorf II,LM,17,Kenan Halilcevic,0.594
-BSV Eintracht Mahlsdorf II,4-3-3,1,19,5%,Nein,Ja,BSV Eintracht Mahlsdorf II,IV,5,Mohammad Mansour,0.588
-BSV Eintracht Mahlsdorf II,4-3-3,1,19,5%,Nein,Ja,BSV Eintracht Mahlsdorf II,ZM,6,Jonas Maroske,0.566
-BSV Eintracht Mahlsdorf II,4-3-3,1,19,5%,Nein,Ja,BSV Eintracht Mahlsdorf II,ZM,8,Lukas Grützner,0.555
-BSV Eintracht Mahlsdorf II,4-3-3,1,19,5%,Nein,Ja,BSV Eintracht Mahlsdorf II,RM,20,Leon Schmeißer,0.511
-BSV Eintracht Mahlsdorf II,4-4-2,9,19,47%,Nein,Ja,BSV Eintracht Mahlsdorf II,TW,NA,Devis Meißner,0.761
-BSV Eintracht Mahlsdorf II,4-4-2,9,19,47%,Nein,Ja,BSV Eintracht Mahlsdorf II,ZM,16,Christian Preiss,0.719
-BSV Eintracht Mahlsdorf II,4-4-2,9,19,47%,Nein,Ja,BSV Eintracht Mahlsdorf II,ST,7,Reto Reichenberger,0.625
-BSV Eintracht Mahlsdorf II,4-4-2,9,19,47%,Nein,Ja,BSV Eintracht Mahlsdorf II,IV,12,Tom Bothe,0.616
-BSV Eintracht Mahlsdorf II,4-4-2,9,19,47%,Nein,Ja,BSV Eintracht Mahlsdorf II,LV,8,Marius Schreiber,0.61
-BSV Eintracht Mahlsdorf II,4-4-2,9,19,47%,Nein,Ja,BSV Eintracht Mahlsdorf II,RV,20,Justin Engfer,0.596
-BSV Eintracht Mahlsdorf II,4-4-2,9,19,47%,Nein,Ja,BSV Eintracht Mahlsdorf II,LM,17,Kenan Halilcevic,0.594
-BSV Eintracht Mahlsdorf II,4-4-2,9,19,47%,Nein,Ja,BSV Eintracht Mahlsdorf II,ST,NA,Björn Heydemann,0.592
-BSV Eintracht Mahlsdorf II,4-4-2,9,19,47%,Nein,Ja,BSV Eintracht Mahlsdorf II,IV,5,Mohammad Mansour,0.588
-BSV Eintracht Mahlsdorf II,4-4-2,9,19,47%,Nein,Ja,BSV Eintracht Mahlsdorf II,ZM,6,Jonas Maroske,0.566
-BSV Eintracht Mahlsdorf II,4-4-2,9,19,47%,Nein,Ja,BSV Eintracht Mahlsdorf II,RM,20,Leon Schmeißer,0.511
-Berliner SC II,4-2-2-2,2,18,11%,Nein,Ja,Berliner SC II,IV,5,Dominique Leitner,0.656
-Berliner SC II,4-2-2-2,2,18,11%,Nein,Ja,Berliner SC II,ZM,20,Max Vincent Bolz,0.575
-Berliner SC II,4-2-2-2,2,18,11%,Nein,Ja,Berliner SC II,ZM,12,Noah Peter,0.574
-Berliner SC II,4-2-2-2,2,18,11%,Nein,Ja,Berliner SC II,LM,18,Bryan Lilja,0.569
-Berliner SC II,4-2-2-2,2,18,11%,Nein,Ja,Berliner SC II,IV,4,Leon Ibrom,0.545
-Berliner SC II,4-2-2-2,2,18,11%,Nein,Ja,Berliner SC II,RV,14,Simon Riedel,0.544
-Berliner SC II,4-2-2-2,2,18,11%,Nein,Ja,Berliner SC II,RM,NA,Luca Raoul Al-Habash,0.543
-Berliner SC II,4-2-2-2,2,18,11%,Nein,Ja,Berliner SC II,TW,1,Paul Schlicht,0.537
-Berliner SC II,4-2-2-2,2,18,11%,Nein,Ja,Berliner SC II,ST,9,Stefan Glaser,0.536
-Berliner SC II,4-2-2-2,2,18,11%,Nein,Ja,Berliner SC II,ST,19,Tim Niedenhoff,0.526
-Berliner SC II,4-2-2-2,2,18,11%,Nein,Ja,Berliner SC II,LV,3,Nikolaos Kaggelidids,0.444
-Berliner SC II,4-2-3-1,2,18,11%,Nein,Ja,Berliner SC II,IV,5,Dominique Leitner,0.656
-Berliner SC II,4-2-3-1,2,18,11%,Nein,Ja,Berliner SC II,ST,20,Max Vincent Bolz,0.575
-Berliner SC II,4-2-3-1,2,18,11%,Nein,Ja,Berliner SC II,ZDM,12,Noah Peter,0.574
-Berliner SC II,4-2-3-1,2,18,11%,Nein,Ja,Berliner SC II,LM,18,Bryan Lilja,0.569
-Berliner SC II,4-2-3-1,2,18,11%,Nein,Ja,Berliner SC II,IV,4,Leon Ibrom,0.545
-Berliner SC II,4-2-3-1,2,18,11%,Nein,Ja,Berliner SC II,RV,14,Simon Riedel,0.544
-Berliner SC II,4-2-3-1,2,18,11%,Nein,Ja,Berliner SC II,RM,NA,Luca Raoul Al-Habash,0.543
-Berliner SC II,4-2-3-1,2,18,11%,Nein,Ja,Berliner SC II,TW,1,Paul Schlicht,0.537
-Berliner SC II,4-2-3-1,2,18,11%,Nein,Ja,Berliner SC II,LV,3,Nikolaos Kaggelidids,0.444
-Berliner SC II,4-4-2,14,18,78%,Nein,Ja,Berliner SC II,IV,5,Dominique Leitner,0.656
-Berliner SC II,4-4-2,14,18,78%,Nein,Ja,Berliner SC II,ZM,20,Max Vincent Bolz,0.575
-Berliner SC II,4-4-2,14,18,78%,Nein,Ja,Berliner SC II,ZM,12,Noah Peter,0.574
-Berliner SC II,4-4-2,14,18,78%,Nein,Ja,Berliner SC II,LM,18,Bryan Lilja,0.569
-Berliner SC II,4-4-2,14,18,78%,Nein,Ja,Berliner SC II,IV,4,Leon Ibrom,0.545
-Berliner SC II,4-4-2,14,18,78%,Nein,Ja,Berliner SC II,RV,14,Simon Riedel,0.544
-Berliner SC II,4-4-2,14,18,78%,Nein,Ja,Berliner SC II,RM,NA,Luca Raoul Al-Habash,0.543
-Berliner SC II,4-4-2,14,18,78%,Nein,Ja,Berliner SC II,TW,1,Paul Schlicht,0.537
-Berliner SC II,4-4-2,14,18,78%,Nein,Ja,Berliner SC II,ST,9,Stefan Glaser,0.536
-Berliner SC II,4-4-2,14,18,78%,Nein,Ja,Berliner SC II,ST,19,Tim Niedenhoff,0.526
-Berliner SC II,4-4-2,14,18,78%,Nein,Ja,Berliner SC II,LV,3,Nikolaos Kaggelidids,0.444
-Berliner SV 1892,3-2-3-2,1,19,5%,Ja,Nein,Berliner SV 1892,RM,24,Joshua Tröger,0.686
-Berliner SV 1892,3-2-3-2,1,19,5%,Ja,Nein,Berliner SV 1892,IV,4,Niklas Jost,0.661
-Berliner SV 1892,3-2-3-2,1,19,5%,Ja,Nein,Berliner SV 1892,IV,22,Stefano Tedesco,0.629
-Berliner SV 1892,3-2-3-2,1,19,5%,Ja,Nein,Berliner SV 1892,IV,20,Nikita Charkov,0.627
-Berliner SV 1892,3-2-3-2,1,19,5%,Ja,Nein,Berliner SV 1892,ST,21,Lennard Schleifenbaum,0.564
-Berliner SV 1892,3-2-3-2,1,19,5%,Ja,Nein,Berliner SV 1892,TW,1,Hendrik Lüttschwager,0.548
-Berliner SV 1892,3-2-3-2,1,19,5%,Ja,Nein,Berliner SV 1892,ST,11,Julius Zauner,0.536
-Berliner SV 1892,3-2-3-2,1,19,5%,Ja,Nein,Berliner SV 1892,LM,NA,Benjamin Schnack,0.525
-Berliner SV 1892,3-4-3,5,19,26%,Ja,Nein,Berliner SV 1892,RM,24,Joshua Tröger,0.686
-Berliner SV 1892,3-4-3,5,19,26%,Ja,Nein,Berliner SV 1892,IV,4,Niklas Jost,0.661
-Berliner SV 1892,3-4-3,5,19,26%,Ja,Nein,Berliner SV 1892,IV,22,Stefano Tedesco,0.629
-Berliner SV 1892,3-4-3,5,19,26%,Ja,Nein,Berliner SV 1892,IV,20,Nikita Charkov,0.627
-Berliner SV 1892,3-4-3,5,19,26%,Ja,Nein,Berliner SV 1892,ZM,NA,Jonathan Maurer,0.611
-Berliner SV 1892,3-4-3,5,19,26%,Ja,Nein,Berliner SV 1892,ST,21,Lennard Schleifenbaum,0.564
-Berliner SV 1892,3-4-3,5,19,26%,Ja,Nein,Berliner SV 1892,TW,1,Hendrik Lüttschwager,0.548
-Berliner SV 1892,3-4-3,5,19,26%,Ja,Nein,Berliner SV 1892,ZM,NA,Steven Koschek,0.54
-Berliner SV 1892,3-4-3,5,19,26%,Ja,Nein,Berliner SV 1892,ST,11,Julius Zauner,0.536
-Berliner SV 1892,3-4-3,5,19,26%,Ja,Nein,Berliner SV 1892,ST,28,David Bellin,0.536
-Berliner SV 1892,3-4-3,5,19,26%,Ja,Nein,Berliner SV 1892,LM,NA,Benjamin Schnack,0.525
-Berliner SV 1892,3-5-2,1,19,5%,Ja,Nein,Berliner SV 1892,RM,24,Joshua Tröger,0.686
-Berliner SV 1892,3-5-2,1,19,5%,Ja,Nein,Berliner SV 1892,IV,4,Niklas Jost,0.661
-Berliner SV 1892,3-5-2,1,19,5%,Ja,Nein,Berliner SV 1892,IV,22,Stefano Tedesco,0.629
-Berliner SV 1892,3-5-2,1,19,5%,Ja,Nein,Berliner SV 1892,IV,20,Nikita Charkov,0.627
-Berliner SV 1892,3-5-2,1,19,5%,Ja,Nein,Berliner SV 1892,ZM,NA,Jonathan Maurer,0.611
-Berliner SV 1892,3-5-2,1,19,5%,Ja,Nein,Berliner SV 1892,ST,21,Lennard Schleifenbaum,0.564
-Berliner SV 1892,3-5-2,1,19,5%,Ja,Nein,Berliner SV 1892,TW,1,Hendrik Lüttschwager,0.548
-Berliner SV 1892,3-5-2,1,19,5%,Ja,Nein,Berliner SV 1892,ZM,NA,Steven Koschek,0.54
-Berliner SV 1892,3-5-2,1,19,5%,Ja,Nein,Berliner SV 1892,ST,11,Julius Zauner,0.536
-Berliner SV 1892,3-5-2,1,19,5%,Ja,Nein,Berliner SV 1892,ZM,19,Göktug Özsoy,0.532
-Berliner SV 1892,3-5-2,1,19,5%,Ja,Nein,Berliner SV 1892,LM,NA,Benjamin Schnack,0.525
-Berliner SV 1892,4-2-2-2,1,19,5%,Nein,Ja,Berliner SV 1892,RM,24,Joshua Tröger,0.686
-Berliner SV 1892,4-2-2-2,1,19,5%,Nein,Ja,Berliner SV 1892,IV,4,Niklas Jost,0.661
-Berliner SV 1892,4-2-2-2,1,19,5%,Nein,Ja,Berliner SV 1892,IV,22,Stefano Tedesco,0.629
-Berliner SV 1892,4-2-2-2,1,19,5%,Nein,Ja,Berliner SV 1892,ZM,NA,Jonathan Maurer,0.611
-Berliner SV 1892,4-2-2-2,1,19,5%,Nein,Ja,Berliner SV 1892,LV,27,Nick Bechler,0.565
-Berliner SV 1892,4-2-2-2,1,19,5%,Nein,Ja,Berliner SV 1892,ST,21,Lennard Schleifenbaum,0.564
-Berliner SV 1892,4-2-2-2,1,19,5%,Nein,Ja,Berliner SV 1892,TW,1,Hendrik Lüttschwager,0.548
-Berliner SV 1892,4-2-2-2,1,19,5%,Nein,Ja,Berliner SV 1892,ZM,NA,Steven Koschek,0.54
-Berliner SV 1892,4-2-2-2,1,19,5%,Nein,Ja,Berliner SV 1892,ST,11,Julius Zauner,0.536
-Berliner SV 1892,4-2-2-2,1,19,5%,Nein,Ja,Berliner SV 1892,LM,NA,Benjamin Schnack,0.525
-Berliner SV 1892,4-2-2-2,1,19,5%,Nein,Ja,Berliner SV 1892,RV,8,Karl Anker,0.488
-Berliner SV 1892,4-4-2,7,19,37%,Nein,Ja,Berliner SV 1892,RM,24,Joshua Tröger,0.686
-Berliner SV 1892,4-4-2,7,19,37%,Nein,Ja,Berliner SV 1892,IV,4,Niklas Jost,0.661
-Berliner SV 1892,4-4-2,7,19,37%,Nein,Ja,Berliner SV 1892,IV,22,Stefano Tedesco,0.629
-Berliner SV 1892,4-4-2,7,19,37%,Nein,Ja,Berliner SV 1892,ZM,NA,Jonathan Maurer,0.611
-Berliner SV 1892,4-4-2,7,19,37%,Nein,Ja,Berliner SV 1892,LV,27,Nick Bechler,0.565
-Berliner SV 1892,4-4-2,7,19,37%,Nein,Ja,Berliner SV 1892,ST,21,Lennard Schleifenbaum,0.564
-Berliner SV 1892,4-4-2,7,19,37%,Nein,Ja,Berliner SV 1892,TW,1,Hendrik Lüttschwager,0.548
-Berliner SV 1892,4-4-2,7,19,37%,Nein,Ja,Berliner SV 1892,ZM,NA,Steven Koschek,0.54
-Berliner SV 1892,4-4-2,7,19,37%,Nein,Ja,Berliner SV 1892,ST,11,Julius Zauner,0.536
-Berliner SV 1892,4-4-2,7,19,37%,Nein,Ja,Berliner SV 1892,LM,NA,Benjamin Schnack,0.525
-Berliner SV 1892,4-4-2,7,19,37%,Nein,Ja,Berliner SV 1892,RV,8,Karl Anker,0.488
-Berliner SV 1892,5-1-2-2,1,19,5%,Nein,Nein,Berliner SV 1892,RV,24,Joshua Tröger,0.686
-Berliner SV 1892,5-1-2-2,1,19,5%,Nein,Nein,Berliner SV 1892,IV,4,Niklas Jost,0.661
-Berliner SV 1892,5-1-2-2,1,19,5%,Nein,Nein,Berliner SV 1892,IV,22,Stefano Tedesco,0.629
-Berliner SV 1892,5-1-2-2,1,19,5%,Nein,Nein,Berliner SV 1892,IV,20,Nikita Charkov,0.627
-Berliner SV 1892,5-1-2-2,1,19,5%,Nein,Nein,Berliner SV 1892,LV,27,Nick Bechler,0.565
-Berliner SV 1892,5-1-2-2,1,19,5%,Nein,Nein,Berliner SV 1892,ST,21,Lennard Schleifenbaum,0.564
-Berliner SV 1892,5-1-2-2,1,19,5%,Nein,Nein,Berliner SV 1892,TW,1,Hendrik Lüttschwager,0.548
-Berliner SV 1892,5-1-2-2,1,19,5%,Nein,Nein,Berliner SV 1892,ST,11,Julius Zauner,0.536
-Berliner SV 1892,5-3-2,2,19,11%,Nein,Nein,Berliner SV 1892,RV,24,Joshua Tröger,0.686
-Berliner SV 1892,5-3-2,2,19,11%,Nein,Nein,Berliner SV 1892,IV,4,Niklas Jost,0.661
-Berliner SV 1892,5-3-2,2,19,11%,Nein,Nein,Berliner SV 1892,IV,22,Stefano Tedesco,0.629
-Berliner SV 1892,5-3-2,2,19,11%,Nein,Nein,Berliner SV 1892,IV,20,Nikita Charkov,0.627
-Berliner SV 1892,5-3-2,2,19,11%,Nein,Nein,Berliner SV 1892,ZM,NA,Jonathan Maurer,0.611
-Berliner SV 1892,5-3-2,2,19,11%,Nein,Nein,Berliner SV 1892,LV,27,Nick Bechler,0.565
-Berliner SV 1892,5-3-2,2,19,11%,Nein,Nein,Berliner SV 1892,ST,21,Lennard Schleifenbaum,0.564
-Berliner SV 1892,5-3-2,2,19,11%,Nein,Nein,Berliner SV 1892,TW,1,Hendrik Lüttschwager,0.548
-Berliner SV 1892,5-3-2,2,19,11%,Nein,Nein,Berliner SV 1892,ZM,NA,Steven Koschek,0.54
-Berliner SV 1892,5-3-2,2,19,11%,Nein,Nein,Berliner SV 1892,ST,11,Julius Zauner,0.536
-Berliner SV 1892,5-3-2,2,19,11%,Nein,Nein,Berliner SV 1892,ZM,19,Göktug Özsoy,0.532
-FC Internationale Berlin 1980,3-2-3-2,2,19,11%,Ja,Nein,FC Internationale Berlin 1980,TW,40,Roger Gonzalez I Hermosa,0.64
-FC Internationale Berlin 1980,3-2-3-2,2,19,11%,Ja,Nein,FC Internationale Berlin 1980,ZDM,8,Enrique Freitag,0.615
-FC Internationale Berlin 1980,3-2-3-2,2,19,11%,Ja,Nein,FC Internationale Berlin 1980,ST,10,Milan Daus,0.614
-FC Internationale Berlin 1980,3-2-3-2,2,19,11%,Ja,Nein,FC Internationale Berlin 1980,ST,10,Thomaz Klingl,0.61
-FC Internationale Berlin 1980,3-2-3-2,2,19,11%,Ja,Nein,FC Internationale Berlin 1980,ZDM,31,Matteo Topal,0.599
-FC Internationale Berlin 1980,3-2-3-2,2,19,11%,Ja,Nein,FC Internationale Berlin 1980,ZOM,18,Nicholas Cartwright Stanley,0.587
-FC Internationale Berlin 1980,3-2-3-2,2,19,11%,Ja,Nein,FC Internationale Berlin 1980,LM,7,Dominic Kranz,0.586
-FC Internationale Berlin 1980,3-2-3-2,2,19,11%,Ja,Nein,FC Internationale Berlin 1980,IV,6,Antonio Boeddinghaus,0.482
-FC Internationale Berlin 1980,3-2-3-2,2,19,11%,Ja,Nein,FC Internationale Berlin 1980,IV,11,Niklas Schindler,0.481
-FC Internationale Berlin 1980,3-2-3-2,2,19,11%,Ja,Nein,FC Internationale Berlin 1980,RM,19,Moreno Schneider,0.461
-FC Internationale Berlin 1980,3-2-3-2,2,19,11%,Ja,Nein,FC Internationale Berlin 1980,IV,4,Nicolas Costa Echeverria,0.437
-FC Internationale Berlin 1980,3-5-2,2,19,11%,Ja,Nein,FC Internationale Berlin 1980,TW,40,Roger Gonzalez I Hermosa,0.64
-FC Internationale Berlin 1980,3-5-2,2,19,11%,Ja,Nein,FC Internationale Berlin 1980,ZM,8,Enrique Freitag,0.615
-FC Internationale Berlin 1980,3-5-2,2,19,11%,Ja,Nein,FC Internationale Berlin 1980,ST,10,Milan Daus,0.614
-FC Internationale Berlin 1980,3-5-2,2,19,11%,Ja,Nein,FC Internationale Berlin 1980,ST,10,Thomaz Klingl,0.61
-FC Internationale Berlin 1980,3-5-2,2,19,11%,Ja,Nein,FC Internationale Berlin 1980,ZM,31,Matteo Topal,0.599
-FC Internationale Berlin 1980,3-5-2,2,19,11%,Ja,Nein,FC Internationale Berlin 1980,ZM,18,Nicholas Cartwright Stanley,0.587
-FC Internationale Berlin 1980,3-5-2,2,19,11%,Ja,Nein,FC Internationale Berlin 1980,LM,7,Dominic Kranz,0.586
-FC Internationale Berlin 1980,3-5-2,2,19,11%,Ja,Nein,FC Internationale Berlin 1980,IV,6,Antonio Boeddinghaus,0.482
-FC Internationale Berlin 1980,3-5-2,2,19,11%,Ja,Nein,FC Internationale Berlin 1980,IV,11,Niklas Schindler,0.481
-FC Internationale Berlin 1980,3-5-2,2,19,11%,Ja,Nein,FC Internationale Berlin 1980,RM,19,Moreno Schneider,0.461
-FC Internationale Berlin 1980,3-5-2,2,19,11%,Ja,Nein,FC Internationale Berlin 1980,IV,4,Nicolas Costa Echeverria,0.437
-FC Internationale Berlin 1980,4-2-3-1,8,19,42%,Nein,Ja,FC Internationale Berlin 1980,TW,40,Roger Gonzalez I Hermosa,0.64
-FC Internationale Berlin 1980,4-2-3-1,8,19,42%,Nein,Ja,FC Internationale Berlin 1980,ZDM,8,Enrique Freitag,0.615
-FC Internationale Berlin 1980,4-2-3-1,8,19,42%,Nein,Ja,FC Internationale Berlin 1980,ST,10,Milan Daus,0.614
-FC Internationale Berlin 1980,4-2-3-1,8,19,42%,Nein,Ja,FC Internationale Berlin 1980,ZDM,31,Matteo Topal,0.599
-FC Internationale Berlin 1980,4-2-3-1,8,19,42%,Nein,Ja,FC Internationale Berlin 1980,ZOM,18,Nicholas Cartwright Stanley,0.587
-FC Internationale Berlin 1980,4-2-3-1,8,19,42%,Nein,Ja,FC Internationale Berlin 1980,LV,7,Dominic Kranz,0.586
-FC Internationale Berlin 1980,4-2-3-1,8,19,42%,Nein,Ja,FC Internationale Berlin 1980,RV,2,Giovanni Marigo,0.561
-FC Internationale Berlin 1980,4-2-3-1,8,19,42%,Nein,Ja,FC Internationale Berlin 1980,IV,6,Antonio Boeddinghaus,0.482
-FC Internationale Berlin 1980,4-2-3-1,8,19,42%,Nein,Ja,FC Internationale Berlin 1980,IV,11,Niklas Schindler,0.481
-FC Internationale Berlin 1980,4-2-3-1,8,19,42%,Nein,Ja,FC Internationale Berlin 1980,RM,19,Moreno Schneider,0.461
-FC Internationale Berlin 1980,4-2-3-1,8,19,42%,Nein,Ja,FC Internationale Berlin 1980,LM,14,Ryan Max Robert French,0.431
-FC Internationale Berlin 1980,4-3-3,5,19,26%,Nein,Ja,FC Internationale Berlin 1980,TW,40,Roger Gonzalez I Hermosa,0.64
-FC Internationale Berlin 1980,4-3-3,5,19,26%,Nein,Ja,FC Internationale Berlin 1980,ZM,8,Enrique Freitag,0.615
-FC Internationale Berlin 1980,4-3-3,5,19,26%,Nein,Ja,FC Internationale Berlin 1980,ST,10,Milan Daus,0.614
-FC Internationale Berlin 1980,4-3-3,5,19,26%,Nein,Ja,FC Internationale Berlin 1980,ZM,31,Matteo Topal,0.599
-FC Internationale Berlin 1980,4-3-3,5,19,26%,Nein,Ja,FC Internationale Berlin 1980,ZM,18,Nicholas Cartwright Stanley,0.587
-FC Internationale Berlin 1980,4-3-3,5,19,26%,Nein,Ja,FC Internationale Berlin 1980,LV,7,Dominic Kranz,0.586
-FC Internationale Berlin 1980,4-3-3,5,19,26%,Nein,Ja,FC Internationale Berlin 1980,RV,2,Giovanni Marigo,0.561
-FC Internationale Berlin 1980,4-3-3,5,19,26%,Nein,Ja,FC Internationale Berlin 1980,IV,6,Antonio Boeddinghaus,0.482
-FC Internationale Berlin 1980,4-3-3,5,19,26%,Nein,Ja,FC Internationale Berlin 1980,IV,11,Niklas Schindler,0.481
-FC Internationale Berlin 1980,4-3-3,5,19,26%,Nein,Ja,FC Internationale Berlin 1980,RM,19,Moreno Schneider,0.461
-FC Internationale Berlin 1980,4-3-3,5,19,26%,Nein,Ja,FC Internationale Berlin 1980,LM,14,Ryan Max Robert French,0.431
-FC Internationale Berlin 1980,4-4-2,2,19,11%,Nein,Ja,FC Internationale Berlin 1980,TW,40,Roger Gonzalez I Hermosa,0.64
-FC Internationale Berlin 1980,4-4-2,2,19,11%,Nein,Ja,FC Internationale Berlin 1980,ZM,8,Enrique Freitag,0.615
-FC Internationale Berlin 1980,4-4-2,2,19,11%,Nein,Ja,FC Internationale Berlin 1980,ST,10,Milan Daus,0.614
-FC Internationale Berlin 1980,4-4-2,2,19,11%,Nein,Ja,FC Internationale Berlin 1980,ST,10,Thomaz Klingl,0.61
-FC Internationale Berlin 1980,4-4-2,2,19,11%,Nein,Ja,FC Internationale Berlin 1980,ZM,31,Matteo Topal,0.599
-FC Internationale Berlin 1980,4-4-2,2,19,11%,Nein,Ja,FC Internationale Berlin 1980,LV,7,Dominic Kranz,0.586
-FC Internationale Berlin 1980,4-4-2,2,19,11%,Nein,Ja,FC Internationale Berlin 1980,RV,2,Giovanni Marigo,0.561
-FC Internationale Berlin 1980,4-4-2,2,19,11%,Nein,Ja,FC Internationale Berlin 1980,IV,6,Antonio Boeddinghaus,0.482
-FC Internationale Berlin 1980,4-4-2,2,19,11%,Nein,Ja,FC Internationale Berlin 1980,IV,11,Niklas Schindler,0.481
-FC Internationale Berlin 1980,4-4-2,2,19,11%,Nein,Ja,FC Internationale Berlin 1980,RM,19,Moreno Schneider,0.461
-FC Internationale Berlin 1980,4-4-2,2,19,11%,Nein,Ja,FC Internationale Berlin 1980,LM,14,Ryan Max Robert French,0.431
-FC Viktoria 1889 Berlin II,4-2-3-1,11,19,58%,Nein,Ja,FC Viktoria 1889 Berlin II,IV,6,Justin Thiele,0.673
-FC Viktoria 1889 Berlin II,4-2-3-1,11,19,58%,Nein,Ja,FC Viktoria 1889 Berlin II,ST,15,Daniel Hölbling,0.657
-FC Viktoria 1889 Berlin II,4-2-3-1,11,19,58%,Nein,Ja,FC Viktoria 1889 Berlin II,RV,25,Fonseca Pereira Mendes,0.648
-FC Viktoria 1889 Berlin II,4-2-3-1,11,19,58%,Nein,Ja,FC Viktoria 1889 Berlin II,ZDM,9,Vito Everett Dieckert,0.637
-FC Viktoria 1889 Berlin II,4-2-3-1,11,19,58%,Nein,Ja,FC Viktoria 1889 Berlin II,TW,1,Patrick Kühn,0.623
-FC Viktoria 1889 Berlin II,4-2-3-1,11,19,58%,Nein,Ja,FC Viktoria 1889 Berlin II,LV,7,Simon Stefanovic,0.614
-FC Viktoria 1889 Berlin II,4-2-3-1,11,19,58%,Nein,Ja,FC Viktoria 1889 Berlin II,ZOM,NA,Lucien Littbarski,0.61
-FC Viktoria 1889 Berlin II,4-2-3-1,11,19,58%,Nein,Ja,FC Viktoria 1889 Berlin II,LM,19,Rayan Ait Manssour,0.6
-FC Viktoria 1889 Berlin II,4-2-3-1,11,19,58%,Nein,Ja,FC Viktoria 1889 Berlin II,ZDM,26,Jeremy Herrmann,0.596
-FC Viktoria 1889 Berlin II,4-2-3-1,11,19,58%,Nein,Ja,FC Viktoria 1889 Berlin II,RM,11,Chae-Hyun Jeong,0.498
-FC Viktoria 1889 Berlin II,4-2-3-1,11,19,58%,Nein,Ja,FC Viktoria 1889 Berlin II,IV,4,David Nagel,0.436
-FC Viktoria 1889 Berlin II,4-4-2,6,19,32%,Nein,Ja,FC Viktoria 1889 Berlin II,IV,6,Justin Thiele,0.673
-FC Viktoria 1889 Berlin II,4-4-2,6,19,32%,Nein,Ja,FC Viktoria 1889 Berlin II,ST,15,Daniel Hölbling,0.657
-FC Viktoria 1889 Berlin II,4-4-2,6,19,32%,Nein,Ja,FC Viktoria 1889 Berlin II,RV,25,Fonseca Pereira Mendes,0.648
-FC Viktoria 1889 Berlin II,4-4-2,6,19,32%,Nein,Ja,FC Viktoria 1889 Berlin II,ZM,9,Vito Everett Dieckert,0.637
-FC Viktoria 1889 Berlin II,4-4-2,6,19,32%,Nein,Ja,FC Viktoria 1889 Berlin II,TW,1,Patrick Kühn,0.623
-FC Viktoria 1889 Berlin II,4-4-2,6,19,32%,Nein,Ja,FC Viktoria 1889 Berlin II,LV,7,Simon Stefanovic,0.614
-FC Viktoria 1889 Berlin II,4-4-2,6,19,32%,Nein,Ja,FC Viktoria 1889 Berlin II,LM,19,Rayan Ait Manssour,0.6
-FC Viktoria 1889 Berlin II,4-4-2,6,19,32%,Nein,Ja,FC Viktoria 1889 Berlin II,ZM,26,Jeremy Herrmann,0.596
-FC Viktoria 1889 Berlin II,4-4-2,6,19,32%,Nein,Ja,FC Viktoria 1889 Berlin II,ST,17,Matthieu Lucas Weinlein,0.587
-FC Viktoria 1889 Berlin II,4-4-2,6,19,32%,Nein,Ja,FC Viktoria 1889 Berlin II,RM,11,Chae-Hyun Jeong,0.498
-FC Viktoria 1889 Berlin II,4-4-2,6,19,32%,Nein,Ja,FC Viktoria 1889 Berlin II,IV,4,David Nagel,0.436
-FC Viktoria 1889 Berlin II,4-5-1,1,19,5%,Nein,Ja,FC Viktoria 1889 Berlin II,IV,6,Justin Thiele,0.673
-FC Viktoria 1889 Berlin II,4-5-1,1,19,5%,Nein,Ja,FC Viktoria 1889 Berlin II,ST,15,Daniel Hölbling,0.657
-FC Viktoria 1889 Berlin II,4-5-1,1,19,5%,Nein,Ja,FC Viktoria 1889 Berlin II,RV,25,Fonseca Pereira Mendes,0.648
-FC Viktoria 1889 Berlin II,4-5-1,1,19,5%,Nein,Ja,FC Viktoria 1889 Berlin II,ZM,9,Vito Everett Dieckert,0.637
-FC Viktoria 1889 Berlin II,4-5-1,1,19,5%,Nein,Ja,FC Viktoria 1889 Berlin II,TW,1,Patrick Kühn,0.623
-FC Viktoria 1889 Berlin II,4-5-1,1,19,5%,Nein,Ja,FC Viktoria 1889 Berlin II,LV,7,Simon Stefanovic,0.614
-FC Viktoria 1889 Berlin II,4-5-1,1,19,5%,Nein,Ja,FC Viktoria 1889 Berlin II,LM,19,Rayan Ait Manssour,0.6
-FC Viktoria 1889 Berlin II,4-5-1,1,19,5%,Nein,Ja,FC Viktoria 1889 Berlin II,ZM,26,Jeremy Herrmann,0.596
-FC Viktoria 1889 Berlin II,4-5-1,1,19,5%,Nein,Ja,FC Viktoria 1889 Berlin II,RM,11,Chae-Hyun Jeong,0.498
-FC Viktoria 1889 Berlin II,4-5-1,1,19,5%,Nein,Ja,FC Viktoria 1889 Berlin II,ZM,24,Maciej Macias,0.472
-FC Viktoria 1889 Berlin II,4-5-1,1,19,5%,Nein,Ja,FC Viktoria 1889 Berlin II,IV,4,David Nagel,0.436
-FSV Berolina Stralau 1901,3-4-3,8,19,42%,Ja,Nein,FSV Berolina Stralau 1901,ST,NA,Robert Klessny,0.688
-FSV Berolina Stralau 1901,3-4-3,8,19,42%,Ja,Nein,FSV Berolina Stralau 1901,LM,12,Sebastian Heßler,0.571
-FSV Berolina Stralau 1901,3-4-3,8,19,42%,Ja,Nein,FSV Berolina Stralau 1901,ZM,4,Tobias Reuter,0.546
-FSV Berolina Stralau 1901,3-4-3,8,19,42%,Ja,Nein,FSV Berolina Stralau 1901,ST,9,Ole Bresemann,0.522
-FSV Berolina Stralau 1901,3-4-3,8,19,42%,Ja,Nein,FSV Berolina Stralau 1901,IV,3,Georg Schönfelder,0.507
-FSV Berolina Stralau 1901,3-4-3,8,19,42%,Ja,Nein,FSV Berolina Stralau 1901,IV,15,Denis Rolke,0.506
-FSV Berolina Stralau 1901,3-4-3,8,19,42%,Ja,Nein,FSV Berolina Stralau 1901,TW,23,Andreas Friese,0.504
-FSV Berolina Stralau 1901,3-4-3,8,19,42%,Ja,Nein,FSV Berolina Stralau 1901,ZM,NA,Christopher Schwarz,0.491
-FSV Berolina Stralau 1901,3-4-3,8,19,42%,Ja,Nein,FSV Berolina Stralau 1901,IV,16,Tom Jonach,0.47
-FSV Berolina Stralau 1901,3-4-3,8,19,42%,Ja,Nein,FSV Berolina Stralau 1901,ST,11,Yussef Jradi,0.458
-FSV Berolina Stralau 1901,3-4-3,8,19,42%,Ja,Nein,FSV Berolina Stralau 1901,RM,5,Eric Stier,0.418
-FSV Berolina Stralau 1901,3-5-2,5,19,26%,Ja,Nein,FSV Berolina Stralau 1901,ST,NA,Robert Klessny,0.688
-FSV Berolina Stralau 1901,3-5-2,5,19,26%,Ja,Nein,FSV Berolina Stralau 1901,LM,12,Sebastian Heßler,0.571
-FSV Berolina Stralau 1901,3-5-2,5,19,26%,Ja,Nein,FSV Berolina Stralau 1901,ZM,4,Tobias Reuter,0.546
-FSV Berolina Stralau 1901,3-5-2,5,19,26%,Ja,Nein,FSV Berolina Stralau 1901,ST,9,Ole Bresemann,0.522
-FSV Berolina Stralau 1901,3-5-2,5,19,26%,Ja,Nein,FSV Berolina Stralau 1901,IV,3,Georg Schönfelder,0.507
-FSV Berolina Stralau 1901,3-5-2,5,19,26%,Ja,Nein,FSV Berolina Stralau 1901,IV,15,Denis Rolke,0.506
-FSV Berolina Stralau 1901,3-5-2,5,19,26%,Ja,Nein,FSV Berolina Stralau 1901,TW,23,Andreas Friese,0.504
-FSV Berolina Stralau 1901,3-5-2,5,19,26%,Ja,Nein,FSV Berolina Stralau 1901,ZM,NA,Christopher Schwarz,0.491
-FSV Berolina Stralau 1901,3-5-2,5,19,26%,Ja,Nein,FSV Berolina Stralau 1901,ZM,NA,Maximilian Weber,0.473
-FSV Berolina Stralau 1901,3-5-2,5,19,26%,Ja,Nein,FSV Berolina Stralau 1901,IV,16,Tom Jonach,0.47
-FSV Berolina Stralau 1901,3-5-2,5,19,26%,Ja,Nein,FSV Berolina Stralau 1901,RM,5,Eric Stier,0.418
-FSV Berolina Stralau 1901,4-2-2-2,1,19,5%,Nein,Ja,FSV Berolina Stralau 1901,ST,NA,Robert Klessny,0.688
-FSV Berolina Stralau 1901,4-2-2-2,1,19,5%,Nein,Ja,FSV Berolina Stralau 1901,LM,12,Sebastian Heßler,0.571
-FSV Berolina Stralau 1901,4-2-2-2,1,19,5%,Nein,Ja,FSV Berolina Stralau 1901,ZM,4,Tobias Reuter,0.546
-FSV Berolina Stralau 1901,4-2-2-2,1,19,5%,Nein,Ja,FSV Berolina Stralau 1901,ST,9,Ole Bresemann,0.522
-FSV Berolina Stralau 1901,4-2-2-2,1,19,5%,Nein,Ja,FSV Berolina Stralau 1901,IV,3,Georg Schönfelder,0.507
-FSV Berolina Stralau 1901,4-2-2-2,1,19,5%,Nein,Ja,FSV Berolina Stralau 1901,IV,15,Denis Rolke,0.506
-FSV Berolina Stralau 1901,4-2-2-2,1,19,5%,Nein,Ja,FSV Berolina Stralau 1901,TW,23,Andreas Friese,0.504
-FSV Berolina Stralau 1901,4-2-2-2,1,19,5%,Nein,Ja,FSV Berolina Stralau 1901,ZM,NA,Christopher Schwarz,0.491
-FSV Berolina Stralau 1901,4-2-2-2,1,19,5%,Nein,Ja,FSV Berolina Stralau 1901,LV,11,Yussef Jradi,0.458
-FSV Berolina Stralau 1901,4-2-2-2,1,19,5%,Nein,Ja,FSV Berolina Stralau 1901,RV,10,Ibrahim Diallo,0.448
-FSV Berolina Stralau 1901,4-2-2-2,1,19,5%,Nein,Ja,FSV Berolina Stralau 1901,RM,5,Eric Stier,0.418
-FSV Berolina Stralau 1901,4-3-3,1,19,5%,Nein,Ja,FSV Berolina Stralau 1901,ST,NA,Robert Klessny,0.688
-FSV Berolina Stralau 1901,4-3-3,1,19,5%,Nein,Ja,FSV Berolina Stralau 1901,LM,12,Sebastian Heßler,0.571
-FSV Berolina Stralau 1901,4-3-3,1,19,5%,Nein,Ja,FSV Berolina Stralau 1901,ZM,4,Tobias Reuter,0.546
-FSV Berolina Stralau 1901,4-3-3,1,19,5%,Nein,Ja,FSV Berolina Stralau 1901,IV,3,Georg Schönfelder,0.507
-FSV Berolina Stralau 1901,4-3-3,1,19,5%,Nein,Ja,FSV Berolina Stralau 1901,IV,15,Denis Rolke,0.506
-FSV Berolina Stralau 1901,4-3-3,1,19,5%,Nein,Ja,FSV Berolina Stralau 1901,TW,23,Andreas Friese,0.504
-FSV Berolina Stralau 1901,4-3-3,1,19,5%,Nein,Ja,FSV Berolina Stralau 1901,ZM,NA,Christopher Schwarz,0.491
-FSV Berolina Stralau 1901,4-3-3,1,19,5%,Nein,Ja,FSV Berolina Stralau 1901,ZM,NA,Maximilian Weber,0.473
-FSV Berolina Stralau 1901,4-3-3,1,19,5%,Nein,Ja,FSV Berolina Stralau 1901,LV,11,Yussef Jradi,0.458
-FSV Berolina Stralau 1901,4-3-3,1,19,5%,Nein,Ja,FSV Berolina Stralau 1901,RV,10,Ibrahim Diallo,0.448
-FSV Berolina Stralau 1901,4-3-3,1,19,5%,Nein,Ja,FSV Berolina Stralau 1901,RM,5,Eric Stier,0.418
-FSV Berolina Stralau 1901,4-4-2,3,19,16%,Nein,Ja,FSV Berolina Stralau 1901,ST,NA,Robert Klessny,0.688
-FSV Berolina Stralau 1901,4-4-2,3,19,16%,Nein,Ja,FSV Berolina Stralau 1901,LM,12,Sebastian Heßler,0.571
-FSV Berolina Stralau 1901,4-4-2,3,19,16%,Nein,Ja,FSV Berolina Stralau 1901,ZM,4,Tobias Reuter,0.546
-FSV Berolina Stralau 1901,4-4-2,3,19,16%,Nein,Ja,FSV Berolina Stralau 1901,ST,9,Ole Bresemann,0.522
-FSV Berolina Stralau 1901,4-4-2,3,19,16%,Nein,Ja,FSV Berolina Stralau 1901,IV,3,Georg Schönfelder,0.507
-FSV Berolina Stralau 1901,4-4-2,3,19,16%,Nein,Ja,FSV Berolina Stralau 1901,IV,15,Denis Rolke,0.506
-FSV Berolina Stralau 1901,4-4-2,3,19,16%,Nein,Ja,FSV Berolina Stralau 1901,TW,23,Andreas Friese,0.504
-FSV Berolina Stralau 1901,4-4-2,3,19,16%,Nein,Ja,FSV Berolina Stralau 1901,ZM,NA,Christopher Schwarz,0.491
-FSV Berolina Stralau 1901,4-4-2,3,19,16%,Nein,Ja,FSV Berolina Stralau 1901,LV,11,Yussef Jradi,0.458
-FSV Berolina Stralau 1901,4-4-2,3,19,16%,Nein,Ja,FSV Berolina Stralau 1901,RV,10,Ibrahim Diallo,0.448
-FSV Berolina Stralau 1901,4-4-2,3,19,16%,Nein,Ja,FSV Berolina Stralau 1901,RM,5,Eric Stier,0.418
-Köpenicker FC,4-2-2-2,1,19,5%,Nein,Ja,Köpenicker FC,TW,15,Felix Hartmann,0.681
-Köpenicker FC,4-2-2-2,1,19,5%,Nein,Ja,Köpenicker FC,IV,6,Luca Carius,0.642
-Köpenicker FC,4-2-2-2,1,19,5%,Nein,Ja,Köpenicker FC,ST,9,Dennis Bohnsack,0.586
-Köpenicker FC,4-2-2-2,1,19,5%,Nein,Ja,Köpenicker FC,RM,11,Alexander Foth,0.542
-Köpenicker FC,4-2-2-2,1,19,5%,Nein,Ja,Köpenicker FC,IV,23,Tom-Niclas Hamann,0.54
-Köpenicker FC,4-2-2-2,1,19,5%,Nein,Ja,Köpenicker FC,LV,27,Till Dietrich,0.524
-Köpenicker FC,4-2-2-2,1,19,5%,Nein,Ja,Köpenicker FC,LM,10,Nicolas Tauschwitz,0.519
-Köpenicker FC,4-2-2-2,1,19,5%,Nein,Ja,Köpenicker FC,RV,28,Philip Möhle,0.51
-Köpenicker FC,4-2-2-2,1,19,5%,Nein,Ja,Köpenicker FC,ZM,13,Tarek Borchmeier,0.476
-Köpenicker FC,4-2-2-2,1,19,5%,Nein,Ja,Köpenicker FC,ST,18,Roman Ilinseer,0.456
-Köpenicker FC,4-2-2-2,1,19,5%,Nein,Ja,Köpenicker FC,ZM,24,Felix Wittenburg,0.446
-Köpenicker FC,4-3-3,1,19,5%,Nein,Ja,Köpenicker FC,TW,15,Felix Hartmann,0.681
-Köpenicker FC,4-3-3,1,19,5%,Nein,Ja,Köpenicker FC,IV,6,Luca Carius,0.642
-Köpenicker FC,4-3-3,1,19,5%,Nein,Ja,Köpenicker FC,ST,9,Dennis Bohnsack,0.586
-Köpenicker FC,4-3-3,1,19,5%,Nein,Ja,Köpenicker FC,RM,11,Alexander Foth,0.542
-Köpenicker FC,4-3-3,1,19,5%,Nein,Ja,Köpenicker FC,IV,23,Tom-Niclas Hamann,0.54
-Köpenicker FC,4-3-3,1,19,5%,Nein,Ja,Köpenicker FC,LV,27,Till Dietrich,0.524
-Köpenicker FC,4-3-3,1,19,5%,Nein,Ja,Köpenicker FC,LM,10,Nicolas Tauschwitz,0.519
-Köpenicker FC,4-3-3,1,19,5%,Nein,Ja,Köpenicker FC,RV,28,Philip Möhle,0.51
-Köpenicker FC,4-3-3,1,19,5%,Nein,Ja,Köpenicker FC,ZM,13,Tarek Borchmeier,0.476
-Köpenicker FC,4-3-3,1,19,5%,Nein,Ja,Köpenicker FC,ZM,24,Felix Wittenburg,0.446
-Köpenicker FC,4-3-3,1,19,5%,Nein,Ja,Köpenicker FC,ZM,8,Jonas Weigelt,0.445
-Köpenicker FC,4-4-2,13,19,68%,Nein,Ja,Köpenicker FC,TW,15,Felix Hartmann,0.681
-Köpenicker FC,4-4-2,13,19,68%,Nein,Ja,Köpenicker FC,IV,6,Luca Carius,0.642
-Köpenicker FC,4-4-2,13,19,68%,Nein,Ja,Köpenicker FC,ST,9,Dennis Bohnsack,0.586
-Köpenicker FC,4-4-2,13,19,68%,Nein,Ja,Köpenicker FC,RM,11,Alexander Foth,0.542
-Köpenicker FC,4-4-2,13,19,68%,Nein,Ja,Köpenicker FC,IV,23,Tom-Niclas Hamann,0.54
-Köpenicker FC,4-4-2,13,19,68%,Nein,Ja,Köpenicker FC,LV,27,Till Dietrich,0.524
-Köpenicker FC,4-4-2,13,19,68%,Nein,Ja,Köpenicker FC,LM,10,Nicolas Tauschwitz,0.519
-Köpenicker FC,4-4-2,13,19,68%,Nein,Ja,Köpenicker FC,RV,28,Philip Möhle,0.51
-Köpenicker FC,4-4-2,13,19,68%,Nein,Ja,Köpenicker FC,ZM,13,Tarek Borchmeier,0.476
-Köpenicker FC,4-4-2,13,19,68%,Nein,Ja,Köpenicker FC,ST,18,Roman Ilinseer,0.456
-Köpenicker FC,4-4-2,13,19,68%,Nein,Ja,Köpenicker FC,ZM,24,Felix Wittenburg,0.446
-Köpenicker FC,4-5-1,4,19,21%,Nein,Ja,Köpenicker FC,TW,15,Felix Hartmann,0.681
-Köpenicker FC,4-5-1,4,19,21%,Nein,Ja,Köpenicker FC,IV,6,Luca Carius,0.642
-Köpenicker FC,4-5-1,4,19,21%,Nein,Ja,Köpenicker FC,ST,9,Dennis Bohnsack,0.586
-Köpenicker FC,4-5-1,4,19,21%,Nein,Ja,Köpenicker FC,RM,11,Alexander Foth,0.542
-Köpenicker FC,4-5-1,4,19,21%,Nein,Ja,Köpenicker FC,IV,23,Tom-Niclas Hamann,0.54
-Köpenicker FC,4-5-1,4,19,21%,Nein,Ja,Köpenicker FC,LV,27,Till Dietrich,0.524
-Köpenicker FC,4-5-1,4,19,21%,Nein,Ja,Köpenicker FC,LM,10,Nicolas Tauschwitz,0.519
-Köpenicker FC,4-5-1,4,19,21%,Nein,Ja,Köpenicker FC,RV,28,Philip Möhle,0.51
-Köpenicker FC,4-5-1,4,19,21%,Nein,Ja,Köpenicker FC,ZM,13,Tarek Borchmeier,0.476
-Köpenicker FC,4-5-1,4,19,21%,Nein,Ja,Köpenicker FC,ZM,24,Felix Wittenburg,0.446
-Köpenicker FC,4-5-1,4,19,21%,Nein,Ja,Köpenicker FC,ZM,8,Jonas Weigelt,0.445
-SC Borsigwalde 1910,3-2-3-2,1,19,5%,Ja,Nein,SC Borsigwalde 1910,IV,2,Joao Victor Braga De Souza,0.726
-SC Borsigwalde 1910,3-2-3-2,1,19,5%,Ja,Nein,SC Borsigwalde 1910,ST,10,Pedro Lucas Santanna Miranda Silva,0.718
-SC Borsigwalde 1910,3-2-3-2,1,19,5%,Ja,Nein,SC Borsigwalde 1910,IV,29,Kevin Kummer,0.595
-SC Borsigwalde 1910,3-2-3-2,1,19,5%,Ja,Nein,SC Borsigwalde 1910,IV,4,Mahmoud Akkaoui,0.584
-SC Borsigwalde 1910,3-2-3-2,1,19,5%,Ja,Nein,SC Borsigwalde 1910,ZDM,8,Michel Stefaniszin,0.572
-SC Borsigwalde 1910,3-2-3-2,1,19,5%,Ja,Nein,SC Borsigwalde 1910,TW,37,Jeffrey Kräft,0.562
-SC Borsigwalde 1910,3-2-3-2,1,19,5%,Ja,Nein,SC Borsigwalde 1910,RM,3,Mohammed Yaqoobi,0.548
-SC Borsigwalde 1910,3-2-3-2,1,19,5%,Ja,Nein,SC Borsigwalde 1910,ST,14,Magnus Crone,0.534
-SC Borsigwalde 1910,3-2-3-2,1,19,5%,Ja,Nein,SC Borsigwalde 1910,ZDM,18,Riccardo Ciao,0.517
-SC Borsigwalde 1910,3-2-3-2,1,19,5%,Ja,Nein,SC Borsigwalde 1910,LM,6,Adam Barnat,0.507
-SC Borsigwalde 1910,3-2-3-2,1,19,5%,Ja,Nein,SC Borsigwalde 1910,ZOM,13,Furkan Yildirim,0.479
-SC Borsigwalde 1910,3-6-1,1,19,5%,Ja,Nein,SC Borsigwalde 1910,IV,2,Joao Victor Braga De Souza,0.726
-SC Borsigwalde 1910,3-6-1,1,19,5%,Ja,Nein,SC Borsigwalde 1910,ST,10,Pedro Lucas Santanna Miranda Silva,0.718
-SC Borsigwalde 1910,3-6-1,1,19,5%,Ja,Nein,SC Borsigwalde 1910,IV,29,Kevin Kummer,0.595
-SC Borsigwalde 1910,3-6-1,1,19,5%,Ja,Nein,SC Borsigwalde 1910,IV,4,Mahmoud Akkaoui,0.584
-SC Borsigwalde 1910,3-6-1,1,19,5%,Ja,Nein,SC Borsigwalde 1910,ZM,8,Michel Stefaniszin,0.572
-SC Borsigwalde 1910,3-6-1,1,19,5%,Ja,Nein,SC Borsigwalde 1910,TW,37,Jeffrey Kräft,0.562
-SC Borsigwalde 1910,3-6-1,1,19,5%,Ja,Nein,SC Borsigwalde 1910,RM,3,Mohammed Yaqoobi,0.548
-SC Borsigwalde 1910,3-6-1,1,19,5%,Ja,Nein,SC Borsigwalde 1910,LM,6,Adam Barnat,0.507
-SC Borsigwalde 1910,3-6-1,1,19,5%,Ja,Nein,SC Borsigwalde 1910,ZM,21,Kai Neumann,0.339
-SC Borsigwalde 1910,4-1-4-1,1,19,5%,Nein,Ja,SC Borsigwalde 1910,IV,2,Joao Victor Braga De Souza,0.726
-SC Borsigwalde 1910,4-1-4-1,1,19,5%,Nein,Ja,SC Borsigwalde 1910,ST,10,Pedro Lucas Santanna Miranda Silva,0.718
-SC Borsigwalde 1910,4-1-4-1,1,19,5%,Nein,Ja,SC Borsigwalde 1910,IV,29,Kevin Kummer,0.595
-SC Borsigwalde 1910,4-1-4-1,1,19,5%,Nein,Ja,SC Borsigwalde 1910,ZDM,8,Michel Stefaniszin,0.572
-SC Borsigwalde 1910,4-1-4-1,1,19,5%,Nein,Ja,SC Borsigwalde 1910,TW,37,Jeffrey Kräft,0.562
-SC Borsigwalde 1910,4-1-4-1,1,19,5%,Nein,Ja,SC Borsigwalde 1910,LV,3,Mohammed Yaqoobi,0.548
-SC Borsigwalde 1910,4-1-4-1,1,19,5%,Nein,Ja,SC Borsigwalde 1910,RM,14,Magnus Crone,0.534
-SC Borsigwalde 1910,4-1-4-1,1,19,5%,Nein,Ja,SC Borsigwalde 1910,ZOM,18,Riccardo Ciao,0.517
-SC Borsigwalde 1910,4-1-4-1,1,19,5%,Nein,Ja,SC Borsigwalde 1910,LM,6,Adam Barnat,0.507
-SC Borsigwalde 1910,4-1-4-1,1,19,5%,Nein,Ja,SC Borsigwalde 1910,ZOM,13,Furkan Yildirim,0.479
-SC Borsigwalde 1910,4-1-4-1,1,19,5%,Nein,Ja,SC Borsigwalde 1910,RV,NA,Hebun Aslan,0.34
-SC Borsigwalde 1910,4-2-3-1,13,19,68%,Nein,Ja,SC Borsigwalde 1910,IV,2,Joao Victor Braga De Souza,0.726
-SC Borsigwalde 1910,4-2-3-1,13,19,68%,Nein,Ja,SC Borsigwalde 1910,ST,10,Pedro Lucas Santanna Miranda Silva,0.718
-SC Borsigwalde 1910,4-2-3-1,13,19,68%,Nein,Ja,SC Borsigwalde 1910,IV,29,Kevin Kummer,0.595
-SC Borsigwalde 1910,4-2-3-1,13,19,68%,Nein,Ja,SC Borsigwalde 1910,ZDM,8,Michel Stefaniszin,0.572
-SC Borsigwalde 1910,4-2-3-1,13,19,68%,Nein,Ja,SC Borsigwalde 1910,TW,37,Jeffrey Kräft,0.562
-SC Borsigwalde 1910,4-2-3-1,13,19,68%,Nein,Ja,SC Borsigwalde 1910,LV,3,Mohammed Yaqoobi,0.548
-SC Borsigwalde 1910,4-2-3-1,13,19,68%,Nein,Ja,SC Borsigwalde 1910,RM,14,Magnus Crone,0.534
-SC Borsigwalde 1910,4-2-3-1,13,19,68%,Nein,Ja,SC Borsigwalde 1910,ZDM,18,Riccardo Ciao,0.517
-SC Borsigwalde 1910,4-2-3-1,13,19,68%,Nein,Ja,SC Borsigwalde 1910,LM,6,Adam Barnat,0.507
-SC Borsigwalde 1910,4-2-3-1,13,19,68%,Nein,Ja,SC Borsigwalde 1910,ZOM,13,Furkan Yildirim,0.479
-SC Borsigwalde 1910,4-2-3-1,13,19,68%,Nein,Ja,SC Borsigwalde 1910,RV,NA,Hebun Aslan,0.34
-SC Borsigwalde 1910,4-4-1-1,1,19,5%,Nein,Ja,SC Borsigwalde 1910,IV,2,Joao Victor Braga De Souza,0.726
-SC Borsigwalde 1910,4-4-1-1,1,19,5%,Nein,Ja,SC Borsigwalde 1910,ST,10,Pedro Lucas Santanna Miranda Silva,0.718
-SC Borsigwalde 1910,4-4-1-1,1,19,5%,Nein,Ja,SC Borsigwalde 1910,IV,29,Kevin Kummer,0.595
-SC Borsigwalde 1910,4-4-1-1,1,19,5%,Nein,Ja,SC Borsigwalde 1910,ZM,8,Michel Stefaniszin,0.572
-SC Borsigwalde 1910,4-4-1-1,1,19,5%,Nein,Ja,SC Borsigwalde 1910,TW,37,Jeffrey Kräft,0.562
-SC Borsigwalde 1910,4-4-1-1,1,19,5%,Nein,Ja,SC Borsigwalde 1910,LV,3,Mohammed Yaqoobi,0.548
-SC Borsigwalde 1910,4-4-1-1,1,19,5%,Nein,Ja,SC Borsigwalde 1910,RM,14,Magnus Crone,0.534
-SC Borsigwalde 1910,4-4-1-1,1,19,5%,Nein,Ja,SC Borsigwalde 1910,ST,NA,Marcel Knaack,0.512
-SC Borsigwalde 1910,4-4-1-1,1,19,5%,Nein,Ja,SC Borsigwalde 1910,LM,6,Adam Barnat,0.507
-SC Borsigwalde 1910,4-4-1-1,1,19,5%,Nein,Ja,SC Borsigwalde 1910,RV,NA,Hebun Aslan,0.34
-SC Borsigwalde 1910,4-4-1-1,1,19,5%,Nein,Ja,SC Borsigwalde 1910,ZM,21,Kai Neumann,0.339
-SC Borsigwalde 1910,4-4-2,1,19,5%,Nein,Ja,SC Borsigwalde 1910,IV,2,Joao Victor Braga De Souza,0.726
-SC Borsigwalde 1910,4-4-2,1,19,5%,Nein,Ja,SC Borsigwalde 1910,ST,10,Pedro Lucas Santanna Miranda Silva,0.718
-SC Borsigwalde 1910,4-4-2,1,19,5%,Nein,Ja,SC Borsigwalde 1910,IV,29,Kevin Kummer,0.595
-SC Borsigwalde 1910,4-4-2,1,19,5%,Nein,Ja,SC Borsigwalde 1910,ZM,8,Michel Stefaniszin,0.572
-SC Borsigwalde 1910,4-4-2,1,19,5%,Nein,Ja,SC Borsigwalde 1910,TW,37,Jeffrey Kräft,0.562
-SC Borsigwalde 1910,4-4-2,1,19,5%,Nein,Ja,SC Borsigwalde 1910,LV,3,Mohammed Yaqoobi,0.548
-SC Borsigwalde 1910,4-4-2,1,19,5%,Nein,Ja,SC Borsigwalde 1910,RM,14,Magnus Crone,0.534
-SC Borsigwalde 1910,4-4-2,1,19,5%,Nein,Ja,SC Borsigwalde 1910,ST,NA,Marcel Knaack,0.512
-SC Borsigwalde 1910,4-4-2,1,19,5%,Nein,Ja,SC Borsigwalde 1910,LM,6,Adam Barnat,0.507
-SC Borsigwalde 1910,4-4-2,1,19,5%,Nein,Ja,SC Borsigwalde 1910,RV,NA,Hebun Aslan,0.34
-SC Borsigwalde 1910,4-4-2,1,19,5%,Nein,Ja,SC Borsigwalde 1910,ZM,21,Kai Neumann,0.339
-SC Borsigwalde 1910,5-2-1-2,1,19,5%,Nein,Nein,SC Borsigwalde 1910,IV,2,Joao Victor Braga De Souza,0.726
-SC Borsigwalde 1910,5-2-1-2,1,19,5%,Nein,Nein,SC Borsigwalde 1910,ST,10,Pedro Lucas Santanna Miranda Silva,0.718
-SC Borsigwalde 1910,5-2-1-2,1,19,5%,Nein,Nein,SC Borsigwalde 1910,IV,29,Kevin Kummer,0.595
-SC Borsigwalde 1910,5-2-1-2,1,19,5%,Nein,Nein,SC Borsigwalde 1910,IV,4,Mahmoud Akkaoui,0.584
-SC Borsigwalde 1910,5-2-1-2,1,19,5%,Nein,Nein,SC Borsigwalde 1910,ZDM,8,Michel Stefaniszin,0.572
-SC Borsigwalde 1910,5-2-1-2,1,19,5%,Nein,Nein,SC Borsigwalde 1910,TW,37,Jeffrey Kräft,0.562
-SC Borsigwalde 1910,5-2-1-2,1,19,5%,Nein,Nein,SC Borsigwalde 1910,LV,3,Mohammed Yaqoobi,0.548
-SC Borsigwalde 1910,5-2-1-2,1,19,5%,Nein,Nein,SC Borsigwalde 1910,ST,14,Magnus Crone,0.534
-SC Borsigwalde 1910,5-2-1-2,1,19,5%,Nein,Nein,SC Borsigwalde 1910,ZDM,18,Riccardo Ciao,0.517
-SC Borsigwalde 1910,5-2-1-2,1,19,5%,Nein,Nein,SC Borsigwalde 1910,ZOM,13,Furkan Yildirim,0.479
-SC Borsigwalde 1910,5-2-1-2,1,19,5%,Nein,Nein,SC Borsigwalde 1910,RV,NA,Hebun Aslan,0.34
-SV Empor Berlin II,3-2-3-2,2,18,11%,Ja,Nein,SV Empor Berlin II,LM,NA,David Schäfer,0.684
-SV Empor Berlin II,3-2-3-2,2,18,11%,Ja,Nein,SV Empor Berlin II,TW,33,Janne Henrik Bloch,0.637
-SV Empor Berlin II,3-2-3-2,2,18,11%,Ja,Nein,SV Empor Berlin II,IV,NA,Daniel Alankus,0.61
-SV Empor Berlin II,3-2-3-2,2,18,11%,Ja,Nein,SV Empor Berlin II,ST,9,Demba Mendy,0.466
-SV Empor Berlin II,3-2-3-2,2,18,11%,Ja,Nein,SV Empor Berlin II,IV,5,Elias Thürigen,0.462
-SV Empor Berlin II,3-2-3-2,2,18,11%,Ja,Nein,SV Empor Berlin II,RM,2,Pascal Bräkow,0.458
-SV Empor Berlin II,3-2-3-2,2,18,11%,Ja,Nein,SV Empor Berlin II,IV,14,Tilman Schinzel,0.454
-SV Empor Berlin II,3-2-3-2,2,18,11%,Ja,Nein,SV Empor Berlin II,ZDM,20,Laurens Cerny,0.445
-SV Empor Berlin II,3-2-3-2,2,18,11%,Ja,Nein,SV Empor Berlin II,ZDM,NA,Falk Marquard,0.437
-SV Empor Berlin II,3-2-3-2,2,18,11%,Ja,Nein,SV Empor Berlin II,ST,10,Leon Drannaschk,0.412
-SV Empor Berlin II,3-2-3-2,2,18,11%,Ja,Nein,SV Empor Berlin II,ZOM,NA,Luis Ploschenz,0.336
-SV Empor Berlin II,3-4-1-2,1,18,6%,Ja,Nein,SV Empor Berlin II,LM,NA,David Schäfer,0.684
-SV Empor Berlin II,3-4-1-2,1,18,6%,Ja,Nein,SV Empor Berlin II,TW,33,Janne Henrik Bloch,0.637
-SV Empor Berlin II,3-4-1-2,1,18,6%,Ja,Nein,SV Empor Berlin II,IV,NA,Daniel Alankus,0.61
-SV Empor Berlin II,3-4-1-2,1,18,6%,Ja,Nein,SV Empor Berlin II,ST,9,Demba Mendy,0.466
-SV Empor Berlin II,3-4-1-2,1,18,6%,Ja,Nein,SV Empor Berlin II,IV,5,Elias Thürigen,0.462
-SV Empor Berlin II,3-4-1-2,1,18,6%,Ja,Nein,SV Empor Berlin II,RM,2,Pascal Bräkow,0.458
-SV Empor Berlin II,3-4-1-2,1,18,6%,Ja,Nein,SV Empor Berlin II,IV,14,Tilman Schinzel,0.454
-SV Empor Berlin II,3-4-1-2,1,18,6%,Ja,Nein,SV Empor Berlin II,ZDM,20,Laurens Cerny,0.445
-SV Empor Berlin II,3-4-1-2,1,18,6%,Ja,Nein,SV Empor Berlin II,ZDM,NA,Falk Marquard,0.437
-SV Empor Berlin II,3-4-1-2,1,18,6%,Ja,Nein,SV Empor Berlin II,ST,10,Leon Drannaschk,0.412
-SV Empor Berlin II,3-4-1-2,1,18,6%,Ja,Nein,SV Empor Berlin II,ZOM,NA,Luis Ploschenz,0.336
-SV Empor Berlin II,3-4-3,2,18,11%,Ja,Nein,SV Empor Berlin II,LM,NA,David Schäfer,0.684
-SV Empor Berlin II,3-4-3,2,18,11%,Ja,Nein,SV Empor Berlin II,TW,33,Janne Henrik Bloch,0.637
-SV Empor Berlin II,3-4-3,2,18,11%,Ja,Nein,SV Empor Berlin II,IV,NA,Daniel Alankus,0.61
-SV Empor Berlin II,3-4-3,2,18,11%,Ja,Nein,SV Empor Berlin II,ST,9,Demba Mendy,0.466
-SV Empor Berlin II,3-4-3,2,18,11%,Ja,Nein,SV Empor Berlin II,IV,5,Elias Thürigen,0.462
-SV Empor Berlin II,3-4-3,2,18,11%,Ja,Nein,SV Empor Berlin II,RM,2,Pascal Bräkow,0.458
-SV Empor Berlin II,3-4-3,2,18,11%,Ja,Nein,SV Empor Berlin II,IV,14,Tilman Schinzel,0.454
-SV Empor Berlin II,3-4-3,2,18,11%,Ja,Nein,SV Empor Berlin II,ZM,20,Laurens Cerny,0.445
-SV Empor Berlin II,3-4-3,2,18,11%,Ja,Nein,SV Empor Berlin II,ZM,NA,Falk Marquard,0.437
-SV Empor Berlin II,3-4-3,2,18,11%,Ja,Nein,SV Empor Berlin II,ST,10,Leon Drannaschk,0.412
-SV Empor Berlin II,3-4-3,2,18,11%,Ja,Nein,SV Empor Berlin II,ST,23,Nico Bochnia,0.38
-SV Empor Berlin II,3-5-2,2,18,11%,Ja,Nein,SV Empor Berlin II,LM,NA,David Schäfer,0.684
-SV Empor Berlin II,3-5-2,2,18,11%,Ja,Nein,SV Empor Berlin II,TW,33,Janne Henrik Bloch,0.637
-SV Empor Berlin II,3-5-2,2,18,11%,Ja,Nein,SV Empor Berlin II,IV,NA,Daniel Alankus,0.61
-SV Empor Berlin II,3-5-2,2,18,11%,Ja,Nein,SV Empor Berlin II,ST,9,Demba Mendy,0.466
-SV Empor Berlin II,3-5-2,2,18,11%,Ja,Nein,SV Empor Berlin II,IV,5,Elias Thürigen,0.462
-SV Empor Berlin II,3-5-2,2,18,11%,Ja,Nein,SV Empor Berlin II,RM,2,Pascal Bräkow,0.458
-SV Empor Berlin II,3-5-2,2,18,11%,Ja,Nein,SV Empor Berlin II,IV,14,Tilman Schinzel,0.454
-SV Empor Berlin II,3-5-2,2,18,11%,Ja,Nein,SV Empor Berlin II,ZM,20,Laurens Cerny,0.445
-SV Empor Berlin II,3-5-2,2,18,11%,Ja,Nein,SV Empor Berlin II,ZM,NA,Falk Marquard,0.437
-SV Empor Berlin II,3-5-2,2,18,11%,Ja,Nein,SV Empor Berlin II,ST,10,Leon Drannaschk,0.412
-SV Empor Berlin II,3-5-2,2,18,11%,Ja,Nein,SV Empor Berlin II,ZM,11,Dennis Seiler,0.398
-SV Empor Berlin II,4-2-3-1,1,18,6%,Nein,Ja,SV Empor Berlin II,LV,NA,David Schäfer,0.684
-SV Empor Berlin II,4-2-3-1,1,18,6%,Nein,Ja,SV Empor Berlin II,TW,33,Janne Henrik Bloch,0.637
-SV Empor Berlin II,4-2-3-1,1,18,6%,Nein,Ja,SV Empor Berlin II,IV,NA,Daniel Alankus,0.61
-SV Empor Berlin II,4-2-3-1,1,18,6%,Nein,Ja,SV Empor Berlin II,LM,23,Oskar Kühn,0.581
-SV Empor Berlin II,4-2-3-1,1,18,6%,Nein,Ja,SV Empor Berlin II,ST,9,Demba Mendy,0.466
-SV Empor Berlin II,4-2-3-1,1,18,6%,Nein,Ja,SV Empor Berlin II,IV,5,Elias Thürigen,0.462
-SV Empor Berlin II,4-2-3-1,1,18,6%,Nein,Ja,SV Empor Berlin II,RV,2,Pascal Bräkow,0.458
-SV Empor Berlin II,4-2-3-1,1,18,6%,Nein,Ja,SV Empor Berlin II,ZDM,20,Laurens Cerny,0.445
-SV Empor Berlin II,4-2-3-1,1,18,6%,Nein,Ja,SV Empor Berlin II,ZDM,NA,Falk Marquard,0.437
-SV Empor Berlin II,4-2-3-1,1,18,6%,Nein,Ja,SV Empor Berlin II,RM,NA,Luis Ploschenz,0.336
-SV Empor Berlin II,4-3-3,7,18,39%,Nein,Ja,SV Empor Berlin II,LV,NA,David Schäfer,0.684
-SV Empor Berlin II,4-3-3,7,18,39%,Nein,Ja,SV Empor Berlin II,TW,33,Janne Henrik Bloch,0.637
-SV Empor Berlin II,4-3-3,7,18,39%,Nein,Ja,SV Empor Berlin II,IV,NA,Daniel Alankus,0.61
-SV Empor Berlin II,4-3-3,7,18,39%,Nein,Ja,SV Empor Berlin II,LM,23,Oskar Kühn,0.581
-SV Empor Berlin II,4-3-3,7,18,39%,Nein,Ja,SV Empor Berlin II,ST,9,Demba Mendy,0.466
-SV Empor Berlin II,4-3-3,7,18,39%,Nein,Ja,SV Empor Berlin II,IV,5,Elias Thürigen,0.462
-SV Empor Berlin II,4-3-3,7,18,39%,Nein,Ja,SV Empor Berlin II,RV,2,Pascal Bräkow,0.458
-SV Empor Berlin II,4-3-3,7,18,39%,Nein,Ja,SV Empor Berlin II,ZM,14,Tilman Schinzel,0.454
-SV Empor Berlin II,4-3-3,7,18,39%,Nein,Ja,SV Empor Berlin II,ZM,20,Laurens Cerny,0.445
-SV Empor Berlin II,4-3-3,7,18,39%,Nein,Ja,SV Empor Berlin II,ZM,NA,Falk Marquard,0.437
-SV Empor Berlin II,4-3-3,7,18,39%,Nein,Ja,SV Empor Berlin II,RM,NA,Luis Ploschenz,0.336
-SV Empor Berlin II,4-4-2,1,18,6%,Nein,Ja,SV Empor Berlin II,LV,NA,David Schäfer,0.684
-SV Empor Berlin II,4-4-2,1,18,6%,Nein,Ja,SV Empor Berlin II,TW,33,Janne Henrik Bloch,0.637
-SV Empor Berlin II,4-4-2,1,18,6%,Nein,Ja,SV Empor Berlin II,IV,NA,Daniel Alankus,0.61
-SV Empor Berlin II,4-4-2,1,18,6%,Nein,Ja,SV Empor Berlin II,LM,23,Oskar Kühn,0.581
-SV Empor Berlin II,4-4-2,1,18,6%,Nein,Ja,SV Empor Berlin II,ST,9,Demba Mendy,0.466
-SV Empor Berlin II,4-4-2,1,18,6%,Nein,Ja,SV Empor Berlin II,IV,5,Elias Thürigen,0.462
-SV Empor Berlin II,4-4-2,1,18,6%,Nein,Ja,SV Empor Berlin II,RV,2,Pascal Bräkow,0.458
-SV Empor Berlin II,4-4-2,1,18,6%,Nein,Ja,SV Empor Berlin II,ZM,14,Tilman Schinzel,0.454
-SV Empor Berlin II,4-4-2,1,18,6%,Nein,Ja,SV Empor Berlin II,ZM,20,Laurens Cerny,0.445
-SV Empor Berlin II,4-4-2,1,18,6%,Nein,Ja,SV Empor Berlin II,ST,10,Leon Drannaschk,0.412
-SV Empor Berlin II,4-4-2,1,18,6%,Nein,Ja,SV Empor Berlin II,RM,NA,Luis Ploschenz,0.336
-SV Empor Berlin II,4-5-1,2,18,11%,Nein,Ja,SV Empor Berlin II,LV,NA,David Schäfer,0.684
-SV Empor Berlin II,4-5-1,2,18,11%,Nein,Ja,SV Empor Berlin II,TW,33,Janne Henrik Bloch,0.637
-SV Empor Berlin II,4-5-1,2,18,11%,Nein,Ja,SV Empor Berlin II,IV,NA,Daniel Alankus,0.61
-SV Empor Berlin II,4-5-1,2,18,11%,Nein,Ja,SV Empor Berlin II,LM,23,Oskar Kühn,0.581
-SV Empor Berlin II,4-5-1,2,18,11%,Nein,Ja,SV Empor Berlin II,ST,9,Demba Mendy,0.466
-SV Empor Berlin II,4-5-1,2,18,11%,Nein,Ja,SV Empor Berlin II,IV,5,Elias Thürigen,0.462
-SV Empor Berlin II,4-5-1,2,18,11%,Nein,Ja,SV Empor Berlin II,RV,2,Pascal Bräkow,0.458
-SV Empor Berlin II,4-5-1,2,18,11%,Nein,Ja,SV Empor Berlin II,ZM,14,Tilman Schinzel,0.454
-SV Empor Berlin II,4-5-1,2,18,11%,Nein,Ja,SV Empor Berlin II,ZM,20,Laurens Cerny,0.445
-SV Empor Berlin II,4-5-1,2,18,11%,Nein,Ja,SV Empor Berlin II,ZM,NA,Falk Marquard,0.437
-SV Empor Berlin II,4-5-1,2,18,11%,Nein,Ja,SV Empor Berlin II,RM,NA,Luis Ploschenz,0.336
-SV Stern Britz 1889,3-2-3-2,1,19,5%,Ja,Nein,SV Stern Britz 1889,ZDM,NA,Yusuf Yildirim,0.813
-SV Stern Britz 1889,3-2-3-2,1,19,5%,Ja,Nein,SV Stern Britz 1889,RM,NA,Kevin Schneider,0.811
-SV Stern Britz 1889,3-2-3-2,1,19,5%,Ja,Nein,SV Stern Britz 1889,IV,23,Andre Schulz,0.58
-SV Stern Britz 1889,3-2-3-2,1,19,5%,Ja,Nein,SV Stern Britz 1889,LM,NA,Christopher Schneider,0.563
-SV Stern Britz 1889,3-2-3-2,1,19,5%,Ja,Nein,SV Stern Britz 1889,TW,1,Timo Ziebarth,0.478
-SV Stern Britz 1889,3-2-3-2,1,19,5%,Ja,Nein,SV Stern Britz 1889,ST,7,Dustin Sik,0.456
-SV Stern Britz 1889,3-2-3-2,1,19,5%,Ja,Nein,SV Stern Britz 1889,ZDM,22,Luca Wojan,0.452
-SV Stern Britz 1889,3-2-3-2,1,19,5%,Ja,Nein,SV Stern Britz 1889,IV,NA,Timo Brei,0.415
-SV Stern Britz 1889,3-2-3-2,1,19,5%,Ja,Nein,SV Stern Britz 1889,ST,20,Shaker Shawrdi,0.362
-SV Stern Britz 1889,3-2-3-2,1,19,5%,Ja,Nein,SV Stern Britz 1889,ZOM,19,Oguzhan Duman,0.355
-SV Stern Britz 1889,3-2-3-2,1,19,5%,Ja,Nein,SV Stern Britz 1889,IV,5,Miran Aykus,0.342
-SV Stern Britz 1889,3-4-3,2,19,11%,Ja,Nein,SV Stern Britz 1889,ZM,NA,Marc Anthony Weisse,0.896
-SV Stern Britz 1889,3-4-3,2,19,11%,Ja,Nein,SV Stern Britz 1889,RM,NA,Kevin Schneider,0.811
-SV Stern Britz 1889,3-4-3,2,19,11%,Ja,Nein,SV Stern Britz 1889,ZM,2,Tommes Diallo,0.671
-SV Stern Britz 1889,3-4-3,2,19,11%,Ja,Nein,SV Stern Britz 1889,IV,23,Andre Schulz,0.58
-SV Stern Britz 1889,3-4-3,2,19,11%,Ja,Nein,SV Stern Britz 1889,LM,NA,Christopher Schneider,0.563
-SV Stern Britz 1889,3-4-3,2,19,11%,Ja,Nein,SV Stern Britz 1889,TW,1,Timo Ziebarth,0.478
-SV Stern Britz 1889,3-4-3,2,19,11%,Ja,Nein,SV Stern Britz 1889,ST,7,Dustin Sik,0.456
-SV Stern Britz 1889,3-4-3,2,19,11%,Ja,Nein,SV Stern Britz 1889,IV,NA,Timo Brei,0.415
-SV Stern Britz 1889,3-4-3,2,19,11%,Ja,Nein,SV Stern Britz 1889,ST,20,Shaker Shawrdi,0.362
-SV Stern Britz 1889,3-4-3,2,19,11%,Ja,Nein,SV Stern Britz 1889,IV,5,Miran Aykus,0.342
-SV Stern Britz 1889,3-4-3,2,19,11%,Ja,Nein,SV Stern Britz 1889,ST,NA,Julian Karsten Heikenfeld,0.315
-SV Stern Britz 1889,4-1-4-1,1,19,5%,Nein,Ja,SV Stern Britz 1889,ZDM,NA,Yusuf Yildirim,0.813
-SV Stern Britz 1889,4-1-4-1,1,19,5%,Nein,Ja,SV Stern Britz 1889,RM,NA,Kevin Schneider,0.811
-SV Stern Britz 1889,4-1-4-1,1,19,5%,Nein,Ja,SV Stern Britz 1889,RV,2,Tommes Diallo,0.671
-SV Stern Britz 1889,4-1-4-1,1,19,5%,Nein,Ja,SV Stern Britz 1889,IV,23,Andre Schulz,0.58
-SV Stern Britz 1889,4-1-4-1,1,19,5%,Nein,Ja,SV Stern Britz 1889,LM,NA,Christopher Schneider,0.563
-SV Stern Britz 1889,4-1-4-1,1,19,5%,Nein,Ja,SV Stern Britz 1889,TW,1,Timo Ziebarth,0.478
-SV Stern Britz 1889,4-1-4-1,1,19,5%,Nein,Ja,SV Stern Britz 1889,ST,7,Dustin Sik,0.456
-SV Stern Britz 1889,4-1-4-1,1,19,5%,Nein,Ja,SV Stern Britz 1889,IV,NA,Timo Brei,0.415
-SV Stern Britz 1889,4-1-4-1,1,19,5%,Nein,Ja,SV Stern Britz 1889,LV,6,Timo Höhna,0.373
-SV Stern Britz 1889,4-1-4-1,1,19,5%,Nein,Ja,SV Stern Britz 1889,ZOM,19,Oguzhan Duman,0.355
-SV Stern Britz 1889,4-1-4-1,1,19,5%,Nein,Ja,SV Stern Britz 1889,ZOM,15,Ali Mert Koca,0.255
-SV Stern Britz 1889,4-2-3-1,9,19,47%,Nein,Ja,SV Stern Britz 1889,ZDM,NA,Yusuf Yildirim,0.813
-SV Stern Britz 1889,4-2-3-1,9,19,47%,Nein,Ja,SV Stern Britz 1889,RM,NA,Kevin Schneider,0.811
-SV Stern Britz 1889,4-2-3-1,9,19,47%,Nein,Ja,SV Stern Britz 1889,RV,2,Tommes Diallo,0.671
-SV Stern Britz 1889,4-2-3-1,9,19,47%,Nein,Ja,SV Stern Britz 1889,IV,23,Andre Schulz,0.58
-SV Stern Britz 1889,4-2-3-1,9,19,47%,Nein,Ja,SV Stern Britz 1889,LM,NA,Christopher Schneider,0.563
-SV Stern Britz 1889,4-2-3-1,9,19,47%,Nein,Ja,SV Stern Britz 1889,TW,1,Timo Ziebarth,0.478
-SV Stern Britz 1889,4-2-3-1,9,19,47%,Nein,Ja,SV Stern Britz 1889,ST,7,Dustin Sik,0.456
-SV Stern Britz 1889,4-2-3-1,9,19,47%,Nein,Ja,SV Stern Britz 1889,ZDM,22,Luca Wojan,0.452
-SV Stern Britz 1889,4-2-3-1,9,19,47%,Nein,Ja,SV Stern Britz 1889,IV,NA,Timo Brei,0.415
-SV Stern Britz 1889,4-2-3-1,9,19,47%,Nein,Ja,SV Stern Britz 1889,LV,6,Timo Höhna,0.373
-SV Stern Britz 1889,4-2-3-1,9,19,47%,Nein,Ja,SV Stern Britz 1889,ZOM,19,Oguzhan Duman,0.355
-SV Stern Britz 1889,4-3-3,3,19,16%,Nein,Ja,SV Stern Britz 1889,ZM,NA,Marc Anthony Weisse,0.896
-SV Stern Britz 1889,4-3-3,3,19,16%,Nein,Ja,SV Stern Britz 1889,RM,NA,Kevin Schneider,0.811
-SV Stern Britz 1889,4-3-3,3,19,16%,Nein,Ja,SV Stern Britz 1889,ZM,2,Tommes Diallo,0.671
-SV Stern Britz 1889,4-3-3,3,19,16%,Nein,Ja,SV Stern Britz 1889,IV,23,Andre Schulz,0.58
-SV Stern Britz 1889,4-3-3,3,19,16%,Nein,Ja,SV Stern Britz 1889,LM,NA,Christopher Schneider,0.563
-SV Stern Britz 1889,4-3-3,3,19,16%,Nein,Ja,SV Stern Britz 1889,TW,1,Timo Ziebarth,0.478
-SV Stern Britz 1889,4-3-3,3,19,16%,Nein,Ja,SV Stern Britz 1889,ST,7,Dustin Sik,0.456
-SV Stern Britz 1889,4-3-3,3,19,16%,Nein,Ja,SV Stern Britz 1889,ZM,22,Luca Wojan,0.452
-SV Stern Britz 1889,4-3-3,3,19,16%,Nein,Ja,SV Stern Britz 1889,IV,NA,Timo Brei,0.415
-SV Stern Britz 1889,4-3-3,3,19,16%,Nein,Ja,SV Stern Britz 1889,LV,6,Timo Höhna,0.373
-SV Stern Britz 1889,4-3-3,3,19,16%,Nein,Ja,SV Stern Britz 1889,RV,26,Naim Senay,0.32
-SV Stern Britz 1889,4-4-1-1,2,19,11%,Nein,Ja,SV Stern Britz 1889,ZM,NA,Marc Anthony Weisse,0.896
-SV Stern Britz 1889,4-4-1-1,2,19,11%,Nein,Ja,SV Stern Britz 1889,RM,NA,Kevin Schneider,0.811
-SV Stern Britz 1889,4-4-1-1,2,19,11%,Nein,Ja,SV Stern Britz 1889,ZM,2,Tommes Diallo,0.671
-SV Stern Britz 1889,4-4-1-1,2,19,11%,Nein,Ja,SV Stern Britz 1889,IV,23,Andre Schulz,0.58
-SV Stern Britz 1889,4-4-1-1,2,19,11%,Nein,Ja,SV Stern Britz 1889,LM,NA,Christopher Schneider,0.563
-SV Stern Britz 1889,4-4-1-1,2,19,11%,Nein,Ja,SV Stern Britz 1889,TW,1,Timo Ziebarth,0.478
-SV Stern Britz 1889,4-4-1-1,2,19,11%,Nein,Ja,SV Stern Britz 1889,ST,7,Dustin Sik,0.456
-SV Stern Britz 1889,4-4-1-1,2,19,11%,Nein,Ja,SV Stern Britz 1889,IV,NA,Timo Brei,0.415
-SV Stern Britz 1889,4-4-1-1,2,19,11%,Nein,Ja,SV Stern Britz 1889,LV,6,Timo Höhna,0.373
-SV Stern Britz 1889,4-4-1-1,2,19,11%,Nein,Ja,SV Stern Britz 1889,ST,20,Shaker Shawrdi,0.362
-SV Stern Britz 1889,4-4-1-1,2,19,11%,Nein,Ja,SV Stern Britz 1889,RV,26,Naim Senay,0.32
-TSV Rudow Berlin,3-2-3-2,3,19,16%,Ja,Nein,TSV Rudow Berlin,TW,NA,Leon Merke,0.91
-TSV Rudow Berlin,3-2-3-2,3,19,16%,Ja,Nein,TSV Rudow Berlin,IV,4,Linus Fürstenow,0.815
-TSV Rudow Berlin,3-2-3-2,3,19,16%,Ja,Nein,TSV Rudow Berlin,IV,13,Elias Burda,0.776
-TSV Rudow Berlin,3-2-3-2,3,19,16%,Ja,Nein,TSV Rudow Berlin,ZDM,17,Mohammed Hassane,0.769
-TSV Rudow Berlin,3-2-3-2,3,19,16%,Ja,Nein,TSV Rudow Berlin,RM,20,Patrick Maykowski,0.762
-TSV Rudow Berlin,3-2-3-2,3,19,16%,Ja,Nein,TSV Rudow Berlin,ST,9,Matteo Günther,0.754
-TSV Rudow Berlin,3-2-3-2,3,19,16%,Ja,Nein,TSV Rudow Berlin,ZOM,10,Melih Hortum,0.705
-TSV Rudow Berlin,3-2-3-2,3,19,16%,Ja,Nein,TSV Rudow Berlin,IV,3,Jonas Becker,0.701
-TSV Rudow Berlin,3-2-3-2,3,19,16%,Ja,Nein,TSV Rudow Berlin,LM,7,Nana Kwame Badu-Amoah,0.69
-TSV Rudow Berlin,3-2-3-2,3,19,16%,Ja,Nein,TSV Rudow Berlin,ZDM,8,Alexander Wuthe,0.679
-TSV Rudow Berlin,3-2-3-2,3,19,16%,Ja,Nein,TSV Rudow Berlin,ST,24,Talha Sennur,0.654
-TSV Rudow Berlin,3-4-1-2,6,19,32%,Ja,Nein,TSV Rudow Berlin,TW,NA,Leon Merke,0.91
-TSV Rudow Berlin,3-4-1-2,6,19,32%,Ja,Nein,TSV Rudow Berlin,IV,4,Linus Fürstenow,0.815
-TSV Rudow Berlin,3-4-1-2,6,19,32%,Ja,Nein,TSV Rudow Berlin,IV,13,Elias Burda,0.776
-TSV Rudow Berlin,3-4-1-2,6,19,32%,Ja,Nein,TSV Rudow Berlin,ZDM,17,Mohammed Hassane,0.769
-TSV Rudow Berlin,3-4-1-2,6,19,32%,Ja,Nein,TSV Rudow Berlin,RM,20,Patrick Maykowski,0.762
-TSV Rudow Berlin,3-4-1-2,6,19,32%,Ja,Nein,TSV Rudow Berlin,ST,9,Matteo Günther,0.754
-TSV Rudow Berlin,3-4-1-2,6,19,32%,Ja,Nein,TSV Rudow Berlin,ZOM,10,Melih Hortum,0.705
-TSV Rudow Berlin,3-4-1-2,6,19,32%,Ja,Nein,TSV Rudow Berlin,IV,3,Jonas Becker,0.701
-TSV Rudow Berlin,3-4-1-2,6,19,32%,Ja,Nein,TSV Rudow Berlin,LM,7,Nana Kwame Badu-Amoah,0.69
-TSV Rudow Berlin,3-4-1-2,6,19,32%,Ja,Nein,TSV Rudow Berlin,ZDM,8,Alexander Wuthe,0.679
-TSV Rudow Berlin,3-4-1-2,6,19,32%,Ja,Nein,TSV Rudow Berlin,ST,24,Talha Sennur,0.654
-TSV Rudow Berlin,3-4-3,3,19,16%,Ja,Nein,TSV Rudow Berlin,TW,NA,Leon Merke,0.91
-TSV Rudow Berlin,3-4-3,3,19,16%,Ja,Nein,TSV Rudow Berlin,IV,4,Linus Fürstenow,0.815
-TSV Rudow Berlin,3-4-3,3,19,16%,Ja,Nein,TSV Rudow Berlin,IV,13,Elias Burda,0.776
-TSV Rudow Berlin,3-4-3,3,19,16%,Ja,Nein,TSV Rudow Berlin,ZM,17,Mohammed Hassane,0.769
-TSV Rudow Berlin,3-4-3,3,19,16%,Ja,Nein,TSV Rudow Berlin,RM,20,Patrick Maykowski,0.762
-TSV Rudow Berlin,3-4-3,3,19,16%,Ja,Nein,TSV Rudow Berlin,ST,9,Matteo Günther,0.754
-TSV Rudow Berlin,3-4-3,3,19,16%,Ja,Nein,TSV Rudow Berlin,ZM,10,Melih Hortum,0.705
-TSV Rudow Berlin,3-4-3,3,19,16%,Ja,Nein,TSV Rudow Berlin,IV,3,Jonas Becker,0.701
-TSV Rudow Berlin,3-4-3,3,19,16%,Ja,Nein,TSV Rudow Berlin,LM,7,Nana Kwame Badu-Amoah,0.69
-TSV Rudow Berlin,3-4-3,3,19,16%,Ja,Nein,TSV Rudow Berlin,ST,24,Talha Sennur,0.654
-TSV Rudow Berlin,3-4-3,3,19,16%,Ja,Nein,TSV Rudow Berlin,ST,NA,Aron Murseli,0.603
-TSV Rudow Berlin,3-5-2,1,19,5%,Ja,Nein,TSV Rudow Berlin,TW,NA,Leon Merke,0.91
-TSV Rudow Berlin,3-5-2,1,19,5%,Ja,Nein,TSV Rudow Berlin,IV,4,Linus Fürstenow,0.815
-TSV Rudow Berlin,3-5-2,1,19,5%,Ja,Nein,TSV Rudow Berlin,IV,13,Elias Burda,0.776
-TSV Rudow Berlin,3-5-2,1,19,5%,Ja,Nein,TSV Rudow Berlin,ZM,17,Mohammed Hassane,0.769
-TSV Rudow Berlin,3-5-2,1,19,5%,Ja,Nein,TSV Rudow Berlin,RM,20,Patrick Maykowski,0.762
-TSV Rudow Berlin,3-5-2,1,19,5%,Ja,Nein,TSV Rudow Berlin,ST,9,Matteo Günther,0.754
-TSV Rudow Berlin,3-5-2,1,19,5%,Ja,Nein,TSV Rudow Berlin,ZM,10,Melih Hortum,0.705
-TSV Rudow Berlin,3-5-2,1,19,5%,Ja,Nein,TSV Rudow Berlin,IV,3,Jonas Becker,0.701
-TSV Rudow Berlin,3-5-2,1,19,5%,Ja,Nein,TSV Rudow Berlin,LM,7,Nana Kwame Badu-Amoah,0.69
-TSV Rudow Berlin,3-5-2,1,19,5%,Ja,Nein,TSV Rudow Berlin,ST,24,Talha Sennur,0.654
-TSV Rudow Berlin,3-5-2,1,19,5%,Ja,Nein,TSV Rudow Berlin,ZM,NA,Aron Murseli,0.603
-TSV Rudow Berlin,3-6-1,1,19,5%,Ja,Nein,TSV Rudow Berlin,TW,NA,Leon Merke,0.91
-TSV Rudow Berlin,3-6-1,1,19,5%,Ja,Nein,TSV Rudow Berlin,IV,4,Linus Fürstenow,0.815
-TSV Rudow Berlin,3-6-1,1,19,5%,Ja,Nein,TSV Rudow Berlin,IV,13,Elias Burda,0.776
-TSV Rudow Berlin,3-6-1,1,19,5%,Ja,Nein,TSV Rudow Berlin,ZM,17,Mohammed Hassane,0.769
-TSV Rudow Berlin,3-6-1,1,19,5%,Ja,Nein,TSV Rudow Berlin,RM,20,Patrick Maykowski,0.762
-TSV Rudow Berlin,3-6-1,1,19,5%,Ja,Nein,TSV Rudow Berlin,ST,9,Matteo Günther,0.754
-TSV Rudow Berlin,3-6-1,1,19,5%,Ja,Nein,TSV Rudow Berlin,ZM,10,Melih Hortum,0.705
-TSV Rudow Berlin,3-6-1,1,19,5%,Ja,Nein,TSV Rudow Berlin,IV,3,Jonas Becker,0.701
-TSV Rudow Berlin,3-6-1,1,19,5%,Ja,Nein,TSV Rudow Berlin,LM,7,Nana Kwame Badu-Amoah,0.69
-TSV Rudow Berlin,3-6-1,1,19,5%,Ja,Nein,TSV Rudow Berlin,ZM,NA,Aron Murseli,0.603
-TSV Rudow Berlin,3-6-1,1,19,5%,Ja,Nein,TSV Rudow Berlin,ZM,23,Dominik Thonfeld,0.156
-TSV Rudow Berlin,4-4-2,5,19,26%,Nein,Ja,TSV Rudow Berlin,TW,NA,Leon Merke,0.91
-TSV Rudow Berlin,4-4-2,5,19,26%,Nein,Ja,TSV Rudow Berlin,IV,4,Linus Fürstenow,0.815
-TSV Rudow Berlin,4-4-2,5,19,26%,Nein,Ja,TSV Rudow Berlin,IV,13,Elias Burda,0.776
-TSV Rudow Berlin,4-4-2,5,19,26%,Nein,Ja,TSV Rudow Berlin,ZM,17,Mohammed Hassane,0.769
-TSV Rudow Berlin,4-4-2,5,19,26%,Nein,Ja,TSV Rudow Berlin,RM,20,Patrick Maykowski,0.762
-TSV Rudow Berlin,4-4-2,5,19,26%,Nein,Ja,TSV Rudow Berlin,ST,9,Matteo Günther,0.754
-TSV Rudow Berlin,4-4-2,5,19,26%,Nein,Ja,TSV Rudow Berlin,ZM,10,Melih Hortum,0.705
-TSV Rudow Berlin,4-4-2,5,19,26%,Nein,Ja,TSV Rudow Berlin,LM,7,Nana Kwame Badu-Amoah,0.69
-TSV Rudow Berlin,4-4-2,5,19,26%,Nein,Ja,TSV Rudow Berlin,ST,24,Talha Sennur,0.654
-TSV Rudow Berlin,4-4-2,5,19,26%,Nein,Ja,TSV Rudow Berlin,LV,NA,Lucas Robbin Bähr,0.61
-TSV Rudow Berlin,4-4-2,5,19,26%,Nein,Ja,TSV Rudow Berlin,RV,21,Abdullah Bayram,0.534
-Türkiyemspor Berlin,3-4-3,1,19,5%,Ja,Nein,Türkiyemspor Berlin,ZM,NA,Abdoulaye Djibril Diallo,0.731
-Türkiyemspor Berlin,3-4-3,1,19,5%,Ja,Nein,Türkiyemspor Berlin,RM,25,Enes Uzun,0.614
-Türkiyemspor Berlin,3-4-3,1,19,5%,Ja,Nein,Türkiyemspor Berlin,LM,21,Tolgahan Can Eskin,0.577
-Türkiyemspor Berlin,3-4-3,1,19,5%,Ja,Nein,Türkiyemspor Berlin,ST,5,Omid Saberdest,0.565
-Türkiyemspor Berlin,3-4-3,1,19,5%,Ja,Nein,Türkiyemspor Berlin,IV,3,Kenan Demir,0.528
-Türkiyemspor Berlin,3-4-3,1,19,5%,Ja,Nein,Türkiyemspor Berlin,TW,13,Ertugrul Aktas,0.516
-Türkiyemspor Berlin,3-4-3,1,19,5%,Ja,Nein,Türkiyemspor Berlin,IV,11,Mustafa Kemal Karaman,0.468
-Türkiyemspor Berlin,3-4-3,1,19,5%,Ja,Nein,Türkiyemspor Berlin,ZM,12,Ali Ismail Gashi,0.465
-Türkiyemspor Berlin,3-4-3,1,19,5%,Ja,Nein,Türkiyemspor Berlin,ST,NA,Volkan Neziroglu,0.445
-Türkiyemspor Berlin,3-4-3,1,19,5%,Ja,Nein,Türkiyemspor Berlin,IV,32,Deniz Karakus,0.42
-Türkiyemspor Berlin,3-4-3,1,19,5%,Ja,Nein,Türkiyemspor Berlin,ST,NA,Mehmet Tunay,0.415
-Türkiyemspor Berlin,4-1-4-1,4,19,21%,Nein,Ja,Türkiyemspor Berlin,RV,NA,Abdoulaye Djibril Diallo,0.731
-Türkiyemspor Berlin,4-1-4-1,4,19,21%,Nein,Ja,Türkiyemspor Berlin,ZOM,4,Görkem Yilmaz,0.623
-Türkiyemspor Berlin,4-1-4-1,4,19,21%,Nein,Ja,Türkiyemspor Berlin,RM,25,Enes Uzun,0.614
-Türkiyemspor Berlin,4-1-4-1,4,19,21%,Nein,Ja,Türkiyemspor Berlin,LM,21,Tolgahan Can Eskin,0.577
-Türkiyemspor Berlin,4-1-4-1,4,19,21%,Nein,Ja,Türkiyemspor Berlin,ZOM,5,Omid Saberdest,0.565
-Türkiyemspor Berlin,4-1-4-1,4,19,21%,Nein,Ja,Türkiyemspor Berlin,ZDM,6,Amon Simunovic,0.552
-Türkiyemspor Berlin,4-1-4-1,4,19,21%,Nein,Ja,Türkiyemspor Berlin,IV,3,Kenan Demir,0.528
-Türkiyemspor Berlin,4-1-4-1,4,19,21%,Nein,Ja,Türkiyemspor Berlin,TW,13,Ertugrul Aktas,0.516
-Türkiyemspor Berlin,4-1-4-1,4,19,21%,Nein,Ja,Türkiyemspor Berlin,LV,36,Deren Yoldas Emre,0.49
-Türkiyemspor Berlin,4-1-4-1,4,19,21%,Nein,Ja,Türkiyemspor Berlin,IV,11,Mustafa Kemal Karaman,0.468
-Türkiyemspor Berlin,4-1-4-1,4,19,21%,Nein,Ja,Türkiyemspor Berlin,ST,NA,Volkan Neziroglu,0.445
-Türkiyemspor Berlin,4-2-3-1,11,19,58%,Nein,Ja,Türkiyemspor Berlin,RV,NA,Abdoulaye Djibril Diallo,0.731
-Türkiyemspor Berlin,4-2-3-1,11,19,58%,Nein,Ja,Türkiyemspor Berlin,ZOM,4,Görkem Yilmaz,0.623
-Türkiyemspor Berlin,4-2-3-1,11,19,58%,Nein,Ja,Türkiyemspor Berlin,RM,25,Enes Uzun,0.614
-Türkiyemspor Berlin,4-2-3-1,11,19,58%,Nein,Ja,Türkiyemspor Berlin,LM,21,Tolgahan Can Eskin,0.577
-Türkiyemspor Berlin,4-2-3-1,11,19,58%,Nein,Ja,Türkiyemspor Berlin,ST,5,Omid Saberdest,0.565
-Türkiyemspor Berlin,4-2-3-1,11,19,58%,Nein,Ja,Türkiyemspor Berlin,ZDM,6,Amon Simunovic,0.552
-Türkiyemspor Berlin,4-2-3-1,11,19,58%,Nein,Ja,Türkiyemspor Berlin,IV,3,Kenan Demir,0.528
-Türkiyemspor Berlin,4-2-3-1,11,19,58%,Nein,Ja,Türkiyemspor Berlin,ZDM,8,Ömer Tanis,0.521
-Türkiyemspor Berlin,4-2-3-1,11,19,58%,Nein,Ja,Türkiyemspor Berlin,TW,13,Ertugrul Aktas,0.516
-Türkiyemspor Berlin,4-2-3-1,11,19,58%,Nein,Ja,Türkiyemspor Berlin,LV,36,Deren Yoldas Emre,0.49
-Türkiyemspor Berlin,4-2-3-1,11,19,58%,Nein,Ja,Türkiyemspor Berlin,IV,11,Mustafa Kemal Karaman,0.468
-Türkiyemspor Berlin,4-4-2,1,19,5%,Nein,Ja,Türkiyemspor Berlin,ZM,NA,Abdoulaye Djibril Diallo,0.731
-Türkiyemspor Berlin,4-4-2,1,19,5%,Nein,Ja,Türkiyemspor Berlin,RV,4,Görkem Yilmaz,0.623
-Türkiyemspor Berlin,4-4-2,1,19,5%,Nein,Ja,Türkiyemspor Berlin,RM,25,Enes Uzun,0.614
-Türkiyemspor Berlin,4-4-2,1,19,5%,Nein,Ja,Türkiyemspor Berlin,LM,21,Tolgahan Can Eskin,0.577
-Türkiyemspor Berlin,4-4-2,1,19,5%,Nein,Ja,Türkiyemspor Berlin,ST,5,Omid Saberdest,0.565
-Türkiyemspor Berlin,4-4-2,1,19,5%,Nein,Ja,Türkiyemspor Berlin,IV,3,Kenan Demir,0.528
-Türkiyemspor Berlin,4-4-2,1,19,5%,Nein,Ja,Türkiyemspor Berlin,TW,13,Ertugrul Aktas,0.516
-Türkiyemspor Berlin,4-4-2,1,19,5%,Nein,Ja,Türkiyemspor Berlin,LV,36,Deren Yoldas Emre,0.49
-Türkiyemspor Berlin,4-4-2,1,19,5%,Nein,Ja,Türkiyemspor Berlin,IV,11,Mustafa Kemal Karaman,0.468
-Türkiyemspor Berlin,4-4-2,1,19,5%,Nein,Ja,Türkiyemspor Berlin,ZM,12,Ali Ismail Gashi,0.465
-Türkiyemspor Berlin,4-4-2,1,19,5%,Nein,Ja,Türkiyemspor Berlin,ST,NA,Volkan Neziroglu,0.445
-Türkiyemspor Berlin,4-5-1,1,19,5%,Nein,Ja,Türkiyemspor Berlin,ZM,NA,Abdoulaye Djibril Diallo,0.731
-Türkiyemspor Berlin,4-5-1,1,19,5%,Nein,Ja,Türkiyemspor Berlin,RV,4,Görkem Yilmaz,0.623
-Türkiyemspor Berlin,4-5-1,1,19,5%,Nein,Ja,Türkiyemspor Berlin,RM,25,Enes Uzun,0.614
-Türkiyemspor Berlin,4-5-1,1,19,5%,Nein,Ja,Türkiyemspor Berlin,LM,21,Tolgahan Can Eskin,0.577
-Türkiyemspor Berlin,4-5-1,1,19,5%,Nein,Ja,Türkiyemspor Berlin,ST,5,Omid Saberdest,0.565
-Türkiyemspor Berlin,4-5-1,1,19,5%,Nein,Ja,Türkiyemspor Berlin,IV,3,Kenan Demir,0.528
-Türkiyemspor Berlin,4-5-1,1,19,5%,Nein,Ja,Türkiyemspor Berlin,TW,13,Ertugrul Aktas,0.516
-Türkiyemspor Berlin,4-5-1,1,19,5%,Nein,Ja,Türkiyemspor Berlin,LV,36,Deren Yoldas Emre,0.49
-Türkiyemspor Berlin,4-5-1,1,19,5%,Nein,Ja,Türkiyemspor Berlin,IV,11,Mustafa Kemal Karaman,0.468
-Türkiyemspor Berlin,4-5-1,1,19,5%,Nein,Ja,Türkiyemspor Berlin,ZM,12,Ali Ismail Gashi,0.465
-VfB Concordia Britz 1916,4-2-2-2,1,19,5%,Nein,Ja,VfB Concordia Britz 1916,IV,8,Merlin Schulz,2.219
-VfB Concordia Britz 1916,4-2-2-2,1,19,5%,Nein,Ja,VfB Concordia Britz 1916,TW,21,Piet Kühn,0.558
-VfB Concordia Britz 1916,4-2-2-2,1,19,5%,Nein,Ja,VfB Concordia Britz 1916,LV,NA,Domenic Schäfer,0.477
-VfB Concordia Britz 1916,4-2-2-2,1,19,5%,Nein,Ja,VfB Concordia Britz 1916,IV,5,Tim Wenke,0.425
-VfB Concordia Britz 1916,4-2-2-2,1,19,5%,Nein,Ja,VfB Concordia Britz 1916,ST,NA,Omar Mohamed Ibrahim Hassan Ali,0.422
-VfB Concordia Britz 1916,4-2-2-2,1,19,5%,Nein,Ja,VfB Concordia Britz 1916,RM,6,Felix Weglöhner,0.41
-VfB Concordia Britz 1916,4-2-2-2,1,19,5%,Nein,Ja,VfB Concordia Britz 1916,ST,20,Maximilian Höhle,0.404
-VfB Concordia Britz 1916,4-2-2-2,1,19,5%,Nein,Ja,VfB Concordia Britz 1916,ZM,9,Le-Roy Da-Costa,0.397
-VfB Concordia Britz 1916,4-2-2-2,1,19,5%,Nein,Ja,VfB Concordia Britz 1916,RV,23,Benedikt Schmidtmann,0.371
-VfB Concordia Britz 1916,4-2-2-2,1,19,5%,Nein,Ja,VfB Concordia Britz 1916,ZM,17,Philip Wieser,0.318
-VfB Concordia Britz 1916,4-2-2-2,1,19,5%,Nein,Ja,VfB Concordia Britz 1916,LM,26,Amir-Mohamad Yassine,0.296
-VfB Concordia Britz 1916,4-2-3-1,1,19,5%,Nein,Ja,VfB Concordia Britz 1916,IV,8,Merlin Schulz,2.219
-VfB Concordia Britz 1916,4-2-3-1,1,19,5%,Nein,Ja,VfB Concordia Britz 1916,TW,21,Piet Kühn,0.558
-VfB Concordia Britz 1916,4-2-3-1,1,19,5%,Nein,Ja,VfB Concordia Britz 1916,LV,NA,Domenic Schäfer,0.477
-VfB Concordia Britz 1916,4-2-3-1,1,19,5%,Nein,Ja,VfB Concordia Britz 1916,IV,5,Tim Wenke,0.425
-VfB Concordia Britz 1916,4-2-3-1,1,19,5%,Nein,Ja,VfB Concordia Britz 1916,ST,NA,Omar Mohamed Ibrahim Hassan Ali,0.422
-VfB Concordia Britz 1916,4-2-3-1,1,19,5%,Nein,Ja,VfB Concordia Britz 1916,RM,6,Felix Weglöhner,0.41
-VfB Concordia Britz 1916,4-2-3-1,1,19,5%,Nein,Ja,VfB Concordia Britz 1916,RV,23,Benedikt Schmidtmann,0.371
-VfB Concordia Britz 1916,4-2-3-1,1,19,5%,Nein,Ja,VfB Concordia Britz 1916,LM,17,Philip Wieser,0.318
-VfB Concordia Britz 1916,4-4-1-1,3,19,16%,Nein,Ja,VfB Concordia Britz 1916,IV,8,Merlin Schulz,2.219
-VfB Concordia Britz 1916,4-4-1-1,3,19,16%,Nein,Ja,VfB Concordia Britz 1916,TW,21,Piet Kühn,0.558
-VfB Concordia Britz 1916,4-4-1-1,3,19,16%,Nein,Ja,VfB Concordia Britz 1916,LV,NA,Domenic Schäfer,0.477
-VfB Concordia Britz 1916,4-4-1-1,3,19,16%,Nein,Ja,VfB Concordia Britz 1916,IV,5,Tim Wenke,0.425
-VfB Concordia Britz 1916,4-4-1-1,3,19,16%,Nein,Ja,VfB Concordia Britz 1916,ST,NA,Omar Mohamed Ibrahim Hassan Ali,0.422
-VfB Concordia Britz 1916,4-4-1-1,3,19,16%,Nein,Ja,VfB Concordia Britz 1916,RM,6,Felix Weglöhner,0.41
-VfB Concordia Britz 1916,4-4-1-1,3,19,16%,Nein,Ja,VfB Concordia Britz 1916,ST,20,Maximilian Höhle,0.404
-VfB Concordia Britz 1916,4-4-1-1,3,19,16%,Nein,Ja,VfB Concordia Britz 1916,ZM,9,Le-Roy Da-Costa,0.397
-VfB Concordia Britz 1916,4-4-1-1,3,19,16%,Nein,Ja,VfB Concordia Britz 1916,RV,23,Benedikt Schmidtmann,0.371
-VfB Concordia Britz 1916,4-4-1-1,3,19,16%,Nein,Ja,VfB Concordia Britz 1916,ZM,17,Philip Wieser,0.318
-VfB Concordia Britz 1916,4-4-1-1,3,19,16%,Nein,Ja,VfB Concordia Britz 1916,LM,26,Amir-Mohamad Yassine,0.296
-VfB Concordia Britz 1916,4-4-2,3,19,16%,Nein,Ja,VfB Concordia Britz 1916,IV,8,Merlin Schulz,2.219
-VfB Concordia Britz 1916,4-4-2,3,19,16%,Nein,Ja,VfB Concordia Britz 1916,TW,21,Piet Kühn,0.558
-VfB Concordia Britz 1916,4-4-2,3,19,16%,Nein,Ja,VfB Concordia Britz 1916,LV,NA,Domenic Schäfer,0.477
-VfB Concordia Britz 1916,4-4-2,3,19,16%,Nein,Ja,VfB Concordia Britz 1916,IV,5,Tim Wenke,0.425
-VfB Concordia Britz 1916,4-4-2,3,19,16%,Nein,Ja,VfB Concordia Britz 1916,ST,NA,Omar Mohamed Ibrahim Hassan Ali,0.422
-VfB Concordia Britz 1916,4-4-2,3,19,16%,Nein,Ja,VfB Concordia Britz 1916,RM,6,Felix Weglöhner,0.41
-VfB Concordia Britz 1916,4-4-2,3,19,16%,Nein,Ja,VfB Concordia Britz 1916,ST,20,Maximilian Höhle,0.404
-VfB Concordia Britz 1916,4-4-2,3,19,16%,Nein,Ja,VfB Concordia Britz 1916,ZM,9,Le-Roy Da-Costa,0.397
-VfB Concordia Britz 1916,4-4-2,3,19,16%,Nein,Ja,VfB Concordia Britz 1916,RV,23,Benedikt Schmidtmann,0.371
-VfB Concordia Britz 1916,4-4-2,3,19,16%,Nein,Ja,VfB Concordia Britz 1916,ZM,17,Philip Wieser,0.318
-VfB Concordia Britz 1916,4-4-2,3,19,16%,Nein,Ja,VfB Concordia Britz 1916,LM,26,Amir-Mohamad Yassine,0.296
-VfB Concordia Britz 1916,4-5-1,9,19,47%,Nein,Ja,VfB Concordia Britz 1916,IV,8,Merlin Schulz,2.219
-VfB Concordia Britz 1916,4-5-1,9,19,47%,Nein,Ja,VfB Concordia Britz 1916,TW,21,Piet Kühn,0.558
-VfB Concordia Britz 1916,4-5-1,9,19,47%,Nein,Ja,VfB Concordia Britz 1916,LV,NA,Domenic Schäfer,0.477
-VfB Concordia Britz 1916,4-5-1,9,19,47%,Nein,Ja,VfB Concordia Britz 1916,IV,5,Tim Wenke,0.425
-VfB Concordia Britz 1916,4-5-1,9,19,47%,Nein,Ja,VfB Concordia Britz 1916,ST,NA,Omar Mohamed Ibrahim Hassan Ali,0.422
-VfB Concordia Britz 1916,4-5-1,9,19,47%,Nein,Ja,VfB Concordia Britz 1916,RM,6,Felix Weglöhner,0.41
-VfB Concordia Britz 1916,4-5-1,9,19,47%,Nein,Ja,VfB Concordia Britz 1916,ZM,9,Le-Roy Da-Costa,0.397
-VfB Concordia Britz 1916,4-5-1,9,19,47%,Nein,Ja,VfB Concordia Britz 1916,RV,23,Benedikt Schmidtmann,0.371
-VfB Concordia Britz 1916,4-5-1,9,19,47%,Nein,Ja,VfB Concordia Britz 1916,ZM,17,Philip Wieser,0.318
-VfB Concordia Britz 1916,4-5-1,9,19,47%,Nein,Ja,VfB Concordia Britz 1916,ZM,NA,Lionel Krampah,0.314
-VfB Concordia Britz 1916,4-5-1,9,19,47%,Nein,Ja,VfB Concordia Britz 1916,LM,26,Amir-Mohamad Yassine,0.296
-VfB Concordia Britz 1916,5-4-1,1,19,5%,Nein,Nein,VfB Concordia Britz 1916,IV,8,Merlin Schulz,2.219
-VfB Concordia Britz 1916,5-4-1,1,19,5%,Nein,Nein,VfB Concordia Britz 1916,TW,21,Piet Kühn,0.558
-VfB Concordia Britz 1916,5-4-1,1,19,5%,Nein,Nein,VfB Concordia Britz 1916,LV,NA,Domenic Schäfer,0.477
-VfB Concordia Britz 1916,5-4-1,1,19,5%,Nein,Nein,VfB Concordia Britz 1916,IV,5,Tim Wenke,0.425
-VfB Concordia Britz 1916,5-4-1,1,19,5%,Nein,Nein,VfB Concordia Britz 1916,ST,NA,Omar Mohamed Ibrahim Hassan Ali,0.422
-VfB Concordia Britz 1916,5-4-1,1,19,5%,Nein,Nein,VfB Concordia Britz 1916,RM,6,Felix Weglöhner,0.41
-VfB Concordia Britz 1916,5-4-1,1,19,5%,Nein,Nein,VfB Concordia Britz 1916,ZM,9,Le-Roy Da-Costa,0.397
-VfB Concordia Britz 1916,5-4-1,1,19,5%,Nein,Nein,VfB Concordia Britz 1916,IV,NA,Yannic Behrendt,0.371
-VfB Concordia Britz 1916,5-4-1,1,19,5%,Nein,Nein,VfB Concordia Britz 1916,RV,23,Benedikt Schmidtmann,0.371
-VfB Concordia Britz 1916,5-4-1,1,19,5%,Nein,Nein,VfB Concordia Britz 1916,ZM,17,Philip Wieser,0.318
-VfB Concordia Britz 1916,5-4-1,1,19,5%,Nein,Nein,VfB Concordia Britz 1916,LM,26,Amir-Mohamad Yassine,0.296
+BFC Meteor 06,4-1-3-2,1,19,5%,Nein,Ja,BFC Meteor 06,RV,NA,Abdoulaye Djibril Diallo,0.963
+BFC Meteor 06,4-1-3-2,1,19,5%,Nein,Ja,BFC Meteor 06,ST,11,Simon Böhm,0.786
+BFC Meteor 06,4-1-3-2,1,19,5%,Nein,Ja,BFC Meteor 06,IV,4,Tim Riese,0.766
+BFC Meteor 06,4-1-3-2,1,19,5%,Nein,Ja,BFC Meteor 06,IV,5,Lennart Nerlich,0.745
+BFC Meteor 06,4-1-3-2,1,19,5%,Nein,Ja,BFC Meteor 06,ZDM,6,Ahmad Zahlan,0.723
+BFC Meteor 06,4-1-3-2,1,19,5%,Nein,Ja,BFC Meteor 06,LV,3,Serkan Karasu,0.686
+BFC Meteor 06,4-1-3-2,1,19,5%,Nein,Ja,BFC Meteor 06,ZOM,27,Jannik Jantzen,0.65
+BFC Meteor 06,4-1-3-2,1,19,5%,Nein,Ja,BFC Meteor 06,TW,22,Selvedin Begzadic,0.608
+BFC Meteor 06,4-1-3-2,1,19,5%,Nein,Ja,BFC Meteor 06,LM,17,Oktay Ugur,0.585
+BFC Meteor 06,4-1-3-2,1,19,5%,Nein,Ja,BFC Meteor 06,RM,92,Ayham Heimur,0.557
+BFC Meteor 06,4-1-3-2,1,19,5%,Nein,Ja,BFC Meteor 06,ST,18,Farouk Ben Mustapha,0.539
+BFC Meteor 06,4-2-2-2,1,19,5%,Nein,Ja,BFC Meteor 06,ZM,NA,Abdoulaye Djibril Diallo,0.963
+BFC Meteor 06,4-2-2-2,1,19,5%,Nein,Ja,BFC Meteor 06,ST,11,Simon Böhm,0.786
+BFC Meteor 06,4-2-2-2,1,19,5%,Nein,Ja,BFC Meteor 06,IV,4,Tim Riese,0.766
+BFC Meteor 06,4-2-2-2,1,19,5%,Nein,Ja,BFC Meteor 06,IV,5,Lennart Nerlich,0.745
+BFC Meteor 06,4-2-2-2,1,19,5%,Nein,Ja,BFC Meteor 06,ZM,6,Ahmad Zahlan,0.723
+BFC Meteor 06,4-2-2-2,1,19,5%,Nein,Ja,BFC Meteor 06,LV,3,Serkan Karasu,0.686
+BFC Meteor 06,4-2-2-2,1,19,5%,Nein,Ja,BFC Meteor 06,RV,61,Tugay Adigüzel,0.673
+BFC Meteor 06,4-2-2-2,1,19,5%,Nein,Ja,BFC Meteor 06,TW,22,Selvedin Begzadic,0.608
+BFC Meteor 06,4-2-2-2,1,19,5%,Nein,Ja,BFC Meteor 06,LM,17,Oktay Ugur,0.585
+BFC Meteor 06,4-2-2-2,1,19,5%,Nein,Ja,BFC Meteor 06,RM,92,Ayham Heimur,0.557
+BFC Meteor 06,4-2-2-2,1,19,5%,Nein,Ja,BFC Meteor 06,ST,18,Farouk Ben Mustapha,0.539
+BFC Meteor 06,4-2-3-1,12,19,63%,Nein,Ja,BFC Meteor 06,RV,NA,Abdoulaye Djibril Diallo,0.963
+BFC Meteor 06,4-2-3-1,12,19,63%,Nein,Ja,BFC Meteor 06,ST,11,Simon Böhm,0.786
+BFC Meteor 06,4-2-3-1,12,19,63%,Nein,Ja,BFC Meteor 06,IV,4,Tim Riese,0.766
+BFC Meteor 06,4-2-3-1,12,19,63%,Nein,Ja,BFC Meteor 06,IV,5,Lennart Nerlich,0.745
+BFC Meteor 06,4-2-3-1,12,19,63%,Nein,Ja,BFC Meteor 06,ZDM,6,Ahmad Zahlan,0.723
+BFC Meteor 06,4-2-3-1,12,19,63%,Nein,Ja,BFC Meteor 06,ZDM,3,Serkan Karasu,0.686
+BFC Meteor 06,4-2-3-1,12,19,63%,Nein,Ja,BFC Meteor 06,LV,61,Tugay Adigüzel,0.673
+BFC Meteor 06,4-2-3-1,12,19,63%,Nein,Ja,BFC Meteor 06,ZOM,27,Jannik Jantzen,0.65
+BFC Meteor 06,4-2-3-1,12,19,63%,Nein,Ja,BFC Meteor 06,TW,22,Selvedin Begzadic,0.608
+BFC Meteor 06,4-2-3-1,12,19,63%,Nein,Ja,BFC Meteor 06,LM,17,Oktay Ugur,0.585
+BFC Meteor 06,4-2-3-1,12,19,63%,Nein,Ja,BFC Meteor 06,RM,92,Ayham Heimur,0.557
+BFC Meteor 06,4-3-3,2,19,11%,Nein,Ja,BFC Meteor 06,ZM,NA,Abdoulaye Djibril Diallo,0.963
+BFC Meteor 06,4-3-3,2,19,11%,Nein,Ja,BFC Meteor 06,ST,11,Simon Böhm,0.786
+BFC Meteor 06,4-3-3,2,19,11%,Nein,Ja,BFC Meteor 06,IV,4,Tim Riese,0.766
+BFC Meteor 06,4-3-3,2,19,11%,Nein,Ja,BFC Meteor 06,IV,5,Lennart Nerlich,0.745
+BFC Meteor 06,4-3-3,2,19,11%,Nein,Ja,BFC Meteor 06,ZM,6,Ahmad Zahlan,0.723
+BFC Meteor 06,4-3-3,2,19,11%,Nein,Ja,BFC Meteor 06,LV,3,Serkan Karasu,0.686
+BFC Meteor 06,4-3-3,2,19,11%,Nein,Ja,BFC Meteor 06,RV,61,Tugay Adigüzel,0.673
+BFC Meteor 06,4-3-3,2,19,11%,Nein,Ja,BFC Meteor 06,TW,22,Selvedin Begzadic,0.608
+BFC Meteor 06,4-3-3,2,19,11%,Nein,Ja,BFC Meteor 06,LM,17,Oktay Ugur,0.585
+BFC Meteor 06,4-3-3,2,19,11%,Nein,Ja,BFC Meteor 06,ZM,NA,Metin Aktürk,0.565
+BFC Meteor 06,4-3-3,2,19,11%,Nein,Ja,BFC Meteor 06,RM,92,Ayham Heimur,0.557
+BFC Meteor 06,4-4-2,2,19,11%,Nein,Ja,BFC Meteor 06,ZM,NA,Abdoulaye Djibril Diallo,0.963
+BFC Meteor 06,4-4-2,2,19,11%,Nein,Ja,BFC Meteor 06,ST,11,Simon Böhm,0.786
+BFC Meteor 06,4-4-2,2,19,11%,Nein,Ja,BFC Meteor 06,IV,4,Tim Riese,0.766
+BFC Meteor 06,4-4-2,2,19,11%,Nein,Ja,BFC Meteor 06,IV,5,Lennart Nerlich,0.745
+BFC Meteor 06,4-4-2,2,19,11%,Nein,Ja,BFC Meteor 06,ZM,6,Ahmad Zahlan,0.723
+BFC Meteor 06,4-4-2,2,19,11%,Nein,Ja,BFC Meteor 06,LV,3,Serkan Karasu,0.686
+BFC Meteor 06,4-4-2,2,19,11%,Nein,Ja,BFC Meteor 06,RV,61,Tugay Adigüzel,0.673
+BFC Meteor 06,4-4-2,2,19,11%,Nein,Ja,BFC Meteor 06,TW,22,Selvedin Begzadic,0.608
+BFC Meteor 06,4-4-2,2,19,11%,Nein,Ja,BFC Meteor 06,LM,17,Oktay Ugur,0.585
+BFC Meteor 06,4-4-2,2,19,11%,Nein,Ja,BFC Meteor 06,RM,92,Ayham Heimur,0.557
+BFC Meteor 06,4-4-2,2,19,11%,Nein,Ja,BFC Meteor 06,ST,18,Farouk Ben Mustapha,0.539
+BFC Meteor 06,4-5-1,1,19,5%,Nein,Ja,BFC Meteor 06,ZM,NA,Abdoulaye Djibril Diallo,0.963
+BFC Meteor 06,4-5-1,1,19,5%,Nein,Ja,BFC Meteor 06,ST,11,Simon Böhm,0.786
+BFC Meteor 06,4-5-1,1,19,5%,Nein,Ja,BFC Meteor 06,IV,4,Tim Riese,0.766
+BFC Meteor 06,4-5-1,1,19,5%,Nein,Ja,BFC Meteor 06,IV,5,Lennart Nerlich,0.745
+BFC Meteor 06,4-5-1,1,19,5%,Nein,Ja,BFC Meteor 06,ZM,6,Ahmad Zahlan,0.723
+BFC Meteor 06,4-5-1,1,19,5%,Nein,Ja,BFC Meteor 06,LV,3,Serkan Karasu,0.686
+BFC Meteor 06,4-5-1,1,19,5%,Nein,Ja,BFC Meteor 06,RV,61,Tugay Adigüzel,0.673
+BFC Meteor 06,4-5-1,1,19,5%,Nein,Ja,BFC Meteor 06,TW,22,Selvedin Begzadic,0.608
+BFC Meteor 06,4-5-1,1,19,5%,Nein,Ja,BFC Meteor 06,LM,17,Oktay Ugur,0.585
+BFC Meteor 06,4-5-1,1,19,5%,Nein,Ja,BFC Meteor 06,ZM,NA,Metin Aktürk,0.565
+BFC Meteor 06,4-5-1,1,19,5%,Nein,Ja,BFC Meteor 06,RM,92,Ayham Heimur,0.557
+BFC Preussen II,3-2-3-2,1,19,5%,Ja,Nein,BFC Preussen II,ST,NA,Arda Isik,0.912
+BFC Preussen II,3-2-3-2,1,19,5%,Ja,Nein,BFC Preussen II,IV,NA,Oliver Schill,0.91
+BFC Preussen II,3-2-3-2,1,19,5%,Ja,Nein,BFC Preussen II,IV,16,Magnus Stahlberg,0.819
+BFC Preussen II,3-2-3-2,1,19,5%,Ja,Nein,BFC Preussen II,TW,1,Dominik Dietzel,0.793
+BFC Preussen II,3-2-3-2,1,19,5%,Ja,Nein,BFC Preussen II,IV,55,Levent Mucuk,0.771
+BFC Preussen II,3-2-3-2,1,19,5%,Ja,Nein,BFC Preussen II,LM,12,Lasse Engelsing,0.712
+BFC Preussen II,3-2-3-2,1,19,5%,Ja,Nein,BFC Preussen II,RM,18,Kevin Anderson Moreira Godinho,0.621
+BFC Preussen II,3-2-3-2,1,19,5%,Ja,Nein,BFC Preussen II,ZOM,48,Ugurcan Yilmaz,0.578
+BFC Preussen II,3-2-3-2,1,19,5%,Ja,Nein,BFC Preussen II,ZDM,6,Meiko Hesse,0.565
+BFC Preussen II,3-2-3-2,1,19,5%,Ja,Nein,BFC Preussen II,ZDM,28,Jeff Nnaemeka-Chukwurah,0.561
+BFC Preussen II,3-2-3-2,1,19,5%,Ja,Nein,BFC Preussen II,ST,7,Hugo Timur,0.521
+BFC Preussen II,4-2-2-2,2,19,11%,Nein,Ja,BFC Preussen II,ST,NA,Arda Isik,0.912
+BFC Preussen II,4-2-2-2,2,19,11%,Nein,Ja,BFC Preussen II,IV,NA,Oliver Schill,0.91
+BFC Preussen II,4-2-2-2,2,19,11%,Nein,Ja,BFC Preussen II,IV,16,Magnus Stahlberg,0.819
+BFC Preussen II,4-2-2-2,2,19,11%,Nein,Ja,BFC Preussen II,TW,1,Dominik Dietzel,0.793
+BFC Preussen II,4-2-2-2,2,19,11%,Nein,Ja,BFC Preussen II,ZM,20,Lukas Kohlmann,0.75
+BFC Preussen II,4-2-2-2,2,19,11%,Nein,Ja,BFC Preussen II,LV,12,Lasse Engelsing,0.712
+BFC Preussen II,4-2-2-2,2,19,11%,Nein,Ja,BFC Preussen II,ZM,31,Malte Hartmann,0.684
+BFC Preussen II,4-2-2-2,2,19,11%,Nein,Ja,BFC Preussen II,RM,18,Kevin Anderson Moreira Godinho,0.621
+BFC Preussen II,4-2-2-2,2,19,11%,Nein,Ja,BFC Preussen II,LM,NA,Lucky Ugbogbo,0.614
+BFC Preussen II,4-2-2-2,2,19,11%,Nein,Ja,BFC Preussen II,RV,48,Ugurcan Yilmaz,0.578
+BFC Preussen II,4-2-2-2,2,19,11%,Nein,Ja,BFC Preussen II,ST,7,Hugo Timur,0.521
+BFC Preussen II,4-2-3-1,13,19,68%,Nein,Ja,BFC Preussen II,ST,NA,Arda Isik,0.912
+BFC Preussen II,4-2-3-1,13,19,68%,Nein,Ja,BFC Preussen II,IV,NA,Oliver Schill,0.91
+BFC Preussen II,4-2-3-1,13,19,68%,Nein,Ja,BFC Preussen II,IV,16,Magnus Stahlberg,0.819
+BFC Preussen II,4-2-3-1,13,19,68%,Nein,Ja,BFC Preussen II,TW,1,Dominik Dietzel,0.793
+BFC Preussen II,4-2-3-1,13,19,68%,Nein,Ja,BFC Preussen II,LV,12,Lasse Engelsing,0.712
+BFC Preussen II,4-2-3-1,13,19,68%,Nein,Ja,BFC Preussen II,RM,18,Kevin Anderson Moreira Godinho,0.621
+BFC Preussen II,4-2-3-1,13,19,68%,Nein,Ja,BFC Preussen II,LM,NA,Lucky Ugbogbo,0.614
+BFC Preussen II,4-2-3-1,13,19,68%,Nein,Ja,BFC Preussen II,ZOM,48,Ugurcan Yilmaz,0.578
+BFC Preussen II,4-2-3-1,13,19,68%,Nein,Ja,BFC Preussen II,ZDM,6,Meiko Hesse,0.565
+BFC Preussen II,4-2-3-1,13,19,68%,Nein,Ja,BFC Preussen II,ZDM,28,Jeff Nnaemeka-Chukwurah,0.561
+BFC Preussen II,4-2-3-1,13,19,68%,Nein,Ja,BFC Preussen II,RV,NA,Ali Hammoud,0.543
+BFC Preussen II,4-4-1-1,1,19,5%,Nein,Ja,BFC Preussen II,ST,NA,Arda Isik,0.912
+BFC Preussen II,4-4-1-1,1,19,5%,Nein,Ja,BFC Preussen II,IV,NA,Oliver Schill,0.91
+BFC Preussen II,4-4-1-1,1,19,5%,Nein,Ja,BFC Preussen II,IV,16,Magnus Stahlberg,0.819
+BFC Preussen II,4-4-1-1,1,19,5%,Nein,Ja,BFC Preussen II,TW,1,Dominik Dietzel,0.793
+BFC Preussen II,4-4-1-1,1,19,5%,Nein,Ja,BFC Preussen II,ZM,20,Lukas Kohlmann,0.75
+BFC Preussen II,4-4-1-1,1,19,5%,Nein,Ja,BFC Preussen II,LV,12,Lasse Engelsing,0.712
+BFC Preussen II,4-4-1-1,1,19,5%,Nein,Ja,BFC Preussen II,ZM,31,Malte Hartmann,0.684
+BFC Preussen II,4-4-1-1,1,19,5%,Nein,Ja,BFC Preussen II,RM,18,Kevin Anderson Moreira Godinho,0.621
+BFC Preussen II,4-4-1-1,1,19,5%,Nein,Ja,BFC Preussen II,LM,NA,Lucky Ugbogbo,0.614
+BFC Preussen II,4-4-1-1,1,19,5%,Nein,Ja,BFC Preussen II,RV,48,Ugurcan Yilmaz,0.578
+BFC Preussen II,4-4-1-1,1,19,5%,Nein,Ja,BFC Preussen II,ST,7,Hugo Timur,0.521
+BFC Preussen II,4-5-1,1,19,5%,Nein,Ja,BFC Preussen II,ST,NA,Arda Isik,0.912
+BFC Preussen II,4-5-1,1,19,5%,Nein,Ja,BFC Preussen II,IV,NA,Oliver Schill,0.91
+BFC Preussen II,4-5-1,1,19,5%,Nein,Ja,BFC Preussen II,IV,16,Magnus Stahlberg,0.819
+BFC Preussen II,4-5-1,1,19,5%,Nein,Ja,BFC Preussen II,TW,1,Dominik Dietzel,0.793
+BFC Preussen II,4-5-1,1,19,5%,Nein,Ja,BFC Preussen II,ZM,20,Lukas Kohlmann,0.75
+BFC Preussen II,4-5-1,1,19,5%,Nein,Ja,BFC Preussen II,LV,12,Lasse Engelsing,0.712
+BFC Preussen II,4-5-1,1,19,5%,Nein,Ja,BFC Preussen II,ZM,31,Malte Hartmann,0.684
+BFC Preussen II,4-5-1,1,19,5%,Nein,Ja,BFC Preussen II,RM,18,Kevin Anderson Moreira Godinho,0.621
+BFC Preussen II,4-5-1,1,19,5%,Nein,Ja,BFC Preussen II,LM,NA,Lucky Ugbogbo,0.614
+BFC Preussen II,4-5-1,1,19,5%,Nein,Ja,BFC Preussen II,ZM,24,Maximilian Schatz,0.61
+BFC Preussen II,4-5-1,1,19,5%,Nein,Ja,BFC Preussen II,RV,48,Ugurcan Yilmaz,0.578
+BSV Al-Dersimspor,3-2-3-2,2,20,10%,Ja,Nein,BSV Al-Dersimspor,IV,24,Etem Tonk,0.604
+BSV Al-Dersimspor,3-2-3-2,2,20,10%,Ja,Nein,BSV Al-Dersimspor,ST,NA,Zana-Kazim Baba,0.597
+BSV Al-Dersimspor,3-2-3-2,2,20,10%,Ja,Nein,BSV Al-Dersimspor,ST,10,Merdan Baba,0.56
+BSV Al-Dersimspor,3-2-3-2,2,20,10%,Ja,Nein,BSV Al-Dersimspor,IV,5,Amir Awag,0.554
+BSV Al-Dersimspor,3-2-3-2,2,20,10%,Ja,Nein,BSV Al-Dersimspor,IV,6,Karim Zagmouz,0.551
+BSV Al-Dersimspor,3-2-3-2,2,20,10%,Ja,Nein,BSV Al-Dersimspor,LM,47,Mohamad-Ali Chawraba,0.537
+BSV Al-Dersimspor,3-2-3-2,2,20,10%,Ja,Nein,BSV Al-Dersimspor,ZDM,4,Sam Diokhane,0.528
+BSV Al-Dersimspor,3-2-3-2,2,20,10%,Ja,Nein,BSV Al-Dersimspor,TW,1,Mustafa Arslan,0.51
+BSV Al-Dersimspor,3-2-3-2,2,20,10%,Ja,Nein,BSV Al-Dersimspor,ZOM,27,Caglar Polat,0.51
+BSV Al-Dersimspor,3-2-3-2,2,20,10%,Ja,Nein,BSV Al-Dersimspor,ZDM,20,Merdie Tshondo,0.499
+BSV Al-Dersimspor,3-2-3-2,2,20,10%,Ja,Nein,BSV Al-Dersimspor,RM,8,Milos Savkovic,0.468
+BSV Al-Dersimspor,4-1-3-2,2,20,10%,Nein,Ja,BSV Al-Dersimspor,IV,24,Etem Tonk,0.604
+BSV Al-Dersimspor,4-1-3-2,2,20,10%,Nein,Ja,BSV Al-Dersimspor,ST,NA,Zana-Kazim Baba,0.597
+BSV Al-Dersimspor,4-1-3-2,2,20,10%,Nein,Ja,BSV Al-Dersimspor,ST,10,Merdan Baba,0.56
+BSV Al-Dersimspor,4-1-3-2,2,20,10%,Nein,Ja,BSV Al-Dersimspor,IV,5,Amir Awag,0.554
+BSV Al-Dersimspor,4-1-3-2,2,20,10%,Nein,Ja,BSV Al-Dersimspor,RV,6,Karim Zagmouz,0.551
+BSV Al-Dersimspor,4-1-3-2,2,20,10%,Nein,Ja,BSV Al-Dersimspor,LM,47,Mohamad-Ali Chawraba,0.537
+BSV Al-Dersimspor,4-1-3-2,2,20,10%,Nein,Ja,BSV Al-Dersimspor,LV,18,Jonathan Schäfer,0.532
+BSV Al-Dersimspor,4-1-3-2,2,20,10%,Nein,Ja,BSV Al-Dersimspor,ZDM,4,Sam Diokhane,0.528
+BSV Al-Dersimspor,4-1-3-2,2,20,10%,Nein,Ja,BSV Al-Dersimspor,TW,1,Mustafa Arslan,0.51
+BSV Al-Dersimspor,4-1-3-2,2,20,10%,Nein,Ja,BSV Al-Dersimspor,ZOM,27,Caglar Polat,0.51
+BSV Al-Dersimspor,4-1-3-2,2,20,10%,Nein,Ja,BSV Al-Dersimspor,RM,8,Milos Savkovic,0.468
+BSV Al-Dersimspor,4-1-4-1,1,20,5%,Nein,Ja,BSV Al-Dersimspor,IV,24,Etem Tonk,0.604
+BSV Al-Dersimspor,4-1-4-1,1,20,5%,Nein,Ja,BSV Al-Dersimspor,ST,NA,Zana-Kazim Baba,0.597
+BSV Al-Dersimspor,4-1-4-1,1,20,5%,Nein,Ja,BSV Al-Dersimspor,IV,10,Merdan Baba,0.56
+BSV Al-Dersimspor,4-1-4-1,1,20,5%,Nein,Ja,BSV Al-Dersimspor,RV,5,Amir Awag,0.554
+BSV Al-Dersimspor,4-1-4-1,1,20,5%,Nein,Ja,BSV Al-Dersimspor,LM,47,Mohamad-Ali Chawraba,0.537
+BSV Al-Dersimspor,4-1-4-1,1,20,5%,Nein,Ja,BSV Al-Dersimspor,LV,18,Jonathan Schäfer,0.532
+BSV Al-Dersimspor,4-1-4-1,1,20,5%,Nein,Ja,BSV Al-Dersimspor,ZDM,4,Sam Diokhane,0.528
+BSV Al-Dersimspor,4-1-4-1,1,20,5%,Nein,Ja,BSV Al-Dersimspor,TW,1,Mustafa Arslan,0.51
+BSV Al-Dersimspor,4-1-4-1,1,20,5%,Nein,Ja,BSV Al-Dersimspor,ZOM,27,Caglar Polat,0.51
+BSV Al-Dersimspor,4-1-4-1,1,20,5%,Nein,Ja,BSV Al-Dersimspor,RM,8,Milos Savkovic,0.468
+BSV Al-Dersimspor,4-1-4-1,1,20,5%,Nein,Ja,BSV Al-Dersimspor,ZOM,NA,Baris Güngör,0.313
+BSV Al-Dersimspor,4-2-3-1,7,20,35%,Nein,Ja,BSV Al-Dersimspor,IV,24,Etem Tonk,0.604
+BSV Al-Dersimspor,4-2-3-1,7,20,35%,Nein,Ja,BSV Al-Dersimspor,ST,NA,Zana-Kazim Baba,0.597
+BSV Al-Dersimspor,4-2-3-1,7,20,35%,Nein,Ja,BSV Al-Dersimspor,IV,10,Merdan Baba,0.56
+BSV Al-Dersimspor,4-2-3-1,7,20,35%,Nein,Ja,BSV Al-Dersimspor,RV,5,Amir Awag,0.554
+BSV Al-Dersimspor,4-2-3-1,7,20,35%,Nein,Ja,BSV Al-Dersimspor,LM,47,Mohamad-Ali Chawraba,0.537
+BSV Al-Dersimspor,4-2-3-1,7,20,35%,Nein,Ja,BSV Al-Dersimspor,LV,18,Jonathan Schäfer,0.532
+BSV Al-Dersimspor,4-2-3-1,7,20,35%,Nein,Ja,BSV Al-Dersimspor,ZDM,4,Sam Diokhane,0.528
+BSV Al-Dersimspor,4-2-3-1,7,20,35%,Nein,Ja,BSV Al-Dersimspor,TW,1,Mustafa Arslan,0.51
+BSV Al-Dersimspor,4-2-3-1,7,20,35%,Nein,Ja,BSV Al-Dersimspor,ZOM,27,Caglar Polat,0.51
+BSV Al-Dersimspor,4-2-3-1,7,20,35%,Nein,Ja,BSV Al-Dersimspor,ZDM,20,Merdie Tshondo,0.499
+BSV Al-Dersimspor,4-2-3-1,7,20,35%,Nein,Ja,BSV Al-Dersimspor,RM,8,Milos Savkovic,0.468
+BSV Al-Dersimspor,4-3-3,2,20,10%,Nein,Ja,BSV Al-Dersimspor,IV,24,Etem Tonk,0.604
+BSV Al-Dersimspor,4-3-3,2,20,10%,Nein,Ja,BSV Al-Dersimspor,ST,NA,Zana-Kazim Baba,0.597
+BSV Al-Dersimspor,4-3-3,2,20,10%,Nein,Ja,BSV Al-Dersimspor,IV,10,Merdan Baba,0.56
+BSV Al-Dersimspor,4-3-3,2,20,10%,Nein,Ja,BSV Al-Dersimspor,RV,5,Amir Awag,0.554
+BSV Al-Dersimspor,4-3-3,2,20,10%,Nein,Ja,BSV Al-Dersimspor,LM,47,Mohamad-Ali Chawraba,0.537
+BSV Al-Dersimspor,4-3-3,2,20,10%,Nein,Ja,BSV Al-Dersimspor,LV,18,Jonathan Schäfer,0.532
+BSV Al-Dersimspor,4-3-3,2,20,10%,Nein,Ja,BSV Al-Dersimspor,TW,1,Mustafa Arslan,0.51
+BSV Al-Dersimspor,4-3-3,2,20,10%,Nein,Ja,BSV Al-Dersimspor,RM,8,Milos Savkovic,0.468
+BSV Al-Dersimspor,4-3-3,2,20,10%,Nein,Ja,BSV Al-Dersimspor,ZM,7,Emre-Eyüp Önal,0.36
+BSV Al-Dersimspor,4-3-3,2,20,10%,Nein,Ja,BSV Al-Dersimspor,ZM,NA,Baris Güngör,0.313
+BSV Al-Dersimspor,4-4-2,4,20,20%,Nein,Ja,BSV Al-Dersimspor,IV,24,Etem Tonk,0.604
+BSV Al-Dersimspor,4-4-2,4,20,20%,Nein,Ja,BSV Al-Dersimspor,ST,NA,Zana-Kazim Baba,0.597
+BSV Al-Dersimspor,4-4-2,4,20,20%,Nein,Ja,BSV Al-Dersimspor,ST,10,Merdan Baba,0.56
+BSV Al-Dersimspor,4-4-2,4,20,20%,Nein,Ja,BSV Al-Dersimspor,IV,5,Amir Awag,0.554
+BSV Al-Dersimspor,4-4-2,4,20,20%,Nein,Ja,BSV Al-Dersimspor,RV,6,Karim Zagmouz,0.551
+BSV Al-Dersimspor,4-4-2,4,20,20%,Nein,Ja,BSV Al-Dersimspor,LM,47,Mohamad-Ali Chawraba,0.537
+BSV Al-Dersimspor,4-4-2,4,20,20%,Nein,Ja,BSV Al-Dersimspor,LV,18,Jonathan Schäfer,0.532
+BSV Al-Dersimspor,4-4-2,4,20,20%,Nein,Ja,BSV Al-Dersimspor,TW,1,Mustafa Arslan,0.51
+BSV Al-Dersimspor,4-4-2,4,20,20%,Nein,Ja,BSV Al-Dersimspor,RM,8,Milos Savkovic,0.468
+BSV Al-Dersimspor,4-4-2,4,20,20%,Nein,Ja,BSV Al-Dersimspor,ZM,7,Emre-Eyüp Önal,0.36
+BSV Al-Dersimspor,4-4-2,4,20,20%,Nein,Ja,BSV Al-Dersimspor,ZM,NA,Baris Güngör,0.313
+BSV Eintracht Mahlsdorf II,3-6-1,1,20,5%,Ja,Nein,BSV Eintracht Mahlsdorf II,TW,NA,Devis Meißner,0.761
+BSV Eintracht Mahlsdorf II,3-6-1,1,20,5%,Ja,Nein,BSV Eintracht Mahlsdorf II,ZM,16,Christian Preiss,0.719
+BSV Eintracht Mahlsdorf II,3-6-1,1,20,5%,Ja,Nein,BSV Eintracht Mahlsdorf II,ST,7,Reto Reichenberger,0.614
+BSV Eintracht Mahlsdorf II,3-6-1,1,20,5%,Ja,Nein,BSV Eintracht Mahlsdorf II,RM,20,Justin Engfer,0.596
+BSV Eintracht Mahlsdorf II,3-6-1,1,20,5%,Ja,Nein,BSV Eintracht Mahlsdorf II,LM,17,Kenan Halilcevic,0.594
+BSV Eintracht Mahlsdorf II,3-6-1,1,20,5%,Ja,Nein,BSV Eintracht Mahlsdorf II,IV,5,Mohammad Mansour,0.588
+BSV Eintracht Mahlsdorf II,3-6-1,1,20,5%,Ja,Nein,BSV Eintracht Mahlsdorf II,IV,12,Tom Bothe,0.584
+BSV Eintracht Mahlsdorf II,3-6-1,1,20,5%,Ja,Nein,BSV Eintracht Mahlsdorf II,IV,8,Lukas Grützner,0.555
+BSV Eintracht Mahlsdorf II,3-6-1,1,20,5%,Ja,Nein,BSV Eintracht Mahlsdorf II,ZM,6,Jonas Maroske,0.555
+BSV Eintracht Mahlsdorf II,3-6-1,1,20,5%,Ja,Nein,BSV Eintracht Mahlsdorf II,ZM,10,Marc Michas,0.532
+BSV Eintracht Mahlsdorf II,3-6-1,1,20,5%,Ja,Nein,BSV Eintracht Mahlsdorf II,ZM,NA,Fabio Findeisen,0.408
+BSV Eintracht Mahlsdorf II,4-2-2-2,6,20,30%,Nein,Ja,BSV Eintracht Mahlsdorf II,TW,NA,Devis Meißner,0.761
+BSV Eintracht Mahlsdorf II,4-2-2-2,6,20,30%,Nein,Ja,BSV Eintracht Mahlsdorf II,ZM,16,Christian Preiss,0.719
+BSV Eintracht Mahlsdorf II,4-2-2-2,6,20,30%,Nein,Ja,BSV Eintracht Mahlsdorf II,ST,7,Reto Reichenberger,0.614
+BSV Eintracht Mahlsdorf II,4-2-2-2,6,20,30%,Nein,Ja,BSV Eintracht Mahlsdorf II,LV,8,Marius Schreiber,0.61
+BSV Eintracht Mahlsdorf II,4-2-2-2,6,20,30%,Nein,Ja,BSV Eintracht Mahlsdorf II,RV,20,Justin Engfer,0.596
+BSV Eintracht Mahlsdorf II,4-2-2-2,6,20,30%,Nein,Ja,BSV Eintracht Mahlsdorf II,LM,17,Kenan Halilcevic,0.594
+BSV Eintracht Mahlsdorf II,4-2-2-2,6,20,30%,Nein,Ja,BSV Eintracht Mahlsdorf II,ST,NA,Björn Heydemann,0.592
+BSV Eintracht Mahlsdorf II,4-2-2-2,6,20,30%,Nein,Ja,BSV Eintracht Mahlsdorf II,IV,5,Mohammad Mansour,0.588
+BSV Eintracht Mahlsdorf II,4-2-2-2,6,20,30%,Nein,Ja,BSV Eintracht Mahlsdorf II,IV,12,Tom Bothe,0.584
+BSV Eintracht Mahlsdorf II,4-2-2-2,6,20,30%,Nein,Ja,BSV Eintracht Mahlsdorf II,ZM,8,Lukas Grützner,0.555
+BSV Eintracht Mahlsdorf II,4-2-2-2,6,20,30%,Nein,Ja,BSV Eintracht Mahlsdorf II,RM,20,Leon Schmeißer,0.511
+BSV Eintracht Mahlsdorf II,4-3-3,1,20,5%,Nein,Ja,BSV Eintracht Mahlsdorf II,TW,NA,Devis Meißner,0.761
+BSV Eintracht Mahlsdorf II,4-3-3,1,20,5%,Nein,Ja,BSV Eintracht Mahlsdorf II,ZM,16,Christian Preiss,0.719
+BSV Eintracht Mahlsdorf II,4-3-3,1,20,5%,Nein,Ja,BSV Eintracht Mahlsdorf II,ST,7,Reto Reichenberger,0.614
+BSV Eintracht Mahlsdorf II,4-3-3,1,20,5%,Nein,Ja,BSV Eintracht Mahlsdorf II,LV,8,Marius Schreiber,0.61
+BSV Eintracht Mahlsdorf II,4-3-3,1,20,5%,Nein,Ja,BSV Eintracht Mahlsdorf II,RV,20,Justin Engfer,0.596
+BSV Eintracht Mahlsdorf II,4-3-3,1,20,5%,Nein,Ja,BSV Eintracht Mahlsdorf II,LM,17,Kenan Halilcevic,0.594
+BSV Eintracht Mahlsdorf II,4-3-3,1,20,5%,Nein,Ja,BSV Eintracht Mahlsdorf II,IV,5,Mohammad Mansour,0.588
+BSV Eintracht Mahlsdorf II,4-3-3,1,20,5%,Nein,Ja,BSV Eintracht Mahlsdorf II,IV,12,Tom Bothe,0.584
+BSV Eintracht Mahlsdorf II,4-3-3,1,20,5%,Nein,Ja,BSV Eintracht Mahlsdorf II,ZM,8,Lukas Grützner,0.555
+BSV Eintracht Mahlsdorf II,4-3-3,1,20,5%,Nein,Ja,BSV Eintracht Mahlsdorf II,ZM,6,Jonas Maroske,0.555
+BSV Eintracht Mahlsdorf II,4-3-3,1,20,5%,Nein,Ja,BSV Eintracht Mahlsdorf II,RM,20,Leon Schmeißer,0.511
+BSV Eintracht Mahlsdorf II,4-4-2,10,20,50%,Nein,Ja,BSV Eintracht Mahlsdorf II,TW,NA,Devis Meißner,0.761
+BSV Eintracht Mahlsdorf II,4-4-2,10,20,50%,Nein,Ja,BSV Eintracht Mahlsdorf II,ZM,16,Christian Preiss,0.719
+BSV Eintracht Mahlsdorf II,4-4-2,10,20,50%,Nein,Ja,BSV Eintracht Mahlsdorf II,ST,7,Reto Reichenberger,0.614
+BSV Eintracht Mahlsdorf II,4-4-2,10,20,50%,Nein,Ja,BSV Eintracht Mahlsdorf II,LV,8,Marius Schreiber,0.61
+BSV Eintracht Mahlsdorf II,4-4-2,10,20,50%,Nein,Ja,BSV Eintracht Mahlsdorf II,RV,20,Justin Engfer,0.596
+BSV Eintracht Mahlsdorf II,4-4-2,10,20,50%,Nein,Ja,BSV Eintracht Mahlsdorf II,LM,17,Kenan Halilcevic,0.594
+BSV Eintracht Mahlsdorf II,4-4-2,10,20,50%,Nein,Ja,BSV Eintracht Mahlsdorf II,ST,NA,Björn Heydemann,0.592
+BSV Eintracht Mahlsdorf II,4-4-2,10,20,50%,Nein,Ja,BSV Eintracht Mahlsdorf II,IV,5,Mohammad Mansour,0.588
+BSV Eintracht Mahlsdorf II,4-4-2,10,20,50%,Nein,Ja,BSV Eintracht Mahlsdorf II,IV,12,Tom Bothe,0.584
+BSV Eintracht Mahlsdorf II,4-4-2,10,20,50%,Nein,Ja,BSV Eintracht Mahlsdorf II,ZM,8,Lukas Grützner,0.555
+BSV Eintracht Mahlsdorf II,4-4-2,10,20,50%,Nein,Ja,BSV Eintracht Mahlsdorf II,RM,20,Leon Schmeißer,0.511
+Berliner SC II,4-2-2-2,2,19,11%,Nein,Ja,Berliner SC II,IV,5,Dominique Leitner,0.65
+Berliner SC II,4-2-2-2,2,19,11%,Nein,Ja,Berliner SC II,ZM,20,Max Vincent Bolz,0.575
+Berliner SC II,4-2-2-2,2,19,11%,Nein,Ja,Berliner SC II,LM,18,Bryan Lilja,0.569
+Berliner SC II,4-2-2-2,2,19,11%,Nein,Ja,Berliner SC II,ZM,12,Noah Peter,0.559
+Berliner SC II,4-2-2-2,2,19,11%,Nein,Ja,Berliner SC II,IV,4,Leon Ibrom,0.544
+Berliner SC II,4-2-2-2,2,19,11%,Nein,Ja,Berliner SC II,RM,NA,Luca Raoul Al-Habash,0.543
+Berliner SC II,4-2-2-2,2,19,11%,Nein,Ja,Berliner SC II,TW,1,Paul Schlicht,0.537
+Berliner SC II,4-2-2-2,2,19,11%,Nein,Ja,Berliner SC II,ST,9,Stefan Glaser,0.536
+Berliner SC II,4-2-2-2,2,19,11%,Nein,Ja,Berliner SC II,RV,14,Simon Riedel,0.532
+Berliner SC II,4-2-2-2,2,19,11%,Nein,Ja,Berliner SC II,ST,19,Tim Niedenhoff,0.526
+Berliner SC II,4-2-2-2,2,19,11%,Nein,Ja,Berliner SC II,LV,3,Nikolaos Kaggelidids,0.442
+Berliner SC II,4-2-3-1,2,19,11%,Nein,Ja,Berliner SC II,IV,5,Dominique Leitner,0.65
+Berliner SC II,4-2-3-1,2,19,11%,Nein,Ja,Berliner SC II,ST,20,Max Vincent Bolz,0.575
+Berliner SC II,4-2-3-1,2,19,11%,Nein,Ja,Berliner SC II,LM,18,Bryan Lilja,0.569
+Berliner SC II,4-2-3-1,2,19,11%,Nein,Ja,Berliner SC II,ZDM,12,Noah Peter,0.559
+Berliner SC II,4-2-3-1,2,19,11%,Nein,Ja,Berliner SC II,IV,4,Leon Ibrom,0.544
+Berliner SC II,4-2-3-1,2,19,11%,Nein,Ja,Berliner SC II,RM,NA,Luca Raoul Al-Habash,0.543
+Berliner SC II,4-2-3-1,2,19,11%,Nein,Ja,Berliner SC II,TW,1,Paul Schlicht,0.537
+Berliner SC II,4-2-3-1,2,19,11%,Nein,Ja,Berliner SC II,RV,14,Simon Riedel,0.532
+Berliner SC II,4-2-3-1,2,19,11%,Nein,Ja,Berliner SC II,LV,3,Nikolaos Kaggelidids,0.442
+Berliner SC II,4-4-2,14,19,74%,Nein,Ja,Berliner SC II,IV,5,Dominique Leitner,0.65
+Berliner SC II,4-4-2,14,19,74%,Nein,Ja,Berliner SC II,ZM,20,Max Vincent Bolz,0.575
+Berliner SC II,4-4-2,14,19,74%,Nein,Ja,Berliner SC II,LM,18,Bryan Lilja,0.569
+Berliner SC II,4-4-2,14,19,74%,Nein,Ja,Berliner SC II,ZM,12,Noah Peter,0.559
+Berliner SC II,4-4-2,14,19,74%,Nein,Ja,Berliner SC II,IV,4,Leon Ibrom,0.544
+Berliner SC II,4-4-2,14,19,74%,Nein,Ja,Berliner SC II,RM,NA,Luca Raoul Al-Habash,0.543
+Berliner SC II,4-4-2,14,19,74%,Nein,Ja,Berliner SC II,TW,1,Paul Schlicht,0.537
+Berliner SC II,4-4-2,14,19,74%,Nein,Ja,Berliner SC II,ST,9,Stefan Glaser,0.536
+Berliner SC II,4-4-2,14,19,74%,Nein,Ja,Berliner SC II,RV,14,Simon Riedel,0.532
+Berliner SC II,4-4-2,14,19,74%,Nein,Ja,Berliner SC II,ST,19,Tim Niedenhoff,0.526
+Berliner SC II,4-4-2,14,19,74%,Nein,Ja,Berliner SC II,LV,3,Nikolaos Kaggelidids,0.442
+Berliner SV 1892,3-2-3-2,1,20,5%,Ja,Nein,Berliner SV 1892,RM,24,Joshua Tröger,0.665
+Berliner SV 1892,3-2-3-2,1,20,5%,Ja,Nein,Berliner SV 1892,IV,4,Niklas Jost,0.654
+Berliner SV 1892,3-2-3-2,1,20,5%,Ja,Nein,Berliner SV 1892,IV,20,Nikita Charkov,0.627
+Berliner SV 1892,3-2-3-2,1,20,5%,Ja,Nein,Berliner SV 1892,IV,22,Stefano Tedesco,0.62
+Berliner SV 1892,3-2-3-2,1,20,5%,Ja,Nein,Berliner SV 1892,ST,21,Lennard Schleifenbaum,0.561
+Berliner SV 1892,3-2-3-2,1,20,5%,Ja,Nein,Berliner SV 1892,TW,1,Hendrik Lüttschwager,0.54
+Berliner SV 1892,3-2-3-2,1,20,5%,Ja,Nein,Berliner SV 1892,ST,28,David Bellin,0.528
+Berliner SV 1892,3-2-3-2,1,20,5%,Ja,Nein,Berliner SV 1892,LM,NA,Benjamin Schnack,0.525
+Berliner SV 1892,3-4-3,5,20,25%,Ja,Nein,Berliner SV 1892,RM,24,Joshua Tröger,0.665
+Berliner SV 1892,3-4-3,5,20,25%,Ja,Nein,Berliner SV 1892,IV,4,Niklas Jost,0.654
+Berliner SV 1892,3-4-3,5,20,25%,Ja,Nein,Berliner SV 1892,IV,20,Nikita Charkov,0.627
+Berliner SV 1892,3-4-3,5,20,25%,Ja,Nein,Berliner SV 1892,IV,22,Stefano Tedesco,0.62
+Berliner SV 1892,3-4-3,5,20,25%,Ja,Nein,Berliner SV 1892,ST,21,Lennard Schleifenbaum,0.561
+Berliner SV 1892,3-4-3,5,20,25%,Ja,Nein,Berliner SV 1892,ZM,NA,Jonathan Maurer,0.546
+Berliner SV 1892,3-4-3,5,20,25%,Ja,Nein,Berliner SV 1892,TW,1,Hendrik Lüttschwager,0.54
+Berliner SV 1892,3-4-3,5,20,25%,Ja,Nein,Berliner SV 1892,ZM,NA,Steven Koschek,0.54
+Berliner SV 1892,3-4-3,5,20,25%,Ja,Nein,Berliner SV 1892,ST,28,David Bellin,0.528
+Berliner SV 1892,3-4-3,5,20,25%,Ja,Nein,Berliner SV 1892,LM,NA,Benjamin Schnack,0.525
+Berliner SV 1892,3-4-3,5,20,25%,Ja,Nein,Berliner SV 1892,ST,11,Julius Zauner,0.521
+Berliner SV 1892,3-5-2,1,20,5%,Ja,Nein,Berliner SV 1892,RM,24,Joshua Tröger,0.665
+Berliner SV 1892,3-5-2,1,20,5%,Ja,Nein,Berliner SV 1892,IV,4,Niklas Jost,0.654
+Berliner SV 1892,3-5-2,1,20,5%,Ja,Nein,Berliner SV 1892,IV,20,Nikita Charkov,0.627
+Berliner SV 1892,3-5-2,1,20,5%,Ja,Nein,Berliner SV 1892,IV,22,Stefano Tedesco,0.62
+Berliner SV 1892,3-5-2,1,20,5%,Ja,Nein,Berliner SV 1892,ST,21,Lennard Schleifenbaum,0.561
+Berliner SV 1892,3-5-2,1,20,5%,Ja,Nein,Berliner SV 1892,ZM,NA,Jonathan Maurer,0.546
+Berliner SV 1892,3-5-2,1,20,5%,Ja,Nein,Berliner SV 1892,TW,1,Hendrik Lüttschwager,0.54
+Berliner SV 1892,3-5-2,1,20,5%,Ja,Nein,Berliner SV 1892,ZM,NA,Steven Koschek,0.54
+Berliner SV 1892,3-5-2,1,20,5%,Ja,Nein,Berliner SV 1892,ZM,19,Göktug Özsoy,0.532
+Berliner SV 1892,3-5-2,1,20,5%,Ja,Nein,Berliner SV 1892,ST,28,David Bellin,0.528
+Berliner SV 1892,3-5-2,1,20,5%,Ja,Nein,Berliner SV 1892,LM,NA,Benjamin Schnack,0.525
+Berliner SV 1892,4-2-2-2,1,20,5%,Nein,Ja,Berliner SV 1892,RV,24,Joshua Tröger,0.665
+Berliner SV 1892,4-2-2-2,1,20,5%,Nein,Ja,Berliner SV 1892,IV,4,Niklas Jost,0.654
+Berliner SV 1892,4-2-2-2,1,20,5%,Nein,Ja,Berliner SV 1892,IV,20,Nikita Charkov,0.627
+Berliner SV 1892,4-2-2-2,1,20,5%,Nein,Ja,Berliner SV 1892,ST,21,Lennard Schleifenbaum,0.561
+Berliner SV 1892,4-2-2-2,1,20,5%,Nein,Ja,Berliner SV 1892,LV,27,Nick Bechler,0.56
+Berliner SV 1892,4-2-2-2,1,20,5%,Nein,Ja,Berliner SV 1892,ZM,NA,Jonathan Maurer,0.546
+Berliner SV 1892,4-2-2-2,1,20,5%,Nein,Ja,Berliner SV 1892,TW,1,Hendrik Lüttschwager,0.54
+Berliner SV 1892,4-2-2-2,1,20,5%,Nein,Ja,Berliner SV 1892,ZM,NA,Steven Koschek,0.54
+Berliner SV 1892,4-2-2-2,1,20,5%,Nein,Ja,Berliner SV 1892,ST,28,David Bellin,0.528
+Berliner SV 1892,4-2-2-2,1,20,5%,Nein,Ja,Berliner SV 1892,LM,NA,Benjamin Schnack,0.525
+Berliner SV 1892,4-2-2-2,1,20,5%,Nein,Ja,Berliner SV 1892,RM,11,Julius Zauner,0.521
+Berliner SV 1892,4-4-2,8,20,40%,Nein,Ja,Berliner SV 1892,RV,24,Joshua Tröger,0.665
+Berliner SV 1892,4-4-2,8,20,40%,Nein,Ja,Berliner SV 1892,IV,4,Niklas Jost,0.654
+Berliner SV 1892,4-4-2,8,20,40%,Nein,Ja,Berliner SV 1892,IV,20,Nikita Charkov,0.627
+Berliner SV 1892,4-4-2,8,20,40%,Nein,Ja,Berliner SV 1892,ST,21,Lennard Schleifenbaum,0.561
+Berliner SV 1892,4-4-2,8,20,40%,Nein,Ja,Berliner SV 1892,LV,27,Nick Bechler,0.56
+Berliner SV 1892,4-4-2,8,20,40%,Nein,Ja,Berliner SV 1892,ZM,NA,Jonathan Maurer,0.546
+Berliner SV 1892,4-4-2,8,20,40%,Nein,Ja,Berliner SV 1892,TW,1,Hendrik Lüttschwager,0.54
+Berliner SV 1892,4-4-2,8,20,40%,Nein,Ja,Berliner SV 1892,ZM,NA,Steven Koschek,0.54
+Berliner SV 1892,4-4-2,8,20,40%,Nein,Ja,Berliner SV 1892,ST,28,David Bellin,0.528
+Berliner SV 1892,4-4-2,8,20,40%,Nein,Ja,Berliner SV 1892,LM,NA,Benjamin Schnack,0.525
+Berliner SV 1892,4-4-2,8,20,40%,Nein,Ja,Berliner SV 1892,RM,11,Julius Zauner,0.521
+Berliner SV 1892,5-1-2-2,1,20,5%,Nein,Nein,Berliner SV 1892,RV,24,Joshua Tröger,0.665
+Berliner SV 1892,5-1-2-2,1,20,5%,Nein,Nein,Berliner SV 1892,IV,4,Niklas Jost,0.654
+Berliner SV 1892,5-1-2-2,1,20,5%,Nein,Nein,Berliner SV 1892,IV,20,Nikita Charkov,0.627
+Berliner SV 1892,5-1-2-2,1,20,5%,Nein,Nein,Berliner SV 1892,IV,22,Stefano Tedesco,0.62
+Berliner SV 1892,5-1-2-2,1,20,5%,Nein,Nein,Berliner SV 1892,ST,21,Lennard Schleifenbaum,0.561
+Berliner SV 1892,5-1-2-2,1,20,5%,Nein,Nein,Berliner SV 1892,LV,27,Nick Bechler,0.56
+Berliner SV 1892,5-1-2-2,1,20,5%,Nein,Nein,Berliner SV 1892,TW,1,Hendrik Lüttschwager,0.54
+Berliner SV 1892,5-1-2-2,1,20,5%,Nein,Nein,Berliner SV 1892,ST,28,David Bellin,0.528
+Berliner SV 1892,5-3-2,2,20,10%,Nein,Nein,Berliner SV 1892,RV,24,Joshua Tröger,0.665
+Berliner SV 1892,5-3-2,2,20,10%,Nein,Nein,Berliner SV 1892,IV,4,Niklas Jost,0.654
+Berliner SV 1892,5-3-2,2,20,10%,Nein,Nein,Berliner SV 1892,IV,20,Nikita Charkov,0.627
+Berliner SV 1892,5-3-2,2,20,10%,Nein,Nein,Berliner SV 1892,IV,22,Stefano Tedesco,0.62
+Berliner SV 1892,5-3-2,2,20,10%,Nein,Nein,Berliner SV 1892,ST,21,Lennard Schleifenbaum,0.561
+Berliner SV 1892,5-3-2,2,20,10%,Nein,Nein,Berliner SV 1892,LV,27,Nick Bechler,0.56
+Berliner SV 1892,5-3-2,2,20,10%,Nein,Nein,Berliner SV 1892,ZM,NA,Jonathan Maurer,0.546
+Berliner SV 1892,5-3-2,2,20,10%,Nein,Nein,Berliner SV 1892,TW,1,Hendrik Lüttschwager,0.54
+Berliner SV 1892,5-3-2,2,20,10%,Nein,Nein,Berliner SV 1892,ZM,NA,Steven Koschek,0.54
+Berliner SV 1892,5-3-2,2,20,10%,Nein,Nein,Berliner SV 1892,ZM,19,Göktug Özsoy,0.532
+Berliner SV 1892,5-3-2,2,20,10%,Nein,Nein,Berliner SV 1892,ST,28,David Bellin,0.528
+FC Internationale Berlin 1980,3-2-3-2,2,20,10%,Ja,Nein,FC Internationale Berlin 1980,TW,40,Roger Gonzalez I Hermosa,0.64
+FC Internationale Berlin 1980,3-2-3-2,2,20,10%,Ja,Nein,FC Internationale Berlin 1980,ST,10,Milan Daus,0.632
+FC Internationale Berlin 1980,3-2-3-2,2,20,10%,Ja,Nein,FC Internationale Berlin 1980,ZDM,31,Matteo Topal,0.618
+FC Internationale Berlin 1980,3-2-3-2,2,20,10%,Ja,Nein,FC Internationale Berlin 1980,ZDM,8,Enrique Freitag,0.615
+FC Internationale Berlin 1980,3-2-3-2,2,20,10%,Ja,Nein,FC Internationale Berlin 1980,ST,10,Thomaz Klingl,0.61
+FC Internationale Berlin 1980,3-2-3-2,2,20,10%,Ja,Nein,FC Internationale Berlin 1980,ZOM,18,Nicholas Cartwright Stanley,0.587
+FC Internationale Berlin 1980,3-2-3-2,2,20,10%,Ja,Nein,FC Internationale Berlin 1980,LM,7,Dominic Kranz,0.586
+FC Internationale Berlin 1980,3-2-3-2,2,20,10%,Ja,Nein,FC Internationale Berlin 1980,IV,6,Antonio Boeddinghaus,0.514
+FC Internationale Berlin 1980,3-2-3-2,2,20,10%,Ja,Nein,FC Internationale Berlin 1980,IV,11,Niklas Schindler,0.509
+FC Internationale Berlin 1980,3-2-3-2,2,20,10%,Ja,Nein,FC Internationale Berlin 1980,RM,14,Ryan Max Robert French,0.476
+FC Internationale Berlin 1980,3-2-3-2,2,20,10%,Ja,Nein,FC Internationale Berlin 1980,IV,4,Nicolas Costa Echeverria,0.447
+FC Internationale Berlin 1980,3-5-2,2,20,10%,Ja,Nein,FC Internationale Berlin 1980,TW,40,Roger Gonzalez I Hermosa,0.64
+FC Internationale Berlin 1980,3-5-2,2,20,10%,Ja,Nein,FC Internationale Berlin 1980,ST,10,Milan Daus,0.632
+FC Internationale Berlin 1980,3-5-2,2,20,10%,Ja,Nein,FC Internationale Berlin 1980,ZM,31,Matteo Topal,0.618
+FC Internationale Berlin 1980,3-5-2,2,20,10%,Ja,Nein,FC Internationale Berlin 1980,ZM,8,Enrique Freitag,0.615
+FC Internationale Berlin 1980,3-5-2,2,20,10%,Ja,Nein,FC Internationale Berlin 1980,ST,10,Thomaz Klingl,0.61
+FC Internationale Berlin 1980,3-5-2,2,20,10%,Ja,Nein,FC Internationale Berlin 1980,ZM,18,Nicholas Cartwright Stanley,0.587
+FC Internationale Berlin 1980,3-5-2,2,20,10%,Ja,Nein,FC Internationale Berlin 1980,LM,7,Dominic Kranz,0.586
+FC Internationale Berlin 1980,3-5-2,2,20,10%,Ja,Nein,FC Internationale Berlin 1980,IV,6,Antonio Boeddinghaus,0.514
+FC Internationale Berlin 1980,3-5-2,2,20,10%,Ja,Nein,FC Internationale Berlin 1980,IV,11,Niklas Schindler,0.509
+FC Internationale Berlin 1980,3-5-2,2,20,10%,Ja,Nein,FC Internationale Berlin 1980,RM,14,Ryan Max Robert French,0.476
+FC Internationale Berlin 1980,3-5-2,2,20,10%,Ja,Nein,FC Internationale Berlin 1980,IV,4,Nicolas Costa Echeverria,0.447
+FC Internationale Berlin 1980,4-2-3-1,8,20,40%,Nein,Ja,FC Internationale Berlin 1980,TW,40,Roger Gonzalez I Hermosa,0.64
+FC Internationale Berlin 1980,4-2-3-1,8,20,40%,Nein,Ja,FC Internationale Berlin 1980,ST,10,Milan Daus,0.632
+FC Internationale Berlin 1980,4-2-3-1,8,20,40%,Nein,Ja,FC Internationale Berlin 1980,ZDM,31,Matteo Topal,0.618
+FC Internationale Berlin 1980,4-2-3-1,8,20,40%,Nein,Ja,FC Internationale Berlin 1980,ZDM,8,Enrique Freitag,0.615
+FC Internationale Berlin 1980,4-2-3-1,8,20,40%,Nein,Ja,FC Internationale Berlin 1980,ZOM,18,Nicholas Cartwright Stanley,0.587
+FC Internationale Berlin 1980,4-2-3-1,8,20,40%,Nein,Ja,FC Internationale Berlin 1980,LV,7,Dominic Kranz,0.586
+FC Internationale Berlin 1980,4-2-3-1,8,20,40%,Nein,Ja,FC Internationale Berlin 1980,RV,2,Giovanni Marigo,0.582
+FC Internationale Berlin 1980,4-2-3-1,8,20,40%,Nein,Ja,FC Internationale Berlin 1980,LM,6,Akiyasu Tsuchiya,0.532
+FC Internationale Berlin 1980,4-2-3-1,8,20,40%,Nein,Ja,FC Internationale Berlin 1980,IV,6,Antonio Boeddinghaus,0.514
+FC Internationale Berlin 1980,4-2-3-1,8,20,40%,Nein,Ja,FC Internationale Berlin 1980,IV,11,Niklas Schindler,0.509
+FC Internationale Berlin 1980,4-2-3-1,8,20,40%,Nein,Ja,FC Internationale Berlin 1980,RM,14,Ryan Max Robert French,0.476
+FC Internationale Berlin 1980,4-3-3,5,20,25%,Nein,Ja,FC Internationale Berlin 1980,TW,40,Roger Gonzalez I Hermosa,0.64
+FC Internationale Berlin 1980,4-3-3,5,20,25%,Nein,Ja,FC Internationale Berlin 1980,ST,10,Milan Daus,0.632
+FC Internationale Berlin 1980,4-3-3,5,20,25%,Nein,Ja,FC Internationale Berlin 1980,ZM,31,Matteo Topal,0.618
+FC Internationale Berlin 1980,4-3-3,5,20,25%,Nein,Ja,FC Internationale Berlin 1980,ZM,8,Enrique Freitag,0.615
+FC Internationale Berlin 1980,4-3-3,5,20,25%,Nein,Ja,FC Internationale Berlin 1980,ZM,18,Nicholas Cartwright Stanley,0.587
+FC Internationale Berlin 1980,4-3-3,5,20,25%,Nein,Ja,FC Internationale Berlin 1980,LV,7,Dominic Kranz,0.586
+FC Internationale Berlin 1980,4-3-3,5,20,25%,Nein,Ja,FC Internationale Berlin 1980,RV,2,Giovanni Marigo,0.582
+FC Internationale Berlin 1980,4-3-3,5,20,25%,Nein,Ja,FC Internationale Berlin 1980,LM,6,Akiyasu Tsuchiya,0.532
+FC Internationale Berlin 1980,4-3-3,5,20,25%,Nein,Ja,FC Internationale Berlin 1980,IV,6,Antonio Boeddinghaus,0.514
+FC Internationale Berlin 1980,4-3-3,5,20,25%,Nein,Ja,FC Internationale Berlin 1980,IV,11,Niklas Schindler,0.509
+FC Internationale Berlin 1980,4-3-3,5,20,25%,Nein,Ja,FC Internationale Berlin 1980,RM,14,Ryan Max Robert French,0.476
+FC Internationale Berlin 1980,4-4-2,3,20,15%,Nein,Ja,FC Internationale Berlin 1980,TW,40,Roger Gonzalez I Hermosa,0.64
+FC Internationale Berlin 1980,4-4-2,3,20,15%,Nein,Ja,FC Internationale Berlin 1980,ST,10,Milan Daus,0.632
+FC Internationale Berlin 1980,4-4-2,3,20,15%,Nein,Ja,FC Internationale Berlin 1980,ZM,31,Matteo Topal,0.618
+FC Internationale Berlin 1980,4-4-2,3,20,15%,Nein,Ja,FC Internationale Berlin 1980,ZM,8,Enrique Freitag,0.615
+FC Internationale Berlin 1980,4-4-2,3,20,15%,Nein,Ja,FC Internationale Berlin 1980,ST,10,Thomaz Klingl,0.61
+FC Internationale Berlin 1980,4-4-2,3,20,15%,Nein,Ja,FC Internationale Berlin 1980,LV,7,Dominic Kranz,0.586
+FC Internationale Berlin 1980,4-4-2,3,20,15%,Nein,Ja,FC Internationale Berlin 1980,RV,2,Giovanni Marigo,0.582
+FC Internationale Berlin 1980,4-4-2,3,20,15%,Nein,Ja,FC Internationale Berlin 1980,LM,6,Akiyasu Tsuchiya,0.532
+FC Internationale Berlin 1980,4-4-2,3,20,15%,Nein,Ja,FC Internationale Berlin 1980,IV,6,Antonio Boeddinghaus,0.514
+FC Internationale Berlin 1980,4-4-2,3,20,15%,Nein,Ja,FC Internationale Berlin 1980,IV,11,Niklas Schindler,0.509
+FC Internationale Berlin 1980,4-4-2,3,20,15%,Nein,Ja,FC Internationale Berlin 1980,RM,14,Ryan Max Robert French,0.476
+FC Viktoria 1889 Berlin II,4-2-3-1,11,20,55%,Nein,Ja,FC Viktoria 1889 Berlin II,IV,6,Justin Thiele,0.689
+FC Viktoria 1889 Berlin II,4-2-3-1,11,20,55%,Nein,Ja,FC Viktoria 1889 Berlin II,ZDM,9,Vito Everett Dieckert,0.665
+FC Viktoria 1889 Berlin II,4-2-3-1,11,20,55%,Nein,Ja,FC Viktoria 1889 Berlin II,RV,25,Fonseca Pereira Mendes,0.659
+FC Viktoria 1889 Berlin II,4-2-3-1,11,20,55%,Nein,Ja,FC Viktoria 1889 Berlin II,TW,1,Patrick Kühn,0.657
+FC Viktoria 1889 Berlin II,4-2-3-1,11,20,55%,Nein,Ja,FC Viktoria 1889 Berlin II,ST,15,Daniel Hölbling,0.657
+FC Viktoria 1889 Berlin II,4-2-3-1,11,20,55%,Nein,Ja,FC Viktoria 1889 Berlin II,LV,7,Simon Stefanovic,0.631
+FC Viktoria 1889 Berlin II,4-2-3-1,11,20,55%,Nein,Ja,FC Viktoria 1889 Berlin II,ZDM,26,Jeremy Herrmann,0.615
+FC Viktoria 1889 Berlin II,4-2-3-1,11,20,55%,Nein,Ja,FC Viktoria 1889 Berlin II,ZOM,NA,Lucien Littbarski,0.61
+FC Viktoria 1889 Berlin II,4-2-3-1,11,20,55%,Nein,Ja,FC Viktoria 1889 Berlin II,LM,19,Rayan Ait Manssour,0.6
+FC Viktoria 1889 Berlin II,4-2-3-1,11,20,55%,Nein,Ja,FC Viktoria 1889 Berlin II,RM,3,Joshua Isaias Almedom,0.527
+FC Viktoria 1889 Berlin II,4-2-3-1,11,20,55%,Nein,Ja,FC Viktoria 1889 Berlin II,IV,4,David Nagel,0.419
+FC Viktoria 1889 Berlin II,4-4-2,6,20,30%,Nein,Ja,FC Viktoria 1889 Berlin II,IV,6,Justin Thiele,0.689
+FC Viktoria 1889 Berlin II,4-4-2,6,20,30%,Nein,Ja,FC Viktoria 1889 Berlin II,ZM,9,Vito Everett Dieckert,0.665
+FC Viktoria 1889 Berlin II,4-4-2,6,20,30%,Nein,Ja,FC Viktoria 1889 Berlin II,RV,25,Fonseca Pereira Mendes,0.659
+FC Viktoria 1889 Berlin II,4-4-2,6,20,30%,Nein,Ja,FC Viktoria 1889 Berlin II,TW,1,Patrick Kühn,0.657
+FC Viktoria 1889 Berlin II,4-4-2,6,20,30%,Nein,Ja,FC Viktoria 1889 Berlin II,ST,15,Daniel Hölbling,0.657
+FC Viktoria 1889 Berlin II,4-4-2,6,20,30%,Nein,Ja,FC Viktoria 1889 Berlin II,LV,7,Simon Stefanovic,0.631
+FC Viktoria 1889 Berlin II,4-4-2,6,20,30%,Nein,Ja,FC Viktoria 1889 Berlin II,ZM,26,Jeremy Herrmann,0.615
+FC Viktoria 1889 Berlin II,4-4-2,6,20,30%,Nein,Ja,FC Viktoria 1889 Berlin II,LM,19,Rayan Ait Manssour,0.6
+FC Viktoria 1889 Berlin II,4-4-2,6,20,30%,Nein,Ja,FC Viktoria 1889 Berlin II,ST,17,Matthieu Lucas Weinlein,0.587
+FC Viktoria 1889 Berlin II,4-4-2,6,20,30%,Nein,Ja,FC Viktoria 1889 Berlin II,RM,3,Joshua Isaias Almedom,0.527
+FC Viktoria 1889 Berlin II,4-4-2,6,20,30%,Nein,Ja,FC Viktoria 1889 Berlin II,IV,4,David Nagel,0.419
+FC Viktoria 1889 Berlin II,4-5-1,1,20,5%,Nein,Ja,FC Viktoria 1889 Berlin II,IV,6,Justin Thiele,0.689
+FC Viktoria 1889 Berlin II,4-5-1,1,20,5%,Nein,Ja,FC Viktoria 1889 Berlin II,ZM,9,Vito Everett Dieckert,0.665
+FC Viktoria 1889 Berlin II,4-5-1,1,20,5%,Nein,Ja,FC Viktoria 1889 Berlin II,RV,25,Fonseca Pereira Mendes,0.659
+FC Viktoria 1889 Berlin II,4-5-1,1,20,5%,Nein,Ja,FC Viktoria 1889 Berlin II,TW,1,Patrick Kühn,0.657
+FC Viktoria 1889 Berlin II,4-5-1,1,20,5%,Nein,Ja,FC Viktoria 1889 Berlin II,ST,15,Daniel Hölbling,0.657
+FC Viktoria 1889 Berlin II,4-5-1,1,20,5%,Nein,Ja,FC Viktoria 1889 Berlin II,LV,7,Simon Stefanovic,0.631
+FC Viktoria 1889 Berlin II,4-5-1,1,20,5%,Nein,Ja,FC Viktoria 1889 Berlin II,ZM,26,Jeremy Herrmann,0.615
+FC Viktoria 1889 Berlin II,4-5-1,1,20,5%,Nein,Ja,FC Viktoria 1889 Berlin II,LM,19,Rayan Ait Manssour,0.6
+FC Viktoria 1889 Berlin II,4-5-1,1,20,5%,Nein,Ja,FC Viktoria 1889 Berlin II,RM,3,Joshua Isaias Almedom,0.527
+FC Viktoria 1889 Berlin II,4-5-1,1,20,5%,Nein,Ja,FC Viktoria 1889 Berlin II,ZM,24,Maciej Macias,0.472
+FC Viktoria 1889 Berlin II,4-5-1,1,20,5%,Nein,Ja,FC Viktoria 1889 Berlin II,IV,4,David Nagel,0.419
+FSV Berolina Stralau 1901,3-4-3,8,20,40%,Ja,Nein,FSV Berolina Stralau 1901,ST,NA,Robert Klessny,0.687
+FSV Berolina Stralau 1901,3-4-3,8,20,40%,Ja,Nein,FSV Berolina Stralau 1901,LM,12,Sebastian Heßler,0.596
+FSV Berolina Stralau 1901,3-4-3,8,20,40%,Ja,Nein,FSV Berolina Stralau 1901,ZM,4,Tobias Reuter,0.585
+FSV Berolina Stralau 1901,3-4-3,8,20,40%,Ja,Nein,FSV Berolina Stralau 1901,IV,3,Georg Schönfelder,0.551
+FSV Berolina Stralau 1901,3-4-3,8,20,40%,Ja,Nein,FSV Berolina Stralau 1901,ST,9,Ole Bresemann,0.521
+FSV Berolina Stralau 1901,3-4-3,8,20,40%,Ja,Nein,FSV Berolina Stralau 1901,IV,15,Denis Rolke,0.519
+FSV Berolina Stralau 1901,3-4-3,8,20,40%,Ja,Nein,FSV Berolina Stralau 1901,ZM,NA,Christopher Schwarz,0.512
+FSV Berolina Stralau 1901,3-4-3,8,20,40%,Ja,Nein,FSV Berolina Stralau 1901,ST,11,Yussef Jradi,0.51
+FSV Berolina Stralau 1901,3-4-3,8,20,40%,Ja,Nein,FSV Berolina Stralau 1901,TW,23,Andreas Friese,0.504
+FSV Berolina Stralau 1901,3-4-3,8,20,40%,Ja,Nein,FSV Berolina Stralau 1901,IV,16,Tom Jonach,0.497
+FSV Berolina Stralau 1901,3-4-3,8,20,40%,Ja,Nein,FSV Berolina Stralau 1901,RM,5,Eric Stier,0.418
+FSV Berolina Stralau 1901,3-5-2,5,20,25%,Ja,Nein,FSV Berolina Stralau 1901,ST,NA,Robert Klessny,0.687
+FSV Berolina Stralau 1901,3-5-2,5,20,25%,Ja,Nein,FSV Berolina Stralau 1901,LM,12,Sebastian Heßler,0.596
+FSV Berolina Stralau 1901,3-5-2,5,20,25%,Ja,Nein,FSV Berolina Stralau 1901,ZM,4,Tobias Reuter,0.585
+FSV Berolina Stralau 1901,3-5-2,5,20,25%,Ja,Nein,FSV Berolina Stralau 1901,IV,3,Georg Schönfelder,0.551
+FSV Berolina Stralau 1901,3-5-2,5,20,25%,Ja,Nein,FSV Berolina Stralau 1901,ST,9,Ole Bresemann,0.521
+FSV Berolina Stralau 1901,3-5-2,5,20,25%,Ja,Nein,FSV Berolina Stralau 1901,IV,15,Denis Rolke,0.519
+FSV Berolina Stralau 1901,3-5-2,5,20,25%,Ja,Nein,FSV Berolina Stralau 1901,ZM,NA,Christopher Schwarz,0.512
+FSV Berolina Stralau 1901,3-5-2,5,20,25%,Ja,Nein,FSV Berolina Stralau 1901,TW,23,Andreas Friese,0.504
+FSV Berolina Stralau 1901,3-5-2,5,20,25%,Ja,Nein,FSV Berolina Stralau 1901,IV,16,Tom Jonach,0.497
+FSV Berolina Stralau 1901,3-5-2,5,20,25%,Ja,Nein,FSV Berolina Stralau 1901,ZM,22,Ian Häberle,0.486
+FSV Berolina Stralau 1901,3-5-2,5,20,25%,Ja,Nein,FSV Berolina Stralau 1901,RM,5,Eric Stier,0.418
+FSV Berolina Stralau 1901,4-2-2-2,1,20,5%,Nein,Ja,FSV Berolina Stralau 1901,ST,NA,Robert Klessny,0.687
+FSV Berolina Stralau 1901,4-2-2-2,1,20,5%,Nein,Ja,FSV Berolina Stralau 1901,LM,12,Sebastian Heßler,0.596
+FSV Berolina Stralau 1901,4-2-2-2,1,20,5%,Nein,Ja,FSV Berolina Stralau 1901,ZM,4,Tobias Reuter,0.585
+FSV Berolina Stralau 1901,4-2-2-2,1,20,5%,Nein,Ja,FSV Berolina Stralau 1901,IV,3,Georg Schönfelder,0.551
+FSV Berolina Stralau 1901,4-2-2-2,1,20,5%,Nein,Ja,FSV Berolina Stralau 1901,ST,9,Ole Bresemann,0.521
+FSV Berolina Stralau 1901,4-2-2-2,1,20,5%,Nein,Ja,FSV Berolina Stralau 1901,IV,15,Denis Rolke,0.519
+FSV Berolina Stralau 1901,4-2-2-2,1,20,5%,Nein,Ja,FSV Berolina Stralau 1901,ZM,NA,Christopher Schwarz,0.512
+FSV Berolina Stralau 1901,4-2-2-2,1,20,5%,Nein,Ja,FSV Berolina Stralau 1901,TW,23,Andreas Friese,0.504
+FSV Berolina Stralau 1901,4-2-2-2,1,20,5%,Nein,Ja,FSV Berolina Stralau 1901,RV,10,Ibrahim Diallo,0.465
+FSV Berolina Stralau 1901,4-2-2-2,1,20,5%,Nein,Ja,FSV Berolina Stralau 1901,RM,5,Eric Stier,0.418
+FSV Berolina Stralau 1901,4-2-2-2,1,20,5%,Nein,Ja,FSV Berolina Stralau 1901,LV,19,Daniel Fischer,0.326
+FSV Berolina Stralau 1901,4-3-3,1,20,5%,Nein,Ja,FSV Berolina Stralau 1901,ST,NA,Robert Klessny,0.687
+FSV Berolina Stralau 1901,4-3-3,1,20,5%,Nein,Ja,FSV Berolina Stralau 1901,LM,12,Sebastian Heßler,0.596
+FSV Berolina Stralau 1901,4-3-3,1,20,5%,Nein,Ja,FSV Berolina Stralau 1901,ZM,4,Tobias Reuter,0.585
+FSV Berolina Stralau 1901,4-3-3,1,20,5%,Nein,Ja,FSV Berolina Stralau 1901,IV,3,Georg Schönfelder,0.551
+FSV Berolina Stralau 1901,4-3-3,1,20,5%,Nein,Ja,FSV Berolina Stralau 1901,IV,15,Denis Rolke,0.519
+FSV Berolina Stralau 1901,4-3-3,1,20,5%,Nein,Ja,FSV Berolina Stralau 1901,ZM,NA,Christopher Schwarz,0.512
+FSV Berolina Stralau 1901,4-3-3,1,20,5%,Nein,Ja,FSV Berolina Stralau 1901,TW,23,Andreas Friese,0.504
+FSV Berolina Stralau 1901,4-3-3,1,20,5%,Nein,Ja,FSV Berolina Stralau 1901,ZM,16,Tom Jonach,0.497
+FSV Berolina Stralau 1901,4-3-3,1,20,5%,Nein,Ja,FSV Berolina Stralau 1901,RV,10,Ibrahim Diallo,0.465
+FSV Berolina Stralau 1901,4-3-3,1,20,5%,Nein,Ja,FSV Berolina Stralau 1901,RM,5,Eric Stier,0.418
+FSV Berolina Stralau 1901,4-3-3,1,20,5%,Nein,Ja,FSV Berolina Stralau 1901,LV,19,Daniel Fischer,0.326
+FSV Berolina Stralau 1901,4-4-2,4,20,20%,Nein,Ja,FSV Berolina Stralau 1901,ST,NA,Robert Klessny,0.687
+FSV Berolina Stralau 1901,4-4-2,4,20,20%,Nein,Ja,FSV Berolina Stralau 1901,LM,12,Sebastian Heßler,0.596
+FSV Berolina Stralau 1901,4-4-2,4,20,20%,Nein,Ja,FSV Berolina Stralau 1901,ZM,4,Tobias Reuter,0.585
+FSV Berolina Stralau 1901,4-4-2,4,20,20%,Nein,Ja,FSV Berolina Stralau 1901,IV,3,Georg Schönfelder,0.551
+FSV Berolina Stralau 1901,4-4-2,4,20,20%,Nein,Ja,FSV Berolina Stralau 1901,ST,9,Ole Bresemann,0.521
+FSV Berolina Stralau 1901,4-4-2,4,20,20%,Nein,Ja,FSV Berolina Stralau 1901,IV,15,Denis Rolke,0.519
+FSV Berolina Stralau 1901,4-4-2,4,20,20%,Nein,Ja,FSV Berolina Stralau 1901,ZM,NA,Christopher Schwarz,0.512
+FSV Berolina Stralau 1901,4-4-2,4,20,20%,Nein,Ja,FSV Berolina Stralau 1901,TW,23,Andreas Friese,0.504
+FSV Berolina Stralau 1901,4-4-2,4,20,20%,Nein,Ja,FSV Berolina Stralau 1901,RV,10,Ibrahim Diallo,0.465
+FSV Berolina Stralau 1901,4-4-2,4,20,20%,Nein,Ja,FSV Berolina Stralau 1901,RM,5,Eric Stier,0.418
+FSV Berolina Stralau 1901,4-4-2,4,20,20%,Nein,Ja,FSV Berolina Stralau 1901,LV,19,Daniel Fischer,0.326
+Köpenicker FC,4-2-2-2,1,20,5%,Nein,Ja,Köpenicker FC,TW,15,Felix Hartmann,0.681
+Köpenicker FC,4-2-2-2,1,20,5%,Nein,Ja,Köpenicker FC,IV,6,Luca Carius,0.637
+Köpenicker FC,4-2-2-2,1,20,5%,Nein,Ja,Köpenicker FC,ST,9,Dennis Bohnsack,0.579
+Köpenicker FC,4-2-2-2,1,20,5%,Nein,Ja,Köpenicker FC,RM,11,Alexander Foth,0.542
+Köpenicker FC,4-2-2-2,1,20,5%,Nein,Ja,Köpenicker FC,RV,28,Philip Möhle,0.523
+Köpenicker FC,4-2-2-2,1,20,5%,Nein,Ja,Köpenicker FC,IV,23,Tom-Niclas Hamann,0.522
+Köpenicker FC,4-2-2-2,1,20,5%,Nein,Ja,Köpenicker FC,LV,27,Till Dietrich,0.518
+Köpenicker FC,4-2-2-2,1,20,5%,Nein,Ja,Köpenicker FC,LM,10,Nicolas Tauschwitz,0.507
+Köpenicker FC,4-2-2-2,1,20,5%,Nein,Ja,Köpenicker FC,ZM,13,Tarek Borchmeier,0.472
+Köpenicker FC,4-2-2-2,1,20,5%,Nein,Ja,Köpenicker FC,ST,18,Roman Ilinseer,0.456
+Köpenicker FC,4-2-2-2,1,20,5%,Nein,Ja,Köpenicker FC,ZM,8,Jonas Weigelt,0.445
+Köpenicker FC,4-3-3,2,20,10%,Nein,Ja,Köpenicker FC,TW,15,Felix Hartmann,0.681
+Köpenicker FC,4-3-3,2,20,10%,Nein,Ja,Köpenicker FC,IV,6,Luca Carius,0.637
+Köpenicker FC,4-3-3,2,20,10%,Nein,Ja,Köpenicker FC,ST,9,Dennis Bohnsack,0.579
+Köpenicker FC,4-3-3,2,20,10%,Nein,Ja,Köpenicker FC,RM,11,Alexander Foth,0.542
+Köpenicker FC,4-3-3,2,20,10%,Nein,Ja,Köpenicker FC,RV,28,Philip Möhle,0.523
+Köpenicker FC,4-3-3,2,20,10%,Nein,Ja,Köpenicker FC,IV,23,Tom-Niclas Hamann,0.522
+Köpenicker FC,4-3-3,2,20,10%,Nein,Ja,Köpenicker FC,LV,27,Till Dietrich,0.518
+Köpenicker FC,4-3-3,2,20,10%,Nein,Ja,Köpenicker FC,LM,10,Nicolas Tauschwitz,0.507
+Köpenicker FC,4-3-3,2,20,10%,Nein,Ja,Köpenicker FC,ZM,13,Tarek Borchmeier,0.472
+Köpenicker FC,4-3-3,2,20,10%,Nein,Ja,Köpenicker FC,ZM,8,Jonas Weigelt,0.445
+Köpenicker FC,4-3-3,2,20,10%,Nein,Ja,Köpenicker FC,ZM,24,Felix Wittenburg,0.427
+Köpenicker FC,4-4-2,13,20,65%,Nein,Ja,Köpenicker FC,TW,15,Felix Hartmann,0.681
+Köpenicker FC,4-4-2,13,20,65%,Nein,Ja,Köpenicker FC,IV,6,Luca Carius,0.637
+Köpenicker FC,4-4-2,13,20,65%,Nein,Ja,Köpenicker FC,ST,9,Dennis Bohnsack,0.579
+Köpenicker FC,4-4-2,13,20,65%,Nein,Ja,Köpenicker FC,RM,11,Alexander Foth,0.542
+Köpenicker FC,4-4-2,13,20,65%,Nein,Ja,Köpenicker FC,RV,28,Philip Möhle,0.523
+Köpenicker FC,4-4-2,13,20,65%,Nein,Ja,Köpenicker FC,IV,23,Tom-Niclas Hamann,0.522
+Köpenicker FC,4-4-2,13,20,65%,Nein,Ja,Köpenicker FC,LV,27,Till Dietrich,0.518
+Köpenicker FC,4-4-2,13,20,65%,Nein,Ja,Köpenicker FC,LM,10,Nicolas Tauschwitz,0.507
+Köpenicker FC,4-4-2,13,20,65%,Nein,Ja,Köpenicker FC,ZM,13,Tarek Borchmeier,0.472
+Köpenicker FC,4-4-2,13,20,65%,Nein,Ja,Köpenicker FC,ST,18,Roman Ilinseer,0.456
+Köpenicker FC,4-4-2,13,20,65%,Nein,Ja,Köpenicker FC,ZM,8,Jonas Weigelt,0.445
+Köpenicker FC,4-5-1,4,20,20%,Nein,Ja,Köpenicker FC,TW,15,Felix Hartmann,0.681
+Köpenicker FC,4-5-1,4,20,20%,Nein,Ja,Köpenicker FC,IV,6,Luca Carius,0.637
+Köpenicker FC,4-5-1,4,20,20%,Nein,Ja,Köpenicker FC,ST,9,Dennis Bohnsack,0.579
+Köpenicker FC,4-5-1,4,20,20%,Nein,Ja,Köpenicker FC,RM,11,Alexander Foth,0.542
+Köpenicker FC,4-5-1,4,20,20%,Nein,Ja,Köpenicker FC,RV,28,Philip Möhle,0.523
+Köpenicker FC,4-5-1,4,20,20%,Nein,Ja,Köpenicker FC,IV,23,Tom-Niclas Hamann,0.522
+Köpenicker FC,4-5-1,4,20,20%,Nein,Ja,Köpenicker FC,LV,27,Till Dietrich,0.518
+Köpenicker FC,4-5-1,4,20,20%,Nein,Ja,Köpenicker FC,LM,10,Nicolas Tauschwitz,0.507
+Köpenicker FC,4-5-1,4,20,20%,Nein,Ja,Köpenicker FC,ZM,13,Tarek Borchmeier,0.472
+Köpenicker FC,4-5-1,4,20,20%,Nein,Ja,Köpenicker FC,ZM,8,Jonas Weigelt,0.445
+Köpenicker FC,4-5-1,4,20,20%,Nein,Ja,Köpenicker FC,ZM,24,Felix Wittenburg,0.427
+SC Borsigwalde 1910,3-2-3-2,1,20,5%,Ja,Nein,SC Borsigwalde 1910,IV,2,Joao Victor Braga De Souza,0.726
+SC Borsigwalde 1910,3-2-3-2,1,20,5%,Ja,Nein,SC Borsigwalde 1910,ST,10,Pedro Lucas Santanna Miranda Silva,0.718
+SC Borsigwalde 1910,3-2-3-2,1,20,5%,Ja,Nein,SC Borsigwalde 1910,IV,29,Kevin Kummer,0.615
+SC Borsigwalde 1910,3-2-3-2,1,20,5%,Ja,Nein,SC Borsigwalde 1910,IV,4,Mahmoud Akkaoui,0.584
+SC Borsigwalde 1910,3-2-3-2,1,20,5%,Ja,Nein,SC Borsigwalde 1910,ZDM,8,Michel Stefaniszin,0.572
+SC Borsigwalde 1910,3-2-3-2,1,20,5%,Ja,Nein,SC Borsigwalde 1910,RM,3,Mohammed Yaqoobi,0.572
+SC Borsigwalde 1910,3-2-3-2,1,20,5%,Ja,Nein,SC Borsigwalde 1910,TW,37,Jeffrey Kräft,0.562
+SC Borsigwalde 1910,3-2-3-2,1,20,5%,Ja,Nein,SC Borsigwalde 1910,ST,14,Magnus Crone,0.557
+SC Borsigwalde 1910,3-2-3-2,1,20,5%,Ja,Nein,SC Borsigwalde 1910,ZDM,18,Riccardo Ciao,0.529
+SC Borsigwalde 1910,3-2-3-2,1,20,5%,Ja,Nein,SC Borsigwalde 1910,LM,6,Adam Barnat,0.493
+SC Borsigwalde 1910,3-2-3-2,1,20,5%,Ja,Nein,SC Borsigwalde 1910,ZOM,13,Furkan Yildirim,0.488
+SC Borsigwalde 1910,3-6-1,1,20,5%,Ja,Nein,SC Borsigwalde 1910,IV,2,Joao Victor Braga De Souza,0.726
+SC Borsigwalde 1910,3-6-1,1,20,5%,Ja,Nein,SC Borsigwalde 1910,ST,10,Pedro Lucas Santanna Miranda Silva,0.718
+SC Borsigwalde 1910,3-6-1,1,20,5%,Ja,Nein,SC Borsigwalde 1910,IV,29,Kevin Kummer,0.615
+SC Borsigwalde 1910,3-6-1,1,20,5%,Ja,Nein,SC Borsigwalde 1910,IV,4,Mahmoud Akkaoui,0.584
+SC Borsigwalde 1910,3-6-1,1,20,5%,Ja,Nein,SC Borsigwalde 1910,ZM,8,Michel Stefaniszin,0.572
+SC Borsigwalde 1910,3-6-1,1,20,5%,Ja,Nein,SC Borsigwalde 1910,RM,3,Mohammed Yaqoobi,0.572
+SC Borsigwalde 1910,3-6-1,1,20,5%,Ja,Nein,SC Borsigwalde 1910,TW,37,Jeffrey Kräft,0.562
+SC Borsigwalde 1910,3-6-1,1,20,5%,Ja,Nein,SC Borsigwalde 1910,LM,6,Adam Barnat,0.493
+SC Borsigwalde 1910,3-6-1,1,20,5%,Ja,Nein,SC Borsigwalde 1910,ZM,21,Kai Neumann,0.339
+SC Borsigwalde 1910,4-1-4-1,1,20,5%,Nein,Ja,SC Borsigwalde 1910,IV,2,Joao Victor Braga De Souza,0.726
+SC Borsigwalde 1910,4-1-4-1,1,20,5%,Nein,Ja,SC Borsigwalde 1910,ST,10,Pedro Lucas Santanna Miranda Silva,0.718
+SC Borsigwalde 1910,4-1-4-1,1,20,5%,Nein,Ja,SC Borsigwalde 1910,IV,29,Kevin Kummer,0.615
+SC Borsigwalde 1910,4-1-4-1,1,20,5%,Nein,Ja,SC Borsigwalde 1910,ZDM,8,Michel Stefaniszin,0.572
+SC Borsigwalde 1910,4-1-4-1,1,20,5%,Nein,Ja,SC Borsigwalde 1910,LV,3,Mohammed Yaqoobi,0.572
+SC Borsigwalde 1910,4-1-4-1,1,20,5%,Nein,Ja,SC Borsigwalde 1910,TW,37,Jeffrey Kräft,0.562
+SC Borsigwalde 1910,4-1-4-1,1,20,5%,Nein,Ja,SC Borsigwalde 1910,RM,14,Magnus Crone,0.557
+SC Borsigwalde 1910,4-1-4-1,1,20,5%,Nein,Ja,SC Borsigwalde 1910,ZOM,18,Riccardo Ciao,0.529
+SC Borsigwalde 1910,4-1-4-1,1,20,5%,Nein,Ja,SC Borsigwalde 1910,LM,6,Adam Barnat,0.493
+SC Borsigwalde 1910,4-1-4-1,1,20,5%,Nein,Ja,SC Borsigwalde 1910,ZOM,13,Furkan Yildirim,0.488
+SC Borsigwalde 1910,4-1-4-1,1,20,5%,Nein,Ja,SC Borsigwalde 1910,RV,NA,David Chukwu,0.451
+SC Borsigwalde 1910,4-2-3-1,13,20,65%,Nein,Ja,SC Borsigwalde 1910,IV,2,Joao Victor Braga De Souza,0.726
+SC Borsigwalde 1910,4-2-3-1,13,20,65%,Nein,Ja,SC Borsigwalde 1910,ST,10,Pedro Lucas Santanna Miranda Silva,0.718
+SC Borsigwalde 1910,4-2-3-1,13,20,65%,Nein,Ja,SC Borsigwalde 1910,IV,29,Kevin Kummer,0.615
+SC Borsigwalde 1910,4-2-3-1,13,20,65%,Nein,Ja,SC Borsigwalde 1910,ZDM,8,Michel Stefaniszin,0.572
+SC Borsigwalde 1910,4-2-3-1,13,20,65%,Nein,Ja,SC Borsigwalde 1910,LV,3,Mohammed Yaqoobi,0.572
+SC Borsigwalde 1910,4-2-3-1,13,20,65%,Nein,Ja,SC Borsigwalde 1910,TW,37,Jeffrey Kräft,0.562
+SC Borsigwalde 1910,4-2-3-1,13,20,65%,Nein,Ja,SC Borsigwalde 1910,RM,14,Magnus Crone,0.557
+SC Borsigwalde 1910,4-2-3-1,13,20,65%,Nein,Ja,SC Borsigwalde 1910,ZDM,18,Riccardo Ciao,0.529
+SC Borsigwalde 1910,4-2-3-1,13,20,65%,Nein,Ja,SC Borsigwalde 1910,LM,6,Adam Barnat,0.493
+SC Borsigwalde 1910,4-2-3-1,13,20,65%,Nein,Ja,SC Borsigwalde 1910,ZOM,13,Furkan Yildirim,0.488
+SC Borsigwalde 1910,4-2-3-1,13,20,65%,Nein,Ja,SC Borsigwalde 1910,RV,NA,David Chukwu,0.451
+SC Borsigwalde 1910,4-4-1-1,1,20,5%,Nein,Ja,SC Borsigwalde 1910,IV,2,Joao Victor Braga De Souza,0.726
+SC Borsigwalde 1910,4-4-1-1,1,20,5%,Nein,Ja,SC Borsigwalde 1910,ST,10,Pedro Lucas Santanna Miranda Silva,0.718
+SC Borsigwalde 1910,4-4-1-1,1,20,5%,Nein,Ja,SC Borsigwalde 1910,IV,29,Kevin Kummer,0.615
+SC Borsigwalde 1910,4-4-1-1,1,20,5%,Nein,Ja,SC Borsigwalde 1910,ZM,8,Michel Stefaniszin,0.572
+SC Borsigwalde 1910,4-4-1-1,1,20,5%,Nein,Ja,SC Borsigwalde 1910,LV,3,Mohammed Yaqoobi,0.572
+SC Borsigwalde 1910,4-4-1-1,1,20,5%,Nein,Ja,SC Borsigwalde 1910,TW,37,Jeffrey Kräft,0.562
+SC Borsigwalde 1910,4-4-1-1,1,20,5%,Nein,Ja,SC Borsigwalde 1910,RM,14,Magnus Crone,0.557
+SC Borsigwalde 1910,4-4-1-1,1,20,5%,Nein,Ja,SC Borsigwalde 1910,ST,NA,Marcel Knaack,0.55
+SC Borsigwalde 1910,4-4-1-1,1,20,5%,Nein,Ja,SC Borsigwalde 1910,LM,6,Adam Barnat,0.493
+SC Borsigwalde 1910,4-4-1-1,1,20,5%,Nein,Ja,SC Borsigwalde 1910,RV,NA,David Chukwu,0.451
+SC Borsigwalde 1910,4-4-1-1,1,20,5%,Nein,Ja,SC Borsigwalde 1910,ZM,21,Kai Neumann,0.339
+SC Borsigwalde 1910,4-4-2,1,20,5%,Nein,Ja,SC Borsigwalde 1910,IV,2,Joao Victor Braga De Souza,0.726
+SC Borsigwalde 1910,4-4-2,1,20,5%,Nein,Ja,SC Borsigwalde 1910,ST,10,Pedro Lucas Santanna Miranda Silva,0.718
+SC Borsigwalde 1910,4-4-2,1,20,5%,Nein,Ja,SC Borsigwalde 1910,IV,29,Kevin Kummer,0.615
+SC Borsigwalde 1910,4-4-2,1,20,5%,Nein,Ja,SC Borsigwalde 1910,ZM,8,Michel Stefaniszin,0.572
+SC Borsigwalde 1910,4-4-2,1,20,5%,Nein,Ja,SC Borsigwalde 1910,LV,3,Mohammed Yaqoobi,0.572
+SC Borsigwalde 1910,4-4-2,1,20,5%,Nein,Ja,SC Borsigwalde 1910,TW,37,Jeffrey Kräft,0.562
+SC Borsigwalde 1910,4-4-2,1,20,5%,Nein,Ja,SC Borsigwalde 1910,RM,14,Magnus Crone,0.557
+SC Borsigwalde 1910,4-4-2,1,20,5%,Nein,Ja,SC Borsigwalde 1910,ST,NA,Marcel Knaack,0.55
+SC Borsigwalde 1910,4-4-2,1,20,5%,Nein,Ja,SC Borsigwalde 1910,LM,6,Adam Barnat,0.493
+SC Borsigwalde 1910,4-4-2,1,20,5%,Nein,Ja,SC Borsigwalde 1910,RV,NA,David Chukwu,0.451
+SC Borsigwalde 1910,4-4-2,1,20,5%,Nein,Ja,SC Borsigwalde 1910,ZM,21,Kai Neumann,0.339
+SC Borsigwalde 1910,5-2-1-2,1,20,5%,Nein,Nein,SC Borsigwalde 1910,IV,2,Joao Victor Braga De Souza,0.726
+SC Borsigwalde 1910,5-2-1-2,1,20,5%,Nein,Nein,SC Borsigwalde 1910,ST,10,Pedro Lucas Santanna Miranda Silva,0.718
+SC Borsigwalde 1910,5-2-1-2,1,20,5%,Nein,Nein,SC Borsigwalde 1910,IV,29,Kevin Kummer,0.615
+SC Borsigwalde 1910,5-2-1-2,1,20,5%,Nein,Nein,SC Borsigwalde 1910,IV,4,Mahmoud Akkaoui,0.584
+SC Borsigwalde 1910,5-2-1-2,1,20,5%,Nein,Nein,SC Borsigwalde 1910,ZDM,8,Michel Stefaniszin,0.572
+SC Borsigwalde 1910,5-2-1-2,1,20,5%,Nein,Nein,SC Borsigwalde 1910,LV,3,Mohammed Yaqoobi,0.572
+SC Borsigwalde 1910,5-2-1-2,1,20,5%,Nein,Nein,SC Borsigwalde 1910,TW,37,Jeffrey Kräft,0.562
+SC Borsigwalde 1910,5-2-1-2,1,20,5%,Nein,Nein,SC Borsigwalde 1910,ST,14,Magnus Crone,0.557
+SC Borsigwalde 1910,5-2-1-2,1,20,5%,Nein,Nein,SC Borsigwalde 1910,ZDM,18,Riccardo Ciao,0.529
+SC Borsigwalde 1910,5-2-1-2,1,20,5%,Nein,Nein,SC Borsigwalde 1910,ZOM,13,Furkan Yildirim,0.488
+SC Borsigwalde 1910,5-2-1-2,1,20,5%,Nein,Nein,SC Borsigwalde 1910,RV,NA,David Chukwu,0.451
+SV Empor Berlin II,3-2-3-2,2,19,11%,Ja,Nein,SV Empor Berlin II,IV,NA,Stanley Schulz,2.693
+SV Empor Berlin II,3-2-3-2,2,19,11%,Ja,Nein,SV Empor Berlin II,LM,NA,David Schäfer,0.7
+SV Empor Berlin II,3-2-3-2,2,19,11%,Ja,Nein,SV Empor Berlin II,TW,23,Oskar Kühn,0.667
+SV Empor Berlin II,3-2-3-2,2,19,11%,Ja,Nein,SV Empor Berlin II,IV,NA,Daniel Alankus,0.61
+SV Empor Berlin II,3-2-3-2,2,19,11%,Ja,Nein,SV Empor Berlin II,ZDM,NA,Paul Nickel,0.51
+SV Empor Berlin II,3-2-3-2,2,19,11%,Ja,Nein,SV Empor Berlin II,ST,9,Demba Mendy,0.466
+SV Empor Berlin II,3-2-3-2,2,19,11%,Ja,Nein,SV Empor Berlin II,IV,5,Elias Thürigen,0.462
+SV Empor Berlin II,3-2-3-2,2,19,11%,Ja,Nein,SV Empor Berlin II,RM,2,Pascal Bräkow,0.461
+SV Empor Berlin II,3-2-3-2,2,19,11%,Ja,Nein,SV Empor Berlin II,ZDM,14,Tilman Schinzel,0.455
+SV Empor Berlin II,3-2-3-2,2,19,11%,Ja,Nein,SV Empor Berlin II,ST,10,Leon Drannaschk,0.412
+SV Empor Berlin II,3-2-3-2,2,19,11%,Ja,Nein,SV Empor Berlin II,ZOM,NA,Luis Ploschenz,0.336
+SV Empor Berlin II,3-4-1-2,1,19,5%,Ja,Nein,SV Empor Berlin II,IV,NA,Stanley Schulz,2.693
+SV Empor Berlin II,3-4-1-2,1,19,5%,Ja,Nein,SV Empor Berlin II,LM,NA,David Schäfer,0.7
+SV Empor Berlin II,3-4-1-2,1,19,5%,Ja,Nein,SV Empor Berlin II,TW,23,Oskar Kühn,0.667
+SV Empor Berlin II,3-4-1-2,1,19,5%,Ja,Nein,SV Empor Berlin II,IV,NA,Daniel Alankus,0.61
+SV Empor Berlin II,3-4-1-2,1,19,5%,Ja,Nein,SV Empor Berlin II,ZDM,NA,Paul Nickel,0.51
+SV Empor Berlin II,3-4-1-2,1,19,5%,Ja,Nein,SV Empor Berlin II,ST,9,Demba Mendy,0.466
+SV Empor Berlin II,3-4-1-2,1,19,5%,Ja,Nein,SV Empor Berlin II,IV,5,Elias Thürigen,0.462
+SV Empor Berlin II,3-4-1-2,1,19,5%,Ja,Nein,SV Empor Berlin II,RM,2,Pascal Bräkow,0.461
+SV Empor Berlin II,3-4-1-2,1,19,5%,Ja,Nein,SV Empor Berlin II,ZDM,14,Tilman Schinzel,0.455
+SV Empor Berlin II,3-4-1-2,1,19,5%,Ja,Nein,SV Empor Berlin II,ST,10,Leon Drannaschk,0.412
+SV Empor Berlin II,3-4-1-2,1,19,5%,Ja,Nein,SV Empor Berlin II,ZOM,NA,Luis Ploschenz,0.336
+SV Empor Berlin II,3-4-3,2,19,11%,Ja,Nein,SV Empor Berlin II,IV,NA,Stanley Schulz,2.693
+SV Empor Berlin II,3-4-3,2,19,11%,Ja,Nein,SV Empor Berlin II,LM,NA,David Schäfer,0.7
+SV Empor Berlin II,3-4-3,2,19,11%,Ja,Nein,SV Empor Berlin II,TW,23,Oskar Kühn,0.667
+SV Empor Berlin II,3-4-3,2,19,11%,Ja,Nein,SV Empor Berlin II,IV,NA,Daniel Alankus,0.61
+SV Empor Berlin II,3-4-3,2,19,11%,Ja,Nein,SV Empor Berlin II,ST,9,Demba Mendy,0.466
+SV Empor Berlin II,3-4-3,2,19,11%,Ja,Nein,SV Empor Berlin II,IV,5,Elias Thürigen,0.462
+SV Empor Berlin II,3-4-3,2,19,11%,Ja,Nein,SV Empor Berlin II,RM,2,Pascal Bräkow,0.461
+SV Empor Berlin II,3-4-3,2,19,11%,Ja,Nein,SV Empor Berlin II,ZM,NA,Falk Marquard,0.437
+SV Empor Berlin II,3-4-3,2,19,11%,Ja,Nein,SV Empor Berlin II,ZM,20,Laurens Cerny,0.437
+SV Empor Berlin II,3-4-3,2,19,11%,Ja,Nein,SV Empor Berlin II,ST,10,Leon Drannaschk,0.412
+SV Empor Berlin II,3-4-3,2,19,11%,Ja,Nein,SV Empor Berlin II,ST,23,Nico Bochnia,0.38
+SV Empor Berlin II,3-5-2,2,19,11%,Ja,Nein,SV Empor Berlin II,IV,NA,Stanley Schulz,2.693
+SV Empor Berlin II,3-5-2,2,19,11%,Ja,Nein,SV Empor Berlin II,LM,NA,David Schäfer,0.7
+SV Empor Berlin II,3-5-2,2,19,11%,Ja,Nein,SV Empor Berlin II,TW,23,Oskar Kühn,0.667
+SV Empor Berlin II,3-5-2,2,19,11%,Ja,Nein,SV Empor Berlin II,IV,NA,Daniel Alankus,0.61
+SV Empor Berlin II,3-5-2,2,19,11%,Ja,Nein,SV Empor Berlin II,ST,9,Demba Mendy,0.466
+SV Empor Berlin II,3-5-2,2,19,11%,Ja,Nein,SV Empor Berlin II,IV,5,Elias Thürigen,0.462
+SV Empor Berlin II,3-5-2,2,19,11%,Ja,Nein,SV Empor Berlin II,RM,2,Pascal Bräkow,0.461
+SV Empor Berlin II,3-5-2,2,19,11%,Ja,Nein,SV Empor Berlin II,ZM,NA,Falk Marquard,0.437
+SV Empor Berlin II,3-5-2,2,19,11%,Ja,Nein,SV Empor Berlin II,ZM,20,Laurens Cerny,0.437
+SV Empor Berlin II,3-5-2,2,19,11%,Ja,Nein,SV Empor Berlin II,ST,10,Leon Drannaschk,0.412
+SV Empor Berlin II,3-5-2,2,19,11%,Ja,Nein,SV Empor Berlin II,ZM,11,Dennis Seiler,0.391
+SV Empor Berlin II,4-2-3-1,2,19,11%,Nein,Ja,SV Empor Berlin II,IV,NA,Stanley Schulz,2.693
+SV Empor Berlin II,4-2-3-1,2,19,11%,Nein,Ja,SV Empor Berlin II,LV,NA,David Schäfer,0.7
+SV Empor Berlin II,4-2-3-1,2,19,11%,Nein,Ja,SV Empor Berlin II,TW,23,Oskar Kühn,0.667
+SV Empor Berlin II,4-2-3-1,2,19,11%,Nein,Ja,SV Empor Berlin II,IV,NA,Daniel Alankus,0.61
+SV Empor Berlin II,4-2-3-1,2,19,11%,Nein,Ja,SV Empor Berlin II,ZDM,NA,Paul Nickel,0.51
+SV Empor Berlin II,4-2-3-1,2,19,11%,Nein,Ja,SV Empor Berlin II,ST,9,Demba Mendy,0.466
+SV Empor Berlin II,4-2-3-1,2,19,11%,Nein,Ja,SV Empor Berlin II,RV,2,Pascal Bräkow,0.461
+SV Empor Berlin II,4-2-3-1,2,19,11%,Nein,Ja,SV Empor Berlin II,ZDM,14,Tilman Schinzel,0.455
+SV Empor Berlin II,4-2-3-1,2,19,11%,Nein,Ja,SV Empor Berlin II,LM,10,Leon Drannaschk,0.412
+SV Empor Berlin II,4-2-3-1,2,19,11%,Nein,Ja,SV Empor Berlin II,RM,NA,Luis Ploschenz,0.336
+SV Empor Berlin II,4-3-3,7,19,37%,Nein,Ja,SV Empor Berlin II,IV,NA,Stanley Schulz,2.693
+SV Empor Berlin II,4-3-3,7,19,37%,Nein,Ja,SV Empor Berlin II,LV,NA,David Schäfer,0.7
+SV Empor Berlin II,4-3-3,7,19,37%,Nein,Ja,SV Empor Berlin II,TW,23,Oskar Kühn,0.667
+SV Empor Berlin II,4-3-3,7,19,37%,Nein,Ja,SV Empor Berlin II,IV,NA,Daniel Alankus,0.61
+SV Empor Berlin II,4-3-3,7,19,37%,Nein,Ja,SV Empor Berlin II,ST,9,Demba Mendy,0.466
+SV Empor Berlin II,4-3-3,7,19,37%,Nein,Ja,SV Empor Berlin II,RV,2,Pascal Bräkow,0.461
+SV Empor Berlin II,4-3-3,7,19,37%,Nein,Ja,SV Empor Berlin II,ZM,NA,Falk Marquard,0.437
+SV Empor Berlin II,4-3-3,7,19,37%,Nein,Ja,SV Empor Berlin II,ZM,20,Laurens Cerny,0.437
+SV Empor Berlin II,4-3-3,7,19,37%,Nein,Ja,SV Empor Berlin II,LM,10,Leon Drannaschk,0.412
+SV Empor Berlin II,4-3-3,7,19,37%,Nein,Ja,SV Empor Berlin II,ZM,11,Dennis Seiler,0.391
+SV Empor Berlin II,4-3-3,7,19,37%,Nein,Ja,SV Empor Berlin II,RM,NA,Luis Ploschenz,0.336
+SV Empor Berlin II,4-4-2,1,19,5%,Nein,Ja,SV Empor Berlin II,IV,NA,Stanley Schulz,2.693
+SV Empor Berlin II,4-4-2,1,19,5%,Nein,Ja,SV Empor Berlin II,LV,NA,David Schäfer,0.7
+SV Empor Berlin II,4-4-2,1,19,5%,Nein,Ja,SV Empor Berlin II,TW,23,Oskar Kühn,0.667
+SV Empor Berlin II,4-4-2,1,19,5%,Nein,Ja,SV Empor Berlin II,IV,NA,Daniel Alankus,0.61
+SV Empor Berlin II,4-4-2,1,19,5%,Nein,Ja,SV Empor Berlin II,ST,9,Demba Mendy,0.466
+SV Empor Berlin II,4-4-2,1,19,5%,Nein,Ja,SV Empor Berlin II,RV,2,Pascal Bräkow,0.461
+SV Empor Berlin II,4-4-2,1,19,5%,Nein,Ja,SV Empor Berlin II,ZM,NA,Falk Marquard,0.437
+SV Empor Berlin II,4-4-2,1,19,5%,Nein,Ja,SV Empor Berlin II,ZM,20,Laurens Cerny,0.437
+SV Empor Berlin II,4-4-2,1,19,5%,Nein,Ja,SV Empor Berlin II,LM,10,Leon Drannaschk,0.412
+SV Empor Berlin II,4-4-2,1,19,5%,Nein,Ja,SV Empor Berlin II,ST,23,Nico Bochnia,0.38
+SV Empor Berlin II,4-4-2,1,19,5%,Nein,Ja,SV Empor Berlin II,RM,NA,Luis Ploschenz,0.336
+SV Empor Berlin II,4-5-1,2,19,11%,Nein,Ja,SV Empor Berlin II,IV,NA,Stanley Schulz,2.693
+SV Empor Berlin II,4-5-1,2,19,11%,Nein,Ja,SV Empor Berlin II,LV,NA,David Schäfer,0.7
+SV Empor Berlin II,4-5-1,2,19,11%,Nein,Ja,SV Empor Berlin II,TW,23,Oskar Kühn,0.667
+SV Empor Berlin II,4-5-1,2,19,11%,Nein,Ja,SV Empor Berlin II,IV,NA,Daniel Alankus,0.61
+SV Empor Berlin II,4-5-1,2,19,11%,Nein,Ja,SV Empor Berlin II,ST,9,Demba Mendy,0.466
+SV Empor Berlin II,4-5-1,2,19,11%,Nein,Ja,SV Empor Berlin II,RV,2,Pascal Bräkow,0.461
+SV Empor Berlin II,4-5-1,2,19,11%,Nein,Ja,SV Empor Berlin II,ZM,NA,Falk Marquard,0.437
+SV Empor Berlin II,4-5-1,2,19,11%,Nein,Ja,SV Empor Berlin II,ZM,20,Laurens Cerny,0.437
+SV Empor Berlin II,4-5-1,2,19,11%,Nein,Ja,SV Empor Berlin II,LM,10,Leon Drannaschk,0.412
+SV Empor Berlin II,4-5-1,2,19,11%,Nein,Ja,SV Empor Berlin II,ZM,11,Dennis Seiler,0.391
+SV Empor Berlin II,4-5-1,2,19,11%,Nein,Ja,SV Empor Berlin II,RM,NA,Luis Ploschenz,0.336
+SV Stern Britz 1889,3-2-3-2,1,20,5%,Ja,Nein,SV Stern Britz 1889,ZDM,NA,Yusuf Yildirim,0.813
+SV Stern Britz 1889,3-2-3-2,1,20,5%,Ja,Nein,SV Stern Britz 1889,RM,NA,Kevin Schneider,0.794
+SV Stern Britz 1889,3-2-3-2,1,20,5%,Ja,Nein,SV Stern Britz 1889,IV,23,Andre Schulz,0.595
+SV Stern Britz 1889,3-2-3-2,1,20,5%,Ja,Nein,SV Stern Britz 1889,LM,NA,Christopher Schneider,0.499
+SV Stern Britz 1889,3-2-3-2,1,20,5%,Ja,Nein,SV Stern Britz 1889,TW,1,Timo Ziebarth,0.476
+SV Stern Britz 1889,3-2-3-2,1,20,5%,Ja,Nein,SV Stern Britz 1889,ST,7,Dustin Sik,0.456
+SV Stern Britz 1889,3-2-3-2,1,20,5%,Ja,Nein,SV Stern Britz 1889,ZDM,22,Luca Wojan,0.446
+SV Stern Britz 1889,3-2-3-2,1,20,5%,Ja,Nein,SV Stern Britz 1889,IV,NA,Timo Brei,0.415
+SV Stern Britz 1889,3-2-3-2,1,20,5%,Ja,Nein,SV Stern Britz 1889,ST,20,Shaker Shawrdi,0.36
+SV Stern Britz 1889,3-2-3-2,1,20,5%,Ja,Nein,SV Stern Britz 1889,ZOM,19,Oguzhan Duman,0.357
+SV Stern Britz 1889,3-2-3-2,1,20,5%,Ja,Nein,SV Stern Britz 1889,IV,5,Miran Aykus,0.342
+SV Stern Britz 1889,3-4-3,2,20,10%,Ja,Nein,SV Stern Britz 1889,ZM,NA,Marc Anthony Weisse,0.896
+SV Stern Britz 1889,3-4-3,2,20,10%,Ja,Nein,SV Stern Britz 1889,RM,NA,Kevin Schneider,0.794
+SV Stern Britz 1889,3-4-3,2,20,10%,Ja,Nein,SV Stern Britz 1889,ZM,2,Tommes Diallo,0.709
+SV Stern Britz 1889,3-4-3,2,20,10%,Ja,Nein,SV Stern Britz 1889,IV,23,Andre Schulz,0.595
+SV Stern Britz 1889,3-4-3,2,20,10%,Ja,Nein,SV Stern Britz 1889,LM,NA,Christopher Schneider,0.499
+SV Stern Britz 1889,3-4-3,2,20,10%,Ja,Nein,SV Stern Britz 1889,TW,1,Timo Ziebarth,0.476
+SV Stern Britz 1889,3-4-3,2,20,10%,Ja,Nein,SV Stern Britz 1889,ST,7,Dustin Sik,0.456
+SV Stern Britz 1889,3-4-3,2,20,10%,Ja,Nein,SV Stern Britz 1889,IV,NA,Timo Brei,0.415
+SV Stern Britz 1889,3-4-3,2,20,10%,Ja,Nein,SV Stern Britz 1889,ST,20,Shaker Shawrdi,0.36
+SV Stern Britz 1889,3-4-3,2,20,10%,Ja,Nein,SV Stern Britz 1889,ST,19,Oguzhan Duman,0.357
+SV Stern Britz 1889,3-4-3,2,20,10%,Ja,Nein,SV Stern Britz 1889,IV,5,Miran Aykus,0.342
+SV Stern Britz 1889,4-1-4-1,1,20,5%,Nein,Ja,SV Stern Britz 1889,ZDM,NA,Yusuf Yildirim,0.813
+SV Stern Britz 1889,4-1-4-1,1,20,5%,Nein,Ja,SV Stern Britz 1889,RM,NA,Kevin Schneider,0.794
+SV Stern Britz 1889,4-1-4-1,1,20,5%,Nein,Ja,SV Stern Britz 1889,RV,2,Tommes Diallo,0.709
+SV Stern Britz 1889,4-1-4-1,1,20,5%,Nein,Ja,SV Stern Britz 1889,IV,23,Andre Schulz,0.595
+SV Stern Britz 1889,4-1-4-1,1,20,5%,Nein,Ja,SV Stern Britz 1889,LM,NA,Christopher Schneider,0.499
+SV Stern Britz 1889,4-1-4-1,1,20,5%,Nein,Ja,SV Stern Britz 1889,TW,1,Timo Ziebarth,0.476
+SV Stern Britz 1889,4-1-4-1,1,20,5%,Nein,Ja,SV Stern Britz 1889,ST,7,Dustin Sik,0.456
+SV Stern Britz 1889,4-1-4-1,1,20,5%,Nein,Ja,SV Stern Britz 1889,IV,NA,Timo Brei,0.415
+SV Stern Britz 1889,4-1-4-1,1,20,5%,Nein,Ja,SV Stern Britz 1889,LV,6,Timo Höhna,0.379
+SV Stern Britz 1889,4-1-4-1,1,20,5%,Nein,Ja,SV Stern Britz 1889,ZOM,19,Oguzhan Duman,0.357
+SV Stern Britz 1889,4-1-4-1,1,20,5%,Nein,Ja,SV Stern Britz 1889,ZOM,15,Ali Mert Koca,0.32
+SV Stern Britz 1889,4-2-3-1,10,20,50%,Nein,Ja,SV Stern Britz 1889,ZDM,NA,Yusuf Yildirim,0.813
+SV Stern Britz 1889,4-2-3-1,10,20,50%,Nein,Ja,SV Stern Britz 1889,RM,NA,Kevin Schneider,0.794
+SV Stern Britz 1889,4-2-3-1,10,20,50%,Nein,Ja,SV Stern Britz 1889,RV,2,Tommes Diallo,0.709
+SV Stern Britz 1889,4-2-3-1,10,20,50%,Nein,Ja,SV Stern Britz 1889,IV,23,Andre Schulz,0.595
+SV Stern Britz 1889,4-2-3-1,10,20,50%,Nein,Ja,SV Stern Britz 1889,LM,NA,Christopher Schneider,0.499
+SV Stern Britz 1889,4-2-3-1,10,20,50%,Nein,Ja,SV Stern Britz 1889,TW,1,Timo Ziebarth,0.476
+SV Stern Britz 1889,4-2-3-1,10,20,50%,Nein,Ja,SV Stern Britz 1889,ST,7,Dustin Sik,0.456
+SV Stern Britz 1889,4-2-3-1,10,20,50%,Nein,Ja,SV Stern Britz 1889,ZDM,22,Luca Wojan,0.446
+SV Stern Britz 1889,4-2-3-1,10,20,50%,Nein,Ja,SV Stern Britz 1889,IV,NA,Timo Brei,0.415
+SV Stern Britz 1889,4-2-3-1,10,20,50%,Nein,Ja,SV Stern Britz 1889,LV,6,Timo Höhna,0.379
+SV Stern Britz 1889,4-2-3-1,10,20,50%,Nein,Ja,SV Stern Britz 1889,ZOM,19,Oguzhan Duman,0.357
+SV Stern Britz 1889,4-3-3,3,20,15%,Nein,Ja,SV Stern Britz 1889,ZM,NA,Marc Anthony Weisse,0.896
+SV Stern Britz 1889,4-3-3,3,20,15%,Nein,Ja,SV Stern Britz 1889,RM,NA,Kevin Schneider,0.794
+SV Stern Britz 1889,4-3-3,3,20,15%,Nein,Ja,SV Stern Britz 1889,ZM,2,Tommes Diallo,0.709
+SV Stern Britz 1889,4-3-3,3,20,15%,Nein,Ja,SV Stern Britz 1889,IV,23,Andre Schulz,0.595
+SV Stern Britz 1889,4-3-3,3,20,15%,Nein,Ja,SV Stern Britz 1889,LM,NA,Christopher Schneider,0.499
+SV Stern Britz 1889,4-3-3,3,20,15%,Nein,Ja,SV Stern Britz 1889,TW,1,Timo Ziebarth,0.476
+SV Stern Britz 1889,4-3-3,3,20,15%,Nein,Ja,SV Stern Britz 1889,ST,7,Dustin Sik,0.456
+SV Stern Britz 1889,4-3-3,3,20,15%,Nein,Ja,SV Stern Britz 1889,ZM,22,Luca Wojan,0.446
+SV Stern Britz 1889,4-3-3,3,20,15%,Nein,Ja,SV Stern Britz 1889,IV,NA,Timo Brei,0.415
+SV Stern Britz 1889,4-3-3,3,20,15%,Nein,Ja,SV Stern Britz 1889,LV,6,Timo Höhna,0.379
+SV Stern Britz 1889,4-3-3,3,20,15%,Nein,Ja,SV Stern Britz 1889,RV,26,Naim Senay,0.311
+SV Stern Britz 1889,4-4-1-1,2,20,10%,Nein,Ja,SV Stern Britz 1889,ZM,NA,Marc Anthony Weisse,0.896
+SV Stern Britz 1889,4-4-1-1,2,20,10%,Nein,Ja,SV Stern Britz 1889,RM,NA,Kevin Schneider,0.794
+SV Stern Britz 1889,4-4-1-1,2,20,10%,Nein,Ja,SV Stern Britz 1889,ZM,2,Tommes Diallo,0.709
+SV Stern Britz 1889,4-4-1-1,2,20,10%,Nein,Ja,SV Stern Britz 1889,IV,23,Andre Schulz,0.595
+SV Stern Britz 1889,4-4-1-1,2,20,10%,Nein,Ja,SV Stern Britz 1889,LM,NA,Christopher Schneider,0.499
+SV Stern Britz 1889,4-4-1-1,2,20,10%,Nein,Ja,SV Stern Britz 1889,TW,1,Timo Ziebarth,0.476
+SV Stern Britz 1889,4-4-1-1,2,20,10%,Nein,Ja,SV Stern Britz 1889,ST,7,Dustin Sik,0.456
+SV Stern Britz 1889,4-4-1-1,2,20,10%,Nein,Ja,SV Stern Britz 1889,IV,NA,Timo Brei,0.415
+SV Stern Britz 1889,4-4-1-1,2,20,10%,Nein,Ja,SV Stern Britz 1889,LV,6,Timo Höhna,0.379
+SV Stern Britz 1889,4-4-1-1,2,20,10%,Nein,Ja,SV Stern Britz 1889,ST,20,Shaker Shawrdi,0.36
+SV Stern Britz 1889,4-4-1-1,2,20,10%,Nein,Ja,SV Stern Britz 1889,RV,26,Naim Senay,0.311
+TSV Rudow Berlin,3-2-3-2,3,20,15%,Ja,Nein,TSV Rudow Berlin,TW,NA,Leon Merke,0.91
+TSV Rudow Berlin,3-2-3-2,3,20,15%,Ja,Nein,TSV Rudow Berlin,IV,4,Linus Fürstenow,0.809
+TSV Rudow Berlin,3-2-3-2,3,20,15%,Ja,Nein,TSV Rudow Berlin,IV,13,Elias Burda,0.786
+TSV Rudow Berlin,3-2-3-2,3,20,15%,Ja,Nein,TSV Rudow Berlin,RM,20,Patrick Maykowski,0.774
+TSV Rudow Berlin,3-2-3-2,3,20,15%,Ja,Nein,TSV Rudow Berlin,ZDM,17,Mohammed Hassane,0.766
+TSV Rudow Berlin,3-2-3-2,3,20,15%,Ja,Nein,TSV Rudow Berlin,ST,9,Matteo Günther,0.759
+TSV Rudow Berlin,3-2-3-2,3,20,15%,Ja,Nein,TSV Rudow Berlin,ZOM,10,Melih Hortum,0.714
+TSV Rudow Berlin,3-2-3-2,3,20,15%,Ja,Nein,TSV Rudow Berlin,LM,7,Nana Kwame Badu-Amoah,0.69
+TSV Rudow Berlin,3-2-3-2,3,20,15%,Ja,Nein,TSV Rudow Berlin,IV,3,Jonas Becker,0.685
+TSV Rudow Berlin,3-2-3-2,3,20,15%,Ja,Nein,TSV Rudow Berlin,ZDM,8,Alexander Wuthe,0.675
+TSV Rudow Berlin,3-2-3-2,3,20,15%,Ja,Nein,TSV Rudow Berlin,ST,24,Talha Sennur,0.662
+TSV Rudow Berlin,3-4-1-2,6,20,30%,Ja,Nein,TSV Rudow Berlin,TW,NA,Leon Merke,0.91
+TSV Rudow Berlin,3-4-1-2,6,20,30%,Ja,Nein,TSV Rudow Berlin,IV,4,Linus Fürstenow,0.809
+TSV Rudow Berlin,3-4-1-2,6,20,30%,Ja,Nein,TSV Rudow Berlin,IV,13,Elias Burda,0.786
+TSV Rudow Berlin,3-4-1-2,6,20,30%,Ja,Nein,TSV Rudow Berlin,RM,20,Patrick Maykowski,0.774
+TSV Rudow Berlin,3-4-1-2,6,20,30%,Ja,Nein,TSV Rudow Berlin,ZDM,17,Mohammed Hassane,0.766
+TSV Rudow Berlin,3-4-1-2,6,20,30%,Ja,Nein,TSV Rudow Berlin,ST,9,Matteo Günther,0.759
+TSV Rudow Berlin,3-4-1-2,6,20,30%,Ja,Nein,TSV Rudow Berlin,ZOM,10,Melih Hortum,0.714
+TSV Rudow Berlin,3-4-1-2,6,20,30%,Ja,Nein,TSV Rudow Berlin,LM,7,Nana Kwame Badu-Amoah,0.69
+TSV Rudow Berlin,3-4-1-2,6,20,30%,Ja,Nein,TSV Rudow Berlin,IV,3,Jonas Becker,0.685
+TSV Rudow Berlin,3-4-1-2,6,20,30%,Ja,Nein,TSV Rudow Berlin,ZDM,8,Alexander Wuthe,0.675
+TSV Rudow Berlin,3-4-1-2,6,20,30%,Ja,Nein,TSV Rudow Berlin,ST,24,Talha Sennur,0.662
+TSV Rudow Berlin,3-4-3,3,20,15%,Ja,Nein,TSV Rudow Berlin,TW,NA,Leon Merke,0.91
+TSV Rudow Berlin,3-4-3,3,20,15%,Ja,Nein,TSV Rudow Berlin,IV,4,Linus Fürstenow,0.809
+TSV Rudow Berlin,3-4-3,3,20,15%,Ja,Nein,TSV Rudow Berlin,IV,13,Elias Burda,0.786
+TSV Rudow Berlin,3-4-3,3,20,15%,Ja,Nein,TSV Rudow Berlin,RM,20,Patrick Maykowski,0.774
+TSV Rudow Berlin,3-4-3,3,20,15%,Ja,Nein,TSV Rudow Berlin,ZM,17,Mohammed Hassane,0.766
+TSV Rudow Berlin,3-4-3,3,20,15%,Ja,Nein,TSV Rudow Berlin,ST,9,Matteo Günther,0.759
+TSV Rudow Berlin,3-4-3,3,20,15%,Ja,Nein,TSV Rudow Berlin,ZM,10,Melih Hortum,0.714
+TSV Rudow Berlin,3-4-3,3,20,15%,Ja,Nein,TSV Rudow Berlin,LM,7,Nana Kwame Badu-Amoah,0.69
+TSV Rudow Berlin,3-4-3,3,20,15%,Ja,Nein,TSV Rudow Berlin,IV,3,Jonas Becker,0.685
+TSV Rudow Berlin,3-4-3,3,20,15%,Ja,Nein,TSV Rudow Berlin,ST,24,Talha Sennur,0.662
+TSV Rudow Berlin,3-4-3,3,20,15%,Ja,Nein,TSV Rudow Berlin,ST,11,Samet Sennur,0.575
+TSV Rudow Berlin,3-5-2,1,20,5%,Ja,Nein,TSV Rudow Berlin,TW,NA,Leon Merke,0.91
+TSV Rudow Berlin,3-5-2,1,20,5%,Ja,Nein,TSV Rudow Berlin,IV,4,Linus Fürstenow,0.809
+TSV Rudow Berlin,3-5-2,1,20,5%,Ja,Nein,TSV Rudow Berlin,IV,13,Elias Burda,0.786
+TSV Rudow Berlin,3-5-2,1,20,5%,Ja,Nein,TSV Rudow Berlin,RM,20,Patrick Maykowski,0.774
+TSV Rudow Berlin,3-5-2,1,20,5%,Ja,Nein,TSV Rudow Berlin,ZM,17,Mohammed Hassane,0.766
+TSV Rudow Berlin,3-5-2,1,20,5%,Ja,Nein,TSV Rudow Berlin,ST,9,Matteo Günther,0.759
+TSV Rudow Berlin,3-5-2,1,20,5%,Ja,Nein,TSV Rudow Berlin,ZM,10,Melih Hortum,0.714
+TSV Rudow Berlin,3-5-2,1,20,5%,Ja,Nein,TSV Rudow Berlin,LM,7,Nana Kwame Badu-Amoah,0.69
+TSV Rudow Berlin,3-5-2,1,20,5%,Ja,Nein,TSV Rudow Berlin,IV,3,Jonas Becker,0.685
+TSV Rudow Berlin,3-5-2,1,20,5%,Ja,Nein,TSV Rudow Berlin,ST,24,Talha Sennur,0.662
+TSV Rudow Berlin,3-5-2,1,20,5%,Ja,Nein,TSV Rudow Berlin,ZM,NA,Aron Murseli,0.569
+TSV Rudow Berlin,3-6-1,1,20,5%,Ja,Nein,TSV Rudow Berlin,TW,NA,Leon Merke,0.91
+TSV Rudow Berlin,3-6-1,1,20,5%,Ja,Nein,TSV Rudow Berlin,IV,4,Linus Fürstenow,0.809
+TSV Rudow Berlin,3-6-1,1,20,5%,Ja,Nein,TSV Rudow Berlin,IV,13,Elias Burda,0.786
+TSV Rudow Berlin,3-6-1,1,20,5%,Ja,Nein,TSV Rudow Berlin,RM,20,Patrick Maykowski,0.774
+TSV Rudow Berlin,3-6-1,1,20,5%,Ja,Nein,TSV Rudow Berlin,ZM,17,Mohammed Hassane,0.766
+TSV Rudow Berlin,3-6-1,1,20,5%,Ja,Nein,TSV Rudow Berlin,ST,9,Matteo Günther,0.759
+TSV Rudow Berlin,3-6-1,1,20,5%,Ja,Nein,TSV Rudow Berlin,ZM,10,Melih Hortum,0.714
+TSV Rudow Berlin,3-6-1,1,20,5%,Ja,Nein,TSV Rudow Berlin,LM,7,Nana Kwame Badu-Amoah,0.69
+TSV Rudow Berlin,3-6-1,1,20,5%,Ja,Nein,TSV Rudow Berlin,IV,3,Jonas Becker,0.685
+TSV Rudow Berlin,3-6-1,1,20,5%,Ja,Nein,TSV Rudow Berlin,ZM,NA,Aron Murseli,0.569
+TSV Rudow Berlin,3-6-1,1,20,5%,Ja,Nein,TSV Rudow Berlin,ZM,23,Dominik Thonfeld,0.156
+TSV Rudow Berlin,4-4-2,5,20,25%,Nein,Ja,TSV Rudow Berlin,TW,NA,Leon Merke,0.91
+TSV Rudow Berlin,4-4-2,5,20,25%,Nein,Ja,TSV Rudow Berlin,IV,4,Linus Fürstenow,0.809
+TSV Rudow Berlin,4-4-2,5,20,25%,Nein,Ja,TSV Rudow Berlin,IV,13,Elias Burda,0.786
+TSV Rudow Berlin,4-4-2,5,20,25%,Nein,Ja,TSV Rudow Berlin,RM,20,Patrick Maykowski,0.774
+TSV Rudow Berlin,4-4-2,5,20,25%,Nein,Ja,TSV Rudow Berlin,ZM,17,Mohammed Hassane,0.766
+TSV Rudow Berlin,4-4-2,5,20,25%,Nein,Ja,TSV Rudow Berlin,ST,9,Matteo Günther,0.759
+TSV Rudow Berlin,4-4-2,5,20,25%,Nein,Ja,TSV Rudow Berlin,ZM,10,Melih Hortum,0.714
+TSV Rudow Berlin,4-4-2,5,20,25%,Nein,Ja,TSV Rudow Berlin,LM,7,Nana Kwame Badu-Amoah,0.69
+TSV Rudow Berlin,4-4-2,5,20,25%,Nein,Ja,TSV Rudow Berlin,ST,24,Talha Sennur,0.662
+TSV Rudow Berlin,4-4-2,5,20,25%,Nein,Ja,TSV Rudow Berlin,LV,NA,Lucas Robbin Bähr,0.61
+TSV Rudow Berlin,4-4-2,5,20,25%,Nein,Ja,TSV Rudow Berlin,RV,21,Abdullah Bayram,0.534
+Türkiyemspor Berlin,3-4-3,1,20,5%,Ja,Nein,Türkiyemspor Berlin,ZM,NA,Abdoulaye Djibril Diallo,0.786
+Türkiyemspor Berlin,3-4-3,1,20,5%,Ja,Nein,Türkiyemspor Berlin,RM,25,Enes Uzun,0.609
+Türkiyemspor Berlin,3-4-3,1,20,5%,Ja,Nein,Türkiyemspor Berlin,LM,21,Tolgahan Can Eskin,0.577
+Türkiyemspor Berlin,3-4-3,1,20,5%,Ja,Nein,Türkiyemspor Berlin,ST,5,Omid Saberdest,0.557
+Türkiyemspor Berlin,3-4-3,1,20,5%,Ja,Nein,Türkiyemspor Berlin,ZM,6,Amon Simunovic,0.541
+Türkiyemspor Berlin,3-4-3,1,20,5%,Ja,Nein,Türkiyemspor Berlin,IV,3,Kenan Demir,0.534
+Türkiyemspor Berlin,3-4-3,1,20,5%,Ja,Nein,Türkiyemspor Berlin,TW,13,Ertugrul Aktas,0.51
+Türkiyemspor Berlin,3-4-3,1,20,5%,Ja,Nein,Türkiyemspor Berlin,IV,11,Mustafa Kemal Karaman,0.454
+Türkiyemspor Berlin,3-4-3,1,20,5%,Ja,Nein,Türkiyemspor Berlin,IV,32,Deniz Karakus,0.42
+Türkiyemspor Berlin,3-4-3,1,20,5%,Ja,Nein,Türkiyemspor Berlin,ST,NA,Volkan Neziroglu,0.407
+Türkiyemspor Berlin,3-4-3,1,20,5%,Ja,Nein,Türkiyemspor Berlin,ST,NA,Mehmet Tunay,0.39
+Türkiyemspor Berlin,4-1-4-1,4,20,20%,Nein,Ja,Türkiyemspor Berlin,RV,NA,Abdoulaye Djibril Diallo,0.786
+Türkiyemspor Berlin,4-1-4-1,4,20,20%,Nein,Ja,Türkiyemspor Berlin,ZOM,4,Görkem Yilmaz,0.644
+Türkiyemspor Berlin,4-1-4-1,4,20,20%,Nein,Ja,Türkiyemspor Berlin,RM,25,Enes Uzun,0.609
+Türkiyemspor Berlin,4-1-4-1,4,20,20%,Nein,Ja,Türkiyemspor Berlin,LM,21,Tolgahan Can Eskin,0.577
+Türkiyemspor Berlin,4-1-4-1,4,20,20%,Nein,Ja,Türkiyemspor Berlin,ZOM,5,Omid Saberdest,0.557
+Türkiyemspor Berlin,4-1-4-1,4,20,20%,Nein,Ja,Türkiyemspor Berlin,ZDM,6,Amon Simunovic,0.541
+Türkiyemspor Berlin,4-1-4-1,4,20,20%,Nein,Ja,Türkiyemspor Berlin,IV,3,Kenan Demir,0.534
+Türkiyemspor Berlin,4-1-4-1,4,20,20%,Nein,Ja,Türkiyemspor Berlin,TW,13,Ertugrul Aktas,0.51
+Türkiyemspor Berlin,4-1-4-1,4,20,20%,Nein,Ja,Türkiyemspor Berlin,LV,36,Deren Yoldas Emre,0.489
+Türkiyemspor Berlin,4-1-4-1,4,20,20%,Nein,Ja,Türkiyemspor Berlin,IV,11,Mustafa Kemal Karaman,0.454
+Türkiyemspor Berlin,4-1-4-1,4,20,20%,Nein,Ja,Türkiyemspor Berlin,ST,NA,Volkan Neziroglu,0.407
+Türkiyemspor Berlin,4-2-3-1,11,20,55%,Nein,Ja,Türkiyemspor Berlin,RV,NA,Abdoulaye Djibril Diallo,0.786
+Türkiyemspor Berlin,4-2-3-1,11,20,55%,Nein,Ja,Türkiyemspor Berlin,ZOM,4,Görkem Yilmaz,0.644
+Türkiyemspor Berlin,4-2-3-1,11,20,55%,Nein,Ja,Türkiyemspor Berlin,RM,25,Enes Uzun,0.609
+Türkiyemspor Berlin,4-2-3-1,11,20,55%,Nein,Ja,Türkiyemspor Berlin,LM,21,Tolgahan Can Eskin,0.577
+Türkiyemspor Berlin,4-2-3-1,11,20,55%,Nein,Ja,Türkiyemspor Berlin,ST,5,Omid Saberdest,0.557
+Türkiyemspor Berlin,4-2-3-1,11,20,55%,Nein,Ja,Türkiyemspor Berlin,ZDM,6,Amon Simunovic,0.541
+Türkiyemspor Berlin,4-2-3-1,11,20,55%,Nein,Ja,Türkiyemspor Berlin,IV,3,Kenan Demir,0.534
+Türkiyemspor Berlin,4-2-3-1,11,20,55%,Nein,Ja,Türkiyemspor Berlin,ZDM,8,Ömer Tanis,0.521
+Türkiyemspor Berlin,4-2-3-1,11,20,55%,Nein,Ja,Türkiyemspor Berlin,TW,13,Ertugrul Aktas,0.51
+Türkiyemspor Berlin,4-2-3-1,11,20,55%,Nein,Ja,Türkiyemspor Berlin,LV,36,Deren Yoldas Emre,0.489
+Türkiyemspor Berlin,4-2-3-1,11,20,55%,Nein,Ja,Türkiyemspor Berlin,IV,11,Mustafa Kemal Karaman,0.454
+Türkiyemspor Berlin,4-4-2,2,20,10%,Nein,Ja,Türkiyemspor Berlin,ZM,NA,Abdoulaye Djibril Diallo,0.786
+Türkiyemspor Berlin,4-4-2,2,20,10%,Nein,Ja,Türkiyemspor Berlin,RV,4,Görkem Yilmaz,0.644
+Türkiyemspor Berlin,4-4-2,2,20,10%,Nein,Ja,Türkiyemspor Berlin,RM,25,Enes Uzun,0.609
+Türkiyemspor Berlin,4-4-2,2,20,10%,Nein,Ja,Türkiyemspor Berlin,LM,21,Tolgahan Can Eskin,0.577
+Türkiyemspor Berlin,4-4-2,2,20,10%,Nein,Ja,Türkiyemspor Berlin,ST,5,Omid Saberdest,0.557
+Türkiyemspor Berlin,4-4-2,2,20,10%,Nein,Ja,Türkiyemspor Berlin,ZM,6,Amon Simunovic,0.541
+Türkiyemspor Berlin,4-4-2,2,20,10%,Nein,Ja,Türkiyemspor Berlin,IV,3,Kenan Demir,0.534
+Türkiyemspor Berlin,4-4-2,2,20,10%,Nein,Ja,Türkiyemspor Berlin,TW,13,Ertugrul Aktas,0.51
+Türkiyemspor Berlin,4-4-2,2,20,10%,Nein,Ja,Türkiyemspor Berlin,LV,36,Deren Yoldas Emre,0.489
+Türkiyemspor Berlin,4-4-2,2,20,10%,Nein,Ja,Türkiyemspor Berlin,IV,11,Mustafa Kemal Karaman,0.454
+Türkiyemspor Berlin,4-4-2,2,20,10%,Nein,Ja,Türkiyemspor Berlin,ST,NA,Volkan Neziroglu,0.407
+Türkiyemspor Berlin,4-5-1,1,20,5%,Nein,Ja,Türkiyemspor Berlin,ZM,NA,Abdoulaye Djibril Diallo,0.786
+Türkiyemspor Berlin,4-5-1,1,20,5%,Nein,Ja,Türkiyemspor Berlin,RV,4,Görkem Yilmaz,0.644
+Türkiyemspor Berlin,4-5-1,1,20,5%,Nein,Ja,Türkiyemspor Berlin,RM,25,Enes Uzun,0.609
+Türkiyemspor Berlin,4-5-1,1,20,5%,Nein,Ja,Türkiyemspor Berlin,LM,21,Tolgahan Can Eskin,0.577
+Türkiyemspor Berlin,4-5-1,1,20,5%,Nein,Ja,Türkiyemspor Berlin,ST,5,Omid Saberdest,0.557
+Türkiyemspor Berlin,4-5-1,1,20,5%,Nein,Ja,Türkiyemspor Berlin,ZM,6,Amon Simunovic,0.541
+Türkiyemspor Berlin,4-5-1,1,20,5%,Nein,Ja,Türkiyemspor Berlin,IV,3,Kenan Demir,0.534
+Türkiyemspor Berlin,4-5-1,1,20,5%,Nein,Ja,Türkiyemspor Berlin,ZM,8,Ömer Tanis,0.521
+Türkiyemspor Berlin,4-5-1,1,20,5%,Nein,Ja,Türkiyemspor Berlin,TW,13,Ertugrul Aktas,0.51
+Türkiyemspor Berlin,4-5-1,1,20,5%,Nein,Ja,Türkiyemspor Berlin,LV,36,Deren Yoldas Emre,0.489
+Türkiyemspor Berlin,4-5-1,1,20,5%,Nein,Ja,Türkiyemspor Berlin,IV,11,Mustafa Kemal Karaman,0.454
+VfB Concordia Britz 1916,4-2-2-2,1,20,5%,Nein,Ja,VfB Concordia Britz 1916,IV,8,Merlin Schulz,2.514
+VfB Concordia Britz 1916,4-2-2-2,1,20,5%,Nein,Ja,VfB Concordia Britz 1916,TW,21,Piet Kühn,0.591
+VfB Concordia Britz 1916,4-2-2-2,1,20,5%,Nein,Ja,VfB Concordia Britz 1916,LV,NA,Domenic Schäfer,0.493
+VfB Concordia Britz 1916,4-2-2-2,1,20,5%,Nein,Ja,VfB Concordia Britz 1916,RM,6,Felix Weglöhner,0.456
+VfB Concordia Britz 1916,4-2-2-2,1,20,5%,Nein,Ja,VfB Concordia Britz 1916,IV,NA,Yannic Behrendt,0.446
+VfB Concordia Britz 1916,4-2-2-2,1,20,5%,Nein,Ja,VfB Concordia Britz 1916,ST,20,Maximilian Höhle,0.436
+VfB Concordia Britz 1916,4-2-2-2,1,20,5%,Nein,Ja,VfB Concordia Britz 1916,RV,23,Benedikt Schmidtmann,0.422
+VfB Concordia Britz 1916,4-2-2-2,1,20,5%,Nein,Ja,VfB Concordia Britz 1916,ST,NA,Omar Mohamed Ibrahim Hassan Ali,0.415
+VfB Concordia Britz 1916,4-2-2-2,1,20,5%,Nein,Ja,VfB Concordia Britz 1916,ZM,9,Le-Roy Da-Costa,0.397
+VfB Concordia Britz 1916,4-2-2-2,1,20,5%,Nein,Ja,VfB Concordia Britz 1916,ZM,NA,Lionel Krampah,0.388
+VfB Concordia Britz 1916,4-2-2-2,1,20,5%,Nein,Ja,VfB Concordia Britz 1916,LM,17,Philip Wieser,0.318
+VfB Concordia Britz 1916,4-2-3-1,1,20,5%,Nein,Ja,VfB Concordia Britz 1916,IV,8,Merlin Schulz,2.514
+VfB Concordia Britz 1916,4-2-3-1,1,20,5%,Nein,Ja,VfB Concordia Britz 1916,TW,21,Piet Kühn,0.591
+VfB Concordia Britz 1916,4-2-3-1,1,20,5%,Nein,Ja,VfB Concordia Britz 1916,LV,NA,Domenic Schäfer,0.493
+VfB Concordia Britz 1916,4-2-3-1,1,20,5%,Nein,Ja,VfB Concordia Britz 1916,RM,6,Felix Weglöhner,0.456
+VfB Concordia Britz 1916,4-2-3-1,1,20,5%,Nein,Ja,VfB Concordia Britz 1916,IV,NA,Yannic Behrendt,0.446
+VfB Concordia Britz 1916,4-2-3-1,1,20,5%,Nein,Ja,VfB Concordia Britz 1916,ST,20,Maximilian Höhle,0.436
+VfB Concordia Britz 1916,4-2-3-1,1,20,5%,Nein,Ja,VfB Concordia Britz 1916,RV,23,Benedikt Schmidtmann,0.422
+VfB Concordia Britz 1916,4-2-3-1,1,20,5%,Nein,Ja,VfB Concordia Britz 1916,ZOM,NA,Omar Mohamed Ibrahim Hassan Ali,0.415
+VfB Concordia Britz 1916,4-2-3-1,1,20,5%,Nein,Ja,VfB Concordia Britz 1916,LM,17,Philip Wieser,0.318
+VfB Concordia Britz 1916,4-4-1-1,3,20,15%,Nein,Ja,VfB Concordia Britz 1916,IV,8,Merlin Schulz,2.514
+VfB Concordia Britz 1916,4-4-1-1,3,20,15%,Nein,Ja,VfB Concordia Britz 1916,TW,21,Piet Kühn,0.591
+VfB Concordia Britz 1916,4-4-1-1,3,20,15%,Nein,Ja,VfB Concordia Britz 1916,LV,NA,Domenic Schäfer,0.493
+VfB Concordia Britz 1916,4-4-1-1,3,20,15%,Nein,Ja,VfB Concordia Britz 1916,RM,6,Felix Weglöhner,0.456
+VfB Concordia Britz 1916,4-4-1-1,3,20,15%,Nein,Ja,VfB Concordia Britz 1916,IV,NA,Yannic Behrendt,0.446
+VfB Concordia Britz 1916,4-4-1-1,3,20,15%,Nein,Ja,VfB Concordia Britz 1916,ST,20,Maximilian Höhle,0.436
+VfB Concordia Britz 1916,4-4-1-1,3,20,15%,Nein,Ja,VfB Concordia Britz 1916,RV,23,Benedikt Schmidtmann,0.422
+VfB Concordia Britz 1916,4-4-1-1,3,20,15%,Nein,Ja,VfB Concordia Britz 1916,ST,NA,Omar Mohamed Ibrahim Hassan Ali,0.415
+VfB Concordia Britz 1916,4-4-1-1,3,20,15%,Nein,Ja,VfB Concordia Britz 1916,ZM,9,Le-Roy Da-Costa,0.397
+VfB Concordia Britz 1916,4-4-1-1,3,20,15%,Nein,Ja,VfB Concordia Britz 1916,ZM,NA,Lionel Krampah,0.388
+VfB Concordia Britz 1916,4-4-1-1,3,20,15%,Nein,Ja,VfB Concordia Britz 1916,LM,17,Philip Wieser,0.318
+VfB Concordia Britz 1916,4-4-2,4,20,20%,Nein,Ja,VfB Concordia Britz 1916,IV,8,Merlin Schulz,2.514
+VfB Concordia Britz 1916,4-4-2,4,20,20%,Nein,Ja,VfB Concordia Britz 1916,TW,21,Piet Kühn,0.591
+VfB Concordia Britz 1916,4-4-2,4,20,20%,Nein,Ja,VfB Concordia Britz 1916,LV,NA,Domenic Schäfer,0.493
+VfB Concordia Britz 1916,4-4-2,4,20,20%,Nein,Ja,VfB Concordia Britz 1916,RM,6,Felix Weglöhner,0.456
+VfB Concordia Britz 1916,4-4-2,4,20,20%,Nein,Ja,VfB Concordia Britz 1916,IV,NA,Yannic Behrendt,0.446
+VfB Concordia Britz 1916,4-4-2,4,20,20%,Nein,Ja,VfB Concordia Britz 1916,ST,20,Maximilian Höhle,0.436
+VfB Concordia Britz 1916,4-4-2,4,20,20%,Nein,Ja,VfB Concordia Britz 1916,RV,23,Benedikt Schmidtmann,0.422
+VfB Concordia Britz 1916,4-4-2,4,20,20%,Nein,Ja,VfB Concordia Britz 1916,ST,NA,Omar Mohamed Ibrahim Hassan Ali,0.415
+VfB Concordia Britz 1916,4-4-2,4,20,20%,Nein,Ja,VfB Concordia Britz 1916,ZM,9,Le-Roy Da-Costa,0.397
+VfB Concordia Britz 1916,4-4-2,4,20,20%,Nein,Ja,VfB Concordia Britz 1916,ZM,NA,Lionel Krampah,0.388
+VfB Concordia Britz 1916,4-4-2,4,20,20%,Nein,Ja,VfB Concordia Britz 1916,LM,17,Philip Wieser,0.318
+VfB Concordia Britz 1916,4-5-1,9,20,45%,Nein,Ja,VfB Concordia Britz 1916,IV,8,Merlin Schulz,2.514
+VfB Concordia Britz 1916,4-5-1,9,20,45%,Nein,Ja,VfB Concordia Britz 1916,TW,21,Piet Kühn,0.591
+VfB Concordia Britz 1916,4-5-1,9,20,45%,Nein,Ja,VfB Concordia Britz 1916,LV,NA,Domenic Schäfer,0.493
+VfB Concordia Britz 1916,4-5-1,9,20,45%,Nein,Ja,VfB Concordia Britz 1916,RM,6,Felix Weglöhner,0.456
+VfB Concordia Britz 1916,4-5-1,9,20,45%,Nein,Ja,VfB Concordia Britz 1916,IV,NA,Yannic Behrendt,0.446
+VfB Concordia Britz 1916,4-5-1,9,20,45%,Nein,Ja,VfB Concordia Britz 1916,ST,20,Maximilian Höhle,0.436
+VfB Concordia Britz 1916,4-5-1,9,20,45%,Nein,Ja,VfB Concordia Britz 1916,RV,23,Benedikt Schmidtmann,0.422
+VfB Concordia Britz 1916,4-5-1,9,20,45%,Nein,Ja,VfB Concordia Britz 1916,ZM,9,Le-Roy Da-Costa,0.397
+VfB Concordia Britz 1916,4-5-1,9,20,45%,Nein,Ja,VfB Concordia Britz 1916,ZM,NA,Lionel Krampah,0.388
+VfB Concordia Britz 1916,4-5-1,9,20,45%,Nein,Ja,VfB Concordia Britz 1916,ZM,17,Philip Wieser,0.318
+VfB Concordia Britz 1916,4-5-1,9,20,45%,Nein,Ja,VfB Concordia Britz 1916,LM,26,Amir-Mohamad Yassine,0.293
+VfB Concordia Britz 1916,5-4-1,1,20,5%,Nein,Nein,VfB Concordia Britz 1916,IV,8,Merlin Schulz,2.514
+VfB Concordia Britz 1916,5-4-1,1,20,5%,Nein,Nein,VfB Concordia Britz 1916,TW,21,Piet Kühn,0.591
+VfB Concordia Britz 1916,5-4-1,1,20,5%,Nein,Nein,VfB Concordia Britz 1916,LV,NA,Domenic Schäfer,0.493
+VfB Concordia Britz 1916,5-4-1,1,20,5%,Nein,Nein,VfB Concordia Britz 1916,RM,6,Felix Weglöhner,0.456
+VfB Concordia Britz 1916,5-4-1,1,20,5%,Nein,Nein,VfB Concordia Britz 1916,IV,NA,Yannic Behrendt,0.446
+VfB Concordia Britz 1916,5-4-1,1,20,5%,Nein,Nein,VfB Concordia Britz 1916,ST,20,Maximilian Höhle,0.436
+VfB Concordia Britz 1916,5-4-1,1,20,5%,Nein,Nein,VfB Concordia Britz 1916,IV,5,Tim Wenke,0.43
+VfB Concordia Britz 1916,5-4-1,1,20,5%,Nein,Nein,VfB Concordia Britz 1916,RV,23,Benedikt Schmidtmann,0.422
+VfB Concordia Britz 1916,5-4-1,1,20,5%,Nein,Nein,VfB Concordia Britz 1916,ZM,9,Le-Roy Da-Costa,0.397
+VfB Concordia Britz 1916,5-4-1,1,20,5%,Nein,Nein,VfB Concordia Britz 1916,ZM,NA,Lionel Krampah,0.388
+VfB Concordia Britz 1916,5-4-1,1,20,5%,Nein,Nein,VfB Concordia Britz 1916,LM,17,Philip Wieser,0.318
