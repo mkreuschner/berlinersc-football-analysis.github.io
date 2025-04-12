@@ -63,14 +63,14 @@ matchday,H,A,Tore_H,Tore_A
 23,Berliner SC II,BSV Eintracht Mahlsdorf II,-,-
 23,BSV Al-Dersimspor,SC Borsigwalde 1910,-,-
 23,SV Empor Berlin II,FSV Berolina Stralau 1901,-,-
-22,BSV Al-Dersimspor,FC Internationale Berlin 1980,-,-
-22,FC Viktoria 1889 Berlin II,BFC Preussen II,-,-
-22,SV Stern Britz 1889,BFC Meteor 06,-,-
-22,BSV Eintracht Mahlsdorf II,Köpenicker FC,-,-
-22,Türkiyemspor Berlin,SV Empor Berlin II,-,-
-22,Berliner SC II,Berliner SV 1892,-,-
-22,TSV Rudow Berlin,VfB Concordia Britz 1916,-,-
-22,SC Borsigwalde 1910,FSV Berolina Stralau 1901,-,-
+22,BSV Al-Dersimspor,FC Internationale Berlin 1980,3,2
+22,FC Viktoria 1889 Berlin II,BFC Preussen II,1,3
+22,SV Stern Britz 1889,BFC Meteor 06,2,5
+22,BSV Eintracht Mahlsdorf II,Köpenicker FC,2,6
+22,Türkiyemspor Berlin,SV Empor Berlin II,2,1
+22,Berliner SC II,Berliner SV 1892,1,3
+22,TSV Rudow Berlin,VfB Concordia Britz 1916,2,0
+22,SC Borsigwalde 1910,FSV Berolina Stralau 1901,6,3
 21,BFC Meteor 06,TSV Rudow Berlin,2,2
 21,FSV Berolina Stralau 1901,SV Stern Britz 1889,2,1
 21,Berliner SV 1892,FC Viktoria 1889 Berlin II,1,3
@@ -113,8 +113,8 @@ matchday,H,A,Tore_H,Tore_A
 17,SV Empor Berlin II,VfB Concordia Britz 1916,-,-
 16,SV Stern Britz 1889,TSV Rudow Berlin,1,3
 16,VfB Concordia Britz 1916,FC Viktoria 1889 Berlin II,2,3
-16,BFC Meteor 06,SV Empor Berlin II,-,-
-16,BFC Preussen II,Berliner SC II,-,-
+16,BFC Meteor 06,SV Empor Berlin II,4,2
+16,BFC Preussen II,Berliner SC II,3,2
 16,SC Borsigwalde 1910,Türkiyemspor Berlin,0,1
 16,Köpenicker FC,Berliner SV 1892,0,3
 16,FSV Berolina Stralau 1901,FC Internationale Berlin 1980,3,1
