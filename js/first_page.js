@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
     let currentMatchday = 1;
 
     // CSV-Datei für Spieltage laden und Dropdown füllen
-    Papa.parse("https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/Spieltage.csv", {
+    Papa.parse("https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/match_results_and_probabilities.csv", {
         download: true,
         header: true,
         skipEmptyLines: true,
@@ -56,33 +56,37 @@ document.addEventListener("DOMContentLoaded", () => {
 
         let html = `
     <div style="
-        display: flex; 
-        flex-direction: column; 
-        gap: 0.3rem; 
-        margin-top: 0.3rem; 
-        max-width: 400px; 
-        align-items: center; 
-        justify-content: center; 
-        margin-left: auto; 
+        display: flex;
+        flex-direction: column;
+        gap: 0.3rem;
+        margin-top: 0.3rem;
+        max-width: 400px;
+        align-items: center;
+        justify-content: center;
+        margin-left: auto;
         margin-right: auto;
     ">`;
 
         filteredData.forEach(row => {
-            const homeTeam = row["H"] || "Unbekannt";
-            const awayTeam = row["A"] || "Unbekannt";
-            const homeGoals = row["Tore_H"] || "0";
-            const awayGoals = row["Tore_A"] || "0";
+            const homeTeam = row["home_team"] || row["H"] || "Unbekannt";
+            const awayTeam = row["away_team"] || row["A"] || "Unbekannt";
+            const homeGoals = row["goals_home"] || row["Tore_H"];
+            const awayGoals = row["goals_away"] || row["Tore_A"];
 
             html += `
         <div style="
-            font-size: 0.9rem; 
-            border: 1px solid #ddd; 
-            border-radius: 0.1rem; 
-            padding: 0.3rem; 
-            background-color: #f9f9f9; 
-            box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1); 
+            font-size: 0.9rem;
+            border: 1px solid #ddd;
+            border-radius: 0.1rem;
+            padding: 0.3rem;
+            background-color: #f9f9f9;
+            box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
             width: 100%;
-        ">
+        ">`;
+
+            if (homeGoals !== undefined && awayGoals !== undefined && homeGoals !== "" && awayGoals !== "") {
+                // Show result
+                html += `
             <div style="display: flex; justify-content: space-between; margin-bottom: 0.1rem;">
                 <span style="font-weight: bold;">${homeTeam}</span>
                 <span>${homeGoals}</span>
@@ -90,14 +94,27 @@ document.addEventListener("DOMContentLoaded", () => {
             <div style="display: flex; justify-content: space-between;">
                 <span style="font-weight: bold;">${awayTeam}</span>
                 <span>${awayGoals}</span>
-            </div>
-        </div>
-        `;
+            </div>`;
+            } else {
+                // Show predicted probabilities
+                const probHome = Math.round(parseFloat(row["prob_home_win"] || 0) * 100);
+                const probDraw = Math.round(parseFloat(row["prob_draw"] || 0) * 100);
+                const probAway = Math.round(parseFloat(row["prob_away_win"] || 0) * 100);
+
+                html += `
+            <div style="text-align: center; font-weight: bold;">${homeTeam} vs ${awayTeam}</div>
+            <div style="text-align: center; font-size: 0.8rem; margin-top: 0.2rem;">
+                🏠 ${probHome}% &nbsp;&nbsp; 🤝 ${probDraw}% &nbsp;&nbsp; 🛫 ${probAway}%
+            </div>`;
+            }
+
+            html += `</div>`;
         });
 
         html += `</div>`;
         matchdayContainer.innerHTML = html;
     }
+
 
     // Spieltagsnavigation
     prevButton.addEventListener("click", () => {
