@@ -54,8 +54,7 @@ document.addEventListener("DOMContentLoaded", () => {
             return;
         }
 
-        let html = `
-    <div style="
+        let html = `<div style="
         display: flex;
         flex-direction: column;
         gap: 0.3rem;
@@ -72,40 +71,40 @@ document.addEventListener("DOMContentLoaded", () => {
             const awayTeam = row["away_team"] || row["A"] || "Unbekannt";
             const homeGoals = row["goals_home"] || row["Tore_H"];
             const awayGoals = row["goals_away"] || row["Tore_A"];
+            const isPlayed = homeGoals !== undefined && awayGoals !== undefined && homeGoals !== "" && awayGoals !== "";
 
-            html += `
-        <div style="
+            html += `<div style="
             font-size: 0.9rem;
             border: 1px solid #ddd;
-            border-radius: 0.1rem;
-            padding: 0.3rem;
-            background-color: #f9f9f9;
-            box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+            border-radius: 0.2rem;
+            padding: 0.4rem;
+            background-color: #fdfdfd;
+            box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.05);
             width: 100%;
         ">`;
 
-            if (homeGoals !== undefined && awayGoals !== undefined && homeGoals !== "" && awayGoals !== "") {
-                // Show result
+            if (isPlayed) {
                 html += `
-            <div style="display: flex; justify-content: space-between; margin-bottom: 0.1rem;">
-                <span style="font-weight: bold;">${homeTeam}</span>
-                <span>${homeGoals}</span>
-            </div>
-            <div style="display: flex; justify-content: space-between;">
-                <span style="font-weight: bold;">${awayTeam}</span>
-                <span>${awayGoals}</span>
-            </div>`;
+                <div style="display: flex; justify-content: space-between; margin-bottom: 0.2rem;">
+                    <span style="font-weight: bold;">${homeTeam}</span>
+                    <span>${homeGoals}</span>
+                </div>
+                <div style="display: flex; justify-content: space-between;">
+                    <span style="font-weight: bold;">${awayTeam}</span>
+                    <span>${awayGoals}</span>
+                </div>`;
             } else {
-                // Show predicted probabilities
-                const probHome = Math.round(parseFloat(row["prob_home_win"] || 0) * 100);
-                const probDraw = Math.round(parseFloat(row["prob_draw"] || 0) * 100);
-                const probAway = Math.round(parseFloat(row["prob_away_win"] || 0) * 100);
+                const probHome = parseFloat(row["prob_home_win"]) || 0;
+                const probDraw = parseFloat(row["prob_draw"]) || 0;
+                const probAway = parseFloat(row["prob_away_win"]) || 0;
 
                 html += `
-            <div style="text-align: center; font-weight: bold;">${homeTeam} vs ${awayTeam}</div>
-            <div style="text-align: center; font-size: 0.8rem; margin-top: 0.2rem;">
-                🏠 ${probHome}% &nbsp;&nbsp; 🤝 ${probDraw}% &nbsp;&nbsp; 🛫 ${probAway}%
-            </div>`;
+                <div style="text-align: center; font-weight: bold;">${homeTeam} vs ${awayTeam}</div>
+                <div style="text-align: center; font-size: 0.8rem; margin-top: 0.3rem;">
+                    🏠 ${Math.round(probHome * 100)}% &nbsp;&nbsp;
+                    🤝 ${Math.round(probDraw * 100)}% &nbsp;&nbsp;
+                    🛫 ${Math.round(probAway * 100)}%
+                </div>`;
             }
 
             html += `</div>`;
@@ -114,6 +113,7 @@ document.addEventListener("DOMContentLoaded", () => {
         html += `</div>`;
         matchdayContainer.innerHTML = html;
     }
+
 
 
     // Spieltagsnavigation
