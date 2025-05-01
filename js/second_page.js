@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const categories = {
         "Prediction": {
-            csvPath: "https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/team_rank_probabilities.csv.csv",
+            csvPath: "https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/team_rank_probabilities.csv",
             columns: ["team","Rank","Count","Probability"],
             displayFunction: displayRankProbabilities
         },

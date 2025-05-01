@@ -98,12 +98,17 @@ document.addEventListener("DOMContentLoaded", () => {
                 const probDraw = parseFloat(row["prob_draw"]) || 0;
                 const probAway = parseFloat(row["prob_away_win"]) || 0;
 
-                html += `
-                <div style="text-align: center; font-weight: bold;">${homeTeam} vs ${awayTeam}</div>
-                <div style="text-align: center; font-size: 0.8rem; margin-top: 0.3rem;">
-                    🏠 ${Math.round(probHome * 100)}% &nbsp;&nbsp;
-                    🤝 ${Math.round(probDraw * 100)}% &nbsp;&nbsp;
-                    🛫 ${Math.round(probAway * 100)}%
+                html +=` 
+                <div style="display: flex; justify-content: space-between; margin-bottom: 0.2rem;">
+                    <span style="font-weight: bold;">${homeTeam}</span>
+                    <span>${Math.round(probHome * 100)}%</span>
+                </div>
+                <div style="display: flex; justify-content: space-between;">
+                    <span >Unentschieden</span>
+                    <span>${Math.round(probDraw * 100)}%</span>
+                <div style="display: flex; justify-content: space-between;">
+                    <span style="font-weight: bold;">${awayTeam}</span>
+                    <span>${Math.round(probAway * 100)}%</span>
                 </div>`;
             }
 
