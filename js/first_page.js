@@ -71,7 +71,7 @@ document.addEventListener("DOMContentLoaded", () => {
             const awayTeam = row["away_team"] || row["A"] || "Unbekannt";
             const homeGoals = row["goals_home"] || row["Tore_H"];
             const awayGoals = row["goals_away"] || row["Tore_A"];
-            const isPlayed = homeGoals !== undefined && awayGoals !== undefined && homeGoals !== "" && awayGoals !== "";
+            const isPlayed = homeGoals !== undefined && awayGoals !== undefined && homeGoals !== "" && awayGoals !== ""&& homeGoals !== "NA" && awayGoals !== "NA";
 
             html += `<div style="
             font-size: 0.9rem;
