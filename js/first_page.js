@@ -115,7 +115,6 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
 
-
     // Spieltagsnavigation
     prevButton.addEventListener("click", () => {
         if (currentMatchday > Math.min(...matchdaysData.map(row => parseInt(row["matchday"])))) {

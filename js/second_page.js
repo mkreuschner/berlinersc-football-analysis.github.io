@@ -30,10 +30,10 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
     const categories = {
-        "Keypoints": {
-            csvPath: "https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/keypoints.csv",
-            columns: ["Team","Allgemein","Formation","Spieler","Platz","Standard off","Standard def"],
-            displayFunction: displayKeypoints
+        "Prediction": {
+            csvPath: "https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/team_rank_probabilities.csv.csv",
+            columns: ["team","Rank","Count","Probability"],
+            displayFunction: displayRankProbabilities
         },
         "Head-2-Head": {
             csvPath: "https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/head2head.csv",
@@ -108,82 +108,59 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
 
-    function displayKeypoints(data, _, selectedTeam) {
-        if (!data || data.length === 0) {
-            displayNoDataMessage("Keine Daten verfügbar.");
-            return;
-        }
+    function displayRankProbabilities(data, _, team) {
+        const filtered = data.filter(row => row.team === team);
+        const ranks = Array.from({ length: 16 }, (_, i) => i + 1); // Ranks 1-16
+        const probBins = Array(16).fill(0);
 
-        // Filter nach Team
-        const selectedTeamData = data.find(row => row["Team"] === selectedTeam);
-
-        if (!selectedTeamData) {
-            displayNoDataMessage(`Keine Daten verfügbar für das Team "${selectedTeam}".`);
-            return;
-        }
-
-        // Alle Spalten außer "Team" verarbeiten
-        const categories = Object.keys(selectedTeamData).filter(key => key !== "Team");
-
-        // Container für Keypoints erstellen
-        const keypointsContainer = document.createElement("div");
-        keypointsContainer.style.display = "grid";
-        keypointsContainer.style.gridTemplateColumns = "repeat(auto-fit, minmax(300px, 1fr))";
-        keypointsContainer.style.gap = "0.5rem";
-
-        categories.forEach(category => {
-            // Box für die Kategorie erstellen
-            const box = document.createElement("div");
-            box.style.border = "1px solid #ddd";
-            box.style.borderRadius = "0.5rem";
-            box.style.padding = "0.5rem";
-            box.style.boxShadow = "0 2px 4px rgba(0, 0, 0, 0.1)";
-            box.style.backgroundColor = "#f9f9f9";
-
-            // Überschrift hinzufügen
-            const title = document.createElement("div");
-            title.style.marginBottom = "0.3rem";
-            title.style.fontSize = "1.2rem";
-            title.style.textAlign = "left";
-            title.textContent = category;
-
-            box.appendChild(title);
-
-            // Inhalt verarbeiten und in Bulletpoints aufteilen
-            const content = selectedTeamData[category] || "Keine Daten verfügbar.";
-            const points = content.split(/\n|;/); // Trenner für neue Bulletpoints
-
-            points.forEach(point => {
-                const bullet = document.createElement("div");
-                bullet.style.display = "flex";
-                bullet.style.alignItems = "flex-start";
-                bullet.style.gap = "0.3rem";
-
-                // Bulletpoint-Symbol
-                const bulletSymbol = document.createElement("div");
-                bulletSymbol.style.width = "3px";
-                bulletSymbol.style.height = "3px";
-                bulletSymbol.style.backgroundColor = "#555";
-                bulletSymbol.style.borderRadius = "50%";
-                bulletSymbol.style.marginTop = "0.5rem";
-
-                // Bulletpoint-Inhalt
-                const bulletText = document.createElement("div");
-                bulletText.textContent = point.trim();
-                bulletText.style.fontSize = "0.9rem";
-
-                bullet.appendChild(bulletSymbol);
-                bullet.appendChild(bulletText);
-
-                box.appendChild(bullet);
-            });
-
-            keypointsContainer.appendChild(box);
+        filtered.forEach(row => {
+            const rank = parseInt(row.Rank.replace("Rank_", ""), 10);
+            const prob = parseFloat(row.Probability);
+            if (!isNaN(rank) && rank >= 1 && rank <= 16) {
+                probBins[rank - 1] = prob;
+            }
         });
 
-        // Ergebnis anzeigen
-        resultContainer.innerHTML = ""; // Vorherigen Inhalt löschen
-        resultContainer.appendChild(keypointsContainer);
+        const canvas = document.createElement("canvas");
+        canvas.style.width = "100%";
+        canvas.style.height = "500px";
+        const chartBox = createBox(canvas, { maxWidth: "100%" });
+        resultContainer.appendChild(chartBox);
+
+        chartInstance = new Chart(canvas.getContext("2d"), {
+            type: "bar",
+            data: {
+                labels: ranks.map(r => `Platz ${r}`),
+                datasets: [
+                    {
+                        label: `Wahrscheinlichkeit für ${team}`,
+                        data: probBins,
+                        backgroundColor: "rgba(54, 162, 235, 0.6)",
+                        borderColor: "rgba(54, 162, 235, 1)",
+                        borderWidth: 1,
+                        barThickness: 10
+                    }
+                ]
+            },
+            options: {
+                indexAxis: "y",
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    x: {
+                        beginAtZero: true,
+                        max: 100,
+                        title: { display: true, text: "Wahrscheinlichkeit (%)" }
+                    },
+                    y: {
+                        title: { display: true, text: "Platzierung" }
+                    }
+                },
+                plugins: {
+                    legend: { display: false }
+                }
+            }
+        });
     }
 
 
