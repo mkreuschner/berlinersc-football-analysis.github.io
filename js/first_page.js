@@ -85,32 +85,38 @@ document.addEventListener("DOMContentLoaded", () => {
 
             if (isPlayed) {
                 html += `
-                <div style="display: flex; justify-content: space-between; margin-bottom: 0.2rem;">
-                    <span style="font-weight: bold;">${homeTeam}</span>
-                    <span>${homeGoals}</span>
-                </div>
-                <div style="display: flex; justify-content: space-between;">
-                    <span style="font-weight: bold;">${awayTeam}</span>
-                    <span>${awayGoals}</span>
+                <div style="padding: 0.4rem; border: 1px solid #ddd; border-radius: 0.3rem; background-color: #f8f8f8;">
+                    <div style="display: flex; justify-content: space-between; margin-bottom: 0.3rem;">
+                        <strong>${homeTeam}</strong>
+                        <span>${homeGoals}</span>
+                    </div>
+                    <div style="display: flex; justify-content: space-between;">
+                        <strong>${awayTeam}</strong>
+                        <span>${awayGoals}</span>
+                    </div>
                 </div>`;
             } else {
                 const probHome = parseFloat(row["prob_home_win"]) || 0;
                 const probDraw = parseFloat(row["prob_draw"]) || 0;
                 const probAway = parseFloat(row["prob_away_win"]) || 0;
 
-                html +=` 
-                <div style="display: flex; justify-content: space-between; margin-bottom: 0.2rem;">
-                    <span style="font-weight: bold;">${homeTeam}</span>
-                    <span>${Math.round(probHome * 100)}%</span>
-                </div>
-                <div style="display: flex; justify-content: space-between;">
-                    <span >Unentschieden</span>
-                    <span>${Math.round(probDraw * 100)}%</span>
-                <div style="display: flex; justify-content: space-between;">
-                    <span style="font-weight: bold;">${awayTeam}</span>
-                    <span>${Math.round(probAway * 100)}%</span>
+                html += `
+                <div style="padding: 0.4rem; border: 1px solid #ddd; border-radius: 0.3rem; background-color: #f9f9f9;">
+                    <div style="display: flex; justify-content: space-between; margin-bottom: 0.2rem;">
+                        <strong>${homeTeam}</strong>
+                        <span>${Math.round(probHome * 100)}%</span>
+                    </div>
+                    <div style="display: flex; justify-content: space-between; margin-bottom: 0.2rem;">
+                        <span style="font-style: italic;">Unentschieden</span>
+                        <span>${Math.round(probDraw * 100)}%</span>
+                    </div>
+                    <div style="display: flex; justify-content: space-between;">
+                        <strong>${awayTeam}</strong>
+                        <span>${Math.round(probAway * 100)}%</span>
+                    </div>
                 </div>`;
             }
+
 
             html += `</div>`;
         });

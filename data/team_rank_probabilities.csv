@@ -1,8 +1,8 @@
 "team","Rank","Count","Probability"
-"TSV Rudow Berlin","Rank_1",699,69.9
-"TSV Rudow Berlin","Rank_2",228,22.8
-"TSV Rudow Berlin","Rank_3",66,6.6
-"TSV Rudow Berlin","Rank_4",7,0.7
+"TSV Rudow Berlin","Rank_1",1399,70
+"TSV Rudow Berlin","Rank_2",446,22.3
+"TSV Rudow Berlin","Rank_3",142,7.1
+"TSV Rudow Berlin","Rank_4",13,0.7
 "TSV Rudow Berlin","Rank_5",0,0
 "TSV Rudow Berlin","Rank_6",0,0
 "TSV Rudow Berlin","Rank_7",0,0
@@ -15,12 +15,12 @@
 "TSV Rudow Berlin","Rank_14",0,0
 "TSV Rudow Berlin","Rank_15",0,0
 "TSV Rudow Berlin","Rank_16",0,0
-"BFC Meteor 06","Rank_1",151,15.1
-"BFC Meteor 06","Rank_2",364,36.4
-"BFC Meteor 06","Rank_3",430,43
-"BFC Meteor 06","Rank_4",48,4.8
-"BFC Meteor 06","Rank_5",7,0.7
-"BFC Meteor 06","Rank_6",0,0
+"BFC Meteor 06","Rank_1",274,13.7
+"BFC Meteor 06","Rank_2",746,37.3
+"BFC Meteor 06","Rank_3",859,43
+"BFC Meteor 06","Rank_4",98,4.9
+"BFC Meteor 06","Rank_5",22,1.1
+"BFC Meteor 06","Rank_6",1,0
 "BFC Meteor 06","Rank_7",0,0
 "BFC Meteor 06","Rank_8",0,0
 "BFC Meteor 06","Rank_9",0,0
@@ -31,11 +31,11 @@
 "BFC Meteor 06","Rank_14",0,0
 "BFC Meteor 06","Rank_15",0,0
 "BFC Meteor 06","Rank_16",0,0
-"BFC Preussen II","Rank_1",150,15
-"BFC Preussen II","Rank_2",396,39.6
-"BFC Preussen II","Rank_3",419,41.9
-"BFC Preussen II","Rank_4",35,3.5
-"BFC Preussen II","Rank_5",0,0
+"BFC Preussen II","Rank_1",325,16.2
+"BFC Preussen II","Rank_2",790,39.5
+"BFC Preussen II","Rank_3",821,41
+"BFC Preussen II","Rank_4",57,2.9
+"BFC Preussen II","Rank_5",7,0.4
 "BFC Preussen II","Rank_6",0,0
 "BFC Preussen II","Rank_7",0,0
 "BFC Preussen II","Rank_8",0,0
@@ -60,35 +60,35 @@
 "SV Stern Britz 1889","Rank_11",0,0
 "SV Stern Britz 1889","Rank_12",0,0
 "SV Stern Britz 1889","Rank_13",0,0
-"SV Stern Britz 1889","Rank_14",17,1.7
-"SV Stern Britz 1889","Rank_15",154,15.4
-"SV Stern Britz 1889","Rank_16",829,82.9
+"SV Stern Britz 1889","Rank_14",36,1.8
+"SV Stern Britz 1889","Rank_15",307,15.3
+"SV Stern Britz 1889","Rank_16",1657,82.8
 "Köpenicker FC","Rank_1",0,0
 "Köpenicker FC","Rank_2",0,0
 "Köpenicker FC","Rank_3",0,0
 "Köpenicker FC","Rank_4",0,0
-"Köpenicker FC","Rank_5",1,0.1
-"Köpenicker FC","Rank_6",16,1.6
-"Köpenicker FC","Rank_7",231,23.1
-"Köpenicker FC","Rank_8",421,42.1
-"Köpenicker FC","Rank_9",172,17.2
-"Köpenicker FC","Rank_10",101,10.1
-"Köpenicker FC","Rank_11",40,4
-"Köpenicker FC","Rank_12",17,1.7
-"Köpenicker FC","Rank_13",1,0.1
+"Köpenicker FC","Rank_5",2,0.1
+"Köpenicker FC","Rank_6",43,2.1
+"Köpenicker FC","Rank_7",427,21.3
+"Köpenicker FC","Rank_8",866,43.3
+"Köpenicker FC","Rank_9",388,19.4
+"Köpenicker FC","Rank_10",173,8.6
+"Köpenicker FC","Rank_11",57,2.9
+"Köpenicker FC","Rank_12",37,1.8
+"Köpenicker FC","Rank_13",7,0.4
 "Köpenicker FC","Rank_14",0,0
 "Köpenicker FC","Rank_15",0,0
 "Köpenicker FC","Rank_16",0,0
 "BSV Eintracht Mahlsdorf II","Rank_1",0,0
 "BSV Eintracht Mahlsdorf II","Rank_2",0,0
-"BSV Eintracht Mahlsdorf II","Rank_3",2,0.2
-"BSV Eintracht Mahlsdorf II","Rank_4",89,8.9
-"BSV Eintracht Mahlsdorf II","Rank_5",223,22.3
-"BSV Eintracht Mahlsdorf II","Rank_6",588,58.8
-"BSV Eintracht Mahlsdorf II","Rank_7",87,8.7
-"BSV Eintracht Mahlsdorf II","Rank_8",10,1
-"BSV Eintracht Mahlsdorf II","Rank_9",1,0.1
-"BSV Eintracht Mahlsdorf II","Rank_10",0,0
+"BSV Eintracht Mahlsdorf II","Rank_3",5,0.2
+"BSV Eintracht Mahlsdorf II","Rank_4",218,10.9
+"BSV Eintracht Mahlsdorf II","Rank_5",468,23.4
+"BSV Eintracht Mahlsdorf II","Rank_6",1089,54.4
+"BSV Eintracht Mahlsdorf II","Rank_7",199,10
+"BSV Eintracht Mahlsdorf II","Rank_8",18,0.9
+"BSV Eintracht Mahlsdorf II","Rank_9",2,0.1
+"BSV Eintracht Mahlsdorf II","Rank_10",1,0
 "BSV Eintracht Mahlsdorf II","Rank_11",0,0
 "BSV Eintracht Mahlsdorf II","Rank_12",0,0
 "BSV Eintracht Mahlsdorf II","Rank_13",0,0
@@ -98,15 +98,15 @@
 "SC Borsigwalde 1910","Rank_1",0,0
 "SC Borsigwalde 1910","Rank_2",0,0
 "SC Borsigwalde 1910","Rank_3",0,0
-"SC Borsigwalde 1910","Rank_4",1,0.1
-"SC Borsigwalde 1910","Rank_5",13,1.3
-"SC Borsigwalde 1910","Rank_6",94,9.4
-"SC Borsigwalde 1910","Rank_7",576,57.6
-"SC Borsigwalde 1910","Rank_8",240,24
-"SC Borsigwalde 1910","Rank_9",55,5.5
-"SC Borsigwalde 1910","Rank_10",15,1.5
-"SC Borsigwalde 1910","Rank_11",4,0.4
-"SC Borsigwalde 1910","Rank_12",2,0.2
+"SC Borsigwalde 1910","Rank_4",8,0.4
+"SC Borsigwalde 1910","Rank_5",23,1.1
+"SC Borsigwalde 1910","Rank_6",188,9.4
+"SC Borsigwalde 1910","Rank_7",1168,58.4
+"SC Borsigwalde 1910","Rank_8",458,22.9
+"SC Borsigwalde 1910","Rank_9",119,5.9
+"SC Borsigwalde 1910","Rank_10",33,1.7
+"SC Borsigwalde 1910","Rank_11",2,0.1
+"SC Borsigwalde 1910","Rank_12",1,0
 "SC Borsigwalde 1910","Rank_13",0,0
 "SC Borsigwalde 1910","Rank_14",0,0
 "SC Borsigwalde 1910","Rank_15",0,0
@@ -117,24 +117,24 @@
 "FSV Berolina Stralau 1901","Rank_4",0,0
 "FSV Berolina Stralau 1901","Rank_5",0,0
 "FSV Berolina Stralau 1901","Rank_6",0,0
-"FSV Berolina Stralau 1901","Rank_7",1,0.1
-"FSV Berolina Stralau 1901","Rank_8",13,1.3
-"FSV Berolina Stralau 1901","Rank_9",39,3.9
-"FSV Berolina Stralau 1901","Rank_10",74,7.4
-"FSV Berolina Stralau 1901","Rank_11",188,18.8
-"FSV Berolina Stralau 1901","Rank_12",253,25.3
-"FSV Berolina Stralau 1901","Rank_13",426,42.6
-"FSV Berolina Stralau 1901","Rank_14",6,0.6
+"FSV Berolina Stralau 1901","Rank_7",5,0.2
+"FSV Berolina Stralau 1901","Rank_8",31,1.6
+"FSV Berolina Stralau 1901","Rank_9",87,4.3
+"FSV Berolina Stralau 1901","Rank_10",180,9
+"FSV Berolina Stralau 1901","Rank_11",325,16.2
+"FSV Berolina Stralau 1901","Rank_12",544,27.2
+"FSV Berolina Stralau 1901","Rank_13",802,40.1
+"FSV Berolina Stralau 1901","Rank_14",26,1.3
 "FSV Berolina Stralau 1901","Rank_15",0,0
 "FSV Berolina Stralau 1901","Rank_16",0,0
 "FC Viktoria 1889 Berlin II","Rank_1",0,0
-"FC Viktoria 1889 Berlin II","Rank_2",3,0.3
-"FC Viktoria 1889 Berlin II","Rank_3",35,3.5
-"FC Viktoria 1889 Berlin II","Rank_4",290,29
-"FC Viktoria 1889 Berlin II","Rank_5",458,45.8
-"FC Viktoria 1889 Berlin II","Rank_6",196,19.6
-"FC Viktoria 1889 Berlin II","Rank_7",17,1.7
-"FC Viktoria 1889 Berlin II","Rank_8",1,0.1
+"FC Viktoria 1889 Berlin II","Rank_2",6,0.3
+"FC Viktoria 1889 Berlin II","Rank_3",61,3
+"FC Viktoria 1889 Berlin II","Rank_4",552,27.6
+"FC Viktoria 1889 Berlin II","Rank_5",908,45.4
+"FC Viktoria 1889 Berlin II","Rank_6",441,22
+"FC Viktoria 1889 Berlin II","Rank_7",31,1.6
+"FC Viktoria 1889 Berlin II","Rank_8",1,0
 "FC Viktoria 1889 Berlin II","Rank_9",0,0
 "FC Viktoria 1889 Berlin II","Rank_10",0,0
 "FC Viktoria 1889 Berlin II","Rank_11",0,0
@@ -153,20 +153,20 @@
 "VfB Concordia Britz 1916","Rank_8",0,0
 "VfB Concordia Britz 1916","Rank_9",0,0
 "VfB Concordia Britz 1916","Rank_10",0,0
-"VfB Concordia Britz 1916","Rank_11",0,0
-"VfB Concordia Britz 1916","Rank_12",1,0.1
-"VfB Concordia Britz 1916","Rank_13",7,0.7
-"VfB Concordia Britz 1916","Rank_14",251,25.1
-"VfB Concordia Britz 1916","Rank_15",586,58.6
-"VfB Concordia Britz 1916","Rank_16",155,15.5
-"Berliner SV 1892","Rank_1",0,0
-"Berliner SV 1892","Rank_2",9,0.9
-"Berliner SV 1892","Rank_3",48,4.8
-"Berliner SV 1892","Rank_4",530,53
-"Berliner SV 1892","Rank_5",298,29.8
-"Berliner SV 1892","Rank_6",105,10.5
-"Berliner SV 1892","Rank_7",10,1
-"Berliner SV 1892","Rank_8",0,0
+"VfB Concordia Britz 1916","Rank_11",1,0
+"VfB Concordia Britz 1916","Rank_12",1,0
+"VfB Concordia Britz 1916","Rank_13",6,0.3
+"VfB Concordia Britz 1916","Rank_14",495,24.8
+"VfB Concordia Britz 1916","Rank_15",1189,59.5
+"VfB Concordia Britz 1916","Rank_16",308,15.4
+"Berliner SV 1892","Rank_1",2,0.1
+"Berliner SV 1892","Rank_2",12,0.6
+"Berliner SV 1892","Rank_3",112,5.6
+"Berliner SV 1892","Rank_4",1054,52.7
+"Berliner SV 1892","Rank_5",569,28.4
+"Berliner SV 1892","Rank_6",232,11.6
+"Berliner SV 1892","Rank_7",17,0.9
+"Berliner SV 1892","Rank_8",2,0.1
 "Berliner SV 1892","Rank_9",0,0
 "Berliner SV 1892","Rank_10",0,0
 "Berliner SV 1892","Rank_11",0,0
@@ -179,16 +179,16 @@
 "Türkiyemspor Berlin","Rank_2",0,0
 "Türkiyemspor Berlin","Rank_3",0,0
 "Türkiyemspor Berlin","Rank_4",0,0
-"Türkiyemspor Berlin","Rank_5",0,0
-"Türkiyemspor Berlin","Rank_6",0,0
-"Türkiyemspor Berlin","Rank_7",27,2.7
-"Türkiyemspor Berlin","Rank_8",132,13.2
-"Türkiyemspor Berlin","Rank_9",292,29.2
-"Türkiyemspor Berlin","Rank_10",221,22.1
-"Türkiyemspor Berlin","Rank_11",142,14.2
-"Türkiyemspor Berlin","Rank_12",137,13.7
-"Türkiyemspor Berlin","Rank_13",49,4.9
-"Türkiyemspor Berlin","Rank_14",0,0
+"Türkiyemspor Berlin","Rank_5",1,0
+"Türkiyemspor Berlin","Rank_6",3,0.1
+"Türkiyemspor Berlin","Rank_7",56,2.8
+"Türkiyemspor Berlin","Rank_8",255,12.8
+"Türkiyemspor Berlin","Rank_9",566,28.3
+"Türkiyemspor Berlin","Rank_10",480,24
+"Türkiyemspor Berlin","Rank_11",345,17.2
+"Türkiyemspor Berlin","Rank_12",216,10.8
+"Türkiyemspor Berlin","Rank_13",77,3.9
+"Türkiyemspor Berlin","Rank_14",1,0
 "Türkiyemspor Berlin","Rank_15",0,0
 "Türkiyemspor Berlin","Rank_16",0,0
 "FC Internationale Berlin 1980","Rank_1",0,0
@@ -196,14 +196,14 @@
 "FC Internationale Berlin 1980","Rank_3",0,0
 "FC Internationale Berlin 1980","Rank_4",0,0
 "FC Internationale Berlin 1980","Rank_5",0,0
-"FC Internationale Berlin 1980","Rank_6",1,0.1
-"FC Internationale Berlin 1980","Rank_7",38,3.8
-"FC Internationale Berlin 1980","Rank_8",110,11
-"FC Internationale Berlin 1980","Rank_9",238,23.8
-"FC Internationale Berlin 1980","Rank_10",259,25.9
-"FC Internationale Berlin 1980","Rank_11",192,19.2
-"FC Internationale Berlin 1980","Rank_12",120,12
-"FC Internationale Berlin 1980","Rank_13",42,4.2
+"FC Internationale Berlin 1980","Rank_6",2,0.1
+"FC Internationale Berlin 1980","Rank_7",70,3.5
+"FC Internationale Berlin 1980","Rank_8",230,11.5
+"FC Internationale Berlin 1980","Rank_9",487,24.3
+"FC Internationale Berlin 1980","Rank_10",515,25.8
+"FC Internationale Berlin 1980","Rank_11",386,19.3
+"FC Internationale Berlin 1980","Rank_12",229,11.5
+"FC Internationale Berlin 1980","Rank_13",81,4
 "FC Internationale Berlin 1980","Rank_14",0,0
 "FC Internationale Berlin 1980","Rank_15",0,0
 "FC Internationale Berlin 1980","Rank_16",0,0
@@ -212,15 +212,15 @@
 "Berliner SC II","Rank_3",0,0
 "Berliner SC II","Rank_4",0,0
 "Berliner SC II","Rank_5",0,0
-"Berliner SC II","Rank_6",0,0
-"Berliner SC II","Rank_7",13,1.3
-"Berliner SC II","Rank_8",59,5.9
-"Berliner SC II","Rank_9",142,14.2
-"Berliner SC II","Rank_10",210,21
-"Berliner SC II","Rank_11",233,23.3
-"Berliner SC II","Rank_12",200,20
-"Berliner SC II","Rank_13",135,13.5
-"Berliner SC II","Rank_14",8,0.8
+"Berliner SC II","Rank_6",1,0
+"Berliner SC II","Rank_7",25,1.2
+"Berliner SC II","Rank_8",102,5.1
+"Berliner SC II","Rank_9",224,11.2
+"Berliner SC II","Rank_10",420,21
+"Berliner SC II","Rank_11",470,23.5
+"Berliner SC II","Rank_12",428,21.4
+"Berliner SC II","Rank_13",319,16
+"Berliner SC II","Rank_14",11,0.5
 "Berliner SC II","Rank_15",0,0
 "Berliner SC II","Rank_16",0,0
 "BSV Al-Dersimspor","Rank_1",0,0
@@ -229,14 +229,14 @@
 "BSV Al-Dersimspor","Rank_4",0,0
 "BSV Al-Dersimspor","Rank_5",0,0
 "BSV Al-Dersimspor","Rank_6",0,0
-"BSV Al-Dersimspor","Rank_7",0,0
-"BSV Al-Dersimspor","Rank_8",14,1.4
-"BSV Al-Dersimspor","Rank_9",61,6.1
-"BSV Al-Dersimspor","Rank_10",120,12
-"BSV Al-Dersimspor","Rank_11",201,20.1
-"BSV Al-Dersimspor","Rank_12",264,26.4
-"BSV Al-Dersimspor","Rank_13",328,32.8
-"BSV Al-Dersimspor","Rank_14",12,1.2
+"BSV Al-Dersimspor","Rank_7",2,0.1
+"BSV Al-Dersimspor","Rank_8",37,1.8
+"BSV Al-Dersimspor","Rank_9",127,6.3
+"BSV Al-Dersimspor","Rank_10",197,9.8
+"BSV Al-Dersimspor","Rank_11",413,20.6
+"BSV Al-Dersimspor","Rank_12",538,26.9
+"BSV Al-Dersimspor","Rank_13",666,33.3
+"BSV Al-Dersimspor","Rank_14",20,1
 "BSV Al-Dersimspor","Rank_15",0,0
 "BSV Al-Dersimspor","Rank_16",0,0
 "SV Empor Berlin II","Rank_1",0,0
@@ -248,10 +248,10 @@
 "SV Empor Berlin II","Rank_7",0,0
 "SV Empor Berlin II","Rank_8",0,0
 "SV Empor Berlin II","Rank_9",0,0
-"SV Empor Berlin II","Rank_10",0,0
-"SV Empor Berlin II","Rank_11",0,0
-"SV Empor Berlin II","Rank_12",6,0.6
-"SV Empor Berlin II","Rank_13",12,1.2
-"SV Empor Berlin II","Rank_14",706,70.6
-"SV Empor Berlin II","Rank_15",260,26
-"SV Empor Berlin II","Rank_16",16,1.6
+"SV Empor Berlin II","Rank_10",1,0
+"SV Empor Berlin II","Rank_11",1,0
+"SV Empor Berlin II","Rank_12",6,0.3
+"SV Empor Berlin II","Rank_13",42,2.1
+"SV Empor Berlin II","Rank_14",1411,70.6
+"SV Empor Berlin II","Rank_15",504,25.2
+"SV Empor Berlin II","Rank_16",35,1.8
