@@ -1,4 +1,4 @@
-const csvFilePath = 'https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/player_data.csv';
+const csvFilePath = 'https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/output/player_data.csv';
 let playersData = [];
 
 // CSV-Daten laden und parsen

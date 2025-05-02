@@ -31,57 +31,57 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const categories = {
         "Prediction": {
-            csvPath: "https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/team_rank_probabilities.csv",
+            csvPath: "https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/output/team_rank_probabilities.csv",
             columns: ["team","Rank","Count","Probability"],
             displayFunction: displayRankProbabilities
         },
         "Head-2-Head": {
-            csvPath: "https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/head2head.csv",
+            csvPath: "https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/output/head2head.csv",
             columns: ["team","#","Ges_Bilanz","Rank_H","H_Bilanz","Rank_A","A_Bilanz","Rank_NR","NR_Bilanz","Rank_KR","KR_Bilanz","Rank_kKR","kKR_Bilanz","E5","E4","E3","E2","E1","Tore","Formation","Wahrscheinlichkeit","dreierKette","viererKette"],
             displayFunction: displayHeadToHead
         },
         "Exp Start11": {
-            csvPath: "https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/exp11.csv",
+            csvPath: "https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/output/exp11.csv",
             columns: ["Team","Formation","Anzahl","Total_Spiele","Wahrscheinlichkeit","dreier_kette","vierer_kette","Starting11_Team","Starting11_Position","Starting11_Nummer","Starting11_Name","Starting11_Weighted_Score"],
             displayFunction: displayExpectedStarting11
         },
         "Tore": {
-            csvPath: "https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/goals.csv",
+            csvPath: "https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/output/goals.csv",
             columns: ["scorer", "team", "opponent", "minute", "score"],
             displayFunction: displayGoalsAnalysis
         },
         "Formation": {
-            csvPath: "https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/formation_data.csv",
+            csvPath: "https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/output/formation_data.csv",
             columns: ["Spieltag", "Team", "Gegner", "Tore", "Gegentore", "Wo", "Platz", "Formation", "Wechsel"],
             displayFunction: displayFormationAnalysis
         },
         "Letzte 5 Spiele": {
-            csvPath: "https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/last5games.csv",
+            csvPath: "https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/output/last5games.csv",
             columns: ["Spieltag", "Heim", "Auswärts", "H_tore", "A_tore"],
             displayFunction: displayLastFiveGames
         },
         "Nächste 5 Spiele": {
-            csvPath: "https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/next5games.csv",
+            csvPath: "https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/output/next5games.csv",
             columns: ["Spieltag", "Heim", "Auswärts", "H_tore", "A_tore"],
             displayFunction: displayNextFiveGames
         },
         "Beste Spieler": {
-            csvPath: "https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/best_score.csv",
+            csvPath: "https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/output/best_score.csv",
             columns: ["Rank", "Name", "Nr", "Pos", "Spielzeit", "Score"],
             displayFunction: displayTable
         },
         "Scorerpoints": {
-            csvPath: "https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/scorerpoints.csv",
+            csvPath: "https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/output/scorerpoints.csv",
             columns: ["Rank", "Name", "Pos", "Scorerpoints", "Spiele"],
             displayFunction: displayTable
         },
         "Torschützen": {
-            csvPath: "https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/goalscorer.csv",
+            csvPath: "https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/output/goalscorer.csv",
             columns: ["Rank", "Name", "Pos", "Tore", "Spiele"],
             displayFunction: displayTable
         },
         "Assists": {
-            csvPath: "https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/assists.csv",
+            csvPath: "https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/output/assists.csv",
             columns: ["Rank", "Name", "Pos", "Assists", "Spiele"],
             displayFunction: displayTable
         }

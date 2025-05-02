@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
     let currentMatchday = 1;
 
     // CSV-Datei für Spieltage laden und Dropdown füllen
-    Papa.parse("https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/match_results_and_probabilities.csv", {
+    Papa.parse("https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/output/match_results_and_probabilities.csv", {
         download: true,
         header: true,
         skipEmptyLines: true,
