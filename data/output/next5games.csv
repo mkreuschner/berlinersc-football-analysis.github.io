@@ -39,14 +39,14 @@ Spieltag,Heim,Auswärts,H_tore,A_tore
 26,VfB Concordia Britz 1916,BSV Eintracht Mahlsdorf II,NA,NA
 26,SV Empor Berlin II,SC Borsigwalde 1910,NA,NA
 26,Berliner SC II,Türkiyemspor Berlin,NA,NA
-25,SV Stern Britz 1889,Köpenicker FC,NA,NA
-25,SC Borsigwalde 1910,BFC Preussen II,NA,NA
-25,Türkiyemspor Berlin,BFC Meteor 06,NA,NA
-25,Berliner SC II,SV Empor Berlin II,NA,NA
-25,FC Viktoria 1889 Berlin II,BSV Eintracht Mahlsdorf II,NA,NA
-25,BSV Al-Dersimspor,VfB Concordia Britz 1916,NA,NA
-25,Berliner SV 1892,FC Internationale Berlin 1980,NA,NA
-25,TSV Rudow Berlin,FSV Berolina Stralau 1901,NA,NA
+25,SV Stern Britz 1889,Köpenicker FC,0,10
+25,SC Borsigwalde 1910,BFC Preussen II,2,2
+25,Türkiyemspor Berlin,BFC Meteor 06,0,1
+25,Berliner SC II,SV Empor Berlin II,0,4
+25,FC Viktoria 1889 Berlin II,BSV Eintracht Mahlsdorf II,5,1
+25,BSV Al-Dersimspor,VfB Concordia Britz 1916,3,0
+25,Berliner SV 1892,FC Internationale Berlin 1980,2,1
+25,TSV Rudow Berlin,FSV Berolina Stralau 1901,5,0
 24,BFC Meteor 06,SC Borsigwalde 1910,6,0
 24,VfB Concordia Britz 1916,SV Stern Britz 1889,4,0
 24,Köpenicker FC,BFC Preussen II,3,0

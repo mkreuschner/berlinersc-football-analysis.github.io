@@ -1,17 +1,17 @@
 "#","team","Pred","Pkt","50%","75%","90%","100%"
-1,"TSV Rudow Berlin",71,56,0,0,0,0
-2,"BFC Meteor 06",66,53,0,0,0,0
-3,"BFC Preussen II",63,50,0,0,0,0
-4,"Berliner SV 1892",58,46,0,0,0,0
-5,"FC Viktoria 1889 Berlin II",53,42,0,0,0,0
-6,"BSV Eintracht Mahlsdorf II",49,39,0,0,0,0
-7,"Köpenicker FC",45,34,0,0,0,0
-8,"SC Borsigwalde 1910",43,36,0,0,0,0
+1,"TSV Rudow Berlin",70,59,0,0,0,0
+2,"BFC Meteor 06",66,56,0,0,0,0
+3,"BFC Preussen II",61,51,0,0,0,0
+4,"Berliner SV 1892",58,49,0,0,0,0
+5,"FC Viktoria 1889 Berlin II",54,45,0,0,0,0
+6,"BSV Eintracht Mahlsdorf II",47,39,0,0,0,0
+7,"Köpenicker FC",45,37,0,0,0,0
+8,"SC Borsigwalde 1910",44,37,0,0,0,0
 9,"FC Internationale Berlin 1980",38,32,0,0,0,0
-10,"Berliner SC II",37,29,0,0,0,1
-11,"Türkiyemspor Berlin",35,30,0,0,0,0
-12,"FSV Berolina Stralau 1901",34,29,0,0,0,1
-13,"BSV Al-Dersimspor",31,25,0,0,0,5
-14,"VfB Concordia Britz 1916",21,17,5,7,8,13
-15,"SV Empor Berlin II",21,17,5,7,8,13
-16,"SV Stern Britz 1889",12,10,12,14,15,20
+10,"Türkiyemspor Berlin",35,30,0,0,0,2
+11,"Berliner SC II",35,29,0,0,0,3
+12,"FSV Berolina Stralau 1901",34,29,0,0,0,3
+13,"BSV Al-Dersimspor",34,28,0,0,0,4
+14,"SV Empor Berlin II",25,20,5,7,8,12
+15,"VfB Concordia Britz 1916",21,17,8,10,11,15
+16,"SV Stern Britz 1889",13,10,15,17,18,22
