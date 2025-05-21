@@ -399,22 +399,22 @@ matchday,H,A,Tore_H,Tore_A,where
 25,VfB Concordia Britz 1916,BSV Al-Dersimspor,0,3,away
 25,FC Internationale Berlin 1980,Berliner SV 1892,1,2,away
 25,FSV Berolina Stralau 1901,TSV Rudow Berlin,0,5,away
-26,BSV Al-Dersimspor,FC Viktoria 1889 Berlin II,NA,NA,home
-26,BFC Meteor 06,BFC Preussen II,NA,NA,home
-26,FC Internationale Berlin 1980,SV Stern Britz 1889,NA,NA,home
-26,Berliner SV 1892,TSV Rudow Berlin,NA,NA,home
-26,FSV Berolina Stralau 1901,Köpenicker FC,NA,NA,home
-26,VfB Concordia Britz 1916,BSV Eintracht Mahlsdorf II,NA,NA,home
-26,SV Empor Berlin II,SC Borsigwalde 1910,NA,NA,home
-26,Berliner SC II,Türkiyemspor Berlin,NA,NA,home
-26,FC Viktoria 1889 Berlin II,BSV Al-Dersimspor,NA,NA,away
-26,BFC Preussen II,BFC Meteor 06,NA,NA,away
-26,SV Stern Britz 1889,FC Internationale Berlin 1980,NA,NA,away
-26,TSV Rudow Berlin,Berliner SV 1892,NA,NA,away
-26,Köpenicker FC,FSV Berolina Stralau 1901,NA,NA,away
-26,BSV Eintracht Mahlsdorf II,VfB Concordia Britz 1916,NA,NA,away
-26,SC Borsigwalde 1910,SV Empor Berlin II,NA,NA,away
-26,Türkiyemspor Berlin,Berliner SC II,NA,NA,away
+26,BSV Al-Dersimspor,FC Viktoria 1889 Berlin II,2,3,home
+26,BFC Meteor 06,BFC Preussen II,3,0,home
+26,FC Internationale Berlin 1980,SV Stern Britz 1889,7,0,home
+26,Berliner SV 1892,TSV Rudow Berlin,1,2,home
+26,FSV Berolina Stralau 1901,Köpenicker FC,3,1,home
+26,VfB Concordia Britz 1916,BSV Eintracht Mahlsdorf II,2,1,home
+26,SV Empor Berlin II,SC Borsigwalde 1910,3,0,home
+26,Berliner SC II,Türkiyemspor Berlin,2,0,home
+26,FC Viktoria 1889 Berlin II,BSV Al-Dersimspor,3,2,away
+26,BFC Preussen II,BFC Meteor 06,0,3,away
+26,SV Stern Britz 1889,FC Internationale Berlin 1980,0,7,away
+26,TSV Rudow Berlin,Berliner SV 1892,2,1,away
+26,Köpenicker FC,FSV Berolina Stralau 1901,1,3,away
+26,BSV Eintracht Mahlsdorf II,VfB Concordia Britz 1916,1,2,away
+26,SC Borsigwalde 1910,SV Empor Berlin II,0,3,away
+26,Türkiyemspor Berlin,Berliner SC II,0,2,away
 27,Köpenicker FC,BFC Meteor 06,NA,NA,home
 27,BSV Eintracht Mahlsdorf II,SV Empor Berlin II,NA,NA,home
 27,FSV Berolina Stralau 1901,FC Viktoria 1889 Berlin II,NA,NA,home

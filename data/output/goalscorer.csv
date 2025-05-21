@@ -1,602 +1,605 @@
 Rank,Team,Name,Nr,Pos,Spiele,Tore
-1,BFC Meteor 06,Simon Böhm,11,ST,22,24
-2,TSV Rudow Berlin,Matteo Günther,9,ST,23,19
-3,FC Viktoria 1889 Berlin II,Matthieu Lucas Weinlein,17,ST,21,16
-4,BSV Al-Dersimspor,Merdan Baba,10,ST,16,15
-5,FC Viktoria 1889 Berlin II,Rayan Ait Manssour,19,LM,24,15
-6,Köpenicker FC,Dennis Bohnsack,9,ST,21,14
+1,BFC Meteor 06,Simon Böhm,11,ST,23,25
+2,TSV Rudow Berlin,Matteo Günther,9,ST,24,21
+3,FC Viktoria 1889 Berlin II,Matthieu Lucas Weinlein,17,ST,22,17
+4,BSV Al-Dersimspor,Merdan Baba,10,ST,17,15
+5,FC Viktoria 1889 Berlin II,Rayan Ait Manssour,19,LM,25,15
+6,Köpenicker FC,Dennis Bohnsack,9,ST,22,14
 7,Köpenicker FC,Felix Hartmann,15,TW,23,12
-8,Köpenicker FC,Roman Ilinseer,18,ST,17,11
+8,Köpenicker FC,Roman Ilinseer,18,ST,18,11
 9,SC Borsigwalde 1910,Furkan Yildirim,13,ZDM,19,11
-10,SC Borsigwalde 1910,Pedro Lucas Santanna Miranda Silva,10,ST,15,10
-11,BFC Meteor 06,Serkan Karasu,3,IV,24,9
-12,Berliner SV 1892,Julius Zauner,11,ST,24,9
-13,TSV Rudow Berlin,Talha Sennur,24,ST,19,9
-14,FSV Berolina Stralau 1901,Ole Bresemann,9,ST,20,9
-15,FSV Berolina Stralau 1901,Sebastian Heßler,12,LM,18,8
-16,BSV Eintracht Mahlsdorf II,Kenan Halilcevic,17,LM,13,8
-17,FC Viktoria 1889 Berlin II,Joan Schäfers Llauger,8,LM,17,8
-18,BFC Preussen II,Lucky Ugbogbo,NA,RM,13,8
-19,Türkiyemspor Berlin,Enes Uzun,25,RM,20,7
-20,Türkiyemspor Berlin,Omid Saberdest,5,ZOM,23,7
-21,Berliner SV 1892,Lennard Schleifenbaum,21,ZM,24,7
-22,Berliner SV 1892,David Bellin,28,ST,22,7
-23,BFC Meteor 06,Tim Riese,4,IV,20,7
-24,Berliner SV 1892,Paul Busche,7,LM,23,7
-25,VfB Concordia Britz 1916,Maximilian Höhle,20,ST,13,7
-26,FC Internationale Berlin 1980,Nicholas Cartwright Stanley,18,ZOM,19,7
-27,BSV Eintracht Mahlsdorf II,Christian Preiss,16,ZM,21,6
-28,BFC Preussen II,Hugo Timur,7,ST,15,6
-29,SC Borsigwalde 1910,Marcel Knaack,NA,ST,9,6
-30,Köpenicker FC,Jose Antonio Ondo Mangue,21,NA,13,6
-31,BFC Meteor 06,Ayham Heimur,92,LM,20,6
-32,TSV Rudow Berlin,Elias Burda,13,IV,22,6
-33,FC Internationale Berlin 1980,Matteo Topal,31,ZDM,19,6
-34,BSV Eintracht Mahlsdorf II,Jonas Maroske,6,ZM,19,6
-35,Berliner SC II,Alexander Lorenz,11,ST,9,6
-36,Köpenicker FC,Alexander Foth,11,RM,13,5
-37,BFC Preussen II,Magnus Stahlberg,16,IV,18,5
-38,Türkiyemspor Berlin,Volkan Neziroglu,NA,ST,10,5
-39,FSV Berolina Stralau 1901,Christopher Schwarz,NA,ZM,17,5
-40,SC Borsigwalde 1910,Magnus Crone,14,RM,20,5
-41,SC Borsigwalde 1910,Fabio Rondinelli,9,RM,18,5
-42,Türkiyemspor Berlin,Mehmet Tunay,NA,LM,10,5
-43,BFC Preussen II,Lasse Engelsing,12,LV,17,5
-44,Köpenicker FC,Nicolas Tauschwitz,10,LM,18,5
-45,VfB Concordia Britz 1916,Felix Weglöhner,6,RM,22,5
-46,BSV Eintracht Mahlsdorf II,Reto Reichenberger,7,ST,24,5
-47,BSV Eintracht Mahlsdorf II,Carl-Lennart Stöver,19,LV,20,5
-48,FC Internationale Berlin 1980,Ryan Max Robert French,14,ST,20,5
-49,BSV Al-Dersimspor,Argjent Krasniqi,12,ST,22,5
-50,Köpenicker FC,Felix Wittenburg,24,ZM,15,5
-51,BFC Preussen II,Levent Mucuk,55,IV,19,4
-52,TSV Rudow Berlin,Melih Hortum,10,ZOM,17,4
-53,SC Borsigwalde 1910,Marcel Bubner,19,LM,20,4
-54,Berliner SV 1892,Sebastian Sobczyk,9,ST,9,4
-55,TSV Rudow Berlin,Patrick Maykowski,20,RM,24,4
-56,Berliner SC II,Kevin Uwe Einspannier,6,ZM,20,4
-57,Berliner SV 1892,Nikita Charkov,20,IV,18,4
-58,BSV Al-Dersimspor,Mohamad-Ali Chawraba,47,ST,11,4
-59,Türkiyemspor Berlin,Habib Jalloh,16,LM,7,4
-60,FC Internationale Berlin 1980,Milan Daus,10,ST,21,4
-61,Berliner SV 1892,Tim Paschke,13,ST,12,4
-62,SV Empor Berlin II,Demba Mendy,9,ST,16,4
-63,BFC Preussen II,Kevin Anderson Moreira Godinho,18,RM,8,4
-64,FC Viktoria 1889 Berlin II,Justin Thiele,6,IV,21,4
-65,FC Viktoria 1889 Berlin II,Alican Ali,29,ST,12,4
-66,BFC Preussen II,Gani Gashi,33,RM,6,4
-67,SV Empor Berlin II,Nico Bochnia,23,ST,13,4
-68,BFC Meteor 06,Jean Paul Ajala-Alexis,NA,ST,5,4
-69,FC Internationale Berlin 1980,Nicolas Costa Echeverria,4,IV,20,4
-70,FC Internationale Berlin 1980,Maximilian De Rosnay,17,NA,9,4
-71,FC Viktoria 1889 Berlin II,Joshua Isaias Almedom,3,RM,18,4
-72,VfB Concordia Britz 1916,Piet Kühn,21,TW,22,4
-73,BFC Meteor 06,Tugay Adigüzel,61,LV,20,3
-74,Berliner SV 1892,Nick Bechler,27,IV,20,3
-75,BFC Preussen II,Ugurcan Yilmaz,48,ZOM,12,3
-76,SV Stern Britz 1889,Oguzhan Duman,19,ZOM,19,3
-77,BFC Preussen II,Lukas Kohlmann,20,IV,20,3
-78,BSV Al-Dersimspor,Milos Savkovic,8,LM,21,3
-79,BFC Preussen II,Rommel Abou-Chaker,13,ST,10,3
-80,Berliner SV 1892,Robin Wolff,25,ST,8,3
-81,SV Stern Britz 1889,Dustin Sik,7,RM,13,3
-82,VfB Concordia Britz 1916,Jerry Gase,7,ST,20,3
-83,VfB Concordia Britz 1916,Lionel Krampah,NA,ZM,10,3
-84,BSV Eintracht Mahlsdorf II,Maurice Völckert,11,ST,11,3
-85,SC Borsigwalde 1910,Kevin Kummer,29,IV,19,3
-86,BFC Meteor 06,Oktay Ugur,17,ZOM,19,3
-87,Berliner SC II,Dominique Leitner,5,IV,24,3
-88,Berliner SV 1892,Stefano Tedesco,22,IV,20,3
-89,Berliner SC II,Danilo Arsic,11,ST,7,3
-90,Berliner SC II,Leon Ibrom,4,IV,23,3
-91,SV Empor Berlin II,David Schäfer,NA,LV,2,3
-92,BSV Eintracht Mahlsdorf II,Leon Schmeißer,20,RM,7,3
-93,FSV Berolina Stralau 1901,Eric Stier,5,ST,20,3
-94,SV Empor Berlin II,Jonathan Stolp,7,RM,10,3
-95,FC Internationale Berlin 1980,Moreno Schneider,19,RM,15,3
-96,BFC Meteor 06,Pascal-Rene Jüterbock,84,LM,16,3
-97,FC Viktoria 1889 Berlin II,Vito Everett Dieckert,9,ZDM,16,3
-98,FSV Berolina Stralau 1901,Ali Esweiei,NA,LM,7,3
-99,BFC Meteor 06,Mohammed Hamiss,99,NA,11,3
-100,BSV Eintracht Mahlsdorf II,Tim-Luca Eberl,NA,RV,12,3
-101,Türkiyemspor Berlin,Deren Yoldas Emre,36,LV,17,3
-102,SV Empor Berlin II,Suraj Faizi,NA,ST,7,3
-103,SV Stern Britz 1889,Shaker Shawrdi,20,LM,16,3
-104,FC Viktoria 1889 Berlin II,Maciej Macias,24,ZOM,11,3
-105,FC Internationale Berlin 1980,Dominic Kranz,7,LV,16,3
-106,SV Empor Berlin II,Billy Bradley Tuckerman,NA,RM,5,3
-107,SV Empor Berlin II,Luis Ploschenz,NA,RM,6,3
-108,TSV Rudow Berlin,Ahmad Haj Youssef,19,RM,22,3
-109,Köpenicker FC,Tobias Brandt,7,RM,17,3
-110,VfB Concordia Britz 1916,Joao Victor Souza Rosa,24,NA,15,3
-111,FSV Berolina Stralau 1901,Robert Klessny,NA,ST,7,2
-112,TSV Rudow Berlin,Alexander Wuthe,8,ZDM,18,2
-113,BFC Meteor 06,Soner Demiryürek,21,ZM,6,2
-114,VfB Concordia Britz 1916,Le-Roy Da-Costa,9,ST,5,2
-115,BFC Preussen II,Marcel Berner,15,RV,15,2
-116,Berliner SV 1892,El-Amin Elsaadawi,17,ST,17,2
-117,FSV Berolina Stralau 1901,Tom Jonach,16,IV,16,2
-118,BFC Preussen II,Dan Feldmann,NA,NA,7,2
-119,SV Empor Berlin II,Daniel Schneidawind,13,IV,3,2
-120,FC Internationale Berlin 1980,Antonio Boeddinghaus,6,LV,14,2
-121,BSV Al-Dersimspor,Sam Diokhane,4,ZDM,18,2
-122,SV Empor Berlin II,Dennis Seiler,11,IV,14,2
-123,FC Internationale Berlin 1980,Niklas Schindler,11,IV,21,2
-124,FC Internationale Berlin 1980,Albert Bauder,9,ST,10,2
-125,TSV Rudow Berlin,Mohammed Hassane,17,ZDM,24,2
-126,SC Borsigwalde 1910,Daniel Mpembele Nzongo,NA,ST,8,2
-127,FSV Berolina Stralau 1901,Tobias Reuter,4,ZM,23,2
-128,BFC Meteor 06,Abdoulaye Djibril Diallo,NA,RV,9,2
-129,Türkiyemspor Berlin,Abdoulaye Djibril Diallo,NA,RV,5,2
-130,SV Empor Berlin II,Falk Marquard,NA,ZDM,4,2
-131,SV Empor Berlin II,Hong Phuc Dinh,17,LM,5,2
-132,Berliner SC II,Nikolaos Kaggelidids,3,LV,17,2
-133,FC Viktoria 1889 Berlin II,David Nagel,4,IV,11,2
-134,BFC Meteor 06,Jannik Jantzen,27,ZDM,18,2
-135,FSV Berolina Stralau 1901,Georg Schönfelder,3,IV,22,2
-136,Berliner SC II,Erhan Kücükosman,10,ST,17,2
-137,BFC Preussen II,Tim Eymann,19,LV,4,2
-138,TSV Rudow Berlin,Nana Kwame Badu-Amoah,7,LM,15,2
-139,SV Stern Britz 1889,Leonit Leci,17,IV,15,2
-140,BFC Preussen II,Jeff Nnaemeka-Chukwurah,28,ZDM,13,2
-141,BSV Eintracht Mahlsdorf II,Loide Simao Macave,13,ST,4,2
-142,SV Empor Berlin II,Milo Lippe,8,ZM,18,2
-143,SV Empor Berlin II,Leon Drannaschk,10,LM,17,2
-144,BFC Preussen II,Atacan Özcan,22,RV,17,2
-145,BFC Meteor 06,Eriseld Tafilaj,69,NA,16,2
-146,BFC Preussen II,Arda Isik,NA,LM,9,2
-147,BSV Eintracht Mahlsdorf II,Yulian Andres Cordoba Moreno,NA,NA,3,2
-148,SV Stern Britz 1889,Cliff Boanu,29,RM,20,2
-149,BFC Preussen II,Theo Kagoue,45,RM,12,2
-150,Türkiyemspor Berlin,Mohamad Faramarzi,20,RM,14,2
-151,FSV Berolina Stralau 1901,Adrian Welch,7,ST,5,2
-152,BFC Meteor 06,Farouk Ben Mustapha,18,ST,9,2
-153,FC Internationale Berlin 1980,Oscar Reinaldo Avendano Leon,30,LM,7,2
-154,SV Stern Britz 1889,Timo Brei,NA,IV,4,2
-155,BFC Meteor 06,Solomon Okoronkwo,NA,ZOM,5,1
-156,BFC Preussen II,Moris Fikic,10,ZOM,7,1
-157,BSV Al-Dersimspor,Karsten Schleifring,25,ST,10,1
-158,TSV Rudow Berlin,Lucas Robbin Bähr,NA,IV,6,1
-159,SV Empor Berlin II,Maurice Peitz,NA,IV,1,1
-160,Berliner SC II,Linus Dersch,NA,RM,7,1
-161,SV Stern Britz 1889,Andre Schulz,23,IV,21,1
-162,BSV Eintracht Mahlsdorf II,Kay Szczech,18,ZM,19,1
-163,SV Stern Britz 1889,Resul Hirik,NA,ST,6,1
-164,TSV Rudow Berlin,Leonard Kirschner,NA,ST,5,1
-165,SV Stern Britz 1889,Philipp Kemkes,NA,NA,3,1
-166,Berliner SC II,Nelson Antoniofrancisco,7,LM,7,1
-167,SC Borsigwalde 1910,Kenneth Weise,49,IV,14,1
-168,BSV Eintracht Mahlsdorf II,Lukas Grützner,8,IV,16,1
-169,Köpenicker FC,Philip Möhle,28,RV,16,1
-170,VfB Concordia Britz 1916,Björn Röchert,30,IV,9,1
-171,BSV Al-Dersimspor,Welton Pereira Dos Santos,94,NA,17,1
-172,BSV Al-Dersimspor,Mücahid Kahraman,3,RV,19,1
-173,Berliner SC II,Noah Peter,12,ZM,13,1
-174,SC Borsigwalde 1910,Riccardo Ciao,18,ZDM,21,1
-175,BFC Preussen II,Romario Hartwig,NA,ST,2,1
-176,BSV Al-Dersimspor,Amir Awag,5,RV,22,1
-177,Berliner SV 1892,Göktug Özsoy,19,ZM,17,1
-178,SC Borsigwalde 1910,Michel Stefaniszin,8,ZDM,23,1
-179,SV Stern Britz 1889,Timo Höhna,6,LV,19,1
-180,SV Stern Britz 1889,Luca Ehrich,27,ZDM,19,1
-181,BSV Al-Dersimspor,Karim Zagmouz,6,IV,12,1
-182,BSV Al-Dersimspor,Hakan Günaydin,NA,LM,4,1
-183,Berliner SC II,Tim Niedenhoff,19,ZM,18,1
-184,Türkiyemspor Berlin,Görkem Yilmaz,4,ZOM,22,1
-185,SV Empor Berlin II,Elias Thürigen,5,IV,15,1
-186,SV Empor Berlin II,Simon Albrecht,NA,ZM,2,1
-187,BSV Eintracht Mahlsdorf II,Marc Michas,10,ST,17,1
-188,BSV Eintracht Mahlsdorf II,Niklas Isberner,4,IV,22,1
-189,SV Empor Berlin II,Joris Möller,NA,LM,1,1
-190,SV Stern Britz 1889,Ali Mert Koca,15,ZOM,9,1
-191,BSV Eintracht Mahlsdorf II,Devis Meißner,NA,TW,2,1
-192,FC Internationale Berlin 1980,Akiyasu Tsuchiya,6,ZM,7,1
-193,VfB Concordia Britz 1916,Darnell Bruns,11,ST,8,1
-194,SV Stern Britz 1889,Luca Wojan,22,ZDM,17,1
-195,Köpenicker FC,Tarek Borchmeier,13,ZM,18,1
-196,Berliner SV 1892,Niklas Jost,4,IV,23,1
-197,FC Viktoria 1889 Berlin II,Oskar Schlembach,21,ZDM,12,1
-198,Berliner SV 1892,Joshua Tröger,24,RV,17,1
-199,TSV Rudow Berlin,Samet Sennur,11,ST,12,1
-200,VfB Concordia Britz 1916,Jordy Gase,25,ST,20,1
-201,Berliner SC II,Jakob Oevermann,15,IV,4,1
-202,SV Stern Britz 1889,Marcel Frobenius,37,RV,16,1
-203,BFC Meteor 06,Fredy Balde,8,LM,7,1
-204,BFC Preussen II,Alexander Gajda,14,RV,11,1
-205,BFC Preussen II,Nils Szerwinski,21,ST,10,1
-206,SV Stern Britz 1889,Dennis Pyplatz,24,ZDM,21,1
-207,BFC Preussen II,Omar Hajjaj,NA,ZDM,2,1
-208,VfB Concordia Britz 1916,Arne-Luca Auctun,19,IV,17,1
-209,Türkiyemspor Berlin,Ömer Tanis,8,ZDM,23,1
-210,SV Empor Berlin II,Paul Nickel,NA,ZDM,1,1
-211,FSV Berolina Stralau 1901,Alfredo-Manuel Villanueva Bravo,10,LM,3,1
-212,FC Viktoria 1889 Berlin II,Jeremy Herrmann,26,ZDM,19,1
-213,BFC Meteor 06,Lennart Nerlich,5,IV,23,1
-214,FC Viktoria 1889 Berlin II,Jeong Chaehyun,11,RM,15,1
-215,VfB Concordia Britz 1916,Amir-Mohamad Yassine,26,LM,11,1
-216,BSV Eintracht Mahlsdorf II,Björn Heydemann,NA,ST,2,1
-217,Köpenicker FC,Tom-Niclas Hamann,23,IV,18,1
-218,Berliner SC II,Ben Fidanboy,28,RV,6,1
-219,FC Viktoria 1889 Berlin II,Lucien Littbarski,NA,ZOM,1,1
-220,FSV Berolina Stralau 1901,Noah Maiß,21,ZM,7,1
-221,BFC Preussen II,Serhan Arslani,NA,NA,2,1
-222,BSV Eintracht Mahlsdorf II,Tom Bothe,12,IV,15,1
-223,FC Viktoria 1889 Berlin II,Konstantin- Alexander Westhäußer,13,RV,22,1
-224,BSV Al-Dersimspor,William Essel,9,LM,15,1
-225,FC Viktoria 1889 Berlin II,Ismail Bendjelloul,5,ZDM,18,1
-226,Türkiyemspor Berlin,Deniz Karakus,32,IV,4,1
-227,TSV Rudow Berlin,Yannick Emanuel Wöhle,16,ST,14,1
-228,BFC Preussen II,Ali Hammoud,NA,RV,10,1
-229,SC Borsigwalde 1910,Mohammed Yaqoobi,3,LV,20,1
-230,SV Empor Berlin II,Emile Ako,NA,RM,8,1
-231,FC Internationale Berlin 1980,Tiago de Sousa Oliveira,NA,NA,5,1
-232,SC Borsigwalde 1910,Hebun Aslan,NA,RV,3,1
-233,BSV Eintracht Mahlsdorf II,Mohammad Mansour,5,IV,13,1
-234,Türkiyemspor Berlin,Mustafa Kemal Karaman,11,LV,16,1
-235,FC Internationale Berlin 1980,Saif Merabti,NA,RM,6,1
-236,FC Viktoria 1889 Berlin II,Fonseca Pereira Mendes,25,RV,21,1
-237,FC Viktoria 1889 Berlin II,Nana Nkrumah,12,ST,14,1
-238,TSV Rudow Berlin,Abdullah Bayram,21,LM,20,1
-239,Köpenicker FC,Luca Munsky,3,LV,19,1
-240,Köpenicker FC,Osben-Dario Ondo Mangue,2,NA,10,1
-241,Berliner SC II,Ezher Akbulut,23,LM,22,1
-242,BSV Eintracht Mahlsdorf II,Kilian Oliver Reinke,21,LV,21,1
-243,FC Viktoria 1889 Berlin II,Daniel Hölbling,15,ST,4,1
-244,Berliner SV 1892,Lewi Dawit Molalegn,15,ST,13,1
-245,BFC Meteor 06,Ibrahim Celik,47,RM,20,1
-246,FC Internationale Berlin 1980,Joel Broughton Weeks,NA,NA,1,1
-247,FC Internationale Berlin 1980,Marlon Mayen Guzman,16,LM,11,1
-248,Türkiyemspor Berlin,Manuel Pereira,NA,NA,1,1
-249,TSV Rudow Berlin,Aron Murseli,NA,LM,7,1
-250,FSV Berolina Stralau 1901,Robert Adler,3,IV,9,0
-251,BSV Al-Dersimspor,Max Kruse,30,NA,1,0
-252,Berliner SC II,Bene Brecht,16,ZM,5,0
-253,BFC Meteor 06,Selvedin Begzadic,22,TW,18,0
-254,Berliner SC II,Jannis Gabrielides,NA,NA,1,0
-255,BFC Preussen II,Vahit Engin,11,NA,6,0
-256,Türkiyemspor Berlin,Kenan Demir,3,ZDM,19,0
-257,Berliner SV 1892,Hendrik Lüttschwager,1,TW,19,0
-258,BSV Al-Dersimspor,Kerem Filiz,NA,IV,7,0
-259,FSV Berolina Stralau 1901,Jannes Potthoff,1,TW,8,0
-260,Berliner SC II,Nicolas Wolski,8,RV,10,0
-261,FSV Berolina Stralau 1901,Denis Rolke,15,RM,21,0
-262,BSV Al-Dersimspor,Yasin Baki,NA,TW,2,0
-263,TSV Rudow Berlin,Dmitri Zabavin,1,TW,3,0
-264,Köpenicker FC,Jonas Weigelt,8,IV,14,0
-265,TSV Rudow Berlin,Martin Gromotka,44,TW,21,0
-266,VfB Concordia Britz 1916,Yevgen Igorovic Lozynsky,27,NA,20,0
-267,BFC Preussen II,Paul Miggel,8,LV,7,0
-268,SV Empor Berlin II,Daniel Alankus,NA,IV,2,0
-269,FSV Berolina Stralau 1901,Daniel Fischer,19,LV,14,0
-270,BFC Meteor 06,Julian Schröder,15,RV,23,0
-271,SV Empor Berlin II,Dennis Wegner,NA,RV,1,0
-272,TSV Rudow Berlin,Dennis Rötzscher,18,ZDM,9,0
-273,BSV Al-Dersimspor,Patrick Boel,1,TW,17,0
-274,BFC Preussen II,Malte Hartmann,31,TW,16,0
-275,BFC Meteor 06,Metin Aktürk,NA,RM,3,0
-276,SC Borsigwalde 1910,Mahmoud Akkaoui,4,IV,4,0
-277,SC Borsigwalde 1910,Tobias Knetsch,23,TW,11,0
-278,BSV Eintracht Mahlsdorf II,Tom Greif,14,RV,5,0
-279,Köpenicker FC,Till Dietrich,27,LV,20,0
-280,VfB Concordia Britz 1916,Dennis Sarnewski,NA,NA,1,0
-281,BFC Preussen II,Yasin Demir,30,ZDM,18,0
-282,BFC Preussen II,Nicolas Michalke,NA,RV,3,0
-283,BFC Preussen II,Julian von Gliszczynski,NA,NA,1,0
-284,FSV Berolina Stralau 1901,Maximilian Weber,NA,ZM,7,0
-285,VfB Concordia Britz 1916,Daniel Michael Brüning,22,IV,7,0
-286,VfB Concordia Britz 1916,Fabian Kolditz,13,NA,1,0
-287,VfB Concordia Britz 1916,Patrick Wenke,29,IV,13,0
-288,SV Stern Britz 1889,Christopher Schneider,NA,RM,5,0
-289,BSV Al-Dersimspor,Caglar Halici,NA,ST,1,0
-290,BSV Al-Dersimspor,Hüseyin Ali Kaloglu,NA,IV,1,0
-291,BSV Al-Dersimspor,Önder Senkaya,NA,NA,1,0
-292,VfB Concordia Britz 1916,Tim Wenke,5,IV,13,0
-293,Berliner SC II,Lukas Strehlke,NA,NA,1,0
-294,Berliner SC II,Max Vincent Bolz,20,ZM,8,0
-295,BFC Meteor 06,Yusuf Abouri,NA,RV,4,0
-296,SV Stern Britz 1889,Fabio Zielske,NA,NA,0,0
-297,SV Stern Britz 1889,Marcel Lieker,NA,NA,1,0
-298,VfB Concordia Britz 1916,Robin Eschert,14,LV,4,0
-299,Berliner SV 1892,Benjamin Schnack,NA,IV,10,0
-300,Köpenicker FC,Kevin Wesolek,16,NA,2,0
-301,SV Stern Britz 1889,Yusuf Yildirim,NA,ZDM,1,0
-302,Köpenicker FC,Tom Nischwitz,5,IV,15,0
-303,SC Borsigwalde 1910,Jeffrey Kräft,37,TW,11,0
-304,BSV Al-Dersimspor,Onurcan Üremis,NA,NA,1,0
-305,SV Stern Britz 1889,Bartosz Palubski,21,NA,0,0
-306,BSV Al-Dersimspor,Aziz Ökten,NA,NA,0,0
-307,BSV Al-Dersimspor,Sercan-Günay Seyyidoglu,17,LM,9,0
-308,Berliner SV 1892,Karl Anker,8,IV,21,0
-309,BFC Meteor 06,Bahadir Katirci,7,NA,6,0
-310,Berliner SC II,Alexander Huse,13,ST,15,0
-311,SC Borsigwalde 1910,Antonio Ciao,22,ZDM,3,0
-312,VfB Concordia Britz 1916,Yannic Behrendt,NA,IV,7,0
-313,BSV Al-Dersimspor,Mustafa Arslan,1,TW,6,0
-314,BFC Meteor 06,Ahmad Zahlan,6,ZDM,23,0
-315,SV Stern Britz 1889,Marc Anthony Weisse,NA,ZM,1,0
-316,SV Stern Britz 1889,Suphi Tekin,NA,NA,2,0
-317,BSV Eintracht Mahlsdorf II,Ian Kroh,NA,IV,2,0
-318,Berliner SC II,Jakob Heilmann,2,LV,17,0
-319,SV Stern Britz 1889,Okan Özkaya,3,NA,5,0
-320,SV Empor Berlin II,Maurice Meyer,1,TW,10,0
-321,Berliner SV 1892,Maximilian Blust,NA,ST,6,0
-322,SV Stern Britz 1889,Naim Senay,26,IV,17,0
-323,BFC Meteor 06,Jamal Dähn,NA,NA,1,0
-324,Berliner SC II,Victor Kausch,NA,IV,3,0
-325,Berliner SV 1892,Steven Koschek,NA,ZM,12,0
-326,BSV Al-Dersimspor,Vittorio Achour,NA,NA,2,0
-327,SV Empor Berlin II,Tom Stutzke,NA,IV,2,0
-328,Türkiyemspor Berlin,Jan Lange,NA,IV,4,0
-329,SV Empor Berlin II,Tjerk Ortmann,4,IV,4,0
-330,BFC Preussen II,Oliver Schill,NA,IV,1,0
-331,SV Empor Berlin II,Nikolai Wolany,NA,NA,1,0
-332,Berliner SC II,Oktay Öztürk,NA,RV,1,0
-333,Türkiyemspor Berlin,Paulo Eduardo Bernardes De Almeida,22,NA,5,0
-334,VfB Concordia Britz 1916,Julian Markgraf,NA,LV,9,0
-335,TSV Rudow Berlin,Jan-Eric Frank,6,IV,9,0
-336,SV Empor Berlin II,Arnaud Salla,NA,IV,1,0
-337,BSV Al-Dersimspor,Emre-Eyüp Önal,7,ZDM,14,0
-338,SV Stern Britz 1889,Julian Karsten Heikenfeld,NA,ST,2,0
-339,Türkiyemspor Berlin,Amon Simunovic,6,ZDM,21,0
-340,BFC Preussen II,Dominik Dietzel,1,TW,10,0
-341,Türkiyemspor Berlin,Davut Kösker,32,TW,4,0
-342,Köpenicker FC,Maximilian Zengler,25,ST,2,0
-343,TSV Rudow Berlin,Sebastian Stang,NA,NA,2,0
-344,BSV Al-Dersimspor,Caglar Polat,27,ZOM,19,0
-345,SV Stern Britz 1889,Patrick Kübler,21,NA,0,0
-346,Köpenicker FC,Pascal Berger,NA,NA,0,0
-347,SV Stern Britz 1889,Timo Ziebarth,1,TW,16,0
-348,FC Internationale Berlin 1980,Enrique Freitag,8,ZDM,19,0
-349,BSV Al-Dersimspor,Etem Tonk,24,IV,21,0
-350,Berliner SV 1892,Dennis Fischer,2,LV,5,0
-351,Türkiyemspor Berlin,Dennis Fischer,2,LV,7,0
-352,SV Empor Berlin II,Tom Wessel,24,IV,5,0
-353,SV Stern Britz 1889,Kamil Ryszard Borowski,NA,IV,4,0
-354,TSV Rudow Berlin,Linus Fürstenow,4,IV,23,0
-355,FSV Berolina Stralau 1901,Philipp Nikolajewski,14,IV,15,0
-356,Berliner SC II,Umran Saied,NA,LM,1,0
-357,Berliner SC II,Oguz Rencber,NA,LM,2,0
-358,FSV Berolina Stralau 1901,Emilio Son,7,NA,4,0
-359,SV Stern Britz 1889,Nico Hauf,13,IV,16,0
-360,FSV Berolina Stralau 1901,Viktor Kreisel,20,NA,2,0
-361,SV Stern Britz 1889,Robin Koller,NA,TW,2,0
-362,VfB Concordia Britz 1916,Domenic Schäfer,NA,LV,1,0
-363,FSV Berolina Stralau 1901,Ian Häberle,22,IV,21,0
-364,BSV Al-Dersimspor,Leorant Abduli,23,NA,1,0
-365,Türkiyemspor Berlin,Ali Mert Koca,15,ZOM,6,0
-366,Türkiyemspor Berlin,Ertugrul Aktas,13,TW,18,0
-367,FC Internationale Berlin 1980,Josè Francisco Cunto,NA,NA,1,0
-368,BSV Eintracht Mahlsdorf II,Marcus Grund,NA,ZM,4,0
-369,SV Empor Berlin II,Philipp Macketanz,15,LV,14,0
-370,FC Viktoria 1889 Berlin II,Patrick Büch,NA,NA,0,0
-371,FSV Berolina Stralau 1901,Akiyasu Tsuchiya,6,ZM,9,0
-372,BSV Eintracht Mahlsdorf II,Fabio Findeisen,NA,ZM,4,0
-373,Köpenicker FC,Adrian Thiemann,1,TW,19,0
-374,BSV Al-Dersimspor,Can Yildiz,NA,NA,5,0
-375,SC Borsigwalde 1910,David Mpembele Nzongo,25,ST,4,0
-376,BSV Al-Dersimspor,Achmed El-Noumeiri,NA,NA,5,0
-377,VfB Concordia Britz 1916,Leon Ketel,1,TW,14,0
-378,VfB Concordia Britz 1916,Merlin Schulz,8,IV,1,0
-379,Berliner SC II,Rene Lohmeier,NA,NA,0,0
-380,SV Empor Berlin II,Sam Misgayski,22,NA,1,0
-381,FSV Berolina Stralau 1901,Pablo Guillen,8,ST,14,0
-382,BSV Al-Dersimspor,Onur Kalkan,63,IV,15,0
-383,BSV Al-Dersimspor,Baris Güngör,NA,ZM,5,0
-384,SV Empor Berlin II,Pascal Bräkow,2,RV,24,0
-385,SV Empor Berlin II,Malte Bohn,NA,NA,1,0
-386,SV Empor Berlin II,Pjotr Xaver Strelets,NA,LV,3,0
-387,FC Internationale Berlin 1980,Amin Malik Chahed,77,NA,8,0
-388,Berliner SV 1892,Mario Mikic,14,RV,2,0
-389,Berliner SV 1892,Firooz Ahmadi,NA,NA,1,0
-390,BSV Al-Dersimspor,Ibrahim Hassan,NA,IV,2,0
-391,Berliner SV 1892,Jonathan Maurer,NA,ZM,10,0
-392,BSV Al-Dersimspor,Baran Egilmez,NA,NA,1,0
-393,SV Stern Britz 1889,Gianfranco Manzari,NA,NA,0,0
-394,Türkiyemspor Berlin,Muzaffer Kirimoglu,9,ST,9,0
-395,FC Internationale Berlin 1980,Jasper Büll,NA,NA,1,0
-396,FSV Berolina Stralau 1901,Ibrahim Diallo,10,RV,11,0
-397,TSV Rudow Berlin,Dominik Thonfeld,23,ST,12,0
-398,BSV Al-Dersimspor,Safak Höbek,NA,NA,1,0
-399,FC Viktoria 1889 Berlin II,Jakob Klautzsch,NA,LV,3,0
-400,SV Empor Berlin II,Tilman Schinzel,14,IV,17,0
-401,FC Viktoria 1889 Berlin II,Simon Stefanovic,7,LV,21,0
-402,Köpenicker FC,Rayk Stahnke,26,ZM,8,0
-403,VfB Concordia Britz 1916,Deniz Gassen,10,ZM,8,0
-404,BFC Meteor 06,Julius Böke,NA,NA,0,0
-405,FC Internationale Berlin 1980,Thomaz Klingl,10,ST,1,0
-406,Berliner SV 1892,Soner Gültepe,26,NA,6,0
-407,SV Stern Britz 1889,Kevin Schneider,NA,RM,3,0
-408,SC Borsigwalde 1910,Cengiz Devecioglu,NA,NA,0,0
-409,FSV Berolina Stralau 1901,Lucas Hufnagel,NA,NA,1,0
-410,Türkiyemspor Berlin,Oguzhan Codura,10,ST,5,0
-411,SC Borsigwalde 1910,Firat Yildirim,15,ZDM,14,0
-412,FC Internationale Berlin 1980,Stefan Nicola,NA,NA,0,0
-413,Türkiyemspor Berlin,Florian Nikolai Thalhofer,17,RV,16,0
-414,BSV Eintracht Mahlsdorf II,Marius Schreiber,8,LV,1,0
-415,VfB Concordia Britz 1916,Malte Meißner,33,TW,9,0
-416,SC Borsigwalde 1910,Khaled El-Okkla,27,IV,18,0
-417,SV Stern Britz 1889,Tommes Diallo,2,RV,7,0
-418,BFC Meteor 06,Marcos Terzopulos-Koutsoubas,5,RV,3,0
-419,Berliner SC II,Stefan Glaser,9,ST,16,0
-420,SC Borsigwalde 1910,David Chukwu,NA,LV,12,0
-421,FSV Berolina Stralau 1901,Leeroy-Life Leffke,13,NA,9,0
-422,Türkiyemspor Berlin,Ferhat Ömür,68,NA,0,0
-423,VfB Concordia Britz 1916,Nico Hasenbank,NA,ZM,2,0
-424,VfB Concordia Britz 1916,Benedikt Schmidtmann,23,RV,22,0
-425,FC Viktoria 1889 Berlin II,Marvin Knape,20,RV,6,0
-426,Köpenicker FC,Luca Carius,6,IV,22,0
-427,Berliner SC II,Stephan Ngah,NA,RM,1,0
-428,BFC Preussen II,Meiko Hesse,6,ZDM,18,0
-429,FC Viktoria 1889 Berlin II,Johannes Schwarz,NA,ZM,5,0
-430,BSV Eintracht Mahlsdorf II,Julian Bufe,NA,NA,0,0
-431,Köpenicker FC,Tom Rostock,NA,RM,7,0
-432,BSV Eintracht Mahlsdorf II,Oliver Spigaht,6,RM,16,0
-433,FC Viktoria 1889 Berlin II,Lukas-Noah Littler,2,IV,13,0
-434,FC Viktoria 1889 Berlin II,Mirko Wach,NA,NA,0,0
-435,Berliner SC II,Bryan Lilja,18,LM,7,0
-436,Türkiyemspor Berlin,Kenan Özen,6,ZDM,16,0
-437,BFC Preussen II,Guilherme Henrique Lopes De Oliveira,NA,NA,0,0
-438,FSV Berolina Stralau 1901,Milan Stricker,NA,ST,9,0
-439,BSV Eintracht Mahlsdorf II,Marvin Müller,NA,ZDM,1,0
-440,Köpenicker FC,Anton Neumann,14,ZM,12,0
-441,VfB Concordia Britz 1916,Aykut Tezel,NA,ST,3,0
-442,BSV Al-Dersimspor,Zana-Kazim Baba,NA,ST,7,0
-443,Türkiyemspor Berlin,Tolgahan Can Eskin,21,LM,5,0
-444,TSV Rudow Berlin,Jonas Becker,3,IV,21,0
-445,Türkiyemspor Berlin,Tamer Emre Ertürkler,17,ST,8,0
-446,Berliner SC II,Jesse Kreuschner,31,TW,9,0
-447,Köpenicker FC,Tim Höfer,NA,TW,1,0
-448,Berliner SC II,Luca Raoul Al-Habash,NA,RM,3,0
-449,Berliner SV 1892,Chidera Iwuozor,6,LM,8,0
-450,BFC Preussen II,Amir Sassi,NA,NA,0,0
-451,SV Stern Britz 1889,Stephane Franklin Yoko,12,NA,1,0
-452,FSV Berolina Stralau 1901,David Bode,18,IV,12,0
-453,FC Viktoria 1889 Berlin II,Nico Pohlan,NA,NA,0,0
-454,FSV Berolina Stralau 1901,Arian Saiti,17,RV,17,0
-455,BFC Meteor 06,Rick Mickael Ella,70,LM,8,0
-456,FC Viktoria 1889 Berlin II,Nico Starkowski,29,TW,1,0
-457,TSV Rudow Berlin,Eliot Tolaj,15,IV,16,0
-458,BSV Eintracht Mahlsdorf II,Justin Engfer,20,RV,6,0
-459,FC Internationale Berlin 1980,Marcos Adrian Castro Barbera,12,NA,15,0
-460,SV Empor Berlin II,Kolja Gramse,NA,NA,1,0
-461,BFC Meteor 06,Leo Suilmann,1,TW,8,0
-462,FC Internationale Berlin 1980,Jim Bratschke,77,RM,6,0
-463,SV Empor Berlin II,Niclas Nixdorf,3,IV,17,0
-464,SV Empor Berlin II,Jannick Wollmann,NA,IV,4,0
-465,Berliner SC II,Paul Schlicht,1,TW,14,0
-466,BSV Eintracht Mahlsdorf II,Tami Benkert,NA,ZM,1,0
-467,SV Stern Britz 1889,Benis Leci,30,IV,19,0
-468,BSV Eintracht Mahlsdorf II,Sune Tore Schröter,NA,NA,2,0
-469,FC Viktoria 1889 Berlin II,Leart Halimi,27,RM,3,0
-470,BSV Eintracht Mahlsdorf II,Lukas Otto,NA,NA,1,0
-471,FC Internationale Berlin 1980,Bryson Rodney Pink,NA,NA,2,0
-472,Köpenicker FC,Alieu Nyassi,NA,NA,2,0
-473,Türkiyemspor Berlin,Mustafa Kenan Yigitoglu,NA,IV,10,0
-474,Berliner SC II,Tom Köster,NA,TW,1,0
-475,BSV Eintracht Mahlsdorf II,Noah Wulf,NA,IV,1,0
-476,FSV Berolina Stralau 1901,Andreas Friese,23,TW,17,0
-477,SV Stern Britz 1889,Miran Aykus,5,IV,10,0
-478,FC Viktoria 1889 Berlin II,Hadi El-Hayek,23,NA,2,0
-479,Türkiyemspor Berlin,Koray Aktas,21,TW,10,0
-480,Berliner SC II,Zahm Rad,NA,ZM,2,0
-481,SV Empor Berlin II,Stanley Schulz,NA,IV,2,0
-482,VfB Concordia Britz 1916,Burak Tatli,44,ST,3,0
-483,FC Internationale Berlin 1980,Kaan Ucbaglar,44,LM,5,0
-484,BSV Al-Dersimspor,Kaan Ucbaglar,44,LM,9,0
-485,SV Stern Britz 1889,Ahmed Saygi,NA,NA,1,0
-486,BFC Preussen II,Marko Fischer,4,LV,2,0
-487,FC Internationale Berlin 1980,Marko Fischer,4,LV,5,0
-488,BFC Meteor 06,Tyrone Mengesha,NA,NA,4,0
-489,BFC Preussen II,Tim Henseler,NA,NA,4,0
-490,Türkiyemspor Berlin,Görkem Tozlu,NA,NA,5,0
-491,SC Borsigwalde 1910,Ahmad Chehade,NA,LV,6,0
-492,FC Internationale Berlin 1980,Giovanni Marigo,2,RV,24,0
-493,VfB Concordia Britz 1916,Enes Noah Öztürk,18,RV,2,0
-494,BFC Preussen II,Adam Lamkaddam,32,NA,1,0
-495,VfB Concordia Britz 1916,Merdan Köse,4,IV,17,0
-496,Türkiyemspor Berlin,Erdem Celik,18,RM,4,0
-497,SC Borsigwalde 1910,Philip Bartoschek,17,ZOM,11,0
-498,SV Empor Berlin II,Aaron Yusuff,NA,TW,13,0
-499,BSV Eintracht Mahlsdorf II,Max Koyuncu,9,NA,2,0
-500,BSV Eintracht Mahlsdorf II,Fabian Clemen,NA,NA,0,0
-501,BSV Eintracht Mahlsdorf II,Carl Dopke,1,TW,4,0
-502,FSV Berolina Stralau 1901,Yussef Jradi,11,LM,21,0
-503,BFC Preussen II,Maximilian Schatz,24,ZM,6,0
-504,FC Viktoria 1889 Berlin II,Patrick Kühn,1,TW,21,0
-505,BFC Preussen II,Leo Sommerfeld,NA,IV,2,0
-506,SV Empor Berlin II,Alvenzio Ettah,19,ZM,20,0
-507,Köpenicker FC,Florian Hildebrand,NA,NA,1,0
-508,Berliner SC II,Felix Klebe,26,RM,4,0
-509,Berliner SC II,Fabian Niedenhoff,NA,ZM,1,0
-510,SC Borsigwalde 1910,Kai Neumann,21,ZM,6,0
-511,SC Borsigwalde 1910,Eren Motuk,5,IV,18,0
-512,SC Borsigwalde 1910,Elias Jamil Erisen,NA,LV,2,0
-513,SV Stern Britz 1889,Joshua Ridzewski,NA,LM,1,0
-514,BSV Al-Dersimspor,Ryan Smith Mabom Njiki,NA,ZM,5,0
-515,BSV Eintracht Mahlsdorf II,Benjamin Mohwinkel,NA,TW,1,0
-516,BSV Al-Dersimspor,Merdie Tshondo,20,RV,5,0
-517,SV Empor Berlin II,Vincent Lange,NA,IV,1,0
-518,SV Empor Berlin II,Robert Kurth,22,NA,3,0
-519,BFC Preussen II,Tiago de Sousa Oliveira,NA,NA,1,0
-520,SV Empor Berlin II,Oskar Kühn,23,TW,8,0
-521,Berliner SV 1892,Linus Hechtfisch,23,TW,6,0
-522,SC Borsigwalde 1910,Wilfred Arnaud Njankou Tchouwa,NA,NA,2,0
-523,Türkiyemspor Berlin,Hüseyin Tunay,NA,LM,0,0
-524,BSV Eintracht Mahlsdorf II,Maximilian Widmer,NA,LM,12,0
-525,Berliner SC II,Vincent Spiegel,15,IV,1,0
-526,BSV Eintracht Mahlsdorf II,Phillip Streiter,22,TW,23,0
-527,SV Empor Berlin II,Janne Henrik Bloch,33,TW,2,0
-528,BSV Eintracht Mahlsdorf II,Leonhard Buchmann,14,NA,1,0
-529,FC Viktoria 1889 Berlin II,Alexander Dikarev,NA,ZM,1,0
-530,FC Viktoria 1889 Berlin II,Dmytro Karika,30,TW,3,0
-531,Berliner SC II,Moritz Brune,17,NA,0,0
-532,BFC Preussen II,Christian Müller,25,ZDM,12,0
-533,Köpenicker FC,Noah Maximilian Laske,19,RV,14,0
-534,Berliner SC II,Yigit Öncü,24,ZM,3,0
-535,Köpenicker FC,Oskar Klauke,20,LV,12,0
-536,FC Internationale Berlin 1980,Juan José Swett Barros,23,NA,0,0
-537,SV Stern Britz 1889,Jonas Lück,18,TW,8,0
-538,FSV Berolina Stralau 1901,Cihat Yildirim,NA,ZDM,0,0
-539,BFC Preussen II,Kemo Andresen,NA,RM,1,0
-540,Türkiyemspor Berlin,Kemo Andresen,NA,RM,6,0
-541,TSV Rudow Berlin,Mert Arslan,NA,TW,0,0
-542,Köpenicker FC,Marques Brunow,NA,NA,6,0
-543,Türkiyemspor Berlin,Yeifre Diaz Chacon,NA,NA,1,0
-544,VfB Concordia Britz 1916,Mehmet Akif Bakiroglugil,18,NA,2,0
-545,Berliner SC II,Simon Riedel,14,RV,19,0
-546,FC Internationale Berlin 1980,Jacques Kahra,NA,IV,1,0
-547,SV Stern Britz 1889,Matias Ignacio Bottiglieri,NA,ST,4,0
-548,FC Internationale Berlin 1980,Lancine Braunert,NA,NA,0,0
-549,Türkiyemspor Berlin,Ali Ismail Gashi,12,RM,10,0
-550,Berliner SV 1892,Ali Ismail Gashi,12,RM,5,0
-551,VfB Concordia Britz 1916,Ilai Harder,NA,NA,0,0
-552,SC Borsigwalde 1910,Joao Victor Braga De Souza,2,IV,15,0
-553,SV Empor Berlin II,Julian Duczmal,NA,ZM,4,0
-554,SC Borsigwalde 1910,Mehdi Bencheikh,NA,IV,4,0
-555,BSV Al-Dersimspor,Jonathan Schäfer,18,LV,20,0
-556,SC Borsigwalde 1910,Oskar Denis Cuesta,11,NA,7,0
-557,FC Internationale Berlin 1980,Cristobal Del Fierro,1,NA,21,0
-558,FC Viktoria 1889 Berlin II,Ognyan Stefanov,16,NA,8,0
-559,SV Empor Berlin II,Rafael Mentrup,21,LM,20,0
-560,SV Empor Berlin II,Laszlo Braun,22,ST,13,0
-561,SV Empor Berlin II,Daniil Savenko,18,NA,4,0
-562,FC Viktoria 1889 Berlin II,Emmanuel Sokowonci Daniel,32,NA,0,0
-563,FC Internationale Berlin 1980,Roger Gonzalez I Hermosa,40,TW,5,0
-564,FC Internationale Berlin 1980,Maximilian Louis Alexis Caspar de Rosnay,NA,NA,6,0
-565,SC Borsigwalde 1910,Yannick Djekonbe,20,NA,2,0
-566,BSV Eintracht Mahlsdorf II,Artur Reder,NA,NA,2,0
-567,BSV Eintracht Mahlsdorf II,Tim Pötig,15,RV,20,0
-568,FC Internationale Berlin 1980,Sebastian Basaure Larrain,NA,NA,1,0
-569,FSV Berolina Stralau 1901,Adnan Shah,NA,NA,0,0
-570,BFC Meteor 06,Leon Splanemann,NA,NA,0,0
-571,VfB Concordia Britz 1916,Lukas Czernitzky,12,TW,2,0
-572,SC Borsigwalde 1910,Adam Barnat,6,LM,10,0
-573,VfB Concordia Britz 1916,Philip Wieser,17,ZM,19,0
-574,FC Viktoria 1889 Berlin II,Minyoung Lee,NA,NA,1,0
-575,VfB Concordia Britz 1916,Omar Mohamed Ibrahim Hassan Ali,NA,ST,9,0
-576,TSV Rudow Berlin,Pascal Ulrich,NA,NA,0,0
-577,BFC Meteor 06,Steven Demarr Saunders,14,RM,14,0
-578,Berliner SC II,Eric Ekandille,28,RM,4,0
-579,Berliner SC II,Eike Barth,25,ST,9,0
-580,Köpenicker FC,Anton Louis Süring,NA,LV,2,0
-581,Köpenicker FC,Lennart Will,NA,NA,2,0
-582,FC Internationale Berlin 1980,Jamie Dell Bullock,3,LV,16,0
-583,SV Empor Berlin II,Keita Udo,12,ZM,8,0
-584,TSV Rudow Berlin,Süleyman Aktas,29,TW,10,0
-585,FC Internationale Berlin 1980,Zachariah Mohamed Dukuly,21,NA,4,0
-586,Köpenicker FC,Luca Seeber,12,TW,5,0
-587,SV Empor Berlin II,Laurens Cerny,20,ZM,18,0
-588,FC Viktoria 1889 Berlin II,Sebastian Naicker,31,NA,3,0
-589,VfB Concordia Britz 1916,Nicht öffentlich,NA,NA,4,0
-590,Türkiyemspor Berlin,Mohamad El-Ali,42,NA,2,0
-591,TSV Rudow Berlin,Leon Merke,NA,TW,1,0
-592,Berliner SC II,Konstantin Joseski,NA,RV,5,0
-593,Berliner SC II,Nino Zamorano,22,NA,5,0
-594,Köpenicker FC,Iven Wiecker,NA,NA,3,0
-595,SC Borsigwalde 1910,Sadjad Rassuli,NA,ZDM,4,0
-596,FC Internationale Berlin 1980,Nikita Ovcharov,NA,NA,1,0
-597,SC Borsigwalde 1910,Mohammad Kassem,NA,TW,3,0
-598,Türkiyemspor Berlin,Rafael Pereira,NA,NA,1,0
-599,SC Borsigwalde 1910,Johan Ferney Marin Macareno,NA,NA,0,0
-600,SV Empor Berlin II,Tim Fechtner,NA,NA,1,0
-601,SV Stern Britz 1889,John Coker,NA,ST,7,0
+10,Berliner SV 1892,Julius Zauner,11,ST,25,10
+11,SC Borsigwalde 1910,Pedro Lucas Santanna Miranda Silva,10,ST,15,10
+12,BFC Meteor 06,Serkan Karasu,3,IV,25,9
+13,TSV Rudow Berlin,Talha Sennur,24,ST,20,9
+14,FSV Berolina Stralau 1901,Ole Bresemann,9,ST,21,9
+15,FSV Berolina Stralau 1901,Sebastian Heßler,12,LM,19,8
+16,BFC Meteor 06,Tim Riese,4,IV,21,8
+17,BSV Eintracht Mahlsdorf II,Kenan Halilcevic,17,LM,13,8
+18,FC Viktoria 1889 Berlin II,Joan Schäfers Llauger,8,LM,18,8
+19,BFC Preussen II,Lucky Ugbogbo,NA,RM,14,8
+20,Türkiyemspor Berlin,Enes Uzun,25,RM,20,7
+21,Türkiyemspor Berlin,Omid Saberdest,5,ZOM,23,7
+22,BSV Eintracht Mahlsdorf II,Christian Preiss,16,ZM,22,7
+23,Berliner SV 1892,Lennard Schleifenbaum,21,ST,25,7
+24,Berliner SV 1892,David Bellin,28,ST,23,7
+25,Berliner SV 1892,Paul Busche,7,LM,24,7
+26,VfB Concordia Britz 1916,Maximilian Höhle,20,ST,14,7
+27,FC Internationale Berlin 1980,Matteo Topal,31,ZDM,20,7
+28,FC Internationale Berlin 1980,Nicholas Cartwright Stanley,18,ZOM,19,7
+29,Berliner SC II,Alexander Lorenz,11,ST,10,7
+30,BFC Preussen II,Hugo Timur,7,ST,15,6
+31,SC Borsigwalde 1910,Marcel Knaack,NA,ST,9,6
+32,Köpenicker FC,Jose Antonio Ondo Mangue,21,NA,14,6
+33,BFC Meteor 06,Ayham Heimur,92,LM,21,6
+34,TSV Rudow Berlin,Elias Burda,13,IV,23,6
+35,VfB Concordia Britz 1916,Felix Weglöhner,6,RM,23,6
+36,FC Internationale Berlin 1980,Nicolas Costa Echeverria,4,IV,21,6
+37,BSV Eintracht Mahlsdorf II,Jonas Maroske,6,ZM,20,6
+38,Köpenicker FC,Alexander Foth,11,RM,13,5
+39,BFC Preussen II,Magnus Stahlberg,16,IV,18,5
+40,Berliner SC II,Kevin Uwe Einspannier,6,ZM,21,5
+41,Türkiyemspor Berlin,Volkan Neziroglu,NA,ST,11,5
+42,FSV Berolina Stralau 1901,Christopher Schwarz,NA,ZM,18,5
+43,SC Borsigwalde 1910,Magnus Crone,14,RM,20,5
+44,SC Borsigwalde 1910,Fabio Rondinelli,9,RM,19,5
+45,Türkiyemspor Berlin,Mehmet Tunay,NA,LM,11,5
+46,FC Viktoria 1889 Berlin II,Justin Thiele,6,IV,22,5
+47,BFC Preussen II,Lasse Engelsing,12,LV,18,5
+48,Köpenicker FC,Nicolas Tauschwitz,10,LM,18,5
+49,BSV Eintracht Mahlsdorf II,Reto Reichenberger,7,ST,25,5
+50,BSV Eintracht Mahlsdorf II,Carl-Lennart Stöver,19,LV,21,5
+51,FC Internationale Berlin 1980,Ryan Max Robert French,14,ST,20,5
+52,FC Viktoria 1889 Berlin II,Joshua Isaias Almedom,3,RM,19,5
+53,BSV Al-Dersimspor,Argjent Krasniqi,12,ST,23,5
+54,Köpenicker FC,Felix Wittenburg,24,ZM,16,5
+55,BFC Preussen II,Levent Mucuk,55,IV,20,4
+56,TSV Rudow Berlin,Melih Hortum,10,ZOM,18,4
+57,SC Borsigwalde 1910,Marcel Bubner,19,LM,21,4
+58,Berliner SV 1892,Sebastian Sobczyk,9,ST,9,4
+59,TSV Rudow Berlin,Patrick Maykowski,20,RM,25,4
+60,Berliner SV 1892,Nikita Charkov,20,IV,19,4
+61,BSV Al-Dersimspor,Sam Diokhane,4,IV,19,4
+62,BSV Al-Dersimspor,Mohamad-Ali Chawraba,47,ST,11,4
+63,Türkiyemspor Berlin,Habib Jalloh,16,LM,7,4
+64,FC Internationale Berlin 1980,Milan Daus,10,ST,22,4
+65,Berliner SV 1892,Tim Paschke,13,ST,13,4
+66,SV Empor Berlin II,Demba Mendy,9,ST,17,4
+67,BFC Meteor 06,Pascal-Rene Jüterbock,84,LM,17,4
+68,BFC Preussen II,Kevin Anderson Moreira Godinho,18,RM,8,4
+69,FC Viktoria 1889 Berlin II,Alican Ali,29,ST,12,4
+70,SV Empor Berlin II,Suraj Faizi,NA,ST,8,4
+71,BFC Preussen II,Gani Gashi,33,RM,6,4
+72,SV Empor Berlin II,Nico Bochnia,23,ST,13,4
+73,BFC Meteor 06,Jean Paul Ajala-Alexis,NA,ST,6,4
+74,FC Internationale Berlin 1980,Dominic Kranz,7,LV,17,4
+75,SV Empor Berlin II,Billy Bradley Tuckerman,NA,RM,6,4
+76,FC Internationale Berlin 1980,Maximilian De Rosnay,17,NA,9,4
+77,VfB Concordia Britz 1916,Piet Kühn,21,TW,23,4
+78,BFC Meteor 06,Tugay Adigüzel,61,LV,21,3
+79,Berliner SV 1892,Nick Bechler,27,IV,21,3
+80,BFC Preussen II,Ugurcan Yilmaz,48,ZOM,12,3
+81,SV Stern Britz 1889,Oguzhan Duman,19,ZOM,19,3
+82,BFC Preussen II,Lukas Kohlmann,20,IV,21,3
+83,BSV Al-Dersimspor,Milos Savkovic,8,LM,22,3
+84,BFC Preussen II,Rommel Abou-Chaker,13,ST,11,3
+85,Berliner SV 1892,Robin Wolff,25,ST,8,3
+86,SV Stern Britz 1889,Dustin Sik,7,RM,13,3
+87,VfB Concordia Britz 1916,Jerry Gase,7,ST,21,3
+88,VfB Concordia Britz 1916,Lionel Krampah,NA,ZM,10,3
+89,BSV Eintracht Mahlsdorf II,Maurice Völckert,11,ST,11,3
+90,SC Borsigwalde 1910,Kevin Kummer,29,IV,20,3
+91,FC Internationale Berlin 1980,Niklas Schindler,11,IV,22,3
+92,BFC Meteor 06,Oktay Ugur,17,ZOM,20,3
+93,Berliner SC II,Dominique Leitner,5,IV,25,3
+94,Berliner SV 1892,Stefano Tedesco,22,IV,21,3
+95,Berliner SC II,Danilo Arsic,11,ST,7,3
+96,Berliner SC II,Leon Ibrom,4,IV,23,3
+97,SV Empor Berlin II,David Schäfer,NA,LV,2,3
+98,BSV Eintracht Mahlsdorf II,Leon Schmeißer,20,RM,7,3
+99,FSV Berolina Stralau 1901,Eric Stier,5,ST,20,3
+100,SV Empor Berlin II,Jonathan Stolp,7,RM,10,3
+101,FC Internationale Berlin 1980,Moreno Schneider,19,RM,16,3
+102,FC Viktoria 1889 Berlin II,Vito Everett Dieckert,9,ZDM,16,3
+103,FSV Berolina Stralau 1901,Ali Esweiei,NA,LM,7,3
+104,BFC Meteor 06,Mohammed Hamiss,99,NA,12,3
+105,BSV Eintracht Mahlsdorf II,Tim-Luca Eberl,NA,RV,13,3
+106,Türkiyemspor Berlin,Deren Yoldas Emre,36,LV,18,3
+107,SV Stern Britz 1889,Shaker Shawrdi,20,LM,17,3
+108,FC Viktoria 1889 Berlin II,Maciej Macias,24,ZOM,11,3
+109,SV Empor Berlin II,Luis Ploschenz,NA,RM,6,3
+110,FSV Berolina Stralau 1901,Adrian Welch,7,ST,6,3
+111,TSV Rudow Berlin,Ahmad Haj Youssef,19,RM,23,3
+112,Köpenicker FC,Tobias Brandt,7,RM,18,3
+113,VfB Concordia Britz 1916,Joao Victor Souza Rosa,24,NA,16,3
+114,FSV Berolina Stralau 1901,Robert Adler,3,ST,10,2
+115,FSV Berolina Stralau 1901,Robert Klessny,NA,ST,7,2
+116,TSV Rudow Berlin,Alexander Wuthe,8,ZDM,19,2
+117,BFC Meteor 06,Soner Demiryürek,21,ZM,6,2
+118,VfB Concordia Britz 1916,Le-Roy Da-Costa,9,ST,5,2
+119,BFC Preussen II,Marcel Berner,15,RV,16,2
+120,Berliner SV 1892,El-Amin Elsaadawi,17,ST,18,2
+121,FSV Berolina Stralau 1901,Tom Jonach,16,IV,16,2
+122,BFC Preussen II,Dan Feldmann,NA,NA,8,2
+123,SV Empor Berlin II,Daniel Schneidawind,13,IV,3,2
+124,FC Internationale Berlin 1980,Antonio Boeddinghaus,6,LV,14,2
+125,SV Empor Berlin II,Dennis Seiler,11,IV,14,2
+126,FC Internationale Berlin 1980,Albert Bauder,9,ST,10,2
+127,TSV Rudow Berlin,Mohammed Hassane,17,ZDM,25,2
+128,SC Borsigwalde 1910,Daniel Mpembele Nzongo,NA,ST,9,2
+129,FSV Berolina Stralau 1901,Tobias Reuter,4,ZM,24,2
+130,BFC Meteor 06,Abdoulaye Djibril Diallo,NA,RV,10,2
+131,Türkiyemspor Berlin,Abdoulaye Djibril Diallo,NA,RV,5,2
+132,SV Empor Berlin II,Falk Marquard,NA,ZDM,4,2
+133,SV Empor Berlin II,Hong Phuc Dinh,17,LM,5,2
+134,Berliner SC II,Nikolaos Kaggelidids,3,LV,18,2
+135,FC Viktoria 1889 Berlin II,David Nagel,4,IV,11,2
+136,VfB Concordia Britz 1916,Arne-Luca Auctun,19,IV,18,2
+137,BFC Meteor 06,Jannik Jantzen,27,ZDM,19,2
+138,FSV Berolina Stralau 1901,Georg Schönfelder,3,IV,23,2
+139,Berliner SC II,Erhan Kücükosman,10,ST,17,2
+140,BFC Preussen II,Tim Eymann,19,LV,4,2
+141,TSV Rudow Berlin,Nana Kwame Badu-Amoah,7,LM,16,2
+142,SV Stern Britz 1889,Leonit Leci,17,IV,15,2
+143,BFC Preussen II,Jeff Nnaemeka-Chukwurah,28,ZDM,14,2
+144,BSV Eintracht Mahlsdorf II,Loide Simao Macave,13,ST,4,2
+145,SV Empor Berlin II,Milo Lippe,8,ZM,19,2
+146,SV Empor Berlin II,Leon Drannaschk,10,LM,17,2
+147,BFC Preussen II,Atacan Özcan,22,RV,17,2
+148,BFC Meteor 06,Eriseld Tafilaj,69,NA,17,2
+149,BFC Preussen II,Arda Isik,NA,LM,10,2
+150,BSV Eintracht Mahlsdorf II,Yulian Andres Cordoba Moreno,NA,NA,3,2
+151,SV Stern Britz 1889,Cliff Boanu,29,RM,21,2
+152,BFC Preussen II,Theo Kagoue,45,RM,13,2
+153,Köpenicker FC,Osben-Dario Ondo Mangue,2,NA,11,2
+154,Türkiyemspor Berlin,Mohamad Faramarzi,20,RM,14,2
+155,BFC Meteor 06,Farouk Ben Mustapha,18,ST,9,2
+156,FC Internationale Berlin 1980,Oscar Reinaldo Avendano Leon,30,LM,7,2
+157,SV Stern Britz 1889,Timo Brei,NA,IV,4,2
+158,FC Internationale Berlin 1980,Nikita Ovcharov,NA,NA,2,2
+159,BFC Meteor 06,Solomon Okoronkwo,NA,ZOM,5,1
+160,BFC Preussen II,Moris Fikic,10,ZOM,7,1
+161,BSV Al-Dersimspor,Karsten Schleifring,25,ST,10,1
+162,TSV Rudow Berlin,Lucas Robbin Bähr,NA,IV,6,1
+163,SV Empor Berlin II,Maurice Peitz,NA,IV,1,1
+164,Berliner SC II,Linus Dersch,NA,RM,7,1
+165,SV Stern Britz 1889,Andre Schulz,23,IV,22,1
+166,BSV Eintracht Mahlsdorf II,Kay Szczech,18,ZM,20,1
+167,SV Stern Britz 1889,Resul Hirik,NA,ST,6,1
+168,TSV Rudow Berlin,Leonard Kirschner,NA,ST,5,1
+169,SV Stern Britz 1889,Philipp Kemkes,NA,NA,3,1
+170,Berliner SC II,Nelson Antoniofrancisco,7,LM,8,1
+171,SC Borsigwalde 1910,Kenneth Weise,49,IV,15,1
+172,BSV Eintracht Mahlsdorf II,Lukas Grützner,8,IV,17,1
+173,Köpenicker FC,Philip Möhle,28,RV,16,1
+174,VfB Concordia Britz 1916,Björn Röchert,30,IV,9,1
+175,BSV Al-Dersimspor,Welton Pereira Dos Santos,94,NA,18,1
+176,BSV Al-Dersimspor,Mücahid Kahraman,3,RV,20,1
+177,Berliner SC II,Noah Peter,12,ZM,13,1
+178,SC Borsigwalde 1910,Riccardo Ciao,18,ZDM,22,1
+179,BFC Preussen II,Romario Hartwig,NA,ST,2,1
+180,BSV Al-Dersimspor,Amir Awag,5,RV,23,1
+181,Berliner SV 1892,Göktug Özsoy,19,ZM,18,1
+182,SC Borsigwalde 1910,Michel Stefaniszin,8,ZDM,24,1
+183,SV Stern Britz 1889,Timo Höhna,6,LV,20,1
+184,SV Stern Britz 1889,Luca Ehrich,27,ZDM,20,1
+185,BSV Al-Dersimspor,Karim Zagmouz,6,IV,12,1
+186,BSV Al-Dersimspor,Hakan Günaydin,NA,LM,4,1
+187,Berliner SC II,Tim Niedenhoff,19,ZM,18,1
+188,Türkiyemspor Berlin,Görkem Yilmaz,4,ZOM,23,1
+189,SV Empor Berlin II,Elias Thürigen,5,IV,15,1
+190,SV Empor Berlin II,Simon Albrecht,NA,ZM,2,1
+191,BSV Eintracht Mahlsdorf II,Marc Michas,10,ZM,18,1
+192,BSV Eintracht Mahlsdorf II,Niklas Isberner,4,IV,22,1
+193,SV Empor Berlin II,Joris Möller,NA,LM,1,1
+194,SV Stern Britz 1889,Ali Mert Koca,15,ZOM,9,1
+195,BSV Eintracht Mahlsdorf II,Devis Meißner,NA,TW,2,1
+196,FC Internationale Berlin 1980,Akiyasu Tsuchiya,6,ZM,7,1
+197,VfB Concordia Britz 1916,Darnell Bruns,11,ST,8,1
+198,SV Stern Britz 1889,Luca Wojan,22,ZDM,17,1
+199,Köpenicker FC,Tarek Borchmeier,13,ZM,19,1
+200,Berliner SV 1892,Niklas Jost,4,IV,24,1
+201,FC Viktoria 1889 Berlin II,Oskar Schlembach,21,ZDM,12,1
+202,Berliner SV 1892,Joshua Tröger,24,RV,17,1
+203,TSV Rudow Berlin,Samet Sennur,11,ST,12,1
+204,VfB Concordia Britz 1916,Jordy Gase,25,ST,21,1
+205,Berliner SC II,Jakob Oevermann,15,IV,4,1
+206,SV Stern Britz 1889,Marcel Frobenius,37,RV,17,1
+207,BFC Meteor 06,Fredy Balde,8,LM,7,1
+208,BFC Preussen II,Alexander Gajda,14,RV,12,1
+209,BFC Preussen II,Nils Szerwinski,21,ST,11,1
+210,SV Stern Britz 1889,Dennis Pyplatz,24,ZDM,22,1
+211,BFC Preussen II,Omar Hajjaj,NA,ZDM,2,1
+212,Türkiyemspor Berlin,Ömer Tanis,8,ZDM,24,1
+213,SV Empor Berlin II,Paul Nickel,NA,ZDM,1,1
+214,FSV Berolina Stralau 1901,Alfredo-Manuel Villanueva Bravo,10,LM,3,1
+215,FC Viktoria 1889 Berlin II,Jeremy Herrmann,26,ZDM,20,1
+216,BFC Meteor 06,Lennart Nerlich,5,IV,24,1
+217,FC Viktoria 1889 Berlin II,Jeong Chaehyun,11,RM,15,1
+218,VfB Concordia Britz 1916,Amir-Mohamad Yassine,26,LM,11,1
+219,BSV Eintracht Mahlsdorf II,Björn Heydemann,NA,ST,2,1
+220,Köpenicker FC,Tom-Niclas Hamann,23,IV,19,1
+221,Berliner SC II,Ben Fidanboy,28,RV,6,1
+222,FC Viktoria 1889 Berlin II,Lucien Littbarski,NA,ZOM,1,1
+223,FSV Berolina Stralau 1901,Noah Maiß,21,ZM,7,1
+224,BFC Preussen II,Serhan Arslani,NA,NA,2,1
+225,SV Empor Berlin II,Niclas Nixdorf,3,IV,18,1
+226,BSV Eintracht Mahlsdorf II,Tom Bothe,12,IV,15,1
+227,FC Viktoria 1889 Berlin II,Konstantin- Alexander Westhäußer,13,RV,23,1
+228,BSV Al-Dersimspor,William Essel,9,LM,15,1
+229,FC Viktoria 1889 Berlin II,Ismail Bendjelloul,5,ZDM,19,1
+230,Türkiyemspor Berlin,Deniz Karakus,32,IV,4,1
+231,TSV Rudow Berlin,Yannick Emanuel Wöhle,16,ST,15,1
+232,BFC Preussen II,Ali Hammoud,NA,RV,11,1
+233,SC Borsigwalde 1910,Mohammed Yaqoobi,3,LV,21,1
+234,SV Empor Berlin II,Emile Ako,NA,RM,8,1
+235,FC Internationale Berlin 1980,Tiago de Sousa Oliveira,NA,NA,6,1
+236,SC Borsigwalde 1910,Hebun Aslan,NA,RV,3,1
+237,BSV Eintracht Mahlsdorf II,Mohammad Mansour,5,IV,13,1
+238,Türkiyemspor Berlin,Mustafa Kemal Karaman,11,LV,17,1
+239,FC Internationale Berlin 1980,Saif Merabti,NA,RM,6,1
+240,FC Viktoria 1889 Berlin II,Fonseca Pereira Mendes,25,RV,22,1
+241,FC Viktoria 1889 Berlin II,Nana Nkrumah,12,ST,14,1
+242,TSV Rudow Berlin,Abdullah Bayram,21,LM,21,1
+243,Köpenicker FC,Luca Munsky,3,LV,20,1
+244,Berliner SC II,Ezher Akbulut,23,LM,23,1
+245,BSV Eintracht Mahlsdorf II,Kilian Oliver Reinke,21,LV,22,1
+246,FC Viktoria 1889 Berlin II,Daniel Hölbling,15,ST,4,1
+247,Berliner SV 1892,Lewi Dawit Molalegn,15,ST,13,1
+248,BFC Meteor 06,Ibrahim Celik,47,RM,20,1
+249,FC Internationale Berlin 1980,Joel Broughton Weeks,NA,NA,1,1
+250,FC Internationale Berlin 1980,Marlon Mayen Guzman,16,LM,12,1
+251,Türkiyemspor Berlin,Manuel Pereira,NA,NA,1,1
+252,TSV Rudow Berlin,Aron Murseli,NA,LM,7,1
+253,BSV Al-Dersimspor,Max Kruse,30,NA,1,0
+254,Berliner SC II,Bene Brecht,16,ZM,5,0
+255,BFC Meteor 06,Selvedin Begzadic,22,TW,19,0
+256,Berliner SC II,Jannis Gabrielides,NA,NA,1,0
+257,BFC Preussen II,Vahit Engin,11,NA,6,0
+258,Türkiyemspor Berlin,Kenan Demir,3,ZDM,20,0
+259,Berliner SV 1892,Hendrik Lüttschwager,1,TW,20,0
+260,BSV Al-Dersimspor,Kerem Filiz,NA,IV,7,0
+261,FSV Berolina Stralau 1901,Jannes Potthoff,1,TW,8,0
+262,Berliner SC II,Nicolas Wolski,8,RV,11,0
+263,FSV Berolina Stralau 1901,Denis Rolke,15,RM,22,0
+264,BSV Al-Dersimspor,Yasin Baki,NA,TW,2,0
+265,TSV Rudow Berlin,Dmitri Zabavin,1,TW,3,0
+266,Köpenicker FC,Jonas Weigelt,8,IV,14,0
+267,TSV Rudow Berlin,Martin Gromotka,44,TW,22,0
+268,VfB Concordia Britz 1916,Yevgen Igorovic Lozynsky,27,NA,21,0
+269,BFC Preussen II,Paul Miggel,8,LV,7,0
+270,SV Empor Berlin II,Daniel Alankus,NA,IV,2,0
+271,FSV Berolina Stralau 1901,Daniel Fischer,19,LV,15,0
+272,BFC Meteor 06,Julian Schröder,15,RV,24,0
+273,SV Empor Berlin II,Dennis Wegner,NA,RV,1,0
+274,TSV Rudow Berlin,Dennis Rötzscher,18,ZDM,9,0
+275,BSV Al-Dersimspor,Patrick Boel,1,TW,18,0
+276,BFC Preussen II,Malte Hartmann,31,TW,16,0
+277,BFC Meteor 06,Metin Aktürk,NA,RM,3,0
+278,SC Borsigwalde 1910,Mahmoud Akkaoui,4,IV,4,0
+279,SC Borsigwalde 1910,Tobias Knetsch,23,TW,12,0
+280,BSV Eintracht Mahlsdorf II,Tom Greif,14,RV,5,0
+281,Köpenicker FC,Till Dietrich,27,LV,21,0
+282,VfB Concordia Britz 1916,Dennis Sarnewski,NA,NA,1,0
+283,BFC Preussen II,Yasin Demir,30,ZDM,18,0
+284,BFC Preussen II,Nicolas Michalke,NA,RV,3,0
+285,BFC Preussen II,Julian von Gliszczynski,NA,NA,1,0
+286,FSV Berolina Stralau 1901,Maximilian Weber,NA,ZM,8,0
+287,VfB Concordia Britz 1916,Daniel Michael Brüning,22,IV,8,0
+288,VfB Concordia Britz 1916,Fabian Kolditz,13,NA,1,0
+289,VfB Concordia Britz 1916,Patrick Wenke,29,IV,14,0
+290,SV Stern Britz 1889,Christopher Schneider,NA,RM,5,0
+291,BSV Al-Dersimspor,Caglar Halici,NA,ST,1,0
+292,BSV Al-Dersimspor,Hüseyin Ali Kaloglu,NA,IV,1,0
+293,BSV Al-Dersimspor,Önder Senkaya,NA,NA,1,0
+294,VfB Concordia Britz 1916,Tim Wenke,5,IV,13,0
+295,Berliner SC II,Lukas Strehlke,NA,NA,1,0
+296,Berliner SC II,Max Vincent Bolz,20,ZM,8,0
+297,BFC Meteor 06,Yusuf Abouri,NA,RV,4,0
+298,SV Stern Britz 1889,Fabio Zielske,NA,NA,0,0
+299,SV Stern Britz 1889,Marcel Lieker,NA,NA,1,0
+300,VfB Concordia Britz 1916,Robin Eschert,14,LV,4,0
+301,Berliner SV 1892,Benjamin Schnack,NA,IV,11,0
+302,Köpenicker FC,Kevin Wesolek,16,NA,2,0
+303,SV Stern Britz 1889,Yusuf Yildirim,NA,ZDM,1,0
+304,Köpenicker FC,Tom Nischwitz,5,IV,15,0
+305,SC Borsigwalde 1910,Jeffrey Kräft,37,TW,11,0
+306,BSV Al-Dersimspor,Onurcan Üremis,NA,NA,1,0
+307,SV Stern Britz 1889,Bartosz Palubski,21,NA,0,0
+308,BSV Al-Dersimspor,Aziz Ökten,NA,NA,0,0
+309,BSV Al-Dersimspor,Sercan-Günay Seyyidoglu,17,LM,9,0
+310,Berliner SV 1892,Karl Anker,8,RV,22,0
+311,BFC Meteor 06,Bahadir Katirci,7,NA,6,0
+312,Berliner SC II,Alexander Huse,13,ST,15,0
+313,SC Borsigwalde 1910,Antonio Ciao,22,ZDM,3,0
+314,VfB Concordia Britz 1916,Yannic Behrendt,NA,IV,7,0
+315,BSV Al-Dersimspor,Mustafa Arslan,1,TW,6,0
+316,BFC Meteor 06,Ahmad Zahlan,6,ZDM,24,0
+317,SV Stern Britz 1889,Marc Anthony Weisse,NA,ZM,1,0
+318,SV Stern Britz 1889,Suphi Tekin,NA,NA,2,0
+319,BSV Eintracht Mahlsdorf II,Ian Kroh,NA,IV,2,0
+320,Berliner SC II,Jakob Heilmann,2,LV,18,0
+321,SV Stern Britz 1889,Okan Özkaya,3,NA,6,0
+322,SV Empor Berlin II,Maurice Meyer,1,TW,11,0
+323,Berliner SV 1892,Maximilian Blust,NA,ST,6,0
+324,SV Stern Britz 1889,Naim Senay,26,IV,18,0
+325,BFC Meteor 06,Jamal Dähn,NA,NA,1,0
+326,Berliner SC II,Victor Kausch,NA,IV,3,0
+327,Berliner SV 1892,Nicht öffentlich,NA,NA,12,0
+328,BSV Al-Dersimspor,Vittorio Achour,NA,NA,2,0
+329,SV Empor Berlin II,Tom Stutzke,NA,IV,2,0
+330,Türkiyemspor Berlin,Jan Lange,NA,IV,4,0
+331,SV Empor Berlin II,Tjerk Ortmann,4,IV,4,0
+332,BFC Preussen II,Oliver Schill,NA,IV,1,0
+333,SV Empor Berlin II,Nikolai Wolany,NA,NA,1,0
+334,Berliner SC II,Oktay Öztürk,NA,RV,1,0
+335,Türkiyemspor Berlin,Paulo Eduardo Bernardes De Almeida,22,NA,5,0
+336,VfB Concordia Britz 1916,Julian Markgraf,NA,LV,10,0
+337,TSV Rudow Berlin,Jan-Eric Frank,6,IV,9,0
+338,SV Empor Berlin II,Arnaud Salla,NA,IV,1,0
+339,BSV Al-Dersimspor,Emre-Eyüp Önal,7,ZDM,14,0
+340,SV Stern Britz 1889,Julian Karsten Heikenfeld,NA,ST,2,0
+341,Türkiyemspor Berlin,Amon Simunovic,6,ZDM,22,0
+342,BFC Preussen II,Dominik Dietzel,1,TW,11,0
+343,Türkiyemspor Berlin,Davut Kösker,32,TW,4,0
+344,Köpenicker FC,Maximilian Zengler,25,ST,2,0
+345,TSV Rudow Berlin,Sebastian Stang,NA,NA,2,0
+346,BSV Al-Dersimspor,Caglar Polat,27,ZOM,20,0
+347,SV Stern Britz 1889,Patrick Kübler,21,NA,0,0
+348,Köpenicker FC,Pascal Berger,NA,NA,0,0
+349,SV Stern Britz 1889,Timo Ziebarth,1,TW,16,0
+350,FC Internationale Berlin 1980,Enrique Freitag,8,ZDM,20,0
+351,BSV Al-Dersimspor,Etem Tonk,24,IV,22,0
+352,Berliner SV 1892,Dennis Fischer,2,LV,5,0
+353,Türkiyemspor Berlin,Dennis Fischer,2,LV,7,0
+354,SV Empor Berlin II,Tom Wessel,24,IV,5,0
+355,SV Stern Britz 1889,Kamil Ryszard Borowski,NA,IV,4,0
+356,TSV Rudow Berlin,Linus Fürstenow,4,IV,24,0
+357,FSV Berolina Stralau 1901,Philipp Nikolajewski,14,IV,15,0
+358,Berliner SC II,Umran Saied,NA,LM,1,0
+359,Berliner SC II,Oguz Rencber,NA,LM,2,0
+360,FSV Berolina Stralau 1901,Emilio Son,7,NA,4,0
+361,SV Stern Britz 1889,Nico Hauf,13,IV,17,0
+362,FSV Berolina Stralau 1901,Viktor Kreisel,20,NA,3,0
+363,SV Stern Britz 1889,Robin Koller,NA,TW,2,0
+364,VfB Concordia Britz 1916,Domenic Schäfer,NA,LV,1,0
+365,FSV Berolina Stralau 1901,Ian Häberle,22,IV,21,0
+366,BSV Al-Dersimspor,Leorant Abduli,23,NA,1,0
+367,Türkiyemspor Berlin,Ali Mert Koca,15,ZOM,6,0
+368,Türkiyemspor Berlin,Ertugrul Aktas,13,TW,18,0
+369,FC Internationale Berlin 1980,Josè Francisco Cunto,NA,NA,1,0
+370,BSV Eintracht Mahlsdorf II,Marcus Grund,NA,ZM,4,0
+371,SV Empor Berlin II,Philipp Macketanz,15,LV,15,0
+372,FC Viktoria 1889 Berlin II,Patrick Büch,NA,NA,0,0
+373,FSV Berolina Stralau 1901,Akiyasu Tsuchiya,6,ZM,9,0
+374,BSV Eintracht Mahlsdorf II,Fabio Findeisen,NA,ZM,4,0
+375,Köpenicker FC,Adrian Thiemann,1,TW,20,0
+376,BSV Al-Dersimspor,Can Yildiz,NA,NA,5,0
+377,SC Borsigwalde 1910,David Mpembele Nzongo,25,ST,4,0
+378,BSV Al-Dersimspor,Achmed El-Noumeiri,NA,NA,5,0
+379,VfB Concordia Britz 1916,Leon Ketel,1,TW,14,0
+380,VfB Concordia Britz 1916,Merlin Schulz,8,IV,1,0
+381,Berliner SC II,Rene Lohmeier,NA,NA,0,0
+382,SV Empor Berlin II,Sam Misgayski,22,NA,1,0
+383,FSV Berolina Stralau 1901,Pablo Guillen,8,ZM,15,0
+384,BSV Al-Dersimspor,Onur Kalkan,63,IV,15,0
+385,BSV Al-Dersimspor,Baris Güngör,NA,ZM,5,0
+386,SV Empor Berlin II,Pascal Bräkow,2,RV,25,0
+387,SV Empor Berlin II,Malte Bohn,NA,NA,1,0
+388,SV Empor Berlin II,Pjotr Xaver Strelets,NA,LV,3,0
+389,FC Internationale Berlin 1980,Amin Malik Chahed,77,NA,8,0
+390,Berliner SV 1892,Mario Mikic,14,RV,2,0
+391,Berliner SV 1892,Firooz Ahmadi,NA,NA,1,0
+392,BSV Al-Dersimspor,Ibrahim Hassan,NA,IV,3,0
+393,Berliner SV 1892,Jonathan Maurer,NA,ZM,11,0
+394,BSV Al-Dersimspor,Baran Egilmez,NA,NA,1,0
+395,SV Stern Britz 1889,Gianfranco Manzari,NA,NA,0,0
+396,Türkiyemspor Berlin,Muzaffer Kirimoglu,9,ST,9,0
+397,FC Internationale Berlin 1980,Jasper Büll,NA,NA,1,0
+398,FSV Berolina Stralau 1901,Ibrahim Diallo,10,RV,11,0
+399,TSV Rudow Berlin,Dominik Thonfeld,23,ST,13,0
+400,BSV Al-Dersimspor,Safak Höbek,NA,NA,1,0
+401,FC Viktoria 1889 Berlin II,Jakob Klautzsch,NA,LV,3,0
+402,SV Empor Berlin II,Tilman Schinzel,14,IV,17,0
+403,FC Viktoria 1889 Berlin II,Simon Stefanovic,7,LV,22,0
+404,Köpenicker FC,Rayk Stahnke,26,ZM,9,0
+405,VfB Concordia Britz 1916,Deniz Gassen,10,ZM,8,0
+406,BFC Meteor 06,Julius Böke,NA,NA,0,0
+407,FC Internationale Berlin 1980,Thomaz Klingl,10,ST,1,0
+408,Berliner SV 1892,Soner Gültepe,26,NA,6,0
+409,SV Stern Britz 1889,Kevin Schneider,NA,RM,4,0
+410,SC Borsigwalde 1910,Cengiz Devecioglu,NA,NA,0,0
+411,FSV Berolina Stralau 1901,Lucas Hufnagel,NA,NA,1,0
+412,Türkiyemspor Berlin,Oguzhan Codura,10,ST,5,0
+413,SC Borsigwalde 1910,Firat Yildirim,15,ZDM,14,0
+414,FC Internationale Berlin 1980,Stefan Nicola,NA,NA,0,0
+415,Türkiyemspor Berlin,Florian Nikolai Thalhofer,17,RV,16,0
+416,BSV Eintracht Mahlsdorf II,Marius Schreiber,8,LV,1,0
+417,VfB Concordia Britz 1916,Malte Meißner,33,TW,10,0
+418,SC Borsigwalde 1910,Khaled El-Okkla,27,IV,19,0
+419,SV Stern Britz 1889,Tommes Diallo,2,RV,7,0
+420,BFC Meteor 06,Marcos Terzopulos-Koutsoubas,5,RV,3,0
+421,Berliner SC II,Stefan Glaser,9,ST,16,0
+422,SC Borsigwalde 1910,David Chukwu,NA,LV,13,0
+423,FSV Berolina Stralau 1901,Leeroy-Life Leffke,13,NA,9,0
+424,Türkiyemspor Berlin,Ferhat Ömür,68,NA,1,0
+425,VfB Concordia Britz 1916,Nico Hasenbank,NA,ZM,2,0
+426,VfB Concordia Britz 1916,Benedikt Schmidtmann,23,RV,23,0
+427,FC Viktoria 1889 Berlin II,Marvin Knape,20,RV,7,0
+428,Köpenicker FC,Luca Carius,6,IV,22,0
+429,Berliner SC II,Stephan Ngah,NA,RM,1,0
+430,BFC Preussen II,Meiko Hesse,6,ZDM,18,0
+431,FC Viktoria 1889 Berlin II,Johannes Schwarz,NA,ZM,5,0
+432,BSV Eintracht Mahlsdorf II,Julian Bufe,NA,NA,0,0
+433,Köpenicker FC,Tom Rostock,NA,RM,7,0
+434,BSV Eintracht Mahlsdorf II,Oliver Spigaht,6,RM,17,0
+435,Berliner SC II,Mehdi Jebali,NA,IV,1,0
+436,FC Viktoria 1889 Berlin II,Lukas-Noah Littler,2,IV,14,0
+437,FC Viktoria 1889 Berlin II,Mirko Wach,NA,NA,0,0
+438,Berliner SC II,Bryan Lilja,18,LM,8,0
+439,Türkiyemspor Berlin,Kenan Özen,6,ZDM,17,0
+440,BFC Preussen II,Guilherme Henrique Lopes De Oliveira,NA,NA,0,0
+441,FSV Berolina Stralau 1901,Milan Stricker,NA,ST,9,0
+442,BSV Eintracht Mahlsdorf II,Marvin Müller,NA,ZDM,1,0
+443,Köpenicker FC,Anton Neumann,14,ZM,12,0
+444,VfB Concordia Britz 1916,Aykut Tezel,NA,ST,3,0
+445,BSV Al-Dersimspor,Zana-Kazim Baba,NA,ST,8,0
+446,Türkiyemspor Berlin,Tolgahan Can Eskin,21,LM,5,0
+447,TSV Rudow Berlin,Jonas Becker,3,IV,22,0
+448,Türkiyemspor Berlin,Tamer Emre Ertürkler,17,ST,8,0
+449,Berliner SC II,Jesse Kreuschner,31,TW,9,0
+450,Köpenicker FC,Tim Höfer,NA,TW,1,0
+451,Berliner SC II,Luca Raoul Al-Habash,NA,RM,3,0
+452,Berliner SV 1892,Chidera Iwuozor,6,LM,9,0
+453,BFC Preussen II,Amir Sassi,NA,NA,0,0
+454,SV Stern Britz 1889,Stephane Franklin Yoko,12,NA,1,0
+455,FSV Berolina Stralau 1901,David Bode,18,RV,13,0
+456,FC Viktoria 1889 Berlin II,Nico Pohlan,NA,NA,0,0
+457,FSV Berolina Stralau 1901,Arian Saiti,17,RV,18,0
+458,BFC Meteor 06,Rick Mickael Ella,70,LM,8,0
+459,FC Viktoria 1889 Berlin II,Nico Starkowski,29,TW,1,0
+460,TSV Rudow Berlin,Eliot Tolaj,15,IV,16,0
+461,BSV Eintracht Mahlsdorf II,Justin Engfer,20,RV,6,0
+462,FC Internationale Berlin 1980,Marcos Adrian Castro Barbera,12,NA,15,0
+463,SV Empor Berlin II,Kolja Gramse,NA,NA,1,0
+464,BFC Meteor 06,Leo Suilmann,1,TW,8,0
+465,FC Internationale Berlin 1980,Jim Bratschke,77,RM,6,0
+466,SV Empor Berlin II,Jannick Wollmann,NA,IV,5,0
+467,Berliner SC II,Paul Schlicht,1,TW,15,0
+468,BSV Eintracht Mahlsdorf II,Tami Benkert,NA,ZM,1,0
+469,SV Stern Britz 1889,Benis Leci,30,IV,20,0
+470,BSV Eintracht Mahlsdorf II,Sune Tore Schröter,NA,NA,2,0
+471,FC Viktoria 1889 Berlin II,Leart Halimi,27,RM,3,0
+472,BSV Eintracht Mahlsdorf II,Lukas Otto,NA,IV,2,0
+473,FC Internationale Berlin 1980,Bryson Rodney Pink,NA,NA,2,0
+474,Köpenicker FC,Alieu Nyassi,NA,NA,2,0
+475,Türkiyemspor Berlin,Mustafa Kenan Yigitoglu,NA,IV,11,0
+476,Berliner SC II,Tom Köster,NA,TW,1,0
+477,BSV Eintracht Mahlsdorf II,Noah Wulf,NA,IV,1,0
+478,FSV Berolina Stralau 1901,Andreas Friese,23,TW,18,0
+479,SV Stern Britz 1889,Miran Aykus,5,IV,10,0
+480,FC Viktoria 1889 Berlin II,Hadi El-Hayek,23,NA,2,0
+481,Türkiyemspor Berlin,Koray Aktas,21,TW,10,0
+482,Berliner SC II,Zahm Rad,NA,ZM,2,0
+483,SV Empor Berlin II,Stanley Schulz,NA,IV,2,0
+484,VfB Concordia Britz 1916,Burak Tatli,44,ST,3,0
+485,BSV Al-Dersimspor,Kaan Ucbaglar,44,LM,9,0
+486,FC Internationale Berlin 1980,Kaan Ucbaglar,44,LM,6,0
+487,SV Stern Britz 1889,Ahmed Saygi,NA,NA,1,0
+488,BFC Preussen II,Marko Fischer,4,LV,2,0
+489,FC Internationale Berlin 1980,Marko Fischer,4,LV,6,0
+490,BFC Meteor 06,Tyrone Mengesha,NA,NA,4,0
+491,BFC Preussen II,Tim Henseler,NA,NA,4,0
+492,Türkiyemspor Berlin,Görkem Tozlu,NA,NA,6,0
+493,SC Borsigwalde 1910,Ahmad Chehade,NA,LV,7,0
+494,FC Internationale Berlin 1980,Giovanni Marigo,2,RV,25,0
+495,VfB Concordia Britz 1916,Enes Noah Öztürk,18,RV,2,0
+496,BFC Preussen II,Adam Lamkaddam,32,NA,1,0
+497,VfB Concordia Britz 1916,Merdan Köse,4,IV,18,0
+498,Türkiyemspor Berlin,Erdem Celik,18,RM,4,0
+499,SC Borsigwalde 1910,Philip Bartoschek,17,ZOM,11,0
+500,SV Empor Berlin II,Aaron Yusuff,NA,TW,13,0
+501,BSV Eintracht Mahlsdorf II,Max Koyuncu,9,NA,2,0
+502,BSV Eintracht Mahlsdorf II,Fabian Clemen,NA,NA,0,0
+503,BSV Eintracht Mahlsdorf II,Carl Dopke,1,TW,4,0
+504,FSV Berolina Stralau 1901,Yussef Jradi,11,LM,22,0
+505,BFC Preussen II,Maximilian Schatz,24,ZM,6,0
+506,FC Viktoria 1889 Berlin II,Patrick Kühn,1,TW,22,0
+507,BFC Preussen II,Leo Sommerfeld,NA,IV,2,0
+508,SV Empor Berlin II,Alvenzio Ettah,19,ZM,20,0
+509,Köpenicker FC,Florian Hildebrand,NA,NA,1,0
+510,Berliner SC II,Felix Klebe,26,RM,4,0
+511,Berliner SC II,Fabian Niedenhoff,NA,ZM,1,0
+512,SC Borsigwalde 1910,Kai Neumann,21,ZM,6,0
+513,SC Borsigwalde 1910,Eren Motuk,5,IV,18,0
+514,SC Borsigwalde 1910,Elias Jamil Erisen,NA,LV,2,0
+515,SV Stern Britz 1889,Joshua Ridzewski,NA,LM,1,0
+516,BSV Al-Dersimspor,Ryan Smith Mabom Njiki,NA,ZM,6,0
+517,BSV Eintracht Mahlsdorf II,Benjamin Mohwinkel,NA,TW,1,0
+518,Berliner SC II,Erdem Yilmazcelik,NA,NA,1,0
+519,BSV Al-Dersimspor,Merdie Tshondo,20,RV,5,0
+520,SV Empor Berlin II,Vincent Lange,NA,IV,1,0
+521,SV Empor Berlin II,Robert Kurth,22,NA,3,0
+522,BFC Preussen II,Tiago de Sousa Oliveira,NA,NA,1,0
+523,SV Empor Berlin II,Oskar Kühn,23,TW,9,0
+524,Berliner SV 1892,Linus Hechtfisch,23,TW,6,0
+525,SC Borsigwalde 1910,Wilfred Arnaud Njankou Tchouwa,NA,NA,3,0
+526,Türkiyemspor Berlin,Hüseyin Tunay,NA,LM,1,0
+527,BSV Eintracht Mahlsdorf II,Maximilian Widmer,NA,LM,13,0
+528,Berliner SC II,Vincent Spiegel,15,IV,1,0
+529,BSV Eintracht Mahlsdorf II,Phillip Streiter,22,TW,24,0
+530,SV Empor Berlin II,Janne Henrik Bloch,33,TW,2,0
+531,BSV Eintracht Mahlsdorf II,Leonhard Buchmann,14,NA,1,0
+532,FC Viktoria 1889 Berlin II,Alexander Dikarev,NA,ZM,1,0
+533,FC Viktoria 1889 Berlin II,Dmytro Karika,30,TW,3,0
+534,Berliner SC II,Moritz Brune,17,NA,0,0
+535,BFC Preussen II,Christian Müller,25,ZDM,13,0
+536,Köpenicker FC,Noah Maximilian Laske,19,RV,14,0
+537,Berliner SC II,Yigit Öncü,24,ZM,3,0
+538,Köpenicker FC,Oskar Klauke,20,LV,12,0
+539,FC Internationale Berlin 1980,Juan José Swett Barros,23,NA,0,0
+540,SV Stern Britz 1889,Jonas Lück,18,TW,9,0
+541,FSV Berolina Stralau 1901,Cihat Yildirim,NA,ZDM,0,0
+542,BFC Preussen II,Kemo Andresen,NA,RM,1,0
+543,Türkiyemspor Berlin,Kemo Andresen,NA,RM,7,0
+544,TSV Rudow Berlin,Mert Arslan,NA,TW,0,0
+545,Köpenicker FC,Marques Brunow,NA,NA,6,0
+546,Türkiyemspor Berlin,Yeifre Diaz Chacon,NA,NA,1,0
+547,VfB Concordia Britz 1916,Mehmet Akif Bakiroglugil,18,NA,2,0
+548,Berliner SC II,Simon Riedel,14,RV,20,0
+549,FC Internationale Berlin 1980,Jacques Kahra,NA,IV,1,0
+550,SV Stern Britz 1889,Matias Ignacio Bottiglieri,NA,ST,5,0
+551,FC Internationale Berlin 1980,Lancine Braunert,NA,NA,0,0
+552,Türkiyemspor Berlin,Ali Ismail Gashi,12,RM,10,0
+553,Berliner SV 1892,Ali Ismail Gashi,12,RM,5,0
+554,VfB Concordia Britz 1916,Ilai Harder,NA,NA,0,0
+555,SC Borsigwalde 1910,Joao Victor Braga De Souza,2,IV,15,0
+556,SV Empor Berlin II,Julian Duczmal,NA,ZM,4,0
+557,SC Borsigwalde 1910,Mehdi Bencheikh,NA,IV,4,0
+558,BSV Al-Dersimspor,Jonathan Schäfer,18,LV,21,0
+559,SC Borsigwalde 1910,Oskar Denis Cuesta,11,NA,8,0
+560,FC Internationale Berlin 1980,Cristobal Del Fierro,1,NA,21,0
+561,FC Viktoria 1889 Berlin II,Ognyan Stefanov,16,NA,8,0
+562,SV Empor Berlin II,Rafael Mentrup,21,LM,21,0
+563,SV Empor Berlin II,Laszlo Braun,22,LM,14,0
+564,SV Empor Berlin II,Daniil Savenko,18,NA,4,0
+565,FC Viktoria 1889 Berlin II,Emmanuel Sokowonci Daniel,32,NA,0,0
+566,BFC Preussen II,Baran Daskan,NA,IV,1,0
+567,FC Internationale Berlin 1980,Roger Gonzalez Hermosa,40,TW,6,0
+568,FC Internationale Berlin 1980,Maximilian Louis Alexis Caspar de Rosnay,NA,NA,7,0
+569,SC Borsigwalde 1910,Yannick Djekonbe,20,NA,2,0
+570,BSV Eintracht Mahlsdorf II,Artur Reder,NA,NA,2,0
+571,BSV Eintracht Mahlsdorf II,Tim Pötig,15,RV,21,0
+572,FC Internationale Berlin 1980,Sebastian Basaure Larrain,NA,NA,1,0
+573,FSV Berolina Stralau 1901,Adnan Shah,NA,NA,0,0
+574,BFC Meteor 06,Leon Splanemann,NA,NA,0,0
+575,VfB Concordia Britz 1916,Lukas Czernitzky,12,TW,2,0
+576,SC Borsigwalde 1910,Adam Barnat,6,LM,11,0
+577,VfB Concordia Britz 1916,Philip Wieser,17,ZM,20,0
+578,FC Viktoria 1889 Berlin II,Minyoung Lee,NA,NA,1,0
+579,VfB Concordia Britz 1916,Omar Mohamed Ibrahim Hassan Ali,NA,ST,10,0
+580,TSV Rudow Berlin,Pascal Ulrich,NA,NA,0,0
+581,BFC Meteor 06,Steven Demarr Saunders,14,RM,14,0
+582,Berliner SC II,Eric Ekandille,28,RM,5,0
+583,Berliner SC II,Eike Barth,25,ST,9,0
+584,Köpenicker FC,Anton Louis Süring,NA,LV,2,0
+585,Köpenicker FC,Lennart Will,NA,NA,2,0
+586,FC Internationale Berlin 1980,Jamie Dell Bullock,3,LV,17,0
+587,SV Empor Berlin II,Keita Udo,12,ZM,8,0
+588,TSV Rudow Berlin,Süleyman Aktas,29,TW,10,0
+589,FC Internationale Berlin 1980,Zachariah Mohamed Dukuly,21,NA,4,0
+590,Köpenicker FC,Luca Seeber,12,TW,5,0
+591,SV Empor Berlin II,Laurens Cerny,20,ZM,19,0
+592,FC Viktoria 1889 Berlin II,Sebastian Naicker,31,NA,3,0
+593,VfB Concordia Britz 1916,Nicht öffentlich,NA,NA,4,0
+594,Türkiyemspor Berlin,Mohamad El-Ali,42,NA,2,0
+595,TSV Rudow Berlin,Leon Merke,NA,TW,1,0
+596,Berliner SC II,Konstantin Joseski,NA,RV,5,0
+597,Berliner SC II,Nino Zamorano,22,NA,5,0
+598,Köpenicker FC,Iven Wiecker,NA,NA,4,0
+599,SC Borsigwalde 1910,Sadjad Rassuli,NA,ZDM,5,0
+600,SC Borsigwalde 1910,Mohammad Kassem,NA,TW,3,0
+601,Türkiyemspor Berlin,Rafael Pereira,NA,NA,1,0
+602,SC Borsigwalde 1910,Johan Ferney Marin Macareno,NA,NA,0,0
+603,SV Empor Berlin II,Tim Fechtner,NA,NA,2,0
+604,SV Stern Britz 1889,John Coker,NA,ST,7,0
