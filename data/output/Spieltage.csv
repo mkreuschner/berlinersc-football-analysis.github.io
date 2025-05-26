@@ -415,22 +415,22 @@ matchday,H,A,Tore_H,Tore_A,where
 26,BSV Eintracht Mahlsdorf II,VfB Concordia Britz 1916,1,2,away
 26,SC Borsigwalde 1910,SV Empor Berlin II,0,3,away
 26,Türkiyemspor Berlin,Berliner SC II,0,2,away
-27,Köpenicker FC,BFC Meteor 06,NA,NA,home
-27,BSV Eintracht Mahlsdorf II,SV Empor Berlin II,NA,NA,home
-27,FSV Berolina Stralau 1901,FC Viktoria 1889 Berlin II,NA,NA,home
-27,TSV Rudow Berlin,Berliner SC II,NA,NA,home
-27,SV Stern Britz 1889,Berliner SV 1892,NA,NA,home
-27,SC Borsigwalde 1910,FC Internationale Berlin 1980,NA,NA,home
-27,BFC Preussen II,VfB Concordia Britz 1916,NA,NA,home
-27,Türkiyemspor Berlin,BSV Al-Dersimspor,NA,NA,home
-27,BFC Meteor 06,Köpenicker FC,NA,NA,away
-27,SV Empor Berlin II,BSV Eintracht Mahlsdorf II,NA,NA,away
-27,FC Viktoria 1889 Berlin II,FSV Berolina Stralau 1901,NA,NA,away
-27,Berliner SC II,TSV Rudow Berlin,NA,NA,away
-27,Berliner SV 1892,SV Stern Britz 1889,NA,NA,away
-27,FC Internationale Berlin 1980,SC Borsigwalde 1910,NA,NA,away
-27,VfB Concordia Britz 1916,BFC Preussen II,NA,NA,away
-27,BSV Al-Dersimspor,Türkiyemspor Berlin,NA,NA,away
+27,Köpenicker FC,BFC Meteor 06,2,2,home
+27,BSV Eintracht Mahlsdorf II,SV Empor Berlin II,2,4,home
+27,FSV Berolina Stralau 1901,FC Viktoria 1889 Berlin II,2,0,home
+27,TSV Rudow Berlin,Berliner SC II,2,0,home
+27,SV Stern Britz 1889,Berliner SV 1892,2,8,home
+27,SC Borsigwalde 1910,FC Internationale Berlin 1980,0,3,home
+27,BFC Preussen II,VfB Concordia Britz 1916,1,3,home
+27,Türkiyemspor Berlin,BSV Al-Dersimspor,1,1,home
+27,BFC Meteor 06,Köpenicker FC,2,2,away
+27,SV Empor Berlin II,BSV Eintracht Mahlsdorf II,4,2,away
+27,FC Viktoria 1889 Berlin II,FSV Berolina Stralau 1901,0,2,away
+27,Berliner SC II,TSV Rudow Berlin,0,2,away
+27,Berliner SV 1892,SV Stern Britz 1889,8,2,away
+27,FC Internationale Berlin 1980,SC Borsigwalde 1910,3,0,away
+27,VfB Concordia Britz 1916,BFC Preussen II,3,1,away
+27,BSV Al-Dersimspor,Türkiyemspor Berlin,1,1,away
 28,FC Internationale Berlin 1980,BSV Eintracht Mahlsdorf II,NA,NA,home
 28,SV Empor Berlin II,BFC Preussen II,NA,NA,home
 28,Berliner SC II,SV Stern Britz 1889,NA,NA,home
