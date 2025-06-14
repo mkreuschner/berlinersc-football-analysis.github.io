@@ -1,5 +1,5 @@
 Spieltag,Heim,Auswärts,H_tore,A_tore
-30,TSV Rudow Berlin,SC Borsigwalde 1910,NA,NA
+30,TSV Rudow Berlin,SC Borsigwalde 1910,5,0
 30,BSV Al-Dersimspor,BFC Preussen II,NA,NA
 30,FC Viktoria 1889 Berlin II,SV Stern Britz 1889,NA,NA
 30,FC Internationale Berlin 1980,BFC Meteor 06,NA,NA
@@ -7,22 +7,22 @@ Spieltag,Heim,Auswärts,H_tore,A_tore
 30,Türkiyemspor Berlin,BSV Eintracht Mahlsdorf II,NA,NA
 30,Berliner SV 1892,FSV Berolina Stralau 1901,NA,NA
 30,SV Empor Berlin II,VfB Concordia Britz 1916,NA,NA
-29,BFC Preussen II,FC Internationale Berlin 1980,NA,NA
-29,BFC Meteor 06,FC Viktoria 1889 Berlin II,NA,NA
+29,BFC Preussen II,FC Internationale Berlin 1980,1,3
+29,BFC Meteor 06,FC Viktoria 1889 Berlin II,3,3
 29,SC Borsigwalde 1910,Berliner SC II,NA,NA
-29,TSV Rudow Berlin,Türkiyemspor Berlin,NA,NA
+29,TSV Rudow Berlin,Türkiyemspor Berlin,4,0
 29,BSV Eintracht Mahlsdorf II,Berliner SV 1892,NA,NA
 29,FSV Berolina Stralau 1901,VfB Concordia Britz 1916,NA,NA
-29,SV Stern Britz 1889,BSV Al-Dersimspor,NA,NA
+29,SV Stern Britz 1889,BSV Al-Dersimspor,3,2
 29,Köpenicker FC,SV Empor Berlin II,NA,NA
-28,FC Internationale Berlin 1980,BSV Eintracht Mahlsdorf II,NA,NA
-28,SV Empor Berlin II,BFC Preussen II,NA,NA
-28,Berliner SC II,SV Stern Britz 1889,NA,NA
-28,VfB Concordia Britz 1916,Köpenicker FC,NA,NA
-28,FC Viktoria 1889 Berlin II,Türkiyemspor Berlin,NA,NA
-28,BFC Meteor 06,FSV Berolina Stralau 1901,NA,NA
-28,Berliner SV 1892,SC Borsigwalde 1910,NA,NA
-28,BSV Al-Dersimspor,TSV Rudow Berlin,NA,NA
+28,FC Internationale Berlin 1980,BSV Eintracht Mahlsdorf II,7,1
+28,SV Empor Berlin II,BFC Preussen II,2,1
+28,Berliner SC II,SV Stern Britz 1889,9,0
+28,VfB Concordia Britz 1916,Köpenicker FC,2,6
+28,FC Viktoria 1889 Berlin II,Türkiyemspor Berlin,5,3
+28,BFC Meteor 06,FSV Berolina Stralau 1901,3,1
+28,Berliner SV 1892,SC Borsigwalde 1910,4,0
+28,BSV Al-Dersimspor,TSV Rudow Berlin,0,0
 27,Köpenicker FC,BFC Meteor 06,2,2
 27,BSV Eintracht Mahlsdorf II,SV Empor Berlin II,2,4
 27,FSV Berolina Stralau 1901,FC Viktoria 1889 Berlin II,2,0

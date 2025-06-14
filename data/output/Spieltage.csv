@@ -431,39 +431,39 @@ matchday,H,A,Tore_H,Tore_A,where
 27,FC Internationale Berlin 1980,SC Borsigwalde 1910,3,0,away
 27,VfB Concordia Britz 1916,BFC Preussen II,3,1,away
 27,BSV Al-Dersimspor,Türkiyemspor Berlin,1,1,away
-28,FC Internationale Berlin 1980,BSV Eintracht Mahlsdorf II,NA,NA,home
-28,SV Empor Berlin II,BFC Preussen II,NA,NA,home
-28,Berliner SC II,SV Stern Britz 1889,NA,NA,home
-28,VfB Concordia Britz 1916,Köpenicker FC,NA,NA,home
-28,FC Viktoria 1889 Berlin II,Türkiyemspor Berlin,NA,NA,home
-28,BFC Meteor 06,FSV Berolina Stralau 1901,NA,NA,home
-28,Berliner SV 1892,SC Borsigwalde 1910,NA,NA,home
-28,BSV Al-Dersimspor,TSV Rudow Berlin,NA,NA,home
-28,BSV Eintracht Mahlsdorf II,FC Internationale Berlin 1980,NA,NA,away
-28,BFC Preussen II,SV Empor Berlin II,NA,NA,away
-28,SV Stern Britz 1889,Berliner SC II,NA,NA,away
-28,Köpenicker FC,VfB Concordia Britz 1916,NA,NA,away
-28,Türkiyemspor Berlin,FC Viktoria 1889 Berlin II,NA,NA,away
-28,FSV Berolina Stralau 1901,BFC Meteor 06,NA,NA,away
-28,SC Borsigwalde 1910,Berliner SV 1892,NA,NA,away
-28,TSV Rudow Berlin,BSV Al-Dersimspor,NA,NA,away
-29,BFC Preussen II,FC Internationale Berlin 1980,NA,NA,home
-29,BFC Meteor 06,FC Viktoria 1889 Berlin II,NA,NA,home
+28,FC Internationale Berlin 1980,BSV Eintracht Mahlsdorf II,7,1,home
+28,SV Empor Berlin II,BFC Preussen II,2,1,home
+28,Berliner SC II,SV Stern Britz 1889,9,0,home
+28,VfB Concordia Britz 1916,Köpenicker FC,2,6,home
+28,FC Viktoria 1889 Berlin II,Türkiyemspor Berlin,5,3,home
+28,BFC Meteor 06,FSV Berolina Stralau 1901,3,1,home
+28,Berliner SV 1892,SC Borsigwalde 1910,4,0,home
+28,BSV Al-Dersimspor,TSV Rudow Berlin,0,0,home
+28,BSV Eintracht Mahlsdorf II,FC Internationale Berlin 1980,1,7,away
+28,BFC Preussen II,SV Empor Berlin II,1,2,away
+28,SV Stern Britz 1889,Berliner SC II,0,9,away
+28,Köpenicker FC,VfB Concordia Britz 1916,6,2,away
+28,Türkiyemspor Berlin,FC Viktoria 1889 Berlin II,3,5,away
+28,FSV Berolina Stralau 1901,BFC Meteor 06,1,3,away
+28,SC Borsigwalde 1910,Berliner SV 1892,0,4,away
+28,TSV Rudow Berlin,BSV Al-Dersimspor,0,0,away
+29,BFC Preussen II,FC Internationale Berlin 1980,1,3,home
+29,BFC Meteor 06,FC Viktoria 1889 Berlin II,3,3,home
 29,SC Borsigwalde 1910,Berliner SC II,NA,NA,home
-29,TSV Rudow Berlin,Türkiyemspor Berlin,NA,NA,home
+29,TSV Rudow Berlin,Türkiyemspor Berlin,4,0,home
 29,BSV Eintracht Mahlsdorf II,Berliner SV 1892,NA,NA,home
 29,FSV Berolina Stralau 1901,VfB Concordia Britz 1916,NA,NA,home
-29,SV Stern Britz 1889,BSV Al-Dersimspor,NA,NA,home
+29,SV Stern Britz 1889,BSV Al-Dersimspor,3,2,home
 29,Köpenicker FC,SV Empor Berlin II,NA,NA,home
-29,FC Internationale Berlin 1980,BFC Preussen II,NA,NA,away
-29,FC Viktoria 1889 Berlin II,BFC Meteor 06,NA,NA,away
+29,FC Internationale Berlin 1980,BFC Preussen II,3,1,away
+29,FC Viktoria 1889 Berlin II,BFC Meteor 06,3,3,away
 29,Berliner SC II,SC Borsigwalde 1910,NA,NA,away
-29,Türkiyemspor Berlin,TSV Rudow Berlin,NA,NA,away
+29,Türkiyemspor Berlin,TSV Rudow Berlin,0,4,away
 29,Berliner SV 1892,BSV Eintracht Mahlsdorf II,NA,NA,away
 29,VfB Concordia Britz 1916,FSV Berolina Stralau 1901,NA,NA,away
-29,BSV Al-Dersimspor,SV Stern Britz 1889,NA,NA,away
+29,BSV Al-Dersimspor,SV Stern Britz 1889,2,3,away
 29,SV Empor Berlin II,Köpenicker FC,NA,NA,away
-30,TSV Rudow Berlin,SC Borsigwalde 1910,NA,NA,home
+30,TSV Rudow Berlin,SC Borsigwalde 1910,5,0,home
 30,BSV Al-Dersimspor,BFC Preussen II,NA,NA,home
 30,FC Viktoria 1889 Berlin II,SV Stern Britz 1889,NA,NA,home
 30,FC Internationale Berlin 1980,BFC Meteor 06,NA,NA,home
@@ -471,7 +471,7 @@ matchday,H,A,Tore_H,Tore_A,where
 30,Türkiyemspor Berlin,BSV Eintracht Mahlsdorf II,NA,NA,home
 30,Berliner SV 1892,FSV Berolina Stralau 1901,NA,NA,home
 30,SV Empor Berlin II,VfB Concordia Britz 1916,NA,NA,home
-30,SC Borsigwalde 1910,TSV Rudow Berlin,NA,NA,away
+30,SC Borsigwalde 1910,TSV Rudow Berlin,0,5,away
 30,BFC Preussen II,BSV Al-Dersimspor,NA,NA,away
 30,SV Stern Britz 1889,FC Viktoria 1889 Berlin II,NA,NA,away
 30,BFC Meteor 06,FC Internationale Berlin 1980,NA,NA,away
