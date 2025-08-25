@@ -5,85 +5,51 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles/css/all_pages.css">
     <link rel="stylesheet" href="styles/css/first_page.css">
-    <title>RESULTS</title>
+    <title>Geteilte Seite Oben/Unten</title>
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            flex-direction: column; /* Vertikale Teilung */
+        }
+        .half {
+            flex: 1;
+            display: flex;
+            flex-direction: column; /* Damit Text auch vertikal ausgerichtet ist */
+            align-items: center;
+            justify-content: center;
+            text-decoration: none;
+            text-align: center;
+        }
+        .top {
+            background-color: black;
+            color: #FFF5CC;
+        }
+        .bottom {
+            background-color: #FFF5CC;
+            color: black;
+        }
+        .team-name {
+            font-size: 3rem; /* Oberer Text */
+        }
+        .team-level {
+            font-size: 6rem; /* Deutlich größerer Text */
+            font-weight: bold;
+        }
+    </style>
 </head>
 <body>
+<!-- Obere Hälfte -->
+<a href="h1_page01.html" class="half top">
+    <span class="team-name">Berliner SC</span>
+    <span class="team-level">1. Herren</span>
+</a>
 
-<!-- Navigation Bar -->
-<div class="w3-top" >
-    <div class="w3-row w3-padding w3-black">
-        <div class="navbar" id="navbar">
-            <div class="w3-col s3">
-                <a href="index.html" class="w3-button w3-block w3-black">RESULTS</a>
-            </div>
-            <div class="w3-col s3">
-                <a href="second_page.html" class="w3-button w3-block w3-black">ANALYSIS</a>
-            </div>
-            <div class="w3-col s3">
-                <a href="third_page.html" class="w3-button w3-block w3-black">PLAYER</a>
-            </div>
-            <div class="w3-col s3">
-                <a href="fourth_page.html" class="w3-button w3-block w3-black">REAL11</a>
-            </div>
-        </div>
-    </div>
-</div>
-
-<!-- Spieltage -->
-<div class="container">
-    <!-- Dropdown zur Auswahl der Spieltage -->
-    <div class="w3-container" id="matchday">
-        <h5 class="w3-center w3-padding-16"><span class="w3-tag w3-wide">Spieltag</span></h5>
-        <div class="matchday-navigation">
-            <button id="prevMatchday" style="margin-right: 0.1rem; background-color: black; color: white;">&#x2039;</button>
-            <select id="matchdaySelect">
-                <option value="">-- Wähle einen Spieltag --</option>
-            </select>
-            <button id="nextMatchday" style="margin-left: 0.1rem; background-color: black; color: white;">&#x203A;</button>
-        </div>
-        <div id="matchday-container" style="margin-top: 1rem;">
-            <table id="dataMatchday"></table>
-        </div>
-    </div>
-</div>
-
-
-<div class="container">
-    <!-- Dropdown zur Auswahl der Tabelle -->
-    <div class="w3-container" id="table">
-        <h5 class="w3-center w3-padding-16"><span class="w3-tag w3-wide">TABELLEN</span></h5>
-        <div class="select-container">
-            <select id="tableSelect">
-                <option value="">-- Tabelle auswählen --</option>
-                <option value="https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/output/gesamttabelle.csv" data-columns="#,team,S,Tore,Dif,Pkt">Gesamttabelle</option>
-                <option value="https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/output/survival_thresholds.csv" data-columns="#,team,Pkt,Pred,100%,90%,75%,50%">Prediction</option>
-                <option value="https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/output/formtabelle.csv" data-columns="#,team,E5,E4,E3,E2,E1,Tore,Pkt" data-special="form">Formtabelle</option>
-                <option value="https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/output/heimtabelle.csv" data-columns="#,team,S,Tore,Dif,Pkt">Heimtabelle</option>
-                <option value="https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/output/auswaertstabelle.csv" data-columns="#,team,S,Tore,Dif,Pkt">Auswärtstabelle</option>
-                <option value="https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/output/rasentabelle.csv" data-columns="#,team,S,Tore,Dif,Pkt">Rasentabelle</option>
-                <option value="https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/output/kunstrasentabelle.csv" data-columns="#,team,S,Tore,Dif,Pkt">Kunstrasentabelle</option>
-                <option value="https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/output/kleinkunstrasentabelle.csv" data-columns="#,team,S,Tore,Dif,Pkt">kleiner-Platz-Tabelle</option>
-
-            </select>
-        </div>
-
-        <!-- Container für die Tabelle -->
-        <div id="table-container" style="margin-top: 1rem;"></div>
-    </div>
-</div>
-
-
-<!-- End page content -->
-</div>
-
-<!-- Footer -->
-<footer class="w3-center w3-light-grey w3-padding-48 w3-large">
-    <p>Created by Moritz</p>
-</footer>
-
-<script src="js/chart.umd.min.js"></script>
-<script src="js/papaparse.min.js"></script>
-<script src="js/first_page.js"></script>
-
+<!-- Untere Hälfte -->
+<a href="h2_page01.html" class="half bottom">
+    <span class="team-name">Berliner SC</span>
+    <span class="team-level">2. Herren</span>
+</a>
 </body>
 </html>
