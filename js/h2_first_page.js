@@ -396,22 +396,22 @@ document.addEventListener("DOMContentLoaded", () => {
     // Teamnamen ersetzen
     function replaceTeamNames(data, teamColumn) {
         const teamNameMapping = {
-            "TSV Rudow Berlin": "Rudow",
+            "Berliner SC II": "BSC II",
+            "SV Empor Berlin II": "Empor II",
             "BFC Preussen II": "Preussen II",
-            "BFC Meteor 06": "Meteor",
-            "BSV Eintracht Mahlsdorf II": "Mahlsdorf II",
+            "SC Berliner Amateure": "Amateure",
+            "Berolina Mitte": "Berolina",
             "SC Borsigwalde 1910": "Borsigwalde",
             "Berliner SV 1892": "BSV 92",
-            "FC Viktoria 1889 Berlin II": "Viktoria II",
+            "SF Charlottenburg-Wilmmersdorf": "Charl-Wilm",
+            "Friedenauer TSC": "Friedenau",
+            "Berlin Hilalspor": "Hilalspor",
+            "BSC Hürtürkel": "Hürtürkel",
             "FC Internationale Berlin 1980": "Inter",
-            "Türkiyemspor Berlin": "Tükiyem",
-            "Berliner SC II": "BSC II",
-            "Köpenicker FC": "Köpenick",
-            "BSV Al-Dersimspor": "Al-Dersim",
-            "FSV Berolina Stralau 1901": "Stralau",
-            "SV Empor Berlin II": "Empor II",
-            "SV Stern Britz 1889": "Britz",
-            "VfB Concordia Britz 1916": "Concordia"
+            "SF Johannisthal": "Jo'thal",
+            "DJK Neukölln": "Neukölln",
+            "Pfeffersport": "Pfeffersport",
+            "1.FC Schöneberg": "Schöneberg"
         };
 
         return data.map(row => {

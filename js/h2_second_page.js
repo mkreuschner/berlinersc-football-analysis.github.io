@@ -6,26 +6,30 @@ document.addEventListener("DOMContentLoaded", () => {
     let chartInstanceForPlatz = null;
 
     // Teams und Kategorien
-    const teams = ["TSV Rudow Berlin", "BFC Preussen II", "BFC Meteor 06", "BSV Eintracht Mahlsdorf II",
-        "SC Borsigwalde 1910", "Berliner SV 1892", "FC Viktoria 1889 Berlin II",
-        "FC Internationale Berlin 1980", "Türkiyemspor Berlin", "Berliner SC II",
-        "Köpenicker FC", "BSV Al-Dersimspor", "FSV Berolina Stralau 1901",
-        "SV Empor Berlin II", "SV Stern Britz 1889", "VfB Concordia Britz 1916"];
+    const teams = ["BSC Hürtürkel", "BFC Preussen II", "SC Berliner Amateure", "Berolina Mitte",
+        "SC Borsigwalde 1910", "Berliner SV 1892", "SF Johannisthal",
+        "FC Internationale Berlin 1980", "DJK Neukölln", "Berliner SC II",
+        "1.FC Schöneberg", "Pfeffersport", "Berlin Hilalspor",
+        "SV Empor Berlin II", "SF Charlottenburg-Wilmmersdorf", "Friedenauer TSC"];
+
 
     const teamAbbreviations = {
-        "TSV Rudow Berlin": "RUD",
+        "BSC Hürtürkel": "HUR",
+        "SV Empor Berlin II": "EMP",
         "SC Borsigwalde 1910": "BOR",
         "BFC Preussen II": "PRE",
-        "BFC Meteor 06": "MET",
+        "SC Berliner Amateure": "AMA",
         "FC Internationale Berlin 1980": "INT",
-        "Türkiyemspor Berlin": "TUR",
+        "Berolina Mitte": "BER",
+        "SF Charlottenburg-Wilmmersdorf": "SFC",
         "Berliner SC II": "BSC",
-        "Köpenicker FC": "KFC",
-        "BSV Eintracht Mahlsdorf II": "MAH",
+        "SF Johannisthal": "SFJ",
+        "DJK Neukölln": "DJK",
         "Berliner SV 1892": "BSV",
-        "FSV Berolina Stralau 1901": "STR",
-        "SV Stern Britz 1889": "BRI",
-        "VfB Concordia Britz 1916": "CON"
+        "Friedenauer TSC": "FRI",
+        "Berlin Hilalspor": "HIL",
+        "Pfeffersport": "PFE",
+        "1.FC Schöneberg": "SCH"
     };
 
 

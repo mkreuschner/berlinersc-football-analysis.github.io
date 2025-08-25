@@ -6,26 +6,31 @@ document.addEventListener("DOMContentLoaded", () => {
     let chartInstanceForPlatz = null;
 
     // Teams und Kategorien
-    const teams = ["TSV Rudow Berlin", "BFC Preussen II", "BFC Meteor 06", "BSV Eintracht Mahlsdorf II",
-        "SC Borsigwalde 1910", "Berliner SV 1892", "FC Viktoria 1889 Berlin II",
-        "FC Internationale Berlin 1980", "Türkiyemspor Berlin", "Berliner SC II",
-        "Köpenicker FC", "BSV Al-Dersimspor", "FSV Berolina Stralau 1901",
-        "SV Empor Berlin II", "SV Stern Britz 1889", "VfB Concordia Britz 1916"];
+    const teams = [ "Berliner SC","TSV Rudow Berlin", "VSG Altglienicke II","VfB Fortuna Biesdorf", "Frohnauer SC",
+        "Füchse Berlin", "TSV Mariendorf", "Spandauer Kickers",
+        "Hohen Neuendorf", "Polar Pinguin", "SC Charlottenburg",
+        "SC Staaken", "SFC Stern 1900", "Blau Weiß 90","SSC Südwest",
+        "SV Empor Berlin", "Berlin Türkspor", "1. FC Wilmersdorf"];
 
     const teamAbbreviations = {
+        "Berliner SC": "BSC",
+        "SV Empor Berlin": "EMP",
+        "VSG Altglienicke II": "ALT",
         "TSV Rudow Berlin": "RUD",
-        "SC Borsigwalde 1910": "BOR",
-        "BFC Preussen II": "PRE",
-        "BFC Meteor 06": "MET",
-        "FC Internationale Berlin 1980": "INT",
-        "Türkiyemspor Berlin": "TUR",
-        "Berliner SC II": "BSC",
-        "Köpenicker FC": "KFC",
-        "BSV Eintracht Mahlsdorf II": "MAH",
-        "Berliner SV 1892": "BSV",
-        "FSV Berolina Stralau 1901": "STR",
-        "SV Stern Britz 1889": "BRI",
-        "VfB Concordia Britz 1916": "CON"
+        "VfB Fortuna Biesdorf": "BIE",
+        "Frohnauer SC": "FRO",
+        "Füchse Berlin": "FUC",
+        "TSV Mariendorf": "MAR",
+        "Hohen Neuendorf": "HN",
+        "Polar Pinguin": "POL",
+        "SC Charlottenburg": "SCC",
+        "Spandauer Kickers": "SPA",
+        "SC Staaken": "STA",
+        "SFC Stern 1900": "STN",
+        "SSC Südwest": "SSC",
+        "Berlin Türkspor": "TUR",
+        "1.FC Wilmersdorf": "WIL",
+        "Blau Weiß 90": "BW90"
     };
 
 
