@@ -1,532 +1,538 @@
-ID,Name,Team,Nummer
-1012823,Danilo Arsic,Berliner SC II,11
-1084756,Leon Ibrom,Berliner SC II,4
-1084792,Rene Lohmeier,Berliner SC II,
-114904,Bene Brecht,Berliner SC II,16
-1185789,Jakob Oevermann,Berliner SC II,15
-1338125,Nikolaos Kaggelidids,Berliner SC II,3
-1362203,Stefan Glaser,Berliner SC II,9
-1447154,Bryan Lilja,Berliner SC II,18
-1556419,Jesse Kreuschner,Berliner SC II,31
-1585477,Ben Fidanboy,Berliner SC II,28
-1611107,Erhan Kücükosman,Berliner SC II,10
-1756662,Paul Schlicht,Berliner SC II,1
-1844094,Zahm Rad,Berliner SC II,
-1928266,Felix Klebe,Berliner SC II,26
-2023168,Vincent Spiegel,Berliner SC II,15
-2058677,Moritz Brune,Berliner SC II,17
-2071635,Yigit Öncü,Berliner SC II,24
-2133061,Simon Riedel,Berliner SC II,14
-2267120,Ezher Akbulut,Berliner SC II,23
-2338815,Eric Ekandille,Berliner SC II,28
-2339579,Eike Barth,Berliner SC II,25
-2378543,Konstantin Joseski,Berliner SC II,
-2378545,Alexander Lorenz,Berliner SC II,11
-2378546,Nino Zamorano,Berliner SC II,22
-302249,Nicolas Wolski,Berliner SC II,8
-555710,Kevin Uwe Einspannier,Berliner SC II,6
-555713,Nelson Antoniofrancisco,Berliner SC II,7
-555745,Max Vincent Bolz,Berliner SC II,20
-589795,Noah Peter,Berliner SC II,12
-589922,Alexander Huse,Berliner SC II,13
-627402,Jakob Heilmann,Berliner SC II,2
-849598,Tim Niedenhoff,Berliner SC II,19
-849622,Dominique Leitner,Berliner SC II,5
-872446,Oguz Rencber,Berliner SC II,
-1102215,Amin Malik Chahed,FC Internationale Berlin 1980,77
-1119437,Jasper Büll,FC Internationale Berlin 1980,
-1186665,Thomaz Klingl,FC Internationale Berlin 1980,10
-1326499,Stefan Nicola,FC Internationale Berlin 1980,
-1370831,Moreno Schneider,FC Internationale Berlin 1980,19
-1713621,Marcos Adrian Castro Barbera,FC Internationale Berlin 1980,12
-1754454,Jim Bratschke,FC Internationale Berlin 1980,77
-1878754,Giovanni Marigo,FC Internationale Berlin 1980,2
-1987343,Matteo Topal,FC Internationale Berlin 1980,31
-2071667,Nicolas Costa Echeverria,FC Internationale Berlin 1980,4
-2099301,Juan José Swett Barros,FC Internationale Berlin 1980,23
-2115448,Dominic Kranz,FC Internationale Berlin 1980,7
-2189087,Cristobal Del Fierro,FC Internationale Berlin 1980,1
-2189090,Ryan Max Robert French,FC Internationale Berlin 1980,14
-2204177,Maximilian De Rosnay,FC Internationale Berlin 1980,17
-2221430,Roger Gonzalez I Hermosa,FC Internationale Berlin 1980,40
-2279859,Nicholas Cartwright Stanley,FC Internationale Berlin 1980,18
-2294556,Oscar Reinaldo Avendano Leon,FC Internationale Berlin 1980,30
-2294557,Sebastian Basaure Larrain,FC Internationale Berlin 1980,
-2341687,Jamie Dell Bullock,FC Internationale Berlin 1980,3
-2341689,Joel Broughton Weeks,FC Internationale Berlin 1980,
-2356828,Zachariah Mohamed Dukuly,FC Internationale Berlin 1980,21
-2369259,Marlon Mayen Guzman,FC Internationale Berlin 1980,16
-610525,Antonio Boeddinghaus,FC Internationale Berlin 1980,6
-824144,Niklas Schindler,FC Internationale Berlin 1980,11
-849601,Enrique Freitag,FC Internationale Berlin 1980,8
-906538,Albert Bauder,FC Internationale Berlin 1980,9
-946160,Milan Daus,FC Internationale Berlin 1980,10
-1091094,Luca Wojan,SV Stern Britz 1889,22
-1325188,Marcel Frobenius,SV Stern Britz 1889,37
-1358063,Tommes Diallo,SV Stern Britz 1889,2
-1359284,Dennis Pyplatz,SV Stern Britz 1889,24
-1624952,Stephane Franklin Yoko,SV Stern Britz 1889,12
-1764241,Benis Leci,SV Stern Britz 1889,30
-1764242,Leonit Leci,SV Stern Britz 1889,17
-1836112,Miran Aykus,SV Stern Britz 1889,5
-1873208,Shaker Shawrdi,SV Stern Britz 1889,20
-1935153,Joshua Ridzewski,SV Stern Britz 1889,
-2075030,Cliff Boanu,SV Stern Britz 1889,29
-2110511,Jonas Lück,SV Stern Britz 1889,18
-2328786,Timo Brei,SV Stern Britz 1889,
-438761,Andre Schulz,SV Stern Britz 1889,23
-494672,Oguzhan Duman,SV Stern Britz 1889,19
-554138,Christopher Schneider,SV Stern Britz 1889,
-557280,Fabio Zielske,SV Stern Britz 1889,
-564117,Dustin Sik,SV Stern Britz 1889,7
-564200,Yusuf Yildirim,SV Stern Britz 1889,
-572496,Bartosz Palubski,SV Stern Britz 1889,21
-611139,Marc Anthony Weisse,SV Stern Britz 1889,
-636409,Okan Özkaya,SV Stern Britz 1889,3
-656966,Naim Senay,SV Stern Britz 1889,26
-780838,Timo Höhna,SV Stern Britz 1889,6
-821531,Luca Ehrich,SV Stern Britz 1889,27
-848940,Patrick Kübler,SV Stern Britz 1889,21
-849578,Timo Ziebarth,SV Stern Britz 1889,1
-860630,Kamil Ryszard Borowski,SV Stern Britz 1889,
-877594,Nico Hauf,SV Stern Britz 1889,13
-1021635,Patrick Büch,FC Viktoria 1889 Berlin II,
-1109767,Oskar Schlembach,FC Viktoria 1889 Berlin II,21
-1135576,Jakob Klautzsch,FC Viktoria 1889 Berlin II,
-1151082,Simon Stefanovic,FC Viktoria 1889 Berlin II,7
-1338340,David Nagel,FC Viktoria 1889 Berlin II,4
-1395099,Marvin Knape,FC Viktoria 1889 Berlin II,20
-1442249,Jeremy Herrmann,FC Viktoria 1889 Berlin II,26
-1442312,Lukas-Noah Littler,FC Viktoria 1889 Berlin II,2
-1442314,Mirko Wach,FC Viktoria 1889 Berlin II,
-1485731,Chae-Hyun Jeong,FC Viktoria 1889 Berlin II,11
-1556587,Vito Everett Dieckert,FC Viktoria 1889 Berlin II,9
-1613808,Lucien Littbarski,FC Viktoria 1889 Berlin II,
-1658864,Nico Pohlan,FC Viktoria 1889 Berlin II,
-1695576,Nico Starkowski,FC Viktoria 1889 Berlin II,29
-1754492,Justin Thiele,FC Viktoria 1889 Berlin II,6
-1771771,Alican Ali,FC Viktoria 1889 Berlin II,29
-1771850,Leart Halimi,FC Viktoria 1889 Berlin II,27
-1815104,Matthieu Lucas Weinlein,FC Viktoria 1889 Berlin II,17
-1815109,Konstantin- Alexander Westhäußer,FC Viktoria 1889 Berlin II,13
-1840212,Hadi El-Hayek,FC Viktoria 1889 Berlin II,23
-1849720,Ismail Bendjelloul,FC Viktoria 1889 Berlin II,5
-1873245,Joan Schäfer Llauger,FC Viktoria 1889 Berlin II,8
-1892816,Patrick Kühn,FC Viktoria 1889 Berlin II,1
-2055520,Fonseca Pereira Mendes,FC Viktoria 1889 Berlin II,25
-2056527,Dmytro Karika,FC Viktoria 1889 Berlin II,30
-2065381,Maciej Macias,FC Viktoria 1889 Berlin II,24
-2110190,Nana Nkrumah,FC Viktoria 1889 Berlin II,12
-2196188,Ognyan Stefanov,FC Viktoria 1889 Berlin II,16
-2205011,Emmanuel Sokowonci Daniel,FC Viktoria 1889 Berlin II,32
-2248604,Joshua Isaias Almedom,FC Viktoria 1889 Berlin II,3
-2285761,Rayan Ait Manssour,FC Viktoria 1889 Berlin II,19
-2313642,Daniel Hölbling,FC Viktoria 1889 Berlin II,15
-2369253,Sebastian Naicker,FC Viktoria 1889 Berlin II,31
-1118240,Samet Sennur,TSV Rudow Berlin,11
-1119739,Dominik Thonfeld,TSV Rudow Berlin,23
-1549054,Jonas Becker,TSV Rudow Berlin,3
-1617176,Elias Burda,TSV Rudow Berlin,13
-1710827,Eliot Tolaj,TSV Rudow Berlin,15
-1710831,Nana Kwame Badu-Amoah,TSV Rudow Berlin,7
-1877276,Zafer Kaan Göksar,TSV Rudow Berlin,
-1889079,Yannick Emanuel Wöhle,TSV Rudow Berlin,16
-2115439,Mert Arslan,TSV Rudow Berlin,
-2132646,Abdullah Bayram,TSV Rudow Berlin,21
-2335873,Pascal Ulrich,TSV Rudow Berlin,
-2346194,Süleyman Aktas,TSV Rudow Berlin,29
-2346195,Ahmad Haj Youssef,TSV Rudow Berlin,19
-358358,Melih Hortum,TSV Rudow Berlin,10
-358424,Dmitri Zabavin,TSV Rudow Berlin,1
-371537,Martin Gromotka,TSV Rudow Berlin,44
-478754,Alexander Wuthe,TSV Rudow Berlin,8
-499196,Dennis Rötzscher,TSV Rudow Berlin,18
-554638,Patrick Maykowski,TSV Rudow Berlin,20
-627319,Matteo Günther,TSV Rudow Berlin,9
+ÔªøID,Name,Team,Nummer
+1084793,Max-Fabian W√∂lker,Berliner SC,18
+1104327,Jonas Wortmann,Berliner SC,
+1119773,Lion Schumann,Berliner SC,
+1151008,Nathanel Osaroboh Simon,Berliner SC,
+1310952,Kota Murakami,Berliner SC,
+1405724,Stephan Ngah,Berliner SC,
+1771229,Luis-Raymond Bossard,Berliner SC,
+1822043,Tom K√∂ster,Berliner SC,1
+1873241,Bara Abu Hamid,Berliner SC,
+1890439,Jeff Nnaemeka-Chukwurah,Berliner SC,
+1892007,Ermal Thaci,Berliner SC,
+1892786,Ali Hammoud,Berliner SC,
+1892806,Lucky Ugbogbo,Berliner SC,20
+1892817,Nikola Markovic,Berliner SC,
+1933230,Fabian Niedenhoff,Berliner SC,
+2023168,Vincent Spiegel,Berliner SC,
+2338815,Eric Ekandille,Berliner SC,
+2341240,Immanuel Neunteufel,Berliner SC,
+2378543,Konstantin Joseski,Berliner SC,
+2378545,Alexander Lorenz,Berliner SC,
+43431,Nico Pellatz,Berliner SC,
+681366,Leon Cheung,Berliner SC,8
+740710,Oktay √ñzt√ºrk,Berliner SC,
+821205,Justin Maximilian Neumann,Berliner SC,
+902391,Benjamin Trojahn,Berliner SC,
+906586,Hossein Jafari,Berliner SC,
+1123056,Fabian Busch,VSG Altglienicke II,
+1131316,Benevito Laske,VSG Altglienicke II,
+1155973,Kerim Sarikaya,VSG Altglienicke II,
+1234333,Emir Bakal,VSG Altglienicke II,
+1359352,Caleb Osarenren,VSG Altglienicke II,
+1402503,Ben Wagner,VSG Altglienicke II,
+1598658,Stanley Cross,VSG Altglienicke II,
+1770031,Kakeru Fukuda,VSG Altglienicke II,
+1775804,Lelio Losse,VSG Altglienicke II,
+1775811,Niclas Senst,VSG Altglienicke II,
+1776198,Jonas Elbrecht,VSG Altglienicke II,
+1776206,Maddox Niebergall,VSG Altglienicke II,
+1776210,Levin Stein,VSG Altglienicke II,
+1821767,Serhan Atici,VSG Altglienicke II,
+1870628,Raphael Damjanovic,VSG Altglienicke II,
+1970395,Mario Peche Morote,VSG Altglienicke II,
+2070877,Yousif El Sadani,VSG Altglienicke II,
+2071083,Alexander Kutrieb,VSG Altglienicke II,
+2186790,Ibrahim Tareq Ibrahim El Taib,VSG Altglienicke II,
+2194616,Krystian Kanzy,VSG Altglienicke II,
+2342385,Saleh Kassem,VSG Altglienicke II,
+2361132,Devin Lieberam,VSG Altglienicke II,
+562218,Mohammed Daniel Fayoumi,VSG Altglienicke II,
+850288,Mario Schenkel,VSG Altglienicke II,
+892552,Steve Klamkowski,VSG Altglienicke II,
+892556,Jan Latzel,VSG Altglienicke II,
+892558,Benito-Tyler Fritzsche,VSG Altglienicke II,
+939990,Moritz Tomczak,VSG Altglienicke II,
+943429,Alexander No√ü,VSG Altglienicke II,
+1098036,Johann Eisenberg,Polar Pinguin Berlin,
+1110064,Paul Pantke,Polar Pinguin Berlin,
+1155923,Shaikh Derman,Polar Pinguin Berlin,
+1258572,James Ifeanyichukwu Ndubueze,Polar Pinguin Berlin,
+1311937,Pascal L√∂hmann,Polar Pinguin Berlin,
+1311938,Jona Hardt,Polar Pinguin Berlin,
+1389929,Hans Witschurke,Polar Pinguin Berlin,
+1422055,Giordano Siewe,Polar Pinguin Berlin,
+1488271,Lenny Schwabe,Polar Pinguin Berlin,
+1726169,Malte Riebel,Polar Pinguin Berlin,
+1781654,Nicolas Marley Alexander Koch,Polar Pinguin Berlin,
+1873173,Omidoullah Sarwari,Polar Pinguin Berlin,
+1970652,Joschua Schanda,Polar Pinguin Berlin,
+2140970,Jacques Kahra,Polar Pinguin Berlin,
+2189086,Ekrem Erbilgin,Polar Pinguin Berlin,
+2208772,Said Abasi,Polar Pinguin Berlin,
+2315597,Qais Faizi,Polar Pinguin Berlin,
+2380614,Keyan Kaplan,Polar Pinguin Berlin,
+2444670,Nelson Culubali,Polar Pinguin Berlin,
+2488623,Mohamed Tahiri Mizani,Polar Pinguin Berlin,
+268815,Nicolai Matt,Polar Pinguin Berlin,
+346901,Simon Falke,Polar Pinguin Berlin,
+350108,Martin Kemter,Polar Pinguin Berlin,
+364809,Lennard Broll,Polar Pinguin Berlin,
+528217,Lukas Fechner,Polar Pinguin Berlin,
+540285,Arda D√ºlek,Polar Pinguin Berlin,
+553888,Karim Yehia,Polar Pinguin Berlin,
+560827,Gino Hofmeister,Polar Pinguin Berlin,
+627323,Philippe Riviere,Polar Pinguin Berlin,
+675158,Moritz Sondermann,Polar Pinguin Berlin,
+69252,Kilian Pruschke,Polar Pinguin Berlin,
+814988,Arne Sch√ºler,Polar Pinguin Berlin,
+832697,Finn Johan Will,Polar Pinguin Berlin,
+836434,S√∂ren Zeidler,Polar Pinguin Berlin,
+930011,Adam Idriss Ouattara,Polar Pinguin Berlin,
+990092,Konrad Clemens Emil Ladendorf,Polar Pinguin Berlin,
+997748,Mohamed Mahawech,Polar Pinguin Berlin,
+1117050,Jonathan Maurer,Sp.Vg. Blau Wei√ü 1890 Berlin,
+114483,Darryl Julian Geurts,Sp.Vg. Blau Wei√ü 1890 Berlin,
+1163228,Nils K√∂hne,Sp.Vg. Blau Wei√ü 1890 Berlin,
+1232142,Niklas Struck,Sp.Vg. Blau Wei√ü 1890 Berlin,
+133195,Glodi Danila-Doda Zingu,Sp.Vg. Blau Wei√ü 1890 Berlin,
+1465520,Guilherme Henrique Lopes De Oliveira,Sp.Vg. Blau Wei√ü 1890 Berlin,
+1606953,Gentonis Ademaj,Sp.Vg. Blau Wei√ü 1890 Berlin,
+1775816,Furkan Kemer,Sp.Vg. Blau Wei√ü 1890 Berlin,
+1788264,Ahmed Omairat,Sp.Vg. Blau Wei√ü 1890 Berlin,
+1878344,Emre Rosin,Sp.Vg. Blau Wei√ü 1890 Berlin,
+196093,Niklas Wiebach,Sp.Vg. Blau Wei√ü 1890 Berlin,
+2233338,Kaim Kaya,Sp.Vg. Blau Wei√ü 1890 Berlin,
+2357358,Nireas Igkmpinompa,Sp.Vg. Blau Wei√ü 1890 Berlin,
+2371700,Mert-Zihni Tuncer,Sp.Vg. Blau Wei√ü 1890 Berlin,
+2394201,Oleksandr Kuz,Sp.Vg. Blau Wei√ü 1890 Berlin,
+2457751,Alexander Todorov,Sp.Vg. Blau Wei√ü 1890 Berlin,
+289946,Michael Hinz,Sp.Vg. Blau Wei√ü 1890 Berlin,
+302248,Philip Schulz,Sp.Vg. Blau Wei√ü 1890 Berlin,
+309799,Gelicio Aurelio Banze,Sp.Vg. Blau Wei√ü 1890 Berlin,
+346893,Maurice Froelian,Sp.Vg. Blau Wei√ü 1890 Berlin,
+364701,Tim Grabow,Sp.Vg. Blau Wei√ü 1890 Berlin,
+396086,Neil-Nigel Bier,Sp.Vg. Blau Wei√ü 1890 Berlin,
+489703,Marcel Rausch,Sp.Vg. Blau Wei√ü 1890 Berlin,
+489704,Florian Kohls,Sp.Vg. Blau Wei√ü 1890 Berlin,
+540252,Mike Br√∂mer,Sp.Vg. Blau Wei√ü 1890 Berlin,
+554275,Simon Schrade,Sp.Vg. Blau Wei√ü 1890 Berlin,
+558583,Mohamed Saloun Tour√©,Sp.Vg. Blau Wei√ü 1890 Berlin,
+562338,Fabian Engel,Sp.Vg. Blau Wei√ü 1890 Berlin,
+583631,Fynn Johannes Rockt√§schel,Sp.Vg. Blau Wei√ü 1890 Berlin,
+838399,Lionel Salla,Sp.Vg. Blau Wei√ü 1890 Berlin,
+845407,Justin Maple,Sp.Vg. Blau Wei√ü 1890 Berlin,
+909936,Marcel Steiner,Sp.Vg. Blau Wei√ü 1890 Berlin,
+1119739,Dominik Thonfeld,TSV Rudow Berlin,
+113983,Fabian Fritsche,TSV Rudow Berlin,
+114923,Omid Saberdest,TSV Rudow Berlin,
+1366316,Ali Iraqui,TSV Rudow Berlin,
+1549054,Jonas Becker,TSV Rudow Berlin,
+1617176,Elias Burda,TSV Rudow Berlin,
+1889079,Yannick Emanuel W√∂hle,TSV Rudow Berlin,
+2132646,Abdullah Bayram,TSV Rudow Berlin,
+2346194,S√ºleyman Aktas,TSV Rudow Berlin,
+2346195,Ahmad Haj Youssef,TSV Rudow Berlin,
+2377145,Leon Merke,TSV Rudow Berlin,
+2417264,Aron Murseli,TSV Rudow Berlin,
+2470085,Hasan Iraqui,TSV Rudow Berlin,
+2470086,Teoman Anik,TSV Rudow Berlin,
+289951,Lucas Robbin B√§hr,TSV Rudow Berlin,
+358358,Melih Hortum,TSV Rudow Berlin,
+371537,Martin Gromotka,TSV Rudow Berlin,
+540422,Leonard Kirschner,TSV Rudow Berlin,
+627319,Matteo G√ºnther,TSV Rudow Berlin,
 665786,Nemanja Samardzic,TSV Rudow Berlin,
-763426,Jan-Eric Frank,TSV Rudow Berlin,6
-870868,Linus Fürstenow,TSV Rudow Berlin,4
-931868,Mohammed Hassane,TSV Rudow Berlin,17
-946158,Talha Sennur,TSV Rudow Berlin,24
-1102140,Abdoulaye Djibril Diallo,Türkiyemspor Berlin,
-1118199,Muzaffer Kirimoglu,Türkiyemspor Berlin,9
-114923,Omid Saberdest,Türkiyemspor Berlin,5
-1296888,Oguzhan Codura,Türkiyemspor Berlin,10
-1334973,Florian Nikolai Thalhofer,Türkiyemspor Berlin,17
-1375485,Ferhat Ömür,Türkiyemspor Berlin,68
-1390295,Ömer Tanis,Türkiyemspor Berlin,8
-1450648,Kenan Özen,Türkiyemspor Berlin,6
-1531048,Tolgahan Can Eskin,Türkiyemspor Berlin,21
-1553439,Tamer Emre Ertürkler,Türkiyemspor Berlin,17
-1772095,Deren Yoldas Emre,Türkiyemspor Berlin,36
-1844076,Koray Aktas,Türkiyemspor Berlin,21
-1873242,Deniz Karakus,Türkiyemspor Berlin,32
-1889132,Erdem Celik,Türkiyemspor Berlin,18
-2052872,Mustafa Kemal Karaman,Türkiyemspor Berlin,11
-2126300,Yeifre Diaz Chacon,Türkiyemspor Berlin,
-2207010,Mohamad Faramarzi,Türkiyemspor Berlin,20
-2375959,Mohamad El-Ali,Türkiyemspor Berlin,42
-275904,Kenan Demir,Türkiyemspor Berlin,3
-58814,Enes Uzun,Türkiyemspor Berlin,25
-670955,Jan Lange,Türkiyemspor Berlin,
-743561,Paulo Eduardo Bernardes De Almeida,Türkiyemspor Berlin,22
-803085,Amon Simunovic,Türkiyemspor Berlin,6
-833291,Davut Kösker,Türkiyemspor Berlin,32
-849600,Görkem Yilmaz,Türkiyemspor Berlin,4
-928175,Habib Jalloh,Türkiyemspor Berlin,16
-946138,Ali Mert Koca,Türkiyemspor Berlin,15
-946153,Ertugrul Aktas,Türkiyemspor Berlin,13
-1102271,Niklas Jost,Berliner SV 1892,4
-1102273,Mario Mikic,Berliner SV 1892,14
-1102310,Paul Busche,Berliner SV 1892,7
-1105603,Firooz Ahmadi,Berliner SV 1892,
-1117111,Joshua Tröger,Berliner SV 1892,24
-1239218,Soner Gültepe,Berliner SV 1892,26
-1608375,Chidera Iwuozor,Berliner SV 1892,6
-1987202,Linus Hechtfisch,Berliner SV 1892,23
-2155721,Ali Ismail Gashi,Berliner SV 1892,12
-2328813,Lewi Dawit Molalegn,Berliner SV 1892,15
-282924,Hendrik Lüttschwager,Berliner SV 1892,1
-351307,Nick Bechler,Berliner SV 1892,27
-368027,Sebastian Sobczyk,Berliner SV 1892,9
-554297,El-Amin Elsaadawi,Berliner SV 1892,17
-561892,Benjamin Schnack,Berliner SV 1892,
-562984,Robin Wolff,Berliner SV 1892,25
-587441,Karl Anker,Berliner SV 1892,8
-611865,Nikita Charkov,Berliner SV 1892,20
-656536,Maximilian Blust,Berliner SV 1892,
-665771,Steven Koschek,Berliner SV 1892,
-682329,Julius Zauner,Berliner SV 1892,11
-736063,Göktug Özsoy,Berliner SV 1892,19
-784306,Lennard Schleifenbaum,Berliner SV 1892,21
-838422,David Bellin,Berliner SV 1892,28
-850594,Dennis Fischer,Berliner SV 1892,2
-990217,Tim Paschke,Berliner SV 1892,13
-990236,Stefano Tedesco,Berliner SV 1892,22
-1132985,Ayham Heimur,BFC Meteor 06,92
-1181874,Julius Böke,BFC Meteor 06,
-1336298,Fredy Balde,BFC Meteor 06,8
-1359263,Marcos Terzopulos-Koutsoubas,BFC Meteor 06,5
-1371280,Pascal-Rene Jüterbock,BFC Meteor 06,84
-1472494,Lennart Nerlich,BFC Meteor 06,5
-1472506,Jannik Jantzen,BFC Meteor 06,27
-1695470,Rick Mickael Ella,BFC Meteor 06,70
-1723731,Mohammed Hamiss,BFC Meteor 06,99
-1741546,Leo Suilmann,BFC Meteor 06,1
-202674,Selvedin Begzadic,BFC Meteor 06,22
-2039675,Eriseld Tafilaj,BFC Meteor 06,69
-2079660,Rene Fon Nkafu,BFC Meteor 06,77
-2288462,Farouk Ben Mustapha,BFC Meteor 06,18
-2305754,Leon Splanemann,BFC Meteor 06,
-2336484,Ibrahim Celik,BFC Meteor 06,47
-2338606,Steven Demarr Saunders,BFC Meteor 06,14
-309623,Tugay Adigüzel,BFC Meteor 06,61
-43191,Solomon Okoronkwo,BFC Meteor 06,
-482985,Soner Demiryürek,BFC Meteor 06,21
-493840,Julian Schröder,BFC Meteor 06,15
-555829,Yusuf Abouri,BFC Meteor 06,
-564086,Serkan Karasu,BFC Meteor 06,3
-589040,Bahadir Katirci,BFC Meteor 06,7
-609589,Ahmad Zahlan,BFC Meteor 06,6
-663469,Jamal Dähn,BFC Meteor 06,
-835657,Oktay Ugur,BFC Meteor 06,17
-849219,Tim Riese,BFC Meteor 06,4
-994879,Simon Böhm,BFC Meteor 06,11
-1083348,Darnell Bruns,VfB Concordia Britz 1916,11
-1083352,Leon Ketel,VfB Concordia Britz 1916,1
-1083354,Merlin Schulz,VfB Concordia Britz 1916,8
-1119607,Jordy Gase,VfB Concordia Britz 1916,25
-1173011,Deniz Gassen,VfB Concordia Britz 1916,10
-1352394,Malte Meißner,VfB Concordia Britz 1916,33
-1370808,Daniel Bader,VfB Concordia Britz 1916,
-1384826,Benedikt Schmidtmann,VfB Concordia Britz 1916,23
-1389946,Arne-Luca Auctun,VfB Concordia Britz 1916,19
-1530046,Amir-Mohamad Yassine,VfB Concordia Britz 1916,26
-1612319,Maximilian Höhle,VfB Concordia Britz 1916,20
-1850719,Felix Weglöhner,VfB Concordia Britz 1916,6
-1869032,Burak Tatli,VfB Concordia Britz 1916,44
-1888507,Enes Noah Öztürk,VfB Concordia Britz 1916,18
-1889072,Merdan Köse,VfB Concordia Britz 1916,4
-2126918,Mehmet Akif Bakiroglugil,VfB Concordia Britz 1916,18
-2160345,Ilai Harder,VfB Concordia Britz 1916,
-2317883,Lukas Czernitzky,VfB Concordia Britz 1916,12
-2318883,Piet Kühn,VfB Concordia Britz 1916,21
-2321729,Philip Wieser,VfB Concordia Britz 1916,17
-2375973,Joao Victor Souza Rosa,VfB Concordia Britz 1916,24
-389162,Yevgen Igorovic Lozynsky,VfB Concordia Britz 1916,27
-496087,Le-Roy Da-Costa,VfB Concordia Britz 1916,9
-554125,Daniel Michael Brüning,VfB Concordia Britz 1916,22
-554131,Fabian Kolditz,VfB Concordia Britz 1916,13
-554134,Patrick Wenke,VfB Concordia Britz 1916,29
-555367,Tim Wenke,VfB Concordia Britz 1916,5
-557298,Robin Eschert,VfB Concordia Britz 1916,14
-580589,Björn Röchert,VfB Concordia Britz 1916,30
-583232,Jerry Gase,VfB Concordia Britz 1916,7
-603109,Yannic Behrendt,VfB Concordia Britz 1916,
-1075243,Adrian Thiemann,Köpenicker FC,1
-1102126,Tarek Borchmeier,Köpenicker FC,13
-1102130,Roman Ilinseer,Köpenicker FC,18
-1170035,Rayk Stahnke,Köpenicker FC,26
-1401763,Luca Carius,Köpenicker FC,6
-1424472,Tom Rostock,Köpenicker FC,
-1529436,Anton Neumann,Köpenicker FC,14
-1543040,Tom-Niclas Hamann,Köpenicker FC,23
-1769533,Felix Hartmann,Köpenicker FC,15
-1779353,Alieu Nyassi,Köpenicker FC,
-1834781,Nicolas Tauschwitz,Köpenicker FC,10
-1924771,Florian Hildebrand,Köpenicker FC,
-2066356,Dennis Bohnsack,Köpenicker FC,9
-2066357,Noah Maximilian Laske,Köpenicker FC,19
-2085088,Oskar Klauke,Köpenicker FC,20
-2125148,Marques Brunow,Köpenicker FC,
-2174136,Luca Munsky,Köpenicker FC,3
-2199158,Osben-Dario Ondo Mangue,Köpenicker FC,2
-2341683,Anton Louis Süring,Köpenicker FC,
-2341685,Lennart Will,Köpenicker FC,
-2356835,Luca Seeber,Köpenicker FC,12
-2358689,Tobias Brandt,Köpenicker FC,7
-2375955,Felix Wittenburg,Köpenicker FC,24
-312658,Alexander Foth,Köpenicker FC,11
-365382,Jonas Weigelt,Köpenicker FC,8
-550874,Till Dietrich,Köpenicker FC,27
-564129,Kevin Wesolek,Köpenicker FC,16
-565855,Tom Nischwitz,Köpenicker FC,5
-573222,Philip Möhle,Köpenicker FC,28
-838390,Maximilian Zengler,Köpenicker FC,25
-844840,Jose Antonio Ondo Mangue,Köpenicker FC,21
-849336,Pascal Berger,Köpenicker FC,
-1008335,Marcus Grund,BSV Eintracht Mahlsdorf II,
-1059166,Kenan Halilcevic,BSV Eintracht Mahlsdorf II,17
-1155862,Leon Schmeißer,BSV Eintracht Mahlsdorf II,20
-1344500,Marius Schreiber,BSV Eintracht Mahlsdorf II,8
-1424468,Julian Bufe,BSV Eintracht Mahlsdorf II,
-1424475,Oliver Spigaht,BSV Eintracht Mahlsdorf II,6
-1507227,Marvin Müller,BSV Eintracht Mahlsdorf II,
-1531473,Björn Heydemann,BSV Eintracht Mahlsdorf II,
-1710837,Justin Engfer,BSV Eintracht Mahlsdorf II,20
-1771236,Sune Tore Schröter,BSV Eintracht Mahlsdorf II,
-1777596,Tom Bothe,BSV Eintracht Mahlsdorf II,12
-1777624,Lukas Otto,BSV Eintracht Mahlsdorf II,
-1892493,Reto Reichenberger,BSV Eintracht Mahlsdorf II,7
-1892495,Max Koyuncu,BSV Eintracht Mahlsdorf II,9
-1892497,Fabian Clemen,BSV Eintracht Mahlsdorf II,
-1892501,Carl Dopke,BSV Eintracht Mahlsdorf II,1
-1927805,Loide Simao Macave,BSV Eintracht Mahlsdorf II,13
-1996351,Maximilian Widmer,BSV Eintracht Mahlsdorf II,
-2023839,Phillip Streiter,BSV Eintracht Mahlsdorf II,22
-2045361,Leonhard Buchmann,BSV Eintracht Mahlsdorf II,14
-2045364,Mohammad Mansour,BSV Eintracht Mahlsdorf II,5
-2124125,Carl-Lennart Stöver,BSV Eintracht Mahlsdorf II,19
-2151624,Lancine Braunert,BSV Eintracht Mahlsdorf II,
-2285443,Jonas Maroske,BSV Eintracht Mahlsdorf II,6
-2285444,Tim Pötig,BSV Eintracht Mahlsdorf II,15
-2285446,Kilian Oliver Reinke,BSV Eintracht Mahlsdorf II,21
-294576,Christian Preiss,BSV Eintracht Mahlsdorf II,16
-497696,Kay Szczech,BSV Eintracht Mahlsdorf II,18
-547418,Tom Greif,BSV Eintracht Mahlsdorf II,14
-560181,Lukas Grützner,BSV Eintracht Mahlsdorf II,8
-667353,Maurice Völckert,BSV Eintracht Mahlsdorf II,11
-912413,Marc Michas,BSV Eintracht Mahlsdorf II,10
-939983,Niklas Isberner,BSV Eintracht Mahlsdorf II,4
-952736,Devis Meißner,BSV Eintracht Mahlsdorf II,
-1019739,Philipp Macketanz,SV Empor Berlin II,15
-1074492,Demba Mendy,SV Empor Berlin II,9
-1084796,Sam Misgayski,SV Empor Berlin II,22
-1102194,Pascal Bräkow,SV Empor Berlin II,2
-1102198,Pjotr Xaver Strelets,SV Empor Berlin II,
-1150915,Tilman Schinzel,SV Empor Berlin II,14
-1256639,Falk Marquard,SV Empor Berlin II,
-1263535,Jonathan Stolp,SV Empor Berlin II,7
-1275859,Hong Phuc Dinh,SV Empor Berlin II,17
-1754489,Niclas Nixdorf,SV Empor Berlin II,3
-1754490,Jannick Wollmann,SV Empor Berlin II,
-1891968,Aaron Yusuff,SV Empor Berlin II,
-1915210,Alvenzio Ettah,SV Empor Berlin II,19
-1946020,Milo Lippe,SV Empor Berlin II,8
-1946021,Nico Bochnia,SV Empor Berlin II,23
-1946024,Emile Ako,SV Empor Berlin II,
-1955784,Leon Drannaschk,SV Empor Berlin II,10
-1979837,Robert Kurth,SV Empor Berlin II,22
-1980611,Oskar Kühn,SV Empor Berlin II,23
-2036096,Janne Henrik Bloch,SV Empor Berlin II,33
-2169394,Julian Duczmal,SV Empor Berlin II,
-2182604,Billy Bradley Tuckerman,SV Empor Berlin II,
-2200063,Rafael Mentrup,SV Empor Berlin II,21
-2202103,Laszlo Braun,SV Empor Berlin II,22
-2202118,Daniil Savenko,SV Empor Berlin II,18
-2342434,Keita Udo,SV Empor Berlin II,12
-2359467,Laurens Cerny,SV Empor Berlin II,20
-589529,Daniel Schneidawind,SV Empor Berlin II,13
-654219,Maurice Meyer,SV Empor Berlin II,1
-681368,Tjerk Ortmann,SV Empor Berlin II,4
-720266,Dennis Seiler,SV Empor Berlin II,11
-854386,Tom Wessel,SV Empor Berlin II,24
-886558,Elias Thürigen,SV Empor Berlin II,5
-1077595,David Mpembele Nzongo,SC Borsigwalde 1910,25
-1317878,Firat Yildirim,SC Borsigwalde 1910,15
-1355989,Khaled El-Okkla,SC Borsigwalde 1910,27
-1368732,David Chukwu,SC Borsigwalde 1910,
-1890422,Philip Bartoschek,SC Borsigwalde 1910,17
-1892792,Mohammed Yaqoobi,SC Borsigwalde 1910,3
-1935091,Kai Neumann,SC Borsigwalde 1910,21
-1935092,Eren Motuk,SC Borsigwalde 1910,5
-2035911,Furkan Yildirim,SC Borsigwalde 1910,13
-2139385,Pedro Lucas Santanna Miranda Silva,SC Borsigwalde 1910,10
-2162072,Joao Victor Braga De Souza,SC Borsigwalde 1910,2
-2179211,Mehdi Bencheikh,SC Borsigwalde 1910,
-2181075,Oskar Denis Cuesta,SC Borsigwalde 1910,11
-2268670,Yannick Djekonbe,SC Borsigwalde 1910,20
-2319724,Adam Barnat,SC Borsigwalde 1910,6
-363862,Marcel Bubner,SC Borsigwalde 1910,19
-524620,Mahmoud Akkaoui,SC Borsigwalde 1910,4
-534567,Tobias Knetsch,SC Borsigwalde 1910,23
-555945,Kenneth Weise,SC Borsigwalde 1910,49
-569339,Jeffrey Kräft,SC Borsigwalde 1910,37
-591698,Antonio Ciao,SC Borsigwalde 1910,22
-614245,Riccardo Ciao,SC Borsigwalde 1910,18
-774865,Michel Stefaniszin,SC Borsigwalde 1910,8
-781216,Kevin Kummer,SC Borsigwalde 1910,29
-953241,Magnus Crone,SC Borsigwalde 1910,14
-956353,Fabio Rondinelli,SC Borsigwalde 1910,9
-114840,Moris Fikic,BFC Preussen II,10
-1336637,Alexander Gajda,BFC Preussen II,14
-1344722,Nils Szerwinski,BFC Preussen II,21
-1423572,Meiko Hesse,BFC Preussen II,6
-1665462,Serhan Arslani,BFC Preussen II,
-1668476,Tim Eymann,BFC Preussen II,19
-1721667,Kevin Anderson Moreira Godinho,BFC Preussen II,18
-1826107,Lasse Engelsing,BFC Preussen II,12
-1873146,Marko Fischer,BFC Preussen II,4
-1873370,Tim Henseler,BFC Preussen II,
-1888806,Adam Lamkaddam,BFC Preussen II,32
-1890439,Jeff Nnaemeka-Chukwurah,BFC Preussen II,28
-1892786,Ali Hammoud,BFC Preussen II,
-1892794,Maximilian Schatz,BFC Preussen II,24
-1892806,Lucky Ugbogbo,BFC Preussen II,
-1934115,Gani Gashi,BFC Preussen II,33
-1983812,Atacan Özcan,BFC Preussen II,22
-2065608,Christian Müller,BFC Preussen II,25
-2113936,Kemo Andresen,BFC Preussen II,
-2154574,Theo Kagoue,BFC Preussen II,45
-273926,Vahit Engin,BFC Preussen II,11
-346905,Levent Mucuk,BFC Preussen II,55
-359310,Magnus Stahlberg,BFC Preussen II,16
-427035,Paul Miggel,BFC Preussen II,8
-494671,Ugurcan Yilmaz,BFC Preussen II,48
-519263,Malte Hartmann,BFC Preussen II,31
-519270,Lukas Kohlmann,BFC Preussen II,20
-553789,Yasin Demir,BFC Preussen II,30
-553810,Rommel Abou-Chaker,BFC Preussen II,13
-553814,Marcel Berner,BFC Preussen II,15
-553841,Hugo Timur,BFC Preussen II,7
-691769,Oliver Schill,BFC Preussen II,
-831475,Dominik Dietzel,BFC Preussen II,1
-1081154,Achmed El-Noumeiri,BSV Al-Dersimspor,
-1098901,Onur Kalkan,BSV Al-Dersimspor,63
-1102174,Baris Güngör,BSV Al-Dersimspor,
-1823110,William Essel,BSV Al-Dersimspor,9
-1870634,Kaan Ucbaglar,BSV Al-Dersimspor,44
-1979474,Merdie Tshondo,BSV Al-Dersimspor,20
-2181029,Jonathan Schäfer,BSV Al-Dersimspor,18
-2278083,Argjent Krasniqi,BSV Al-Dersimspor,12
-258670,Karsten Schleifring,BSV Al-Dersimspor,25
-26811,Max Kruse,BSV Al-Dersimspor,30
-507979,Patrick Boel,BSV Al-Dersimspor,1
-524331,Milos Savkovic,BSV Al-Dersimspor,8
-554433,Caglar Halici,BSV Al-Dersimspor,
-554475,Hüseyin Ali Kaloglu,BSV Al-Dersimspor,
-554483,Önder Senkaya,BSV Al-Dersimspor,
-581082,Sercan-Günay Seyyidoglu,BSV Al-Dersimspor,17
-583233,Welton Pereira Dos Santos,BSV Al-Dersimspor,94
-585335,Mücahid Kahraman,BSV Al-Dersimspor,3
-609587,Mustafa Arslan,BSV Al-Dersimspor,1
-627559,Amir Awag,BSV Al-Dersimspor,5
-666752,Vittorio Achour,BSV Al-Dersimspor,
-693057,Merdan Baba,BSV Al-Dersimspor,10
-696770,Sam Diokhane,BSV Al-Dersimspor,4
-737592,Mohamad-Ali Chawraba,BSV Al-Dersimspor,47
-777705,Emre-Eyüp Önal,BSV Al-Dersimspor,7
-836435,Karim Zagmouz,BSV Al-Dersimspor,6
-845397,Caglar Polat,BSV Al-Dersimspor,27
-849613,Etem Tonk,BSV Al-Dersimspor,24
-939988,Leorant Abduli,BSV Al-Dersimspor,23
-1053158,Akiyasu Tsuchiya,FSV Berolina Stralau 1901,6
-1080229,Tobias Reuter,FSV Berolina Stralau 1901,4
-1089199,Pablo Guillen,FSV Berolina Stralau 1901,8
-1119568,Ibrahim Diallo,FSV Berolina Stralau 1901,10
-1198078,Ole Bresemann,FSV Berolina Stralau 1901,9
-1202663,Eric Stier,FSV Berolina Stralau 1901,5
-1263543,Lucas Hufnagel,FSV Berolina Stralau 1901,
-1371324,Leeroy-Life Leffke,FSV Berolina Stralau 1901,13
-1424435,Alfredo-Manuel Villanueva Bravo,FSV Berolina Stralau 1901,10
-1474129,Milan Stricker,FSV Berolina Stralau 1901,
-1474135,Georg Schönfelder,FSV Berolina Stralau 1901,3
-1643968,Noah Maiß,FSV Berolina Stralau 1901,21
-16444,Robert Adler,FSV Berolina Stralau 1901,3
-1651373,David Bode,FSV Berolina Stralau 1901,18
-1691207,Arian Saiti,FSV Berolina Stralau 1901,17
-1834773,Andreas Friese,FSV Berolina Stralau 1901,23
-1892782,Yussef Jradi,FSV Berolina Stralau 1901,11
-1942527,Erik Sieber,FSV Berolina Stralau 1901,
-2268475,Adrian Welch,FSV Berolina Stralau 1901,7
-2302529,Adnan Shah,FSV Berolina Stralau 1901,
-2378715,Denys Kovtun,FSV Berolina Stralau 1901,
-284753,Jannes Potthoff,FSV Berolina Stralau 1901,1
-315427,Denis Rolke,FSV Berolina Stralau 1901,15
-477254,Daniel Fischer,FSV Berolina Stralau 1901,19
-555415,Tom Jonach,FSV Berolina Stralau 1901,16
-818845,Christopher Schwarz,FSV Berolina Stralau 1901,
-822016,Sebastian Heßler,FSV Berolina Stralau 1901,12
-871111,Philipp Nikolajewski,FSV Berolina Stralau 1901,14
-872943,Emilio Son,FSV Berolina Stralau 1901,7
-889788,Viktor Kreisel,FSV Berolina Stralau 1901,20
-933040,Ian Häberle,FSV Berolina Stralau 1901,22
-113988,Robin Hoth,SF Johannisthal II,28
-1330639,Adam Szymczyk,SF Johannisthal II,
-1359357,Tim Schumacher,SF Johannisthal II,
-1359359,Nick Herfurth,SF Johannisthal II,16
-1359361,Tim Löffler,SF Johannisthal II,
-1398004,Norick Kopp,SF Johannisthal II,
-1411166,Patryk Bojarski,SF Johannisthal II,
-1535166,Jannis Staacks,SF Johannisthal II,
-1775817,Ricardo Grosch,SF Johannisthal II,
-1776199,Tom Franke,SF Johannisthal II,4
-1776202,Max Hoffmann,SF Johannisthal II,
-1776209,Johann Sengenberger,SF Johannisthal II,29
-1780326,Paul Sören Friedrich,SF Johannisthal II,11
-1850389,Niklas Hagen,SF Johannisthal II,
-1861798,Ahmad Ajjan Al Hadid,SF Johannisthal II,13
-1927685,Lennard Bahlmann,SF Johannisthal II,
-1962487,Artiom Railean,SF Johannisthal II,18
-1979839,John Rogge,SF Johannisthal II,7
-2028321,Colin Gonda,SF Johannisthal II,20
-2110477,William Paul,SF Johannisthal II,
-2237568,Eric Freygang,SF Johannisthal II,
-2237570,Tommy Graf,SF Johannisthal II,
-2247649,Johannes Kucklinski,SF Johannisthal II,22
-2328217,Mathis Aust,SF Johannisthal II,16
-2328219,David Abt,SF Johannisthal II,
-2348415,Julian Orlando Schönfeld,SF Johannisthal II,12
-2365216,Sam Holländer,SF Johannisthal II,
-2365218,Tom Förster,SF Johannisthal II,
-357169,Christoph Klembt,SF Johannisthal II,1
-357267,Eric Huth,SF Johannisthal II,26
-436856,Florian Flath,SF Johannisthal II,
-480606,Benjamin Schwarz,SF Johannisthal II,
-556297,David Matschke,SF Johannisthal II,17
-562359,Marvin Menge,SF Johannisthal II,10
-564201,Eric Warncke,SF Johannisthal II,
-565988,Nico Preuß,SF Johannisthal II,
-568582,Jacques Tanneberger,SF Johannisthal II,3
-580561,Erik Rust,SF Johannisthal II,15
-581746,Marco Geppert,SF Johannisthal II,
-581748,Holger Spranger,SF Johannisthal II,
-586063,Florian Schmidt,SF Johannisthal II,
-620506,Konstantin Müller,SF Johannisthal II,
-814993,Jeremy Aaron Renger,SF Johannisthal II,
-836134,Tom Pilarski,SF Johannisthal II,27
-841258,Marvin Preuß,SF Johannisthal II,9
-849276,Philipp Lionel Kuhles,SF Johannisthal II,10
-861786,Leon Manthey,SF Johannisthal II,1
-946143,Lukas Olff,SF Johannisthal II,
-963937,Tobias Traphagen,SF Johannisthal II,
+666744,Mushakir Razeek,TSV Rudow Berlin,
+693057,Merdan Baba,TSV Rudow Berlin,
+821531,Luca Ehrich,TSV Rudow Berlin,
+870868,Linus F√ºrstenow,TSV Rudow Berlin,
+892549,Noah Fakhro,TSV Rudow Berlin,
+931868,Mohammed Hassane,TSV Rudow Berlin,
+1057850,Benjamin Sommer,VfB Fortuna Biesdorf,
+1148410,Felix Wieschollek,VfB Fortuna Biesdorf,
+1261283,Maximilian Sangel,VfB Fortuna Biesdorf,
+1344522,Darvin Schramm,VfB Fortuna Biesdorf,
+1474133,Ole Eric Petschner,VfB Fortuna Biesdorf,
+1488321,Toni Kaftan,VfB Fortuna Biesdorf,
+165291,Jean-Claude Nanevie,VfB Fortuna Biesdorf,
+1890440,Kambiz Walizada,VfB Fortuna Biesdorf,
+1891971,David Dang Tran,VfB Fortuna Biesdorf,
+1892782,Yussef Jradi,VfB Fortuna Biesdorf,
+1892787,Emmanuel Bessong Ngam,VfB Fortuna Biesdorf,
+1937240,Paulo Krause Barrufet,VfB Fortuna Biesdorf,
+1979838,Liam Engfer,VfB Fortuna Biesdorf,
+2045364,Mohammad Mansour,VfB Fortuna Biesdorf,
+2089320,Alex Steinke,VfB Fortuna Biesdorf,
+2236858,Mika Friebe,VfB Fortuna Biesdorf,
+2261424,Ibrahim Haj Youssef,VfB Fortuna Biesdorf,
+2285443,Jonas Maroske,VfB Fortuna Biesdorf,
+2300584,Justus Thore Schwandt,VfB Fortuna Biesdorf,
+238370,Dennis M√§rz,VfB Fortuna Biesdorf,
+2407420,Tim Stuff,VfB Fortuna Biesdorf,
+351055,Benjamin Kadur,VfB Fortuna Biesdorf,
+357915,Rico Pohlmann,VfB Fortuna Biesdorf,
+527502,Urim Nerjovaj,VfB Fortuna Biesdorf,
+557905,Angelino Neidhardt,VfB Fortuna Biesdorf,
+635261,Miguel Hartwig,VfB Fortuna Biesdorf,
+665308,Philip Kadur,VfB Fortuna Biesdorf,
+666811,Pascal Treibert,VfB Fortuna Biesdorf,
+737003,Moritz K√ºnne,VfB Fortuna Biesdorf,
+849634,Leonard Sowa,VfB Fortuna Biesdorf,
+1018957,Lorenzo Pablo Mbile Sanchez,SSC S√ºdwest 1947,
+1051581,Lukas Schulze,SSC S√ºdwest 1947,
+1116939,Manuel Hahn,SSC S√ºdwest 1947,
+1119735,Juan Cernescu,SSC S√ºdwest 1947,
+1338340,David Nagel,SSC S√ºdwest 1947,
+1359793,Martin Olivier Kascha,SSC S√ºdwest 1947,
+1556591,Richard Rumler,SSC S√ºdwest 1947,
+1577700,Mohamed Rayen Chafra,SSC S√ºdwest 1947,
+1613629,Melvin Glaser,SSC S√ºdwest 1947,
+1724998,Gian-Luca Blume,SSC S√ºdwest 1947,
+1765236,Felix Seddig,SSC S√ºdwest 1947,
+1844094,Zahm Rad,SSC S√ºdwest 1947,
+1890011,Edin Sejdic,SSC S√ºdwest 1947,
+1892808,Berk Karadayi,SSC S√ºdwest 1947,
+2159348,Vincent Wolff,SSC S√ºdwest 1947,
+2164074,Lars Schoeneich,SSC S√ºdwest 1947,
+2171071,Jeldrik Greiner,SSC S√ºdwest 1947,
+2200249,James-Patrick Wei√ü,SSC S√ºdwest 1947,
+2211826,Julian Tomov,SSC S√ºdwest 1947,
+2230962,Gustavo Santos Pereira,SSC S√ºdwest 1947,
+2232285,Jakob Heredia,SSC S√ºdwest 1947,
+2376582,Mateusz Smolarkiewicz,SSC S√ºdwest 1947,
+268825,C√ºneyt G√ºndogdu,SSC S√ºdwest 1947,
+346890,Toni Stroehlke,SSC S√ºdwest 1947,
+364699,Philipp Olsowski,SSC S√ºdwest 1947,
+554258,Maximilian Heckert,SSC S√ºdwest 1947,
+564202,Rene Schulze,SSC S√ºdwest 1947,
+586002,Deniz Stach,SSC S√ºdwest 1947,
+629531,Ahmad Nassri,SSC S√ºdwest 1947,
+732548,Lenard Greiner,SSC S√ºdwest 1947,
+787222,Enes Oguz Timur Schick,SSC S√ºdwest 1947,
+833296,Til Schramm,SSC S√ºdwest 1947,
+849184,Pascal Assenbaum,SSC S√ºdwest 1947,
+849276,Philipp Lionel Kuhles,SSC S√ºdwest 1947,
+1202654,Amat Chaw,TSV Mariendorf 1897,
+1296929,Mehmet-Can Senocak,TSV Mariendorf 1897,
+1356165,Malte F√ºrst,TSV Mariendorf 1897,
+1434884,Ali Mohammed Kasola,TSV Mariendorf 1897,
+1530035,Vincent B√ºhler,TSV Mariendorf 1897,
+1556982,Louis Kromat,TSV Mariendorf 1897,
+1717941,Noah Faubourg,TSV Mariendorf 1897,
+1892813,Tugay Ulusoy,TSV Mariendorf 1897,
+2031931,Omran Iraqi,TSV Mariendorf 1897,
+2051556,Rui Marcel Peixoto,TSV Mariendorf 1897,
+2055024,Abdulkarim Mechlaoui,TSV Mariendorf 1897,
+2133852,Marten Schr√∂der,TSV Mariendorf 1897,
+2211450,Mohammed Aljorani,TSV Mariendorf 1897,
+2239379,Wesa Den Araujo Van-Dunem,TSV Mariendorf 1897,
+2406638,Arad Zardoshtian,TSV Mariendorf 1897,
+2463234,Jegor Kiuskins,TSV Mariendorf 1897,
+2469874,Daniel Veilert,TSV Mariendorf 1897,
+2469879,Bendix Kadji,TSV Mariendorf 1897,
+260745,Pascal Jan Wedemann,TSV Mariendorf 1897,
+602026,Alianni Urgelles Montoya,TSV Mariendorf 1897,
+626155,Erik-Paul Pfannschmidt,TSV Mariendorf 1897,
+665385,Yusuf Yorguner,TSV Mariendorf 1897,
+678219,David Rosner,TSV Mariendorf 1897,
+733543,Eren √ñzer,TSV Mariendorf 1897,
+767982,Benjamin Tutic,TSV Mariendorf 1897,
+870865,Jannis Krieger,TSV Mariendorf 1897,
+94532,Julian Austermann,TSV Mariendorf 1897,
+94712,Pascal Matthias,TSV Mariendorf 1897,
+114838,S√ºleyman Kapan,Berlin T√ºrkspor,
+1264965,Umut Satici,Berlin T√ºrkspor,
+1378159,Nesta Gabriel Jean-Louis,Berlin T√ºrkspor,
+1551632,Mame Cheikh Diop,Berlin T√ºrkspor,
+1555043,Aristotelis Dougalis,Berlin T√ºrkspor,
+1617091,Tristan Krien,Berlin T√ºrkspor,
+1697525,Leon Haake,Berlin T√ºrkspor,
+1844070,Jonas Mukuku Zola,Berlin T√ºrkspor,
+1873213,Mapalo Korntreff,Berlin T√ºrkspor,
+1915207,Frank Maikoga,Berlin T√ºrkspor,
+2188843,Artin Zardoshtian,Berlin T√ºrkspor,
+2239946,Viktor Pokataiev,Berlin T√ºrkspor,
+2291260,Benjamin Heymann,Berlin T√ºrkspor,
+2355034,King David Yeboah Frimpong Szigath,Berlin T√ºrkspor,
+2426055,Prince Collins Idemudia,Berlin T√ºrkspor,
+420083,Leon B√§tge,Berlin T√ºrkspor,
+45029,Emre Turan,Berlin T√ºrkspor,
+537868,Sefa Kahraman,Berlin T√ºrkspor,
+670797,K√ºrsat Mahmut Cicek,Berlin T√ºrkspor,
+838407,Panagiotis Vassiliadis,Berlin T√ºrkspor,
+870836,Joe Williams,Berlin T√ºrkspor,
+889415,Ahmad Rmieh,Berlin T√ºrkspor,
+939992,Halit Bacak,Berlin T√ºrkspor,
+1052222,Nils Ehritt,Frohnauer SC 1946,
+1426545,Marlon M√∂rcke,Frohnauer SC 1946,
+1439799,Philipp Walter,Frohnauer SC 1946,
+1439801,Lasse Eickhoff,Frohnauer SC 1946,
+1439802,Lucas Rindermann,Frohnauer SC 1946,
+1439803,Levi Arend,Frohnauer SC 1946,
+1602549,Luis Seiffert,Frohnauer SC 1946,
+1617836,Amir Sassi,Frohnauer SC 1946,
+1819221,Lars Weber,Frohnauer SC 1946,
+1892793,Tidjan Barnes,Frohnauer SC 1946,
+1905237,Maximilian Mundt,Frohnauer SC 1946,
+1917045,Buba Ceesay,Frohnauer SC 1946,
+2044780,Jacob Sch√§fer,Frohnauer SC 1946,
+2061473,Oscar Adams Llorente,Frohnauer SC 1946,
+2170597,Benjamin Ritschl,Frohnauer SC 1946,
+2194620,Isaac Manu Kyere,Frohnauer SC 1946,
+2315596,Rangga Musiol,Frohnauer SC 1946,
+2327023,Said Bachar,Frohnauer SC 1946,
+2379250,Nico Horvat,Frohnauer SC 1946,
+2396031,Charlie Werner,Frohnauer SC 1946,
+2455807,Dominik Kuppler,Frohnauer SC 1946,
+273708,Tobias Hampel,Frohnauer SC 1946,
+363856,Mike Ryberg,Frohnauer SC 1946,
+364314,Simon Wollesen,Frohnauer SC 1946,
+496083,Sebastian Paul,Frohnauer SC 1946,
+554078,Dominik Lindhammer,Frohnauer SC 1946,
+626171,Nando Hofmann,Frohnauer SC 1946,
+763421,Erik Hollnagel,Frohnauer SC 1946,
+777731,Adrian Domke,Frohnauer SC 1946,
+848203,Andre Stache,Frohnauer SC 1946,
+1081182,Marvin Michels,SC Charlottenburg,
+1105605,Leo Heye,SC Charlottenburg,
+1117615,Justin Seidel,SC Charlottenburg,
+134714,Janos L√∂be,SC Charlottenburg,
+1488635,Adrian Droszczak,SC Charlottenburg,
+1585482,Omar Saif,SC Charlottenburg,
+1710827,Eliot Tolaj,SC Charlottenburg,
+1710831,Nana Kwame Badu-Amoah,SC Charlottenburg,
+1826107,Lasse Engelsing,SC Charlottenburg,
+1980684,Nizar Mestetef,SC Charlottenburg,
+1985784,Timo Henning Jasper,SC Charlottenburg,
+2079666,Kingsley Chigozie Onyemaobi,SC Charlottenburg,
+2181029,Jonathan Sch√§fer,SC Charlottenburg,
+2280422,Lukas Neitzel,SC Charlottenburg,
+2375517,Abdoul Moumouni Kader Traore,SC Charlottenburg,
+2409749,Aron Mugerwa,SC Charlottenburg,
+2449090,Micah Tim Helge,SC Charlottenburg,
+2452592,Noah Schmitt,SC Charlottenburg,
+434945,Marc Reichel,SC Charlottenburg,
+478528,Timo Brinkmann,SC Charlottenburg,
+495616,Necmi Ulucay,SC Charlottenburg,
+508525,Tugay G√∂cer,SC Charlottenburg,
+554434,Kai H√∂rschlein,SC Charlottenburg,
+554638,Patrick Maykowski,SC Charlottenburg,
+557542,Ahmad Al-Khalaf,SC Charlottenburg,
+578440,Fatih K√ºc√ºk,SC Charlottenburg,
+670925,Ahmad Selman,SC Charlottenburg,
+718904,Ben Lehmann,SC Charlottenburg,
+1034772,Simon von Hallen,SV Empor Berlin,
+1084761,David Sch√§fer,SV Empor Berlin,
+1256639,Falk Marquard,SV Empor Berlin,
+1266763,Valentin Samuel Kurz,SV Empor Berlin,
+1352216,Benedikt Mehl,SV Empor Berlin,
+1404837,Paul Nickel,SV Empor Berlin,
+154349,Max Zander,SV Empor Berlin,
+1850728,Stanley Schulz,SV Empor Berlin,
+1966211,Lucas Samuel Mc Isaac Ibanez,SV Empor Berlin,
+1979836,Vincent Lange,SV Empor Berlin,
+2055523,Arthur Pschyrembel,SV Empor Berlin,
+2084397,Leopold Neumeier,SV Empor Berlin,
+2233337,Luis Ploschenz,SV Empor Berlin,
+2274248,Jason Kofi Appiah,SV Empor Berlin,
+302247,Maurice Peitz,SV Empor Berlin,
+312159,Mathias Felix Wenger,SV Empor Berlin,
+32364,Quentin Paul Albrecht,SV Empor Berlin,
+441881,Daniel Alankus,SV Empor Berlin,
+485537,Michele La Pietra,SV Empor Berlin,
+495599,David Garnczarek,SV Empor Berlin,
+496045,Roman H√ºbner,SV Empor Berlin,
+496051,Dennis Wegner,SV Empor Berlin,
+508533,Trung Hieu Ngo,SV Empor Berlin,
+633055,Marian Ruhberg,SV Empor Berlin,
+665320,Can Sakar,SV Empor Berlin,
+666810,Tom Stutzke,SV Empor Berlin,
+681126,Tarik Khettal,SV Empor Berlin,
+681356,Hendrik K√ºhn,SV Empor Berlin,
+681357,Leonardo Meirelles-Hartmann,SV Empor Berlin,
+710855,Lukas Boateng,SV Empor Berlin,
+739799,Nikolai Wolany,SV Empor Berlin,
+763854,Arnaud Salla,SV Empor Berlin,
+832713,Tim Falk,SV Empor Berlin,
+890602,Simon Albrecht,SV Empor Berlin,
+939984,Joris M√∂ller,SV Empor Berlin,
+1045699,Florent Iseni,FSV Spandauer Kickers,
+114001,Jack Krumnow,FSV Spandauer Kickers,
+1353320,Max Steinfels,FSV Spandauer Kickers,
+1353384,Luke M√∂llers,FSV Spandauer Kickers,
+1370547,Tchanawe Tunde Kris-Walick Odoubiyi Cocou,FSV Spandauer Kickers,
+1771761,Felix Erkelenz,FSV Spandauer Kickers,
+1771773,Matti-Arne Waltersdorf,FSV Spandauer Kickers,
+1842754,Jakub Ado Klepczynski,FSV Spandauer Kickers,
+1892822,Vincent Kuckei,FSV Spandauer Kickers,
+1892906,Tiziano Szuwarski,FSV Spandauer Kickers,
+2030725,Isaac Vefonge Wana,FSV Spandauer Kickers,
+2033298,Abbas Jizzini,FSV Spandauer Kickers,
+2096542,Serhii Zhemchuzhnyi,FSV Spandauer Kickers,
+2278345,Elias Wesner,FSV Spandauer Kickers,
+2417497,Zef Hassan,FSV Spandauer Kickers,
+2430153,Arda Sahin,FSV Spandauer Kickers,
+2446586,Matti Kittler,FSV Spandauer Kickers,
+2457649,Luca Pomorin,FSV Spandauer Kickers,
+260743,Tugay Uzan,FSV Spandauer Kickers,
+312633,Gino Krumnow,FSV Spandauer Kickers,
+499200,Fabian Senninger,FSV Spandauer Kickers,
+519258,Okan Tastan,FSV Spandauer Kickers,
+557103,Julian Mosni,FSV Spandauer Kickers,
+562750,Dominik Dampke,FSV Spandauer Kickers,
+585513,Steffen Sawallich,FSV Spandauer Kickers,
+665791,Samuel Agyei-Yeboah,FSV Spandauer Kickers,
+755026,David Gezer,FSV Spandauer Kickers,
+788680,Nils Gardeike,FSV Spandauer Kickers,
+794970,Khasan Dzhaukhar,FSV Spandauer Kickers,
+905766,Klaus Oldorff,FSV Spandauer Kickers,
+1261234,Nico Samuel Wobeser,SFC Stern 1900,
+1292090,Cihan Caliskan,SFC Stern 1900,
+1359548,Oliver Gantzberg,SFC Stern 1900,
+1366319,Omar Hajjaj,SFC Stern 1900,
+1390296,Nicolas F√§√üler,SFC Stern 1900,
+1527417,Jordan Thurau,SFC Stern 1900,
+1607311,J√∂rn Reher,SFC Stern 1900,
+1827483,Ibrahim Kalil Keita,SFC Stern 1900,
+1873236,Colin Drost,SFC Stern 1900,
+1873246,Hamid Sen,SFC Stern 1900,
+1878829,Mik Dankou,SFC Stern 1900,
+1892834,Nikolas Dickersbach,SFC Stern 1900,
+1892911,Ali Elmahdawi,SFC Stern 1900,
+1980182,Nizar Jouini,SFC Stern 1900,
+2125248,Elias F√ºrstenau,SFC Stern 1900,
+2125280,Alagie Peterson Jobe,SFC Stern 1900,
+2133618,Mert Torun,SFC Stern 1900,
+2154709,Ali Shaarawy,SFC Stern 1900,
+2211854,Darron Adamou,SFC Stern 1900,
+2290934,Leon Krost,SFC Stern 1900,
+665780,Lukas Rohana,SFC Stern 1900,
+673299,Tim Sch√∂nfu√ü-Hahm,SFC Stern 1900,
+833734,Marvin √ñzdal,SFC Stern 1900,
+838410,Florian Medrane,SFC Stern 1900,
+838414,Luca Rohr,SFC Stern 1900,
+838418,Eddie Udeoka,SFC Stern 1900,
+842022,Julian Hartmann,SFC Stern 1900,
+849633,Can Kilian Cakin,SFC Stern 1900,
+1131297,Yannick Wilhelm,F√ºchse Berlin,
+1435135,Nils Lox,F√ºchse Berlin,
+1530047,Kaan T√ºys√ºz,F√ºchse Berlin,
+1530057,Maximilian Dreger,F√ºchse Berlin,
+156802,Kevin Otremba,F√ºchse Berlin,
+1589226,Victor Sunday,F√ºchse Berlin,
+1628263,Maxim Cygankov,F√ºchse Berlin,
+1746990,Karim Naziru Zoungrana,F√ºchse Berlin,
+1873198,Can T√ºrker,F√ºchse Berlin,
+1923641,Mirsad Bushaj,F√ºchse Berlin,
+2035911,Furkan Yildirim,F√ºchse Berlin,
+2173334,Bekir G√ºndogdu,F√ºchse Berlin,
+2209447,Raven Rabiega,F√ºchse Berlin,
+2255212,Cengizhan Haney,F√ºchse Berlin,
+2262472,Lamine Ouedraogo,F√ºchse Berlin,
+2314860,Salem Bourakkadi,F√ºchse Berlin,
+2317314,Niklas Armbrecht,F√ºchse Berlin,
+2436886,Pedro Henrique Heerdt,F√ºchse Berlin,
+2464396,Pelal Eliraqui,F√ºchse Berlin,
+27522,Thomas Brechler,F√ºchse Berlin,
+448656,Artem Cygankov,F√ºchse Berlin,
+767837,Kevin Zecha,F√ºchse Berlin,
+804130,Emre-Mert Aslan,F√ºchse Berlin,
+937432,Dominik Klecha,F√ºchse Berlin,
+939982,Bedirhan Sivaci,F√ºchse Berlin,
+1005452,Otmar Baumann,1. FC Wilmersdorf,
+1117061,Arthur Langhammer,1. FC Wilmersdorf,
+1130579,Baran Akpinar,1. FC Wilmersdorf,
+1131184,Yasar Can Cinar,1. FC Wilmersdorf,
+1311242,Maurice Miguel Noel Opfermann Arcones,1. FC Wilmersdorf,
+1366321,Yousef El-Meguid,1. FC Wilmersdorf,
+1370804,Bardya Ahmadisad-Yekta,1. FC Wilmersdorf,
+1634087,Emir Ipek,1. FC Wilmersdorf,
+1759288,Rodrigo Flores Kaya,1. FC Wilmersdorf,
+1780355,Jan Hendrik Kuschke,1. FC Wilmersdorf,
+179677,Rhami Ghandour,1. FC Wilmersdorf,
+1873349,Robin Loch,1. FC Wilmersdorf,
+1962492,Mackawy Eltahir,1. FC Wilmersdorf,
+2186792,Vincent Falk,1. FC Wilmersdorf,
+2250839,Mohammed Izal,1. FC Wilmersdorf,
+2318691,Serkan Akyol,1. FC Wilmersdorf,
+2356729,Nelson Okech,1. FC Wilmersdorf,
+2376487,Apollo Immanuel D√∂hl,1. FC Wilmersdorf,
+27632,Joel Samake,1. FC Wilmersdorf,
+309569,Kemal Atici,1. FC Wilmersdorf,
+463205,Jan Ilskens,1. FC Wilmersdorf,
+592923,Max Ilskens,1. FC Wilmersdorf,
+598827,Jonas Techie-Menson,1. FC Wilmersdorf,
+671853,Nii Bruce Weber,1. FC Wilmersdorf,
+736011,Enes Aydin,1. FC Wilmersdorf,
+833674,Marvin Kupfer,1. FC Wilmersdorf,
+840007,Valentin Henneke,1. FC Wilmersdorf,
+902375,Nicolas Russo,1. FC Wilmersdorf,
+905759,Hamza Dabanoglu,1. FC Wilmersdorf,
+909944,Elias Migdal,1. FC Wilmersdorf,
+1118216,Tim Marscheider,SV Blau-Wei√ü Hohen Neuendorf,
+1274217,Niklas Lehmann,SV Blau-Wei√ü Hohen Neuendorf,
+1368729,Daniel Chukwu,SV Blau-Wei√ü Hohen Neuendorf,
+1371222,Matteo M√ºnzberg,SV Blau-Wei√ü Hohen Neuendorf,
+151640,Dag R√ºdiger,SV Blau-Wei√ü Hohen Neuendorf,
+1610419,Yeri Said Schock Negrete,SV Blau-Wei√ü Hohen Neuendorf,
+1627952,Yorick Otte,SV Blau-Wei√ü Hohen Neuendorf,
+1627954,Lucas Diels,SV Blau-Wei√ü Hohen Neuendorf,
+1771382,Kubilay D√ºndar,SV Blau-Wei√ü Hohen Neuendorf,
+1812119,Leon Draski,SV Blau-Wei√ü Hohen Neuendorf,
+1855258,Leandro R√∂ttgen,SV Blau-Wei√ü Hohen Neuendorf,
+1873167,Tarik Housein,SV Blau-Wei√ü Hohen Neuendorf,
+1873220,Patrik Schremf,SV Blau-Wei√ü Hohen Neuendorf,
+1878366,Marvin Schipper,SV Blau-Wei√ü Hohen Neuendorf,
+1927568,Tobias Liebig,SV Blau-Wei√ü Hohen Neuendorf,
+1977524,Edgar Lange,SV Blau-Wei√ü Hohen Neuendorf,
+1997853,Jannes Lendner,SV Blau-Wei√ü Hohen Neuendorf,
+2074651,Berken Sevim,SV Blau-Wei√ü Hohen Neuendorf,
+2137479,Felix Vogt,SV Blau-Wei√ü Hohen Neuendorf,
+2274087,Jeremy Domke,SV Blau-Wei√ü Hohen Neuendorf,
+2301896,Mika Strobel,SV Blau-Wei√ü Hohen Neuendorf,
+2301897,Xaver Witczak,SV Blau-Wei√ü Hohen Neuendorf,
+2318874,Marlon Klebow,SV Blau-Wei√ü Hohen Neuendorf,
+2323267,Dennis Pagel,SV Blau-Wei√ü Hohen Neuendorf,
+2377295,Ron G√ºnther,SV Blau-Wei√ü Hohen Neuendorf,
+2456582,Noe-Samuel Bacanu,SV Blau-Wei√ü Hohen Neuendorf,
+2465048,Sebastian Maronde,SV Blau-Wei√ü Hohen Neuendorf,
+260889,Jean-Marc Soine,SV Blau-Wei√ü Hohen Neuendorf,
+273725,Nick Przesang,SV Blau-Wei√ü Hohen Neuendorf,
+357601,Norman Anton,SV Blau-Wei√ü Hohen Neuendorf,
+554205,Martin Urbanski,SV Blau-Wei√ü Hohen Neuendorf,
+554293,Timo Kopmann,SV Blau-Wei√ü Hohen Neuendorf,
+561837,Sebastian Wolf,SV Blau-Wei√ü Hohen Neuendorf,
+581709,Julian Butt,SV Blau-Wei√ü Hohen Neuendorf,
+608303,Robin Sankowsky,SV Blau-Wei√ü Hohen Neuendorf,
+672376,Kevin Ghaderi,SV Blau-Wei√ü Hohen Neuendorf,
+781814,Thomas Stoltz,SV Blau-Wei√ü Hohen Neuendorf,
+833293,Tim Niederau,SV Blau-Wei√ü Hohen Neuendorf,
+1081195,Avni Kablan,SC Staaken,
+1370850,Ferris Freiwald,SC Staaken,
+1384595,Nassim Badran,SC Staaken,
+1416830,Firas El Dayekh,SC Staaken,
+1435293,Daniel Tutzschke,SC Staaken,
+1436644,Fabio Hackbarth,SC Staaken,
+1444365,Kevin Flemming,SC Staaken,
+1472506,Jannik Jantzen,SC Staaken,
+1842752,Florian Jaekel,SC Staaken,
+1844074,Jakob Lummert,SC Staaken,
+1849744,Pascal Uhl,SC Staaken,
+1979461,Azad Cinar,SC Staaken,
+1979466,Jan Heumer,SC Staaken,
+1987202,Linus Hechtfisch,SC Staaken,
+1988080,Justin Hoffmeister,SC Staaken,
+2084373,Mohammed Younes,SC Staaken,
+2101635,Max Anton Oberbach,SC Staaken,
+2114718,Florian Thamm,SC Staaken,
+2211867,Nico Moretti,SC Staaken,
+2328868,Finn Walter,SC Staaken,
+2371702,Karim Abdel Hamid,SC Staaken,
+2468205,Luca F√∂rster,SC Staaken,
+500928,Efraim Koku Gakpeto,SC Staaken,
+513919,Erhan Bahceci,SC Staaken,
+519264,Deniz Aksakal,SC Staaken,
+556306,Tim Lampert,SC Staaken,
+61064,Benjamin Stein,SC Staaken,
+835658,Sinan Ufak,SC Staaken,
