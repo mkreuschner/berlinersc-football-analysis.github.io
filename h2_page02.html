@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/css/all_pages.css">
+    <link rel="stylesheet" href="styles/css/second_page.css">
+    <title>ANALYSIS</title>
+</head>
+<body>
+
+<!-- Navigation Bar -->
+<div class="w3-top">
+  <div class="w3-row w3-padding w3-black">
+    <div class="navbar" id="navbar">
+        <div class="w3-col s3">
+            <a href="index.html" class="w3-button w3-block w3-black">BACK</a>
+        </div>
+        <div class="w3-col s3">
+            <a href="h2_page01.html" class="w3-button w3-block w3-black">RESULTS</a>
+        </div>
+         <div class="w3-col s3">
+            <a href="h2_page02.html" class="w3-button w3-block w3-black active-nav">ANALYSIS</a>
+        </div>
+        <div class="w3-col s3">
+            <a href="h2_page03.html" class="w3-button w3-block w3-black">PLAYER</a>
+        </div>
+    </div>
+  </div>
+</div>
+
+<!-- Main Content -->
+<div class="w3-container">
+    <h5 class="w3-center w3-padding-16"><span class="w3-tag w3-wide">ANALYSIS</span></h5>
+    <div>
+        <select id="teamSelect">
+            <option value="">-- Wähle ein Team --</option>
+        </select>
+        <select id="categorySelect">
+            <option value="">-- Wähle eine Kategorie --</option>
+        </select>
+    </div>
+    <div id="resultContainer" style="margin-top: 20px;"></div>
+</div>
+
+<!-- Footer -->
+<footer>
+    <p>Created by Moritz</p>
+</footer>
+
+<script src="js/chart.umd.min.js"></script>
+<script src="js/papaparse.min.js"></script>
+<script src="js/second_page.js"></script>
+
+</body>
+</html>

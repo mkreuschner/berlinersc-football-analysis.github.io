@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="styles/css/all_pages.css" />
+  <link rel="stylesheet" href="styles/css/first_page.css" />
+  <title>RESULTS</title>
+  <style>
+    /* Aktive Seite im Header (RESULTS) leicht gelb hervorheben */
+    .navbar a.active-nav {
+      background: #000 !important;
+      color: #fff4b8 !important;
+      font-weight: 600;
+    }
+
+    /* Tabs – zentriert im Badge-Stil */
+    .tabs-wrap { display: flex; justify-content: center; }
+    .tabs { display: inline-flex; gap: .75rem; margin: 1rem 0 .5rem; padding-bottom: 10px; }
+
+    .tab-btn {
+      position: relative;
+      appearance: none;
+      border: none;
+      cursor: pointer;
+      padding: .35rem .9rem;
+      background: #000;   /* schwarze Box */
+      color: #fff;        /* weiße Schrift */
+      border-radius: 2px;
+      font-weight: 600;
+      line-height: 1.2;
+    }
+    .tab-btn:hover { opacity: .9; }
+    .tab-btn.active { text-decoration: none; }
+
+    /* Schwarzer Strich UNTER der Box */
+    .tab-btn::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      right: 0;
+      height: 2px;
+      background: #000;   /* fix: immer schwarz, nicht currentColor */
+      bottom: -6px;
+      opacity: 0;
+      transform: scaleX(0.9);
+      transition: opacity .2s ease, transform .2s ease;
+    }
+    .tab-btn.active::after {
+      opacity: 1;
+      transform: scaleX(1);
+    }
+
+    /* Panels */
+    .tab-panel { display: none; }
+    .tab-panel.active { display: block; }
+    .panel-inner { margin-top: .75rem; }
+    .team-cell{display:inline-flex;align-items:center;gap:.4rem}
+    .team-logo{width:20px;height:20px;object-fit:contain}
+  </style>
+</head>
+<body>
+
+  <!-- Navigation Bar -->
+  <div class="w3-top">
+    <div class="w3-row w3-padding w3-black">
+      <div class="navbar" id="navbar">
+          <div class="w3-col s3">
+              <a href="index.html" class="w3-button w3-block w3-black">BACK</a>
+          </div>
+          <div class="w3-col s3">
+              <a href="h1_page01.html" class="w3-button w3-block w3-black active-nav">RESULTS</a>
+          </div>
+          <div class="w3-col s3">
+              <a href="h1_page02.html" class="w3-button w3-block w3-black">ANALYSIS</a>
+          </div>
+          <div class="w3-col s3">
+              <a href="h1_page03.html" class="w3-button w3-block w3-black">PLAYER</a>
+          </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Inhalt -->
+  <div class="w3-container" style="margin-top:56px">
+    <!-- Umschalter wie "RESULTS"-Badge, zentriert -->
+    <div class="tabs-wrap">
+      <nav class="tabs" role="tablist" aria-label="Ansicht wählen">
+        <button class="tab-btn active" id="tab-spieltag" role="tab" aria-selected="true" aria-controls="panel-spieltag">Spieltag</button>
+        <button class="tab-btn" id="tab-tabellen" role="tab" aria-selected="false" aria-controls="panel-tabellen">Tabellen</button>
+      </nav>
+    </div>
+
+    <!-- Panel: Spieltag -->
+    <section class="tab-panel active" id="panel-spieltag" role="tabpanel" aria-labelledby="tab-spieltag">
+      <div class="panel-inner">
+        <div class="container">
+          <div class="w3-container" id="matchday">
+            <div class="matchday-navigation">
+              <button id="prevMatchday" style="margin-right: 0.1rem; background-color: black; color: white;">&#x2039;</button>
+              <select id="matchdaySelect">
+                <option value="">-- Wähle einen Spieltag --</option>
+              </select>
+              <button id="nextMatchday" style="margin-left: 0.1rem; background-color: black; color: white;">&#x203A;</button>
+            </div>
+            <div id="matchday-container" style="margin-top: 1rem;">
+              <div id="dataMatchday"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Panel: Tabellen -->
+    <section class="tab-panel" id="panel-tabellen" role="tabpanel" aria-labelledby="tab-tabellen">
+      <div class="panel-inner">
+        <div class="container">
+          <div class="w3-container" id="table">
+            <div class="select-container">
+              <select id="tableSelect">
+                <option value="">-- Tabelle auswählen --</option>
+                <option value="https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/H1/Routput/gesamttabelle.csv" data-columns="#,team,S,Tore,Dif,Pkt">Gesamttabelle</option>
+                <!-- <option value="https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/H1/Routput/survival_thresholds.csv" data-columns="#,team,Pkt,Pred,100%,90%,75%,50%">Prediction</option>-->
+                <option value="https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/H1/Routput/formtabelle.csv" data-columns="#,team,E5,E4,E3,E2,E1,Tore,Pkt" data-special="form">Formtabelle</option>
+                <option value="https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/H1/Routput/heimtabelle.csv" data-columns="#,team,S,Tore,Dif,Pkt">Heimtabelle</option>
+                <option value="https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/H1/Routput/auswaertstabelle.csv" data-columns="#,team,S,Tore,Dif,Pkt">Auswärtstabelle</option>
+                <option value="https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/H1/Routput/rasentabelle.csv" data-columns="#,team,S,Tore,Dif,Pkt">Rasentabelle</option>
+                <option value="https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/H1/Routput/kunstrasentabelle.csv" data-columns="#,team,S,Tore,Dif,Pkt">Kunstrasentabelle</option>
+                <option value="https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/H1/Routput/kleinkunstrasentabelle.csv" data-columns="#,team,S,Tore,Dif,Pkt">kleiner-Platz-Tabelle</option>
+              </select>
+            </div>
+            <div id="table-container" style="margin-top: 1rem;"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <!-- Footer -->
+  <footer class="w3-center w3-light-grey w3-padding-48 w3-large">
+      <p>created by Moritz</p>
+  </footer>
+
+  <script src="js/chart.umd.min.js"></script>
+  <script src="js/papaparse.min.js"></script>
+  <script src="js/h1_first_page.js"></script>
+
+  <!-- Tabs-Logik -->
+  <script>
+    (function () {
+      const tabs = Array.from(document.querySelectorAll('.tab-btn'));
+      const panels = {
+        spieltag: document.getElementById('panel-spieltag'),
+        tabellen: document.getElementById('panel-tabellen')
+      };
+
+      function activate(name) {
+        tabs.forEach(btn => {
+          const isActive = btn.id === 'tab-' + name;
+          btn.classList.toggle('active', isActive);
+          btn.setAttribute('aria-selected', String(isActive));
+        });
+        Object.entries(panels).forEach(([key, panel]) => {
+          panel.classList.toggle('active', key === name);
+        });
+      }
+
+      tabs.forEach(btn => {
+        btn.addEventListener('click', () => {
+          const name = btn.id.replace('tab-', '');
+          activate(name);
+        });
+        btn.addEventListener('keydown', (e) => {
+          if (e.key === 'ArrowRight' || e.key === 'ArrowLeft') {
+            e.preventDefault();
+            const i = tabs.indexOf(btn);
+            const next = e.key === 'ArrowRight' ? (i + 1) % tabs.length : (i - 1 + tabs.length) % tabs.length;
+            tabs[next].focus();
+          }
+        });
+      });
+
+      activate('spieltag');
+    })();
+  </script>
+
+
+</body>
+</html>
