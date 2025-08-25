@@ -1,19 +1,19 @@
 team,#,Ges_Bilanz,Rank_H,H_Bilanz,Rank_A,A_Bilanz,Rank_NR,NR_Bilanz,Rank_KR,KR_Bilanz,Rank_kKR,kKR_Bilanz,E5,E4,E3,E2,E1,Tore,Formation,Wahrscheinlichkeit,dreierKette,viererKette
-Sp.Vg. Blau Weiß 1890 Berlin,1,1-0-0,NA,NA,NA,NA,NA,NA,1,1-0-0,NA,NA,NA,NA,NA,NA,S,3:0,4-2-3-1,100%,Nein,Ja
-Berliner SC,2,1-0-0,NA,NA,NA,NA,NA,NA,2,1-0-0,NA,NA,NA,NA,NA,NA,S,3:1,4-1-2-3,100%,Nein,Ja
-Frohnauer SC,3,1-0-0,NA,NA,NA,NA,NA,NA,3,1-0-0,NA,NA,NA,NA,NA,NA,S,3:1,4-2-3-1,100%,Nein,Ja
-Füchse Berlin,4,1-0-0,NA,NA,NA,NA,NA,NA,4,1-0-0,NA,NA,NA,NA,NA,NA,S,4:2,4-2-3-1,100%,Nein,Ja
-SV BW Hohen Neuendorf,5,1-0-0,NA,NA,NA,NA,NA,NA,5,1-0-0,NA,NA,NA,NA,NA,NA,S,3:1,3-2-2-2-1,100%,Ja,Nein
-VSG Altglienicke II,6,1-0-0,NA,NA,NA,NA,NA,NA,6,1-0-0,1,1-0-0,NA,NA,NA,NA,S,3:1,4-3-3,100%,Nein,Ja
-Berlin Türkspor,7,1-0-0,NA,NA,NA,NA,NA,NA,7,1-0-0,2,1-0-0,NA,NA,NA,NA,S,3:2,3-6-1,100%,Ja,Nein
-1. FC Wilmersdorf,8,0-1-0,NA,NA,NA,NA,NA,NA,8,0-1-0,NA,NA,NA,NA,NA,NA,U,2:2,4-5-1,100%,Nein,Ja
-FSV Spandauer Kickers,9,0-1-0,NA,NA,NA,NA,NA,NA,9,0-1-0,3,0-1-0,NA,NA,NA,NA,U,1:1,5-3-2,100%,Nein,Nein
-TSV Mariendorf 1897,10,0-1-0,NA,NA,NA,NA,NA,NA,10,0-1-0,NA,NA,NA,NA,NA,NA,U,2:2,4-4-2,100%,Nein,Ja
-VfB Fortuna Biesdorf,11,0-1-0,NA,NA,NA,NA,NA,NA,11,0-1-0,4,0-1-0,NA,NA,NA,NA,U,1:1,4-4-2,100%,Nein,Ja
-SC Staaken 1919,12,0-0-1,NA,NA,NA,NA,NA,NA,12,0-0-1,5,0-0-1,NA,NA,NA,NA,N,2:3,5-3-2,100%,Nein,Nein
-SC Charlottenburg,13,0-0-1,NA,NA,NA,NA,NA,NA,13,0-0-1,NA,NA,NA,NA,NA,NA,N,1:3,4-2-3-1,100%,Nein,Ja
-SFC Stern 1900,14,0-0-1,NA,NA,NA,NA,NA,NA,14,0-0-1,NA,NA,NA,NA,NA,NA,N,1:3,4-2-3-1,100%,Nein,Ja
-SSC Südwest 1947,15,0-0-1,NA,NA,NA,NA,NA,NA,15,0-0-1,NA,NA,NA,NA,NA,NA,N,1:3,4-2-3-1,100%,Nein,Ja
-SV Empor Berlin,16,0-0-1,NA,NA,NA,NA,NA,NA,16,0-0-1,NA,NA,NA,NA,NA,NA,N,2:4,4-1-4-1,100%,Nein,Ja
-TSV Rudow Berlin,17,0-0-1,NA,NA,NA,NA,NA,NA,17,0-0-1,6,0-0-1,NA,NA,NA,NA,N,1:3,4-2-3-1,100%,Nein,Ja
-Polar Pinguin Berlin,18,0-0-1,NA,NA,NA,NA,NA,NA,18,0-0-1,NA,NA,NA,NA,NA,NA,N,0:3,5-4-1,100%,Nein,Nein
+Sp.Vg. Blau Weiß 1890 Berlin,1,1-0-0,1,1-0-0,NA,NA,NA,NA,1,1-0-0,NA,NA,NA,NA,NA,NA,S,3:0,4-2-3-1,100%,Nein,Ja
+Berliner SC,2,1-0-0,2,1-0-0,NA,NA,NA,NA,2,1-0-0,NA,NA,NA,NA,NA,NA,S,3:1,4-1-2-3,100%,Nein,Ja
+Frohnauer SC,3,1-0-0,3,1-0-0,NA,NA,NA,NA,3,1-0-0,NA,NA,NA,NA,NA,NA,S,3:1,4-2-3-1,100%,Nein,Ja
+Füchse Berlin,4,1-0-0,NA,NA,1,1-0-0,NA,NA,4,1-0-0,NA,NA,NA,NA,NA,NA,S,4:2,4-2-3-1,100%,Nein,Ja
+SV BW Hohen Neuendorf,5,1-0-0,4,1-0-0,NA,NA,NA,NA,5,1-0-0,NA,NA,NA,NA,NA,NA,S,3:1,3-2-2-2-1,100%,Ja,Nein
+VSG Altglienicke II,6,1-0-0,5,1-0-0,NA,NA,NA,NA,6,1-0-0,1,1-0-0,NA,NA,NA,NA,S,3:1,4-3-3,100%,Nein,Ja
+Berlin Türkspor,7,1-0-0,NA,NA,2,1-0-0,NA,NA,7,1-0-0,2,1-0-0,NA,NA,NA,NA,S,3:2,3-6-1,100%,Ja,Nein
+1. FC Wilmersdorf,8,0-1-0,NA,NA,3,0-1-0,NA,NA,8,0-1-0,NA,NA,NA,NA,NA,NA,U,2:2,4-5-1,100%,Nein,Ja
+FSV Spandauer Kickers,9,0-1-0,NA,NA,4,0-1-0,NA,NA,9,0-1-0,3,0-1-0,NA,NA,NA,NA,U,1:1,5-3-2,100%,Nein,Nein
+TSV Mariendorf 1897,10,0-1-0,6,0-1-0,NA,NA,NA,NA,10,0-1-0,NA,NA,NA,NA,NA,NA,U,2:2,4-4-2,100%,Nein,Ja
+VfB Fortuna Biesdorf,11,0-1-0,7,0-1-0,NA,NA,NA,NA,11,0-1-0,4,0-1-0,NA,NA,NA,NA,U,1:1,4-4-2,100%,Nein,Ja
+SC Staaken 1919,12,0-0-1,8,0-0-1,NA,NA,NA,NA,12,0-0-1,5,0-0-1,NA,NA,NA,NA,N,2:3,5-3-2,100%,Nein,Nein
+SC Charlottenburg,13,0-0-1,NA,NA,5,0-0-1,NA,NA,13,0-0-1,NA,NA,NA,NA,NA,NA,N,1:3,4-2-3-1,100%,Nein,Ja
+SFC Stern 1900,14,0-0-1,NA,NA,6,0-0-1,NA,NA,14,0-0-1,NA,NA,NA,NA,NA,NA,N,1:3,4-2-3-1,100%,Nein,Ja
+SSC Südwest 1947,15,0-0-1,NA,NA,7,0-0-1,NA,NA,15,0-0-1,NA,NA,NA,NA,NA,NA,N,1:3,4-2-3-1,100%,Nein,Ja
+SV Empor Berlin,16,0-0-1,9,0-0-1,NA,NA,NA,NA,16,0-0-1,NA,NA,NA,NA,NA,NA,N,2:4,4-1-4-1,100%,Nein,Ja
+TSV Rudow Berlin,17,0-0-1,NA,NA,8,0-0-1,NA,NA,17,0-0-1,6,0-0-1,NA,NA,NA,NA,N,1:3,4-2-3-1,100%,Nein,Ja
+Polar Pinguin Berlin,18,0-0-1,NA,NA,9,0-0-1,NA,NA,18,0-0-1,NA,NA,NA,NA,NA,NA,N,0:3,5-4-1,100%,Nein,Nein
