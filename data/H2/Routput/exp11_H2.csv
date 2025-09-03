@@ -1,26 +1,46 @@
 Team,Formation,Anzahl,Total_Spiele,Wahrscheinlichkeit,dreier_kette,vierer_kette,Starting11_Team,Starting11_Position,Starting11_Nummer,Starting11_Name,Starting11_Weighted_Score
-BFC Preussen II,4-1-3-2,1,2,50%,Nein,Ja,BFC Preussen II,IV,NA,Leo Sommerfeld,0.58
-BFC Preussen II,4-1-3-2,1,2,50%,Nein,Ja,BFC Preussen II,IV,NA,Magnus Stahlberg,0.58
-BFC Preussen II,4-1-3-2,1,2,50%,Nein,Ja,BFC Preussen II,RV,NA,Atacan Özcan,0.55
-BFC Preussen II,4-1-3-2,1,2,50%,Nein,Ja,BFC Preussen II,LV,NA,Abdallah Ferchichi,0.55
-BFC Preussen II,4-1-3-2,1,2,50%,Nein,Ja,BFC Preussen II,ST,NA,Dan Feldmann,0.55
-BFC Preussen II,4-1-3-2,1,2,50%,Nein,Ja,BFC Preussen II,RM,NA,Can Kelesoglu,0.5
-BFC Preussen II,4-1-3-2,1,2,50%,Nein,Ja,BFC Preussen II,ST,NA,Georgios Mikelatze,0.5
-BFC Preussen II,4-1-3-2,1,2,50%,Nein,Ja,BFC Preussen II,ZOM,NA,Rommel Abou-Chaker,0.48
+BFC Preussen II,4-1-3-2,1,2,50%,Nein,Ja,BFC Preussen II,IV,3,Leo Sommerfeld,0.58
+BFC Preussen II,4-1-3-2,1,2,50%,Nein,Ja,BFC Preussen II,IV,8,Magnus Stahlberg,0.58
+BFC Preussen II,4-1-3-2,1,2,50%,Nein,Ja,BFC Preussen II,RV,22,Atacan Özcan,0.55
+BFC Preussen II,4-1-3-2,1,2,50%,Nein,Ja,BFC Preussen II,LV,19,Abdallah Ferchichi,0.55
+BFC Preussen II,4-1-3-2,1,2,50%,Nein,Ja,BFC Preussen II,ST,5,Dan Feldmann,0.55
+BFC Preussen II,4-1-3-2,1,2,50%,Nein,Ja,BFC Preussen II,RM,33,Can Kelesoglu,0.5
+BFC Preussen II,4-1-3-2,1,2,50%,Nein,Ja,BFC Preussen II,ST,29,Georgios Mikelatze,0.5
+BFC Preussen II,4-1-3-2,1,2,50%,Nein,Ja,BFC Preussen II,ZOM,13,Rommel Abou-Chaker,0.48
 BFC Preussen II,4-1-3-2,1,2,50%,Nein,Ja,BFC Preussen II,TW,NA,Tim Fisch,0.42
-BFC Preussen II,4-1-3-2,1,2,50%,Nein,Ja,BFC Preussen II,ZDM,NA,Yasin Demir,0.42
+BFC Preussen II,4-1-3-2,1,2,50%,Nein,Ja,BFC Preussen II,ZDM,30,Yasin Demir,0.42
 BFC Preussen II,4-1-3-2,1,2,50%,Nein,Ja,BFC Preussen II,LM,NA,Hugo Timur,0.42
-BFC Preussen II,4-2-3-1,1,2,50%,Nein,Ja,BFC Preussen II,IV,NA,Leo Sommerfeld,0.58
-BFC Preussen II,4-2-3-1,1,2,50%,Nein,Ja,BFC Preussen II,IV,NA,Magnus Stahlberg,0.58
-BFC Preussen II,4-2-3-1,1,2,50%,Nein,Ja,BFC Preussen II,RV,NA,Atacan Özcan,0.55
-BFC Preussen II,4-2-3-1,1,2,50%,Nein,Ja,BFC Preussen II,LV,NA,Abdallah Ferchichi,0.55
-BFC Preussen II,4-2-3-1,1,2,50%,Nein,Ja,BFC Preussen II,ST,NA,Dan Feldmann,0.55
-BFC Preussen II,4-2-3-1,1,2,50%,Nein,Ja,BFC Preussen II,RM,NA,Can Kelesoglu,0.5
-BFC Preussen II,4-2-3-1,1,2,50%,Nein,Ja,BFC Preussen II,ZOM,NA,Rommel Abou-Chaker,0.48
+BFC Preussen II,4-2-3-1,1,2,50%,Nein,Ja,BFC Preussen II,IV,3,Leo Sommerfeld,0.58
+BFC Preussen II,4-2-3-1,1,2,50%,Nein,Ja,BFC Preussen II,IV,8,Magnus Stahlberg,0.58
+BFC Preussen II,4-2-3-1,1,2,50%,Nein,Ja,BFC Preussen II,RV,22,Atacan Özcan,0.55
+BFC Preussen II,4-2-3-1,1,2,50%,Nein,Ja,BFC Preussen II,LV,19,Abdallah Ferchichi,0.55
+BFC Preussen II,4-2-3-1,1,2,50%,Nein,Ja,BFC Preussen II,ST,5,Dan Feldmann,0.55
+BFC Preussen II,4-2-3-1,1,2,50%,Nein,Ja,BFC Preussen II,RM,33,Can Kelesoglu,0.5
+BFC Preussen II,4-2-3-1,1,2,50%,Nein,Ja,BFC Preussen II,ZOM,13,Rommel Abou-Chaker,0.48
 BFC Preussen II,4-2-3-1,1,2,50%,Nein,Ja,BFC Preussen II,TW,NA,Tim Fisch,0.42
-BFC Preussen II,4-2-3-1,1,2,50%,Nein,Ja,BFC Preussen II,ZDM,NA,Yasin Demir,0.42
+BFC Preussen II,4-2-3-1,1,2,50%,Nein,Ja,BFC Preussen II,ZDM,30,Yasin Demir,0.42
 BFC Preussen II,4-2-3-1,1,2,50%,Nein,Ja,BFC Preussen II,LM,NA,Hugo Timur,0.42
 BFC Preussen II,4-2-3-1,1,2,50%,Nein,Ja,BFC Preussen II,ZDM,NA,Tim Henseler,0.33
+BSV 1892,3-4-1-2,1,2,50%,Ja,Nein,BSV 1892,RM,NA,Karl Anker,0.73
+BSV 1892,3-4-1-2,1,2,50%,Ja,Nein,BSV 1892,TW,NA,Hendrik Lüttschwager,0.7
+BSV 1892,3-4-1-2,1,2,50%,Ja,Nein,BSV 1892,ZDM,NA,Lennard Schleifenbaum,0.7
+BSV 1892,3-4-1-2,1,2,50%,Ja,Nein,BSV 1892,ST,NA,David Bellin,0.7
+BSV 1892,3-4-1-2,1,2,50%,Ja,Nein,BSV 1892,IV,NA,Niklas Jost,0.68
+BSV 1892,3-4-1-2,1,2,50%,Ja,Nein,BSV 1892,IV,NA,Stefano Tedesco,0.68
+BSV 1892,3-4-1-2,1,2,50%,Ja,Nein,BSV 1892,ST,NA,Julius Zauner,0.65
+BSV 1892,3-4-1-2,1,2,50%,Ja,Nein,BSV 1892,LM,NA,Tim Paschke,0.62
+BSV 1892,3-4-1-2,1,2,50%,Ja,Nein,BSV 1892,IV,NA,Benjamin Schnack,0.59
+BSV 1892,3-4-1-2,1,2,50%,Ja,Nein,BSV 1892,ZOM,NA,Dominik Hinze,0.57
+BSV 1892,4-4-2,1,2,50%,Nein,Ja,BSV 1892,RM,NA,Karl Anker,0.73
+BSV 1892,4-4-2,1,2,50%,Nein,Ja,BSV 1892,TW,NA,Hendrik Lüttschwager,0.7
+BSV 1892,4-4-2,1,2,50%,Nein,Ja,BSV 1892,ZM,NA,Lennard Schleifenbaum,0.7
+BSV 1892,4-4-2,1,2,50%,Nein,Ja,BSV 1892,ST,NA,David Bellin,0.7
+BSV 1892,4-4-2,1,2,50%,Nein,Ja,BSV 1892,IV,NA,Niklas Jost,0.68
+BSV 1892,4-4-2,1,2,50%,Nein,Ja,BSV 1892,IV,NA,Stefano Tedesco,0.68
+BSV 1892,4-4-2,1,2,50%,Nein,Ja,BSV 1892,ST,NA,Julius Zauner,0.65
+BSV 1892,4-4-2,1,2,50%,Nein,Ja,BSV 1892,LM,NA,Tim Paschke,0.62
+BSV 1892,4-4-2,1,2,50%,Nein,Ja,BSV 1892,ZM,NA,Benjamin Schnack,0.59
+BSV 1892,4-4-2,1,2,50%,Nein,Ja,BSV 1892,LV,NA,Yunus Malik,0.45
 BSV Hürtürkel,4-2-3-1,1,2,50%,Nein,Ja,BSV Hürtürkel,RM,NA,Leopold Antonius Bussmann,0.73
 BSV Hürtürkel,4-2-3-1,1,2,50%,Nein,Ja,BSV Hürtürkel,TW,NA,Abdullah Usame Karadeniz,0.73
 BSV Hürtürkel,4-2-3-1,1,2,50%,Nein,Ja,BSV Hürtürkel,IV,NA,Ali Tanis,0.68
@@ -43,7 +63,7 @@ Berlin Hilalspor,4-4-2,2,2,100%,Nein,Ja,Berlin Hilalspor,IV,NA,Mohamed Marouwane
 Berlin Hilalspor,4-4-2,2,2,100%,Nein,Ja,Berlin Hilalspor,ZM,NA,Taha Aslan,0.51
 Berliner SC II,4-2-2-2,1,2,50%,Nein,Ja,Berliner SC II,IV,19,Tim Niedenhoff,0.75
 Berliner SC II,4-2-2-2,1,2,50%,Nein,Ja,Berliner SC II,ST,6,Kevin Uwe Einspannier,0.72
-Berliner SC II,4-2-2-2,1,2,50%,Nein,Ja,Berliner SC II,RV,NA,Konstantin Joseski,0.71
+Berliner SC II,4-2-2-2,1,2,50%,Nein,Ja,Berliner SC II,RV,14,Konstantin Joseski,0.71
 Berliner SC II,4-2-2-2,1,2,50%,Nein,Ja,Berliner SC II,TW,21,Jesse Kreuschner,0.7
 Berliner SC II,4-2-2-2,1,2,50%,Nein,Ja,Berliner SC II,IV,4,Leon Ibrom,0.68
 Berliner SC II,4-2-2-2,1,2,50%,Nein,Ja,Berliner SC II,LV,2,Jakob Heilmann,0.68
@@ -53,7 +73,7 @@ Berliner SC II,4-2-2-2,1,2,50%,Nein,Ja,Berliner SC II,LM,20,Jakob Baum,0.58
 Berliner SC II,4-2-2-2,1,2,50%,Nein,Ja,Berliner SC II,ZM,15,Nikolaos Kaggelidids,0.45
 Berliner SC II,4-4-2,1,2,50%,Nein,Ja,Berliner SC II,IV,19,Tim Niedenhoff,0.75
 Berliner SC II,4-4-2,1,2,50%,Nein,Ja,Berliner SC II,ST,6,Kevin Uwe Einspannier,0.72
-Berliner SC II,4-4-2,1,2,50%,Nein,Ja,Berliner SC II,RV,NA,Konstantin Joseski,0.71
+Berliner SC II,4-4-2,1,2,50%,Nein,Ja,Berliner SC II,RV,14,Konstantin Joseski,0.71
 Berliner SC II,4-4-2,1,2,50%,Nein,Ja,Berliner SC II,TW,21,Jesse Kreuschner,0.7
 Berliner SC II,4-4-2,1,2,50%,Nein,Ja,Berliner SC II,IV,4,Leon Ibrom,0.68
 Berliner SC II,4-4-2,1,2,50%,Nein,Ja,Berliner SC II,LV,2,Jakob Heilmann,0.68
@@ -61,6 +81,48 @@ Berliner SC II,4-4-2,1,2,50%,Nein,Ja,Berliner SC II,ST,10,Erhan Kücükosman,0.6
 Berliner SC II,4-4-2,1,2,50%,Nein,Ja,Berliner SC II,RM,18,Bryan Lilja,0.64
 Berliner SC II,4-4-2,1,2,50%,Nein,Ja,Berliner SC II,LM,20,Jakob Baum,0.58
 Berliner SC II,4-4-2,1,2,50%,Nein,Ja,Berliner SC II,ZM,15,Nikolaos Kaggelidids,0.45
+Berolina Mitte,4-2-3-1,2,2,100%,Nein,Ja,Berolina Mitte,ZDM,7,Valentin Wiegand,0.58
+Berolina Mitte,4-2-3-1,2,2,100%,Nein,Ja,Berolina Mitte,LM,NA,Daiwy Chioccarelli,0.55
+Berolina Mitte,4-2-3-1,2,2,100%,Nein,Ja,Berolina Mitte,LV,NA,Andreas Gefnider,0.55
+Berolina Mitte,4-2-3-1,2,2,100%,Nein,Ja,Berolina Mitte,RV,5,Marc Oliver Schlarmann,0.55
+Berolina Mitte,4-2-3-1,2,2,100%,Nein,Ja,Berolina Mitte,ZDM,4,Yann Metzmacher,0.49
+Berolina Mitte,4-2-3-1,2,2,100%,Nein,Ja,Berolina Mitte,ST,19,Steven Buchweitz,0.49
+Berolina Mitte,4-2-3-1,2,2,100%,Nein,Ja,Berolina Mitte,TW,NA,Julius Meier,0.49
+Berolina Mitte,4-2-3-1,2,2,100%,Nein,Ja,Berolina Mitte,IV,3,Floris Lucas Georgi,0.48
+Berolina Mitte,4-2-3-1,2,2,100%,Nein,Ja,Berolina Mitte,IV,NA,Fabio Benabid,0.42
+Berolina Mitte,4-2-3-1,2,2,100%,Nein,Ja,Berolina Mitte,RM,9,Moritz Müller,0.4
+DJK Schwarz-Weiß Neukölln,4-2-3-1,2,2,100%,Nein,Ja,DJK Schwarz-Weiß Neukölln,RM,NA,Tobias Schmidt,0.75
+DJK Schwarz-Weiß Neukölln,4-2-3-1,2,2,100%,Nein,Ja,DJK Schwarz-Weiß Neukölln,ZDM,NA,Julian Kirsch,0.73
+DJK Schwarz-Weiß Neukölln,4-2-3-1,2,2,100%,Nein,Ja,DJK Schwarz-Weiß Neukölln,TW,NA,Patrick Boel,0.73
+DJK Schwarz-Weiß Neukölln,4-2-3-1,2,2,100%,Nein,Ja,DJK Schwarz-Weiß Neukölln,LM,NA,Vittorio Achour,0.73
+DJK Schwarz-Weiß Neukölln,4-2-3-1,2,2,100%,Nein,Ja,DJK Schwarz-Weiß Neukölln,LV,NA,Dorian Kühn,0.71
+DJK Schwarz-Weiß Neukölln,4-2-3-1,2,2,100%,Nein,Ja,DJK Schwarz-Weiß Neukölln,ZDM,NA,Christoph Ruden,0.71
+DJK Schwarz-Weiß Neukölln,4-2-3-1,2,2,100%,Nein,Ja,DJK Schwarz-Weiß Neukölln,ST,NA,Norman Guski,0.66
+DJK Schwarz-Weiß Neukölln,4-2-3-1,2,2,100%,Nein,Ja,DJK Schwarz-Weiß Neukölln,RV,NA,Justin Jakob,0.58
+DJK Schwarz-Weiß Neukölln,4-2-3-1,2,2,100%,Nein,Ja,DJK Schwarz-Weiß Neukölln,IV,NA,Nico Lindner,0.58
+DJK Schwarz-Weiß Neukölln,4-2-3-1,2,2,100%,Nein,Ja,DJK Schwarz-Weiß Neukölln,IV,NA,Josip Ramljak,0.56
+DJK Schwarz-Weiß Neukölln,4-2-3-1,2,2,100%,Nein,Ja,DJK Schwarz-Weiß Neukölln,ZOM,NA,Alisan Erdogan,0.48
+FC Internationale Berlin,3-4-3,1,2,50%,Ja,Nein,FC Internationale Berlin,RM,NA,Santiago Henrich Paya,0.84
+FC Internationale Berlin,3-4-3,1,2,50%,Ja,Nein,FC Internationale Berlin,ST,NA,Gaston Ignacio Nieto,0.84
+FC Internationale Berlin,3-4-3,1,2,50%,Ja,Nein,FC Internationale Berlin,IV,NA,Jascha Robin Wörteler,0.8
+FC Internationale Berlin,3-4-3,1,2,50%,Ja,Nein,FC Internationale Berlin,TW,NA,Alexander Schulze,0.8
+FC Internationale Berlin,3-4-3,1,2,50%,Ja,Nein,FC Internationale Berlin,ZM,NA,Enrique Freitag,0.79
+FC Internationale Berlin,3-4-3,1,2,50%,Ja,Nein,FC Internationale Berlin,LM,NA,Giovanni Marigo,0.76
+FC Internationale Berlin,3-4-3,1,2,50%,Ja,Nein,FC Internationale Berlin,ST,NA,Nicholas Cartwright Stanley,0.75
+FC Internationale Berlin,3-4-3,1,2,50%,Ja,Nein,FC Internationale Berlin,IV,NA,Nicolas Costa Echeverria,0.73
+FC Internationale Berlin,3-4-3,1,2,50%,Ja,Nein,FC Internationale Berlin,ZM,NA,Franzisko Bätz,0.69
+FC Internationale Berlin,3-4-3,1,2,50%,Ja,Nein,FC Internationale Berlin,IV,NA,Luis Driemel,0.68
+FC Internationale Berlin,3-5-2,1,2,50%,Ja,Nein,FC Internationale Berlin,RM,NA,Santiago Henrich Paya,0.84
+FC Internationale Berlin,3-5-2,1,2,50%,Ja,Nein,FC Internationale Berlin,ST,NA,Gaston Ignacio Nieto,0.84
+FC Internationale Berlin,3-5-2,1,2,50%,Ja,Nein,FC Internationale Berlin,IV,NA,Jascha Robin Wörteler,0.8
+FC Internationale Berlin,3-5-2,1,2,50%,Ja,Nein,FC Internationale Berlin,TW,NA,Alexander Schulze,0.8
+FC Internationale Berlin,3-5-2,1,2,50%,Ja,Nein,FC Internationale Berlin,ZM,NA,Enrique Freitag,0.79
+FC Internationale Berlin,3-5-2,1,2,50%,Ja,Nein,FC Internationale Berlin,LM,NA,Giovanni Marigo,0.76
+FC Internationale Berlin,3-5-2,1,2,50%,Ja,Nein,FC Internationale Berlin,ST,NA,Nicholas Cartwright Stanley,0.75
+FC Internationale Berlin,3-5-2,1,2,50%,Ja,Nein,FC Internationale Berlin,IV,NA,Nicolas Costa Echeverria,0.73
+FC Internationale Berlin,3-5-2,1,2,50%,Ja,Nein,FC Internationale Berlin,ZM,NA,Franzisko Bätz,0.69
+FC Internationale Berlin,3-5-2,1,2,50%,Ja,Nein,FC Internationale Berlin,IV,NA,Luis Driemel,0.68
+FC Internationale Berlin,3-5-2,1,2,50%,Ja,Nein,FC Internationale Berlin,ZM,NA,Akiyasu Tsuchiya,0.61
 Pfeffersport,4-3-3,1,2,50%,Nein,Ja,Pfeffersport,ZM,NA,Paul Oskar Schirp,0.76
 Pfeffersport,4-3-3,1,2,50%,Nein,Ja,Pfeffersport,ST,NA,Jonathan Grunert,0.7
 Pfeffersport,4-3-3,1,2,50%,Nein,Ja,Pfeffersport,IV,NA,Philipp Pilz,0.7
@@ -72,6 +134,16 @@ Pfeffersport,4-3-3,1,2,50%,Nein,Ja,Pfeffersport,RV,NA,Carl Zimmering,0.67
 Pfeffersport,4-3-3,1,2,50%,Nein,Ja,Pfeffersport,ZM,NA,Julian Marcell,0.64
 Pfeffersport,4-3-3,1,2,50%,Nein,Ja,Pfeffersport,ZM,NA,Benedict Klenk,0.53
 Pfeffersport,4-3-3,1,2,50%,Nein,Ja,Pfeffersport,RM,NA,Jannik Kremer,0.46
+SC Borsigwalde,4-1-4-1,1,2,50%,Nein,Ja,SC Borsigwalde,TW,NA,Nikola Siljanoski,0.73
+SC Borsigwalde,4-1-4-1,1,2,50%,Nein,Ja,SC Borsigwalde,ST,NA,Marcel Bubner,0.72
+SC Borsigwalde,4-1-4-1,1,2,50%,Nein,Ja,SC Borsigwalde,RM,NA,Nick Thalke,0.7
+SC Borsigwalde,4-1-4-1,1,2,50%,Nein,Ja,SC Borsigwalde,IV,NA,Khaled El-Okkla,0.68
+SC Borsigwalde,4-1-4-1,1,2,50%,Nein,Ja,SC Borsigwalde,ZDM,NA,Kevin Kummer,0.68
+SC Borsigwalde,4-1-4-1,1,2,50%,Nein,Ja,SC Borsigwalde,IV,NA,Mohammed Mustafa Acar,0.68
+SC Borsigwalde,4-1-4-1,1,2,50%,Nein,Ja,SC Borsigwalde,ZOM,NA,Sadjad Rassuli,0.65
+SC Borsigwalde,4-1-4-1,1,2,50%,Nein,Ja,SC Borsigwalde,RV,NA,Prince Selemani Angali,0.61
+SC Borsigwalde,4-1-4-1,1,2,50%,Nein,Ja,SC Borsigwalde,LV,NA,Mostafa Kassem,0.6
+SC Borsigwalde,4-1-4-1,1,2,50%,Nein,Ja,SC Borsigwalde,ZOM,NA,Marcel Knaack,0.57
 SF Charlottenburg-Wilmersdorf 03,4-5-1,1,2,50%,Nein,Ja,SF Charlottenburg-Wilmersdorf 03,RM,NA,Maximilian Kocher,0.7
 SF Charlottenburg-Wilmersdorf 03,4-5-1,1,2,50%,Nein,Ja,SF Charlottenburg-Wilmersdorf 03,LM,NA,Bakary Diakite,0.6
 SF Charlottenburg-Wilmersdorf 03,4-5-1,1,2,50%,Nein,Ja,SF Charlottenburg-Wilmersdorf 03,RV,NA,Erik Kosky,0.55
@@ -91,14 +163,34 @@ SF Charlottenburg-Wilmersdorf 03,5-4-1,1,2,50%,Nein,Nein,SF Charlottenburg-Wilme
 SF Charlottenburg-Wilmersdorf 03,5-4-1,1,2,50%,Nein,Nein,SF Charlottenburg-Wilmersdorf 03,IV,NA,Hussein Sabah,0.42
 SF Charlottenburg-Wilmersdorf 03,5-4-1,1,2,50%,Nein,Nein,SF Charlottenburg-Wilmersdorf 03,TW,NA,Niklas Höhne,0.42
 SF Charlottenburg-Wilmersdorf 03,5-4-1,1,2,50%,Nein,Nein,SF Charlottenburg-Wilmersdorf 03,IV,NA,Janek Wendt,0.42
-SV Empor Berlin II,4-4-2,1,2,50%,Nein,Ja,SV Empor Berlin II,LM,NA,Billy Bradley Tuckerman,0.75
-SV Empor Berlin II,4-4-2,1,2,50%,Nein,Ja,SV Empor Berlin II,IV,NA,Marian Popp,0.7
-SV Empor Berlin II,4-4-2,1,2,50%,Nein,Ja,SV Empor Berlin II,IV,NA,Jannick Wollmann,0.68
-SV Empor Berlin II,4-4-2,1,2,50%,Nein,Ja,SV Empor Berlin II,TW,NA,Janne Henrik Bloch,0.68
-SV Empor Berlin II,4-4-2,1,2,50%,Nein,Ja,SV Empor Berlin II,LV,NA,Philipp Macketanz,0.65
-SV Empor Berlin II,4-4-2,1,2,50%,Nein,Ja,SV Empor Berlin II,ST,NA,Nico Bochnia,0.65
-SV Empor Berlin II,4-4-2,1,2,50%,Nein,Ja,SV Empor Berlin II,ZM,NA,Emile Ako,0.65
-SV Empor Berlin II,4-4-2,1,2,50%,Nein,Ja,SV Empor Berlin II,RM,NA,Niclas Nixdorf,0.64
-SV Empor Berlin II,4-4-2,1,2,50%,Nein,Ja,SV Empor Berlin II,ST,NA,Rafael Mentrup,0.6
-SV Empor Berlin II,4-4-2,1,2,50%,Nein,Ja,SV Empor Berlin II,ZM,NA,Julian Duczmal,0.58
-SV Empor Berlin II,4-4-2,1,2,50%,Nein,Ja,SV Empor Berlin II,RV,NA,Pascal Bräkow,0.55
+SF Johannisthal,4-2-3-1,1,2,50%,Nein,Ja,SF Johannisthal,RV,11,Lukas Olff,0.87
+SF Johannisthal,4-2-3-1,1,2,50%,Nein,Ja,SF Johannisthal,LM,17,Nikolas Müller,0.83
+SF Johannisthal,4-2-3-1,1,2,50%,Nein,Ja,SF Johannisthal,LV,4,Jakob Dörre,0.83
+SF Johannisthal,4-2-3-1,1,2,50%,Nein,Ja,SF Johannisthal,RM,31,Max Mittelstädt,0.81
+SF Johannisthal,4-2-3-1,1,2,50%,Nein,Ja,SF Johannisthal,TW,1,Toni Ölke,0.8
+SF Johannisthal,4-2-3-1,1,2,50%,Nein,Ja,SF Johannisthal,IV,2,Lars Walden,0.8
+SF Johannisthal,4-2-3-1,1,2,50%,Nein,Ja,SF Johannisthal,ZOM,9,Yoshua Lüdtke,0.79
+SF Johannisthal,4-2-3-1,1,2,50%,Nein,Ja,SF Johannisthal,IV,3,Yannik Pilz,0.7
+SF Johannisthal,4-2-3-1,1,2,50%,Nein,Ja,SF Johannisthal,ZDM,7,Jonathan Behrend,0.62
+SF Johannisthal,4-2-3-1,1,2,50%,Nein,Ja,SF Johannisthal,ZDM,6,Colin Gonda,0.58
+SF Johannisthal,4-2-3-1,1,2,50%,Nein,Ja,SF Johannisthal,ST,NA,Tom Franke,0.56
+SF Johannisthal,4-3-3,1,2,50%,Nein,Ja,SF Johannisthal,RV,11,Lukas Olff,0.87
+SF Johannisthal,4-3-3,1,2,50%,Nein,Ja,SF Johannisthal,LM,17,Nikolas Müller,0.83
+SF Johannisthal,4-3-3,1,2,50%,Nein,Ja,SF Johannisthal,LV,4,Jakob Dörre,0.83
+SF Johannisthal,4-3-3,1,2,50%,Nein,Ja,SF Johannisthal,RM,31,Max Mittelstädt,0.81
+SF Johannisthal,4-3-3,1,2,50%,Nein,Ja,SF Johannisthal,TW,1,Toni Ölke,0.8
+SF Johannisthal,4-3-3,1,2,50%,Nein,Ja,SF Johannisthal,IV,2,Lars Walden,0.8
+SF Johannisthal,4-3-3,1,2,50%,Nein,Ja,SF Johannisthal,ZM,16,Marvin Pawel,0.7
+SF Johannisthal,4-3-3,1,2,50%,Nein,Ja,SF Johannisthal,IV,3,Yannik Pilz,0.7
+SF Johannisthal,4-3-3,1,2,50%,Nein,Ja,SF Johannisthal,ST,NA,Tom Franke,0.56
+SV Empor Berlin II,4-4-2,1,2,50%,Nein,Ja,SV Empor Berlin II,LM,12,Billy Bradley Tuckerman,0.75
+SV Empor Berlin II,4-4-2,1,2,50%,Nein,Ja,SV Empor Berlin II,IV,4,Marian Popp,0.7
+SV Empor Berlin II,4-4-2,1,2,50%,Nein,Ja,SV Empor Berlin II,IV,5,Jannick Wollmann,0.68
+SV Empor Berlin II,4-4-2,1,2,50%,Nein,Ja,SV Empor Berlin II,TW,33,Janne Henrik Bloch,0.68
+SV Empor Berlin II,4-4-2,1,2,50%,Nein,Ja,SV Empor Berlin II,LV,15,Philipp Macketanz,0.65
+SV Empor Berlin II,4-4-2,1,2,50%,Nein,Ja,SV Empor Berlin II,ST,9,Nico Bochnia,0.65
+SV Empor Berlin II,4-4-2,1,2,50%,Nein,Ja,SV Empor Berlin II,ZM,18,Emile Ako,0.65
+SV Empor Berlin II,4-4-2,1,2,50%,Nein,Ja,SV Empor Berlin II,RM,3,Niclas Nixdorf,0.64
+SV Empor Berlin II,4-4-2,1,2,50%,Nein,Ja,SV Empor Berlin II,ST,19,Rafael Mentrup,0.6
+SV Empor Berlin II,4-4-2,1,2,50%,Nein,Ja,SV Empor Berlin II,ZM,17,Julian Duczmal,0.58
+SV Empor Berlin II,4-4-2,1,2,50%,Nein,Ja,SV Empor Berlin II,RV,2,Pascal Bräkow,0.55

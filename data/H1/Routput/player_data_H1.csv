@@ -1,544 +1,544 @@
 ID,Name,Team,Spiele,Tore,Assists,Gelbe.Karten,Gelb.Rote.Karten,Rote.Karten,Einwechslung,Auswechslung,Spielzeit,X11.des.Tages,Nummer,team_goals,scorerpoints_ratio,matches_played_ratio,playtime_ratio,total_points,matches_played,games_played,match_diff,points_per_game,best_player_appearances,best_player_ratio,weighted_score,most_position,second_position,position_percentage,second_position_percentage
 1084793,Max-Fabian Wölker,Berliner SC,0,0,0,0,0,0,0,0,0,0,18,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1104327,Jonas Wortmann,Berliner SC,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1119773,Lion Schumann,Berliner SC,3,0,1,0,0,0,2,0,132,0,NA,4,0.25,1,0.489,4,3,3,0,0.444,1,0.333,0.56,RM,NA,33%,0%
-1151008,Nathanel Osaroboh Simon,Berliner SC,1,0,0,0,0,0,0,1,59,0,NA,4,0,0.3333333333333333,0.656,3,1,1,0,1,0,0,0.53,NA,NA,0%,0%
-1310952,Kota Murakami,Berliner SC,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1405724,Stephan Ngah,Berliner SC,3,1,1,1,0,0,0,2,258,0,NA,4,0.5,1,0.956,4,3,3,0,0.444,2,0.667,0.76,LM,ST,33%,33%
-1771229,Luis-Raymond Bossard,Berliner SC,3,0,1,1,0,0,0,0,270,0,NA,4,0.25,1,1,4,3,3,0,0.444,0,0,0.7,RV,NA,67%,0%
+1104327,Jonas Wortmann,Berliner SC,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1119773,Lion Schumann,Berliner SC,3,0,1,0,0,0,2,0,132,0,10,4,0.25,1,0.489,4,3,3,0,0.444,1,0.333,0.56,RM,NA,33%,0%
+1151008,Nathanel Osaroboh Simon,Berliner SC,1,0,0,0,0,0,0,1,59,0,24,4,0,0.3333333333333333,0.656,3,1,1,0,1,0,0,0.53,NA,NA,0%,0%
+1310952,Kota Murakami,Berliner SC,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1405724,Stephan Ngah,Berliner SC,3,1,1,1,0,0,0,2,258,0,19,4,0.5,1,0.956,4,3,3,0,0.444,2,0.667,0.76,LM,ST,33%,33%
+1771229,Luis-Raymond Bossard,Berliner SC,3,0,1,1,0,0,0,0,270,0,11,4,0.25,1,1,4,3,3,0,0.444,0,0,0.7,RV,NA,67%,0%
 1822043,Tom Köster,Berliner SC,3,0,0,1,0,0,0,0,270,0,1,4,0,1,1,4,3,3,0,0.444,2,0.667,0.69,TW,NA,67%,0%
-1873241,Bara Abu Hamid,Berliner SC,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1890439,Jeff Nnaemeka-Chukwurah,Berliner SC,3,0,0,0,0,0,0,0,270,0,NA,4,0,1,1,4,2,2,1,0.667,1,0.333,0.73,ZDM,NA,33%,0%
-1892007,Ermal Thaci,Berliner SC,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1892786,Ali Hammoud,Berliner SC,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1873241,Bara Abu Hamid,Berliner SC,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1890439,Jeff Nnaemeka-Chukwurah,Berliner SC,3,0,0,0,0,0,0,0,270,0,15,4,0,1,1,4,2,2,1,0.667,1,0.333,0.73,ZDM,NA,33%,0%
+1892007,Ermal Thaci,Berliner SC,0,0,0,0,0,0,0,0,0,0,21,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1892786,Ali Hammoud,Berliner SC,0,0,0,0,0,0,0,0,0,0,28,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
 1892806,Lucky Ugbogbo,Berliner SC,3,0,1,0,0,0,1,2,193,0,20,4,0.25,1,0.715,4,3,3,0,0.444,0,0,0.61,LM,NA,33%,0%
-1892817,Nikola Markovic,Berliner SC,3,0,0,1,0,0,0,0,270,0,NA,4,0,1,1,4,3,3,0,0.444,1,0.333,0.68,IV,NA,67%,0%
-1933230,Fabian Niedenhoff,Berliner SC,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2023168,Vincent Spiegel,Berliner SC,1,0,0,0,0,0,1,0,1,0,NA,4,0,0.3333333333333333,0.011,1,1,1,0,0.333,0,0,0.17,NA,NA,0%,0%
-2338815,Eric Ekandille,Berliner SC,3,0,0,0,0,0,1,2,152,0,NA,4,0,1,0.563,4,3,3,0,0.444,0,0,0.53,RM,NA,33%,0%
-2341240,Immanuel Neunteufel,Berliner SC,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2378543,Konstantin Joseski,Berliner SC,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2378545,Alexander Lorenz,Berliner SC,3,1,0,0,0,0,2,1,118,0,NA,4,0.25,1,0.437,4,3,3,0,0.444,0,0,0.53,ST,NA,33%,0%
-43431,Nico Pellatz,Berliner SC,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1892817,Nikola Markovic,Berliner SC,3,0,0,1,0,0,0,0,270,0,2,4,0,1,1,4,3,3,0,0.444,1,0.333,0.68,IV,NA,67%,0%
+1933230,Fabian Niedenhoff,Berliner SC,0,0,0,0,0,0,0,0,0,0,23,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2023168,Vincent Spiegel,Berliner SC,1,0,0,0,0,0,1,0,1,0,15,4,0,0.3333333333333333,0.011,1,1,1,0,0.333,0,0,0.17,NA,NA,0%,0%
+2338815,Eric Ekandille,Berliner SC,3,0,0,0,0,0,1,2,152,0,22,4,0,1,0.563,4,3,3,0,0.444,0,0,0.53,RM,NA,33%,0%
+2341240,Immanuel Neunteufel,Berliner SC,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2378543,Konstantin Joseski,Berliner SC,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2378545,Alexander Lorenz,Berliner SC,3,1,0,0,0,0,2,1,118,0,14,4,0.25,1,0.437,4,3,3,0,0.444,0,0,0.53,ST,NA,33%,0%
+43431,Nico Pellatz,Berliner SC,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
 681366,Leon Cheung,Berliner SC,3,1,0,0,0,0,0,2,224,0,8,4,0.25,1,0.83,4,3,3,0,0.444,0,0,0.65,ZM,ZOM,33%,33%
-740710,Oktay Öztürk,Berliner SC,3,0,0,0,0,0,1,0,211,0,NA,4,0,1,0.781,4,3,3,0,0.444,0,0,0.6,IV,NA,67%,0%
-821205,Justin Maximilian Neumann,Berliner SC,3,1,0,1,0,0,0,0,270,0,NA,4,0.25,1,1,4,3,3,0,0.444,1,0.333,0.72,ZM,ZOM,33%,33%
-902391,Benjamin Trojahn,Berliner SC,3,0,0,0,0,0,0,0,270,0,NA,4,0,1,1,4,3,3,0,0.444,0,0,0.66,LV,NA,67%,0%
-906586,Hossein Jafari,Berliner SC,2,0,0,0,0,0,2,0,2,0,NA,4,0,0.6666666666666666,0.011,3,2,2,0,0.5,0,0,0.29,NA,NA,0%,0%
-1123056,Fabian Busch,VSG Altglienicke II,2,0,0,0,0,0,0,0,180,0,NA,3,0,0.6666666666666666,1,3,2,2,0,0.5,0,0,0.59,LV,NA,100%,0%
-1131316,Benevito Laske,VSG Altglienicke II,0,0,0,0,0,0,0,0,0,0,NA,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1155973,Kerim Sarikaya,VSG Altglienicke II,0,0,0,0,0,0,0,0,0,0,NA,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1234333,Emir Bakal,VSG Altglienicke II,2,0,0,0,0,0,0,2,159,0,NA,3,0,0.6666666666666666,0.883,3,2,2,0,0.5,0,0,0.56,LM,RM,50%,50%
-1359352,Caleb Osarenren,VSG Altglienicke II,0,0,0,0,0,0,0,0,0,0,NA,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1402503,Ben Wagner,VSG Altglienicke II,0,0,0,0,0,0,0,0,0,0,NA,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1598658,Stanley Cross,VSG Altglienicke II,0,0,0,0,0,0,0,0,0,0,NA,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1770031,Kakeru Fukuda,VSG Altglienicke II,0,0,0,0,0,0,0,0,0,0,NA,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1775804,Lelio Losse,VSG Altglienicke II,2,0,0,0,0,0,2,0,64,0,NA,3,0,0.6666666666666666,0.356,3,2,2,0,0.5,0,0,0.4,NA,NA,0%,0%
-1775811,Niclas Senst,VSG Altglienicke II,2,0,0,0,0,0,0,2,147,0,NA,3,0,0.6666666666666666,0.817,3,2,2,0,0.5,0,0,0.54,ZM,NA,100%,0%
-1776198,Jonas Elbrecht,VSG Altglienicke II,0,0,0,0,0,0,0,0,0,0,NA,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1776206,Maddox Niebergall,VSG Altglienicke II,0,0,0,0,0,0,0,0,0,0,NA,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1776210,Levin Stein,VSG Altglienicke II,0,0,0,0,0,0,0,0,0,0,NA,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1821767,Serhan Atici,VSG Altglienicke II,2,0,0,0,0,0,2,0,17,0,NA,3,0,0.6666666666666666,0.094,3,2,2,0,0.5,0,0,0.32,NA,NA,0%,0%
-1870628,Raphael Damjanovic,VSG Altglienicke II,0,0,0,0,0,0,0,0,0,0,NA,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1970395,Mario Peche Morote,VSG Altglienicke II,0,0,0,0,0,0,0,0,0,0,NA,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2070877,Yousif El Sadani,VSG Altglienicke II,2,1,0,0,0,0,0,0,180,0,NA,3,0.333,0.6666666666666666,1,3,2,2,0,0.5,0,0,0.64,NA,NA,0%,0%
-2071083,Alexander Kutrieb,VSG Altglienicke II,2,0,0,0,0,0,2,0,19,0,NA,3,0,0.6666666666666666,0.106,3,2,2,0,0.5,0,0,0.32,NA,NA,0%,0%
-2186790,Ibrahim Tareq Ibrahim El Taib,VSG Altglienicke II,2,0,0,0,0,0,0,2,119,0,NA,3,0,0.6666666666666666,0.661,3,2,2,0,0.5,0,0,0.49,NA,NA,0%,0%
-2194616,Krystian Kanzy,VSG Altglienicke II,0,0,0,0,0,0,0,0,0,0,NA,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2342385,Saleh Kassem,VSG Altglienicke II,2,0,0,0,0,0,0,0,180,0,NA,3,0,0.6666666666666666,1,3,2,2,0,0.5,0,0,0.59,TW,NA,100%,0%
-2361132,Devin Lieberam,VSG Altglienicke II,2,0,0,0,0,0,2,0,42,0,NA,3,0,0.6666666666666666,0.233,3,2,2,0,0.5,0,0,0.36,NA,NA,0%,0%
-562218,Mohammed Daniel Fayoumi,VSG Altglienicke II,2,0,0,0,0,0,0,2,153,0,NA,3,0,0.6666666666666666,0.85,3,2,2,0,0.5,1,0.5,0.57,LM,ST,50%,50%
-850288,Mario Schenkel,VSG Altglienicke II,2,0,0,0,0,0,0,0,180,0,NA,3,0,0.6666666666666666,1,3,2,2,0,0.5,0,0,0.59,RM,ZM,50%,50%
-892552,Steve Klamkowski,VSG Altglienicke II,2,0,0,0,0,1,0,0,120,0,NA,3,0,0.6666666666666666,0.667,3,2,2,0,0.5,1,0.5,0.52,IV,NA,100%,0%
-892556,Jan Latzel,VSG Altglienicke II,2,0,0,0,0,0,0,0,180,0,NA,3,0,0.6666666666666666,1,0,1,1,1,0,0,0,0.47,IV,NA,50%,0%
-892558,Benito-Tyler Fritzsche,VSG Altglienicke II,0,0,0,0,0,0,0,0,0,0,NA,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-939990,Moritz Tomczak,VSG Altglienicke II,2,2,0,0,0,0,0,0,180,0,NA,3,0.667,0.6666666666666666,1,3,2,2,0,0.5,1,0.5,0.72,ST,NA,100%,0%
-943429,Alexander Noß,VSG Altglienicke II,0,0,0,0,0,0,0,0,0,0,NA,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1098036,Johann Eisenberg,Polar Pinguin Berlin,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1110064,Paul Pantke,Polar Pinguin Berlin,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1155923,Shaikh Derman,Polar Pinguin Berlin,2,0,0,0,0,0,2,0,22,0,NA,4,0,0.6666666666666666,0.122,1,2,2,0,0.167,0,0,0.25,NA,NA,0%,0%
-1258572,James Ifeanyichukwu Ndubueze,Polar Pinguin Berlin,3,1,0,0,0,0,0,2,236,0,NA,4,0.25,1,0.874,1,3,3,0,0.111,0,0,0.58,ST,NA,33%,0%
-1311937,Pascal Löhmann,Polar Pinguin Berlin,2,0,0,0,0,0,1,1,99,0,NA,4,0,0.6666666666666666,0.55,0,2,2,0,0,0,0,0.33,ZM,NA,50%,0%
-1311938,Jona Hardt,Polar Pinguin Berlin,3,0,0,0,0,0,0,0,270,0,NA,4,0,1,1,1,3,3,0,0.111,1,0.333,0.59,IV,NA,33%,0%
-1389929,Hans Witschurke,Polar Pinguin Berlin,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1422055,Giordano Siewe,Polar Pinguin Berlin,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1488271,Lenny Schwabe,Polar Pinguin Berlin,3,1,0,0,0,0,2,1,114,0,NA,4,0.25,1,0.422,1,3,3,0,0.111,0,0,0.44,NA,NA,0%,0%
-1726169,Malte Riebel,Polar Pinguin Berlin,1,0,0,0,0,0,1,0,16,0,NA,4,0,0.3333333333333333,0.178,0,1,1,0,0,0,0,0.14,NA,NA,0%,0%
-1781654,Nicolas Marley Alexander Koch,Polar Pinguin Berlin,2,0,0,0,0,0,0,1,147,0,NA,4,0,0.6666666666666666,0.817,1,2,2,0,0.167,0,0,0.45,NA,NA,0%,0%
-1873173,Omidoullah Sarwari,Polar Pinguin Berlin,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1970652,Joschua Schanda,Polar Pinguin Berlin,2,0,0,0,0,0,2,0,55,0,NA,4,0,0.6666666666666666,0.306,1,2,2,0,0.167,0,0,0.3,NA,NA,0%,0%
-2140970,Jacques Kahra,Polar Pinguin Berlin,3,0,0,0,0,0,0,0,270,0,NA,4,0,1,1,1,3,3,0,0.111,0,0,0.58,IV,NA,33%,0%
-2189086,Ekrem Erbilgin,Polar Pinguin Berlin,2,0,0,0,0,0,0,0,180,0,NA,4,0,0.6666666666666666,1,0,2,2,0,0,0,0,0.47,TW,NA,50%,0%
-2208772,Said Abasi,Polar Pinguin Berlin,1,0,0,1,0,0,0,1,74,0,NA,4,0,0.3333333333333333,0.822,0,1,1,0,0,0,0,0.33,LV,NA,100%,0%
-2315597,Qais Faizi,Polar Pinguin Berlin,2,0,0,1,0,0,1,1,70,0,NA,4,0,0.6666666666666666,0.389,0,1,1,1,0,0,0,0.28,NA,NA,0%,0%
-2380614,Keyan Kaplan,Polar Pinguin Berlin,3,0,0,0,0,0,2,1,128,0,NA,4,0,1,0.474,1,3,3,0,0.111,0,0,0.42,NA,NA,0%,0%
-2444670,Nelson Culubali,Polar Pinguin Berlin,1,0,0,1,0,0,0,1,53,0,NA,4,0,0.3333333333333333,0.589,0,1,1,0,0,0,0,0.26,RV,NA,100%,0%
-2488623,Mohamed Tahiri Mizani,Polar Pinguin Berlin,1,0,0,1,0,0,1,0,37,0,NA,4,0,0.3333333333333333,0.411,0,1,1,0,0,0,0,0.21,NA,NA,0%,0%
-268815,Nicolai Matt,Polar Pinguin Berlin,2,0,0,0,0,0,0,0,180,0,NA,4,0,0.6666666666666666,1,1,2,2,0,0.167,0,0,0.51,NA,NA,0%,0%
-346901,Simon Falke,Polar Pinguin Berlin,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-350108,Martin Kemter,Polar Pinguin Berlin,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-364809,Lennard Broll,Polar Pinguin Berlin,3,0,0,0,0,0,1,2,168,0,NA,4,0,1,0.622,1,3,3,0,0.111,1,0.333,0.48,ZM,NA,33%,0%
-528217,Lukas Fechner,Polar Pinguin Berlin,1,0,0,0,0,0,1,0,17,0,NA,4,0,0.3333333333333333,0.189,1,1,1,0,0.333,0,0,0.22,NA,NA,0%,0%
-540285,Arda Dülek,Polar Pinguin Berlin,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-553888,Karim Yehia,Polar Pinguin Berlin,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-560827,Gino Hofmeister,Polar Pinguin Berlin,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-627323,Philippe Riviere,Polar Pinguin Berlin,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-675158,Moritz Sondermann,Polar Pinguin Berlin,2,2,0,0,0,0,0,1,163,1,NA,4,0.5,0.6666666666666666,0.906,1,2,2,0,0.167,1,0.5,0.58,NA,NA,0%,0%
-69252,Kilian Pruschke,Polar Pinguin Berlin,1,0,0,0,0,0,0,0,90,0,NA,4,0,0.3333333333333333,1,1,1,1,0,0.333,0,0,0.47,NA,NA,0%,0%
-814988,Arne Schüler,Polar Pinguin Berlin,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-832697,Finn Johan Will,Polar Pinguin Berlin,3,0,0,0,0,0,0,0,270,0,NA,4,0,1,1,1,3,3,0,0.111,3,1,0.63,RM,NA,33%,0%
-836434,Sören Zeidler,Polar Pinguin Berlin,2,0,0,0,0,0,1,1,90,0,NA,4,0,0.6666666666666666,0.5,1,2,2,0,0.167,0,0,0.36,NA,NA,0%,0%
-930011,Adam Idriss Ouattara,Polar Pinguin Berlin,3,0,0,1,0,0,0,2,221,0,NA,4,0,1,0.819,1,3,3,0,0.111,0,0,0.52,IV,NA,33%,0%
-990092,Konrad Clemens Emil Ladendorf,Polar Pinguin Berlin,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-997748,Mohamed Mahawech,Polar Pinguin Berlin,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1117050,Jonathan Maurer,Sp.Vg. Blau Weiß 1890 Berlin,2,0,0,0,0,0,2,0,27,0,NA,8,0,0.6666666666666666,0.15,6,2,2,0,1,0,0,0.46,NA,NA,0%,0%
-114483,Darryl Julian Geurts,Sp.Vg. Blau Weiß 1890 Berlin,3,2,1,0,0,0,1,0,209,1,NA,8,0.375,1,0.774,6,3,3,0,0.667,0,0,0.71,LM,NA,67%,0%
-1163228,Nils Köhne,Sp.Vg. Blau Weiß 1890 Berlin,3,2,0,0,0,0,1,1,177,1,NA,8,0.25,1,0.656,6,3,3,0,0.667,2,0.667,0.68,IV,RV,33%,33%
-1232142,Niklas Struck,Sp.Vg. Blau Weiß 1890 Berlin,0,0,0,0,0,0,0,0,0,0,NA,8,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-133195,Glodi Danila-Doda Zingu,Sp.Vg. Blau Weiß 1890 Berlin,2,0,0,0,0,0,1,1,82,0,NA,8,0,0.6666666666666666,0.456,3,2,2,0,0.5,0,0,0.43,IV,NA,50%,0%
-1465520,Guilherme Henrique Lopes De Oliveira,Sp.Vg. Blau Weiß 1890 Berlin,3,3,0,0,0,0,0,2,257,1,NA,8,0.375,1,0.952,0,0,0,3,0,0,0,0.59,NA,NA,0%,0%
-1606953,Gentonis Ademaj,Sp.Vg. Blau Weiß 1890 Berlin,0,0,0,0,0,0,0,0,0,0,NA,8,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1775816,Furkan Kemer,Sp.Vg. Blau Weiß 1890 Berlin,0,0,0,0,0,0,0,0,0,0,NA,8,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1788264,Ahmed Omairat,Sp.Vg. Blau Weiß 1890 Berlin,0,0,0,0,0,0,0,0,0,0,NA,8,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1878344,Emre Rosin,Sp.Vg. Blau Weiß 1890 Berlin,0,0,0,0,0,0,0,0,0,0,NA,8,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-196093,Niklas Wiebach,Sp.Vg. Blau Weiß 1890 Berlin,3,0,0,1,0,0,1,1,214,1,NA,8,0,1,0.793,6,3,3,0,0.667,0,0,0.65,LV,RV,33%,33%
-2233338,Kaim Kaya,Sp.Vg. Blau Weiß 1890 Berlin,0,0,0,0,0,0,0,0,0,0,NA,8,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2357358,Nireas Igkmpinompa,Sp.Vg. Blau Weiß 1890 Berlin,3,0,0,0,0,0,2,1,110,0,NA,8,0,1,0.407,6,3,3,0,0.667,0,0,0.54,ZM,NA,33%,0%
-2371700,Mert-Zihni Tuncer,Sp.Vg. Blau Weiß 1890 Berlin,0,0,0,0,0,0,0,0,0,0,NA,8,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2394201,Oleksandr Kuz,Sp.Vg. Blau Weiß 1890 Berlin,0,0,0,0,0,0,0,0,0,0,NA,8,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2457751,Alexander Todorov,Sp.Vg. Blau Weiß 1890 Berlin,2,0,0,0,0,0,2,0,8,0,NA,8,0,0.6666666666666666,0.044,6,2,2,0,1,0,0,0.43,NA,NA,0%,0%
-289946,Michael Hinz,Sp.Vg. Blau Weiß 1890 Berlin,3,0,1,0,0,0,0,0,270,0,NA,8,0.125,1,1,6,3,3,0,0.667,0,0,0.74,TW,NA,100%,0%
-302248,Philip Schulz,Sp.Vg. Blau Weiß 1890 Berlin,1,0,0,0,0,0,0,1,45,0,NA,8,0,0.3333333333333333,0.5,0,0,0,1,0,0,0,0.23,ZOM,NA,200%,0%
-309799,Gelicio Aurelio Banze,Sp.Vg. Blau Weiß 1890 Berlin,3,0,0,0,0,0,0,0,270,2,NA,8,0,1,1,6,3,3,0,0.667,1,0.333,0.73,IV,NA,100%,0%
-346893,Maurice Froelian,Sp.Vg. Blau Weiß 1890 Berlin,0,0,0,0,0,0,0,0,0,0,NA,8,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-364701,Tim Grabow,Sp.Vg. Blau Weiß 1890 Berlin,3,0,0,1,0,0,2,1,113,0,NA,8,0,1,0.419,6,3,3,0,0.667,0,0,0.54,LM,NA,33%,0%
-396086,Neil-Nigel Bier,Sp.Vg. Blau Weiß 1890 Berlin,0,0,0,0,0,0,0,0,0,0,NA,8,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-489703,Marcel Rausch,Sp.Vg. Blau Weiß 1890 Berlin,3,0,1,0,0,0,0,1,238,0,NA,8,0.125,1,0.881,6,3,3,0,0.667,2,0.667,0.73,ZDM,RM,67%,33%
-489704,Florian Kohls,Sp.Vg. Blau Weiß 1890 Berlin,1,1,0,0,0,0,0,1,71,0,NA,8,0.125,0.3333333333333333,0.789,3,1,1,0,1,0,0,0.59,ZM,NA,100%,0%
-540252,Mike Brömer,Sp.Vg. Blau Weiß 1890 Berlin,3,0,0,1,0,0,0,0,270,0,NA,8,0,1,1,6,3,3,0,0.667,0,0,0.72,ST,NA,100%,0%
-554275,Simon Schrade,Sp.Vg. Blau Weiß 1890 Berlin,1,0,0,1,0,0,1,0,45,0,NA,8,0,0.3333333333333333,0.5,0,1,1,0,0,1,1,0.28,NA,NA,0%,0%
-558583,Mohamed Saloun Touré,Sp.Vg. Blau Weiß 1890 Berlin,2,0,0,0,0,0,0,2,155,0,NA,8,0,0.6666666666666666,0.861,3,2,2,0,0.5,0,0,0.55,RM,NA,50%,0%
-562338,Fabian Engel,Sp.Vg. Blau Weiß 1890 Berlin,1,0,2,1,0,0,0,1,87,1,NA,8,0.25,0.3333333333333333,0.967,3,1,1,0,1,0,0,0.66,ZDM,NA,100%,0%
-583631,Fynn Johannes Rocktäschel,Sp.Vg. Blau Weiß 1890 Berlin,3,0,0,0,0,0,1,1,130,0,NA,8,0,1,0.481,6,3,3,0,0.667,0,0,0.56,IV,RV,33%,33%
-838399,Lionel Salla,Sp.Vg. Blau Weiß 1890 Berlin,3,0,0,1,0,0,1,1,192,0,NA,8,0,1,0.711,6,3,3,0,0.667,0,0,0.63,LV,NA,67%,0%
-845407,Justin Maple,Sp.Vg. Blau Weiß 1890 Berlin,0,0,0,0,0,0,0,0,0,0,NA,8,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-909936,Marcel Steiner,Sp.Vg. Blau Weiß 1890 Berlin,0,0,0,0,0,0,0,0,0,0,NA,8,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1119739,Dominik Thonfeld,TSV Rudow Berlin,3,0,0,0,0,0,2,0,138,0,NA,4,0,1,0.511,0,1,1,2,0,0,0,0.4,NA,NA,0%,0%
-113983,Fabian Fritsche,TSV Rudow Berlin,1,0,0,0,0,0,0,1,49,0,NA,4,0,0.3333333333333333,0.544,0,1,1,0,0,0,0,0.25,ZDM,NA,100%,0%
-114923,Omid Saberdest,TSV Rudow Berlin,1,0,0,0,0,0,1,0,41,0,NA,4,0,0.3333333333333333,0.456,0,1,1,0,0,0,0,0.22,NA,NA,0%,0%
-1366316,Ali Iraqui,TSV Rudow Berlin,3,0,0,0,0,0,0,1,232,0,NA,4,0,1,0.859,0,0,0,3,0,0,0,0.51,NA,NA,0%,0%
-1549054,Jonas Becker,TSV Rudow Berlin,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1617176,Elias Burda,TSV Rudow Berlin,1,0,0,0,0,0,0,0,90,0,NA,4,0,0.3333333333333333,1,0,0,0,1,0,0,0,0.38,NA,NA,0%,0%
-1889079,Yannick Emanuel Wöhle,TSV Rudow Berlin,1,0,0,0,0,0,1,0,20,0,NA,4,0,0.3333333333333333,0.222,0,0,0,1,0,0,0,0.15,NA,NA,0%,0%
-2132646,Abdullah Bayram,TSV Rudow Berlin,3,0,0,0,0,0,0,1,252,0,NA,4,0,1,0.933,0,1,1,2,0,0,0,0.53,LV,NA,33%,0%
-2346194,Süleyman Aktas,TSV Rudow Berlin,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2346195,Ahmad Haj Youssef,TSV Rudow Berlin,3,2,0,0,0,0,1,0,198,0,NA,4,0.5,1,0.733,0,0,0,3,0,0,0,0.54,NA,NA,0%,0%
-2377145,Leon Merke,TSV Rudow Berlin,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2417264,Aron Murseli,TSV Rudow Berlin,3,0,0,0,0,0,3,0,26,0,NA,4,0,1,0.096,0,1,1,2,0,0,0,0.28,NA,NA,0%,0%
-2470085,Hasan Iraqui,TSV Rudow Berlin,3,0,0,0,0,0,2,1,94,0,NA,4,0,1,0.348,0,0,0,3,0,0,0,0.35,NA,NA,0%,0%
-2470086,Teoman Anik,TSV Rudow Berlin,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-289951,Lucas Robbin Bähr,TSV Rudow Berlin,2,0,0,0,0,0,0,1,179,0,NA,4,0,0.6666666666666666,0.994,0,1,1,1,0,0,0,0.46,IV,NA,50%,0%
-358358,Melih Hortum,TSV Rudow Berlin,3,2,0,0,0,0,0,2,253,0,NA,4,0.5,1,0.937,0,1,1,2,0,0,0,0.61,ZOM,NA,33%,0%
-371537,Martin Gromotka,TSV Rudow Berlin,3,0,0,0,0,0,0,0,270,0,NA,4,0,1,1,0,1,1,2,0,1,0.333,0.57,TW,NA,33%,0%
-540422,Leonard Kirschner,TSV Rudow Berlin,2,0,0,0,0,0,2,0,28,0,NA,4,0,0.6666666666666666,0.156,0,0,0,2,0,0,0,0.21,NA,NA,0%,0%
-627319,Matteo Günther,TSV Rudow Berlin,3,1,0,0,0,0,0,0,270,0,NA,4,0.25,1,1,0,1,1,2,0,0,0,0.59,RM,NA,33%,0%
-665786,Nemanja Samardzic,TSV Rudow Berlin,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-666744,Mushakir Razeek,TSV Rudow Berlin,3,0,0,0,0,0,0,2,251,0,NA,4,0,1,0.93,0,1,1,2,0,0,0,0.53,RV,NA,33%,0%
-693057,Merdan Baba,TSV Rudow Berlin,3,0,0,0,0,0,0,2,242,0,NA,4,0,1,0.896,0,1,1,2,0,0,0,0.52,ST,NA,33%,0%
-821531,Luca Ehrich,TSV Rudow Berlin,1,0,0,0,0,0,0,1,67,0,NA,4,0,0.3333333333333333,0.744,0,1,1,0,0,0,0,0.31,IV,NA,100%,0%
-870868,Linus Fürstenow,TSV Rudow Berlin,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-892549,Noah Fakhro,TSV Rudow Berlin,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-931868,Mohammed Hassane,TSV Rudow Berlin,3,0,0,0,0,0,0,0,270,0,NA,4,0,1,1,0,1,1,2,0,0,0,0.55,ZDM,NA,33%,0%
-1057850,Benjamin Sommer,VfB Fortuna Biesdorf,2,1,0,0,0,1,0,0,114,1,NA,4,0.25,0.6666666666666666,0.633,1,2,2,0,0.167,1,0.5,0.46,ZM,NA,100%,0%
-1148410,Felix Wieschollek,VfB Fortuna Biesdorf,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1261283,Maximilian Sangel,VfB Fortuna Biesdorf,3,0,0,0,0,0,0,0,270,0,NA,4,0,1,1,1,2,2,1,0.167,0,0,0.59,TW,NA,100%,0%
-1344522,Darvin Schramm,VfB Fortuna Biesdorf,3,0,0,0,0,0,0,3,186,0,NA,4,0,1,0.689,1,2,2,1,0.167,0,0,0.5,IV,ST,100%,100%
-1474133,Ole Eric Petschner,VfB Fortuna Biesdorf,3,0,0,0,0,0,0,3,185,0,NA,4,0,1,0.685,1,2,2,1,0.167,0,0,0.5,ZM,NA,100%,0%
-1488321,Toni Kaftan,VfB Fortuna Biesdorf,2,0,0,0,0,0,2,0,90,0,NA,4,0,0.6666666666666666,0.5,1,2,2,0,0.167,0,0,0.36,NA,NA,0%,0%
-165291,Jean-Claude Nanevie,VfB Fortuna Biesdorf,1,0,0,0,0,0,1,0,26,0,NA,4,0,0.3333333333333333,0.289,0,0,0,1,0,0,0,0.17,NA,NA,0%,0%
-1890440,Kambiz Walizada,VfB Fortuna Biesdorf,1,0,0,0,0,0,0,1,45,0,NA,4,0,0.3333333333333333,0.5,0,0,0,1,0,0,0,0.23,IV,NA,100%,0%
-1891971,David Dang Tran,VfB Fortuna Biesdorf,3,0,0,0,0,0,0,3,154,0,NA,4,0,1,0.57,0,0,0,3,0,0,0,0.42,NA,NA,0%,0%
-1892782,Yussef Jradi,VfB Fortuna Biesdorf,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1892787,Emmanuel Bessong Ngam,VfB Fortuna Biesdorf,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1937240,Paulo Krause Barrufet,VfB Fortuna Biesdorf,3,0,0,1,0,0,0,1,256,0,NA,4,0,1,0.948,1,2,2,1,0.167,0,0,0.58,RM,NA,100%,0%
-1979838,Liam Engfer,VfB Fortuna Biesdorf,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2045364,Mohammad Mansour,VfB Fortuna Biesdorf,3,0,0,1,0,0,3,0,125,0,NA,4,0,1,0.463,1,2,2,1,0.167,0,0,0.43,NA,NA,0%,0%
-2089320,Alex Steinke,VfB Fortuna Biesdorf,3,1,0,0,0,0,0,1,235,0,NA,4,0.25,1,0.87,1,2,2,1,0.167,0,0,0.59,ST,NA,100%,0%
-2236858,Mika Friebe,VfB Fortuna Biesdorf,2,0,0,0,0,0,2,0,27,0,NA,4,0,0.6666666666666666,0.15,1,1,1,1,0.333,0,0,0.29,NA,NA,0%,0%
-2261424,Ibrahim Haj Youssef,VfB Fortuna Biesdorf,3,1,0,0,0,0,2,0,166,1,NA,4,0.25,1,0.615,0,0,0,3,0,0,0,0.47,NA,NA,0%,0%
-2285443,Jonas Maroske,VfB Fortuna Biesdorf,3,0,0,0,0,0,0,1,225,0,NA,4,0,1,0.833,1,2,2,1,0.167,0,0,0.54,LV,NA,100%,0%
-2300584,Justus Thore Schwandt,VfB Fortuna Biesdorf,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-238370,Dennis März,VfB Fortuna Biesdorf,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2407420,Tim Stuff,VfB Fortuna Biesdorf,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-351055,Benjamin Kadur,VfB Fortuna Biesdorf,2,0,0,0,0,0,1,0,135,0,NA,4,0,0.6666666666666666,0.75,0,0,0,2,0,0,0,0.39,NA,NA,0%,0%
-357915,Rico Pohlmann,VfB Fortuna Biesdorf,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-527502,Urim Nerjovaj,VfB Fortuna Biesdorf,2,0,0,1,0,0,0,0,180,0,NA,4,0,0.6666666666666666,1,1,1,1,1,0.333,0,0,0.55,IV,NA,50%,0%
-557905,Angelino Neidhardt,VfB Fortuna Biesdorf,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-635261,Miguel Hartwig,VfB Fortuna Biesdorf,2,0,0,1,0,0,0,0,180,0,NA,4,0,0.6666666666666666,1,1,2,2,0,0.167,0,0,0.51,IV,NA,100%,0%
-665308,Philip Kadur,VfB Fortuna Biesdorf,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-666811,Pascal Treibert,VfB Fortuna Biesdorf,2,0,0,0,0,0,2,0,54,0,NA,4,0,0.6666666666666666,0.3,0,1,1,1,0,0,0,0.26,NA,NA,0%,0%
-737003,Moritz Künne,VfB Fortuna Biesdorf,3,0,0,0,0,0,0,2,216,0,NA,4,0,1,0.8,1,2,2,1,0.167,0,0,0.53,RV,NA,100%,0%
-849634,Leonard Sowa,VfB Fortuna Biesdorf,2,0,0,0,0,0,2,0,35,0,NA,4,0,0.6666666666666666,0.194,1,1,1,1,0.333,0,0,0.31,NA,NA,0%,0%
-1018957,Lorenzo Pablo Mbile Sanchez,SSC Südwest 1947,1,0,0,0,0,0,1,0,1,0,NA,2,0,0.3333333333333333,0.011,0,0,0,1,0,0,0,0.09,NA,NA,0%,0%
-1051581,Lukas Schulze,SSC Südwest 1947,3,0,0,0,0,0,0,3,233,0,NA,2,0,1,0.863,3,3,3,0,0.333,1,0.333,0.61,ZDM,ZOM,100%,33%
-1116939,Manuel Hahn,SSC Südwest 1947,0,0,0,0,0,0,0,0,0,0,NA,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1119735,Juan Cernescu,SSC Südwest 1947,2,1,1,0,0,0,0,0,180,1,NA,2,1,0.6666666666666666,1,3,2,2,0,0.5,1,0.5,0.77,RM,NA,100%,0%
-1338340,David Nagel,SSC Südwest 1947,0,0,0,0,0,0,0,0,0,0,NA,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1359793,Martin Olivier Kascha,SSC Südwest 1947,3,0,0,0,0,0,1,2,161,0,NA,2,0,1,0.596,3,3,3,0,0.333,0,0,0.51,ST,NA,67%,0%
-1556591,Richard Rumler,SSC Südwest 1947,0,0,0,0,0,0,0,0,0,0,NA,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1577700,Mohamed Rayen Chafra,SSC Südwest 1947,2,0,0,0,0,0,0,0,180,0,NA,2,0,0.6666666666666666,1,0,2,2,0,0,0,0,0.47,LM,ZOM,50%,50%
-1613629,Melvin Glaser,SSC Südwest 1947,3,0,0,0,0,0,3,0,53,0,NA,2,0,1,0.196,3,3,3,0,0.333,0,0,0.39,NA,NA,0%,0%
-1724998,Gian-Luca Blume,SSC Südwest 1947,0,0,0,0,0,0,0,0,0,0,NA,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1765236,Felix Seddig,SSC Südwest 1947,0,0,0,0,0,0,0,0,0,0,NA,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1844094,Zahm Rad,SSC Südwest 1947,0,0,0,0,0,0,0,0,0,0,NA,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1890011,Edin Sejdic,SSC Südwest 1947,2,0,0,0,0,0,1,1,93,0,NA,2,0,0.6666666666666666,0.517,3,2,2,0,0.5,0,0,0.45,IV,NA,50%,0%
-1892808,Berk Karadayi,SSC Südwest 1947,3,0,0,1,0,0,0,3,185,0,NA,2,0,1,0.685,3,3,3,0,0.333,0,0,0.54,LM,RM,67%,33%
-2159348,Vincent Wolff,SSC Südwest 1947,0,0,0,0,0,0,0,0,0,0,NA,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2164074,Lars Schoeneich,SSC Südwest 1947,3,0,0,0,0,0,0,1,269,1,NA,2,0,1,0.996,3,3,3,0,0.333,1,0.333,0.65,IV,ZOM,67%,33%
-2171071,Jeldrik Greiner,SSC Südwest 1947,3,0,0,0,0,0,0,2,224,0,NA,2,0,1,0.83,0,0,0,3,0,0,0,0.5,NA,NA,0%,0%
-2200249,James-Patrick Weiß,SSC Südwest 1947,2,0,0,0,0,0,1,0,125,0,NA,2,0,0.6666666666666666,0.694,3,2,2,0,0.5,0,0,0.5,ST,NA,50%,0%
-2211826,Julian Tomov,SSC Südwest 1947,0,0,0,0,0,0,0,0,0,0,NA,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2230962,Gustavo Santos Pereira,SSC Südwest 1947,0,0,0,0,0,0,0,0,0,0,NA,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2232285,Jakob Heredia,SSC Südwest 1947,0,0,0,0,0,0,0,0,0,0,NA,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2376582,Mateusz Smolarkiewicz,SSC Südwest 1947,1,0,0,0,0,0,1,0,22,0,NA,2,0,0.3333333333333333,0.244,0,1,1,0,0,0,0,0.16,NA,NA,0%,0%
-268825,Cüneyt Gündogdu,SSC Südwest 1947,3,0,0,0,0,0,2,1,104,0,NA,2,0,1,0.385,3,2,2,1,0.5,0,0,0.49,ZDM,NA,33%,0%
-346890,Toni Stroehlke,SSC Südwest 1947,3,0,0,0,0,0,0,0,270,0,NA,2,0,1,1,3,3,3,0,0.333,0,0,0.63,TW,NA,100%,0%
-364699,Philipp Olsowski,SSC Südwest 1947,3,1,0,0,0,0,0,0,270,0,NA,2,0.5,1,1,3,3,3,0,0.333,0,0,0.71,ZDM,NA,100%,0%
-554258,Maximilian Heckert,SSC Südwest 1947,0,0,0,0,0,0,0,0,0,0,NA,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-564202,Rene Schulze,SSC Südwest 1947,0,0,0,0,0,0,0,0,0,0,NA,2,0,0,0,3,3,3,-3,0.333,1,0,0.08,ZDM,ZOM,0%,0%
-586002,Deniz Stach,SSC Südwest 1947,0,0,0,0,0,0,0,0,0,0,NA,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-629531,Ahmad Nassri,SSC Südwest 1947,0,0,0,0,0,0,0,0,0,0,NA,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-732548,Lenard Greiner,SSC Südwest 1947,3,0,0,1,0,0,3,0,60,0,NA,2,0,1,0.222,0,0,0,3,0,0,0,0.32,NA,NA,0%,0%
-787222,Enes Oguz Timur Schick,SSC Südwest 1947,3,0,0,0,0,0,0,1,256,0,NA,2,0,1,0.948,3,3,3,0,0.333,1,0.333,0.63,RV,LV,67%,33%
-833296,Til Schramm,SSC Südwest 1947,3,0,0,0,0,0,0,0,270,0,NA,2,0,1,1,3,3,3,0,0.333,1,0.333,0.65,IV,ST,100%,100%
-849276,Philipp Lionel Kuhles,SSC Südwest 1947,0,0,0,0,0,0,0,0,0,0,NA,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+740710,Oktay Öztürk,Berliner SC,3,0,0,0,0,0,1,0,211,0,6,4,0,1,0.781,4,3,3,0,0.444,0,0,0.6,IV,NA,67%,0%
+821205,Justin Maximilian Neumann,Berliner SC,3,1,0,1,0,0,0,0,270,0,17,4,0.25,1,1,4,3,3,0,0.444,1,0.333,0.72,ZM,ZOM,33%,33%
+902391,Benjamin Trojahn,Berliner SC,3,0,0,0,0,0,0,0,270,0,16,4,0,1,1,4,3,3,0,0.444,0,0,0.66,LV,NA,67%,0%
+906586,Hossein Jafari,Berliner SC,2,0,0,0,0,0,2,0,2,0,27,4,0,0.6666666666666666,0.011,3,2,2,0,0.5,0,0,0.29,NA,NA,0%,0%
+1123056,Fabian Busch,VSG Altglienicke II,2,0,0,0,0,0,0,0,180,0,18,3,0,0.6666666666666666,1,3,2,2,0,0.5,0,0,0.59,LV,NA,100%,0%
+1131316,Benevito Laske,VSG Altglienicke II,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1155973,Kerim Sarikaya,VSG Altglienicke II,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1234333,Emir Bakal,VSG Altglienicke II,2,0,0,0,0,0,0,2,159,0,7,3,0,0.6666666666666666,0.883,3,2,2,0,0.5,0,0,0.56,LM,RM,50%,50%
+1359352,Caleb Osarenren,VSG Altglienicke II,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1402503,Ben Wagner,VSG Altglienicke II,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1598658,Stanley Cross,VSG Altglienicke II,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1770031,Kakeru Fukuda,VSG Altglienicke II,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1775804,Lelio Losse,VSG Altglienicke II,2,0,0,0,0,0,2,0,64,0,22,3,0,0.6666666666666666,0.356,3,2,2,0,0.5,0,0,0.4,NA,NA,0%,0%
+1775811,Niclas Senst,VSG Altglienicke II,2,0,0,0,0,0,0,2,147,0,20,3,0,0.6666666666666666,0.817,3,2,2,0,0.5,0,0,0.54,ZM,NA,100%,0%
+1776198,Jonas Elbrecht,VSG Altglienicke II,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1776206,Maddox Niebergall,VSG Altglienicke II,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1776210,Levin Stein,VSG Altglienicke II,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1821767,Serhan Atici,VSG Altglienicke II,2,0,0,0,0,0,2,0,17,0,16,3,0,0.6666666666666666,0.094,3,2,2,0,0.5,0,0,0.32,NA,NA,0%,0%
+1870628,Raphael Damjanovic,VSG Altglienicke II,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1970395,Mario Peche Morote,VSG Altglienicke II,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2070877,Yousif El Sadani,VSG Altglienicke II,2,1,0,0,0,0,0,0,180,0,6,3,0.333,0.6666666666666666,1,3,2,2,0,0.5,0,0,0.64,NA,NA,0%,0%
+2071083,Alexander Kutrieb,VSG Altglienicke II,2,0,0,0,0,0,2,0,19,0,34,3,0,0.6666666666666666,0.106,3,2,2,0,0.5,0,0,0.32,NA,NA,0%,0%
+2186790,Ibrahim Tareq Ibrahim El Taib,VSG Altglienicke II,2,0,0,0,0,0,0,2,119,0,14,3,0,0.6666666666666666,0.661,3,2,2,0,0.5,0,0,0.49,NA,NA,0%,0%
+2194616,Krystian Kanzy,VSG Altglienicke II,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2342385,Saleh Kassem,VSG Altglienicke II,2,0,0,0,0,0,0,0,180,0,1,3,0,0.6666666666666666,1,3,2,2,0,0.5,0,0,0.59,TW,NA,100%,0%
+2361132,Devin Lieberam,VSG Altglienicke II,2,0,0,0,0,0,2,0,42,0,13,3,0,0.6666666666666666,0.233,3,2,2,0,0.5,0,0,0.36,NA,NA,0%,0%
+562218,Mohammed Daniel Fayoumi,VSG Altglienicke II,2,0,0,0,0,0,0,2,153,0,17,3,0,0.6666666666666666,0.85,3,2,2,0,0.5,1,0.5,0.57,LM,ST,50%,50%
+850288,Mario Schenkel,VSG Altglienicke II,2,0,0,0,0,0,0,0,180,0,26,3,0,0.6666666666666666,1,3,2,2,0,0.5,0,0,0.59,RM,ZM,50%,50%
+892552,Steve Klamkowski,VSG Altglienicke II,2,0,0,0,0,1,0,0,120,0,5,3,0,0.6666666666666666,0.667,3,2,2,0,0.5,1,0.5,0.52,IV,NA,100%,0%
+892556,Jan Latzel,VSG Altglienicke II,2,0,0,0,0,0,0,0,180,0,4,3,0,0.6666666666666666,1,0,1,1,1,0,0,0,0.47,IV,NA,50%,0%
+892558,Benito-Tyler Fritzsche,VSG Altglienicke II,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+939990,Moritz Tomczak,VSG Altglienicke II,2,2,0,0,0,0,0,0,180,0,10,3,0.667,0.6666666666666666,1,3,2,2,0,0.5,1,0.5,0.72,ST,NA,100%,0%
+943429,Alexander Noß,VSG Altglienicke II,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1098036,Johann Eisenberg,Polar Pinguin Berlin,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1110064,Paul Pantke,Polar Pinguin Berlin,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1155923,Shaikh Derman,Polar Pinguin Berlin,2,0,0,0,0,0,2,0,22,0,17,4,0,0.6666666666666666,0.122,1,2,2,0,0.167,0,0,0.25,NA,NA,0%,0%
+1258572,James Ifeanyichukwu Ndubueze,Polar Pinguin Berlin,3,1,0,0,0,0,0,2,236,0,16,4,0.25,1,0.874,1,3,3,0,0.111,0,0,0.58,ST,NA,33%,0%
+1311937,Pascal Löhmann,Polar Pinguin Berlin,2,0,0,0,0,0,1,1,99,0,25,4,0,0.6666666666666666,0.55,0,2,2,0,0,0,0,0.33,ZM,NA,50%,0%
+1311938,Jona Hardt,Polar Pinguin Berlin,3,0,0,0,0,0,0,0,270,0,31,4,0,1,1,1,3,3,0,0.111,1,0.333,0.59,IV,NA,33%,0%
+1389929,Hans Witschurke,Polar Pinguin Berlin,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1422055,Giordano Siewe,Polar Pinguin Berlin,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1488271,Lenny Schwabe,Polar Pinguin Berlin,3,1,0,0,0,0,2,1,114,0,28,4,0.25,1,0.422,1,3,3,0,0.111,0,0,0.44,NA,NA,0%,0%
+1726169,Malte Riebel,Polar Pinguin Berlin,1,0,0,0,0,0,1,0,16,0,27,4,0,0.3333333333333333,0.178,0,1,1,0,0,0,0,0.14,NA,NA,0%,0%
+1781654,Nicolas Marley Alexander Koch,Polar Pinguin Berlin,2,0,0,0,0,0,0,1,147,0,0,4,0,0.6666666666666666,0.817,1,2,2,0,0.167,0,0,0.45,NA,NA,0%,0%
+1873173,Omidoullah Sarwari,Polar Pinguin Berlin,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1970652,Joschua Schanda,Polar Pinguin Berlin,2,0,0,0,0,0,2,0,55,0,0,4,0,0.6666666666666666,0.306,1,2,2,0,0.167,0,0,0.3,NA,NA,0%,0%
+2140970,Jacques Kahra,Polar Pinguin Berlin,3,0,0,0,0,0,0,0,270,0,5,4,0,1,1,1,3,3,0,0.111,0,0,0.58,IV,NA,33%,0%
+2189086,Ekrem Erbilgin,Polar Pinguin Berlin,2,0,0,0,0,0,0,0,180,0,1,4,0,0.6666666666666666,1,0,2,2,0,0,0,0,0.47,TW,NA,50%,0%
+2208772,Said Abasi,Polar Pinguin Berlin,1,0,0,1,0,0,0,1,74,0,10,4,0,0.3333333333333333,0.822,0,1,1,0,0,0,0,0.33,LV,NA,100%,0%
+2315597,Qais Faizi,Polar Pinguin Berlin,2,0,0,1,0,0,1,1,70,0,7,4,0,0.6666666666666666,0.389,0,1,1,1,0,0,0,0.28,NA,NA,0%,0%
+2380614,Keyan Kaplan,Polar Pinguin Berlin,3,0,0,0,0,0,2,1,128,0,20,4,0,1,0.474,1,3,3,0,0.111,0,0,0.42,NA,NA,0%,0%
+2444670,Nelson Culubali,Polar Pinguin Berlin,1,0,0,1,0,0,0,1,53,0,24,4,0,0.3333333333333333,0.589,0,1,1,0,0,0,0,0.26,RV,NA,100%,0%
+2488623,Mohamed Tahiri Mizani,Polar Pinguin Berlin,1,0,0,1,0,0,1,0,37,0,23,4,0,0.3333333333333333,0.411,0,1,1,0,0,0,0,0.21,NA,NA,0%,0%
+268815,Nicolai Matt,Polar Pinguin Berlin,2,0,0,0,0,0,0,0,180,0,0,4,0,0.6666666666666666,1,1,2,2,0,0.167,0,0,0.51,NA,NA,0%,0%
+346901,Simon Falke,Polar Pinguin Berlin,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+350108,Martin Kemter,Polar Pinguin Berlin,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+364809,Lennard Broll,Polar Pinguin Berlin,3,0,0,0,0,0,1,2,168,0,18,4,0,1,0.622,1,3,3,0,0.111,1,0.333,0.48,ZM,NA,33%,0%
+528217,Lukas Fechner,Polar Pinguin Berlin,1,0,0,0,0,0,1,0,17,0,0,4,0,0.3333333333333333,0.189,1,1,1,0,0.333,0,0,0.22,NA,NA,0%,0%
+540285,Arda Dülek,Polar Pinguin Berlin,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+553888,Karim Yehia,Polar Pinguin Berlin,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+560827,Gino Hofmeister,Polar Pinguin Berlin,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+627323,Philippe Riviere,Polar Pinguin Berlin,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+675158,Moritz Sondermann,Polar Pinguin Berlin,2,2,0,0,0,0,0,1,163,1,0,4,0.5,0.6666666666666666,0.906,1,2,2,0,0.167,1,0.5,0.58,NA,NA,0%,0%
+69252,Kilian Pruschke,Polar Pinguin Berlin,1,0,0,0,0,0,0,0,90,0,0,4,0,0.3333333333333333,1,1,1,1,0,0.333,0,0,0.47,NA,NA,0%,0%
+814988,Arne Schüler,Polar Pinguin Berlin,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+832697,Finn Johan Will,Polar Pinguin Berlin,3,0,0,0,0,0,0,0,270,0,8,4,0,1,1,1,3,3,0,0.111,3,1,0.63,RM,NA,33%,0%
+836434,Sören Zeidler,Polar Pinguin Berlin,2,0,0,0,0,0,1,1,90,0,13,4,0,0.6666666666666666,0.5,1,2,2,0,0.167,0,0,0.36,NA,NA,0%,0%
+930011,Adam Idriss Ouattara,Polar Pinguin Berlin,3,0,0,1,0,0,0,2,221,0,3,4,0,1,0.819,1,3,3,0,0.111,0,0,0.52,IV,NA,33%,0%
+990092,Konrad Clemens Emil Ladendorf,Polar Pinguin Berlin,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+997748,Mohamed Mahawech,Polar Pinguin Berlin,0,0,0,0,0,0,0,0,0,0,36,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1117050,Jonathan Maurer,Sp.Vg. Blau Weiß 1890 Berlin,2,0,0,0,0,0,2,0,27,0,8,8,0,0.6666666666666666,0.15,6,2,2,0,1,0,0,0.46,NA,NA,0%,0%
+114483,Darryl Julian Geurts,Sp.Vg. Blau Weiß 1890 Berlin,3,2,1,0,0,0,1,0,209,1,11,8,0.375,1,0.774,6,3,3,0,0.667,0,0,0.71,LM,NA,67%,0%
+1163228,Nils Köhne,Sp.Vg. Blau Weiß 1890 Berlin,3,2,0,0,0,0,1,1,177,1,4,8,0.25,1,0.656,6,3,3,0,0.667,2,0.667,0.68,IV,RV,33%,33%
+1232142,Niklas Struck,Sp.Vg. Blau Weiß 1890 Berlin,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+133195,Glodi Danila-Doda Zingu,Sp.Vg. Blau Weiß 1890 Berlin,2,0,0,0,0,0,1,1,82,0,25,8,0,0.6666666666666666,0.456,3,2,2,0,0.5,0,0,0.43,IV,NA,50%,0%
+1465520,Guilherme Henrique Lopes De Oliveira,Sp.Vg. Blau Weiß 1890 Berlin,3,3,0,0,0,0,0,2,257,1,13,8,0.375,1,0.952,0,0,0,3,0,0,0,0.59,NA,NA,0%,0%
+1606953,Gentonis Ademaj,Sp.Vg. Blau Weiß 1890 Berlin,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1775816,Furkan Kemer,Sp.Vg. Blau Weiß 1890 Berlin,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1788264,Ahmed Omairat,Sp.Vg. Blau Weiß 1890 Berlin,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1878344,Emre Rosin,Sp.Vg. Blau Weiß 1890 Berlin,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+196093,Niklas Wiebach,Sp.Vg. Blau Weiß 1890 Berlin,3,0,0,1,0,0,1,1,214,1,17,8,0,1,0.793,6,3,3,0,0.667,0,0,0.65,LV,RV,33%,33%
+2233338,Kaim Kaya,Sp.Vg. Blau Weiß 1890 Berlin,0,0,0,0,0,0,0,0,0,0,1,8,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2357358,Nireas Igkmpinompa,Sp.Vg. Blau Weiß 1890 Berlin,3,0,0,0,0,0,2,1,110,0,34,8,0,1,0.407,6,3,3,0,0.667,0,0,0.54,ZM,NA,33%,0%
+2371700,Mert-Zihni Tuncer,Sp.Vg. Blau Weiß 1890 Berlin,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2394201,Oleksandr Kuz,Sp.Vg. Blau Weiß 1890 Berlin,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2457751,Alexander Todorov,Sp.Vg. Blau Weiß 1890 Berlin,2,0,0,0,0,0,2,0,8,0,14,8,0,0.6666666666666666,0.044,6,2,2,0,1,0,0,0.43,NA,NA,0%,0%
+289946,Michael Hinz,Sp.Vg. Blau Weiß 1890 Berlin,3,0,1,0,0,0,0,0,270,0,30,8,0.125,1,1,6,3,3,0,0.667,0,0,0.74,TW,NA,100%,0%
+302248,Philip Schulz,Sp.Vg. Blau Weiß 1890 Berlin,1,0,0,0,0,0,0,1,45,0,0,8,0,0.3333333333333333,0.5,0,0,0,1,0,0,0,0.23,ZOM,NA,200%,0%
+309799,Gelicio Aurelio Banze,Sp.Vg. Blau Weiß 1890 Berlin,3,0,0,0,0,0,0,0,270,2,27,8,0,1,1,6,3,3,0,0.667,1,0.333,0.73,IV,NA,100%,0%
+346893,Maurice Froelian,Sp.Vg. Blau Weiß 1890 Berlin,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+364701,Tim Grabow,Sp.Vg. Blau Weiß 1890 Berlin,3,0,0,1,0,0,2,1,113,0,7,8,0,1,0.419,6,3,3,0,0.667,0,0,0.54,LM,NA,33%,0%
+396086,Neil-Nigel Bier,Sp.Vg. Blau Weiß 1890 Berlin,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+489703,Marcel Rausch,Sp.Vg. Blau Weiß 1890 Berlin,3,0,1,0,0,0,0,1,238,0,19,8,0.125,1,0.881,6,3,3,0,0.667,2,0.667,0.73,ZDM,RM,67%,33%
+489704,Florian Kohls,Sp.Vg. Blau Weiß 1890 Berlin,1,1,0,0,0,0,0,1,71,0,0,8,0.125,0.3333333333333333,0.789,3,1,1,0,1,0,0,0.59,ZM,NA,100%,0%
+540252,Mike Brömer,Sp.Vg. Blau Weiß 1890 Berlin,3,0,0,1,0,0,0,0,270,0,9,8,0,1,1,6,3,3,0,0.667,0,0,0.72,ST,NA,100%,0%
+554275,Simon Schrade,Sp.Vg. Blau Weiß 1890 Berlin,1,0,0,1,0,0,1,0,45,0,0,8,0,0.3333333333333333,0.5,0,1,1,0,0,1,1,0.28,NA,NA,0%,0%
+558583,Mohamed Saloun Touré,Sp.Vg. Blau Weiß 1890 Berlin,2,0,0,0,0,0,0,2,155,0,22,8,0,0.6666666666666666,0.861,3,2,2,0,0.5,0,0,0.55,RM,NA,50%,0%
+562338,Fabian Engel,Sp.Vg. Blau Weiß 1890 Berlin,1,0,2,1,0,0,0,1,87,1,55,8,0.25,0.3333333333333333,0.967,3,1,1,0,1,0,0,0.66,ZDM,NA,100%,0%
+583631,Fynn Johannes Rocktäschel,Sp.Vg. Blau Weiß 1890 Berlin,3,0,0,0,0,0,1,1,130,0,2,8,0,1,0.481,6,3,3,0,0.667,0,0,0.56,IV,RV,33%,33%
+838399,Lionel Salla,Sp.Vg. Blau Weiß 1890 Berlin,3,0,0,1,0,0,1,1,192,0,3,8,0,1,0.711,6,3,3,0,0.667,0,0,0.63,LV,NA,67%,0%
+845407,Justin Maple,Sp.Vg. Blau Weiß 1890 Berlin,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+909936,Marcel Steiner,Sp.Vg. Blau Weiß 1890 Berlin,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1119739,Dominik Thonfeld,TSV Rudow Berlin,3,0,0,0,0,0,2,0,138,0,14,4,0,1,0.511,0,1,1,2,0,0,0,0.4,NA,NA,0%,0%
+113983,Fabian Fritsche,TSV Rudow Berlin,1,0,0,0,0,0,0,1,49,0,5,4,0,0.3333333333333333,0.544,0,1,1,0,0,0,0,0.25,ZDM,NA,100%,0%
+114923,Omid Saberdest,TSV Rudow Berlin,1,0,0,0,0,0,1,0,41,0,18,4,0,0.3333333333333333,0.456,0,1,1,0,0,0,0,0.22,NA,NA,0%,0%
+1366316,Ali Iraqui,TSV Rudow Berlin,3,0,0,0,0,0,0,1,232,0,11,4,0,1,0.859,0,0,0,3,0,0,0,0.51,NA,NA,0%,0%
+1549054,Jonas Becker,TSV Rudow Berlin,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1617176,Elias Burda,TSV Rudow Berlin,1,0,0,0,0,0,0,0,90,0,0,4,0,0.3333333333333333,1,0,0,0,1,0,0,0,0.38,NA,NA,0%,0%
+1889079,Yannick Emanuel Wöhle,TSV Rudow Berlin,1,0,0,0,0,0,1,0,20,0,16,4,0,0.3333333333333333,0.222,0,0,0,1,0,0,0,0.15,NA,NA,0%,0%
+2132646,Abdullah Bayram,TSV Rudow Berlin,3,0,0,0,0,0,0,1,252,0,21,4,0,1,0.933,0,1,1,2,0,0,0,0.53,LV,NA,33%,0%
+2346194,Süleyman Aktas,TSV Rudow Berlin,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2346195,Ahmad Haj Youssef,TSV Rudow Berlin,3,2,0,0,0,0,1,0,198,0,19,4,0.5,1,0.733,0,0,0,3,0,0,0,0.54,NA,NA,0%,0%
+2377145,Leon Merke,TSV Rudow Berlin,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2417264,Aron Murseli,TSV Rudow Berlin,3,0,0,0,0,0,3,0,26,0,27,4,0,1,0.096,0,1,1,2,0,0,0,0.28,NA,NA,0%,0%
+2470085,Hasan Iraqui,TSV Rudow Berlin,3,0,0,0,0,0,2,1,94,0,8,4,0,1,0.348,0,0,0,3,0,0,0,0.35,NA,NA,0%,0%
+2470086,Teoman Anik,TSV Rudow Berlin,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+289951,Lucas Robbin Bähr,TSV Rudow Berlin,2,0,0,0,0,0,0,1,179,0,17,4,0,0.6666666666666666,0.994,0,1,1,1,0,0,0,0.46,IV,NA,50%,0%
+358358,Melih Hortum,TSV Rudow Berlin,3,2,0,0,0,0,0,2,253,0,10,4,0.5,1,0.937,0,1,1,2,0,0,0,0.61,ZOM,NA,33%,0%
+371537,Martin Gromotka,TSV Rudow Berlin,3,0,0,0,0,0,0,0,270,0,44,4,0,1,1,0,1,1,2,0,1,0.333,0.57,TW,NA,33%,0%
+540422,Leonard Kirschner,TSV Rudow Berlin,2,0,0,0,0,0,2,0,28,0,0,4,0,0.6666666666666666,0.156,0,0,0,2,0,0,0,0.21,NA,NA,0%,0%
+627319,Matteo Günther,TSV Rudow Berlin,3,1,0,0,0,0,0,0,270,0,9,4,0.25,1,1,0,1,1,2,0,0,0,0.59,RM,NA,33%,0%
+665786,Nemanja Samardzic,TSV Rudow Berlin,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+666744,Mushakir Razeek,TSV Rudow Berlin,3,0,0,0,0,0,0,2,251,0,24,4,0,1,0.93,0,1,1,2,0,0,0,0.53,RV,NA,33%,0%
+693057,Merdan Baba,TSV Rudow Berlin,3,0,0,0,0,0,0,2,242,0,23,4,0,1,0.896,0,1,1,2,0,0,0,0.52,ST,NA,33%,0%
+821531,Luca Ehrich,TSV Rudow Berlin,1,0,0,0,0,0,0,1,67,0,20,4,0,0.3333333333333333,0.744,0,1,1,0,0,0,0,0.31,IV,NA,100%,0%
+870868,Linus Fürstenow,TSV Rudow Berlin,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+892549,Noah Fakhro,TSV Rudow Berlin,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+931868,Mohammed Hassane,TSV Rudow Berlin,3,0,0,0,0,0,0,0,270,0,7,4,0,1,1,0,1,1,2,0,0,0,0.55,ZDM,NA,33%,0%
+1057850,Benjamin Sommer,VfB Fortuna Biesdorf,2,1,0,0,0,1,0,0,114,1,24,4,0.25,0.6666666666666666,0.633,1,2,2,0,0.167,1,0.5,0.46,ZM,NA,100%,0%
+1148410,Felix Wieschollek,VfB Fortuna Biesdorf,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1261283,Maximilian Sangel,VfB Fortuna Biesdorf,3,0,0,0,0,0,0,0,270,0,33,4,0,1,1,1,2,2,1,0.167,0,0,0.59,TW,NA,100%,0%
+1344522,Darvin Schramm,VfB Fortuna Biesdorf,3,0,0,0,0,0,0,3,186,0,21,4,0,1,0.689,1,2,2,1,0.167,0,0,0.5,IV,ST,100%,100%
+1474133,Ole Eric Petschner,VfB Fortuna Biesdorf,3,0,0,0,0,0,0,3,185,0,23,4,0,1,0.685,1,2,2,1,0.167,0,0,0.5,ZM,NA,100%,0%
+1488321,Toni Kaftan,VfB Fortuna Biesdorf,2,0,0,0,0,0,2,0,90,0,11,4,0,0.6666666666666666,0.5,1,2,2,0,0.167,0,0,0.36,NA,NA,0%,0%
+165291,Jean-Claude Nanevie,VfB Fortuna Biesdorf,1,0,0,0,0,0,1,0,26,0,0,4,0,0.3333333333333333,0.289,0,0,0,1,0,0,0,0.17,NA,NA,0%,0%
+1890440,Kambiz Walizada,VfB Fortuna Biesdorf,1,0,0,0,0,0,0,1,45,0,0,4,0,0.3333333333333333,0.5,0,0,0,1,0,0,0,0.23,IV,NA,100%,0%
+1891971,David Dang Tran,VfB Fortuna Biesdorf,3,0,0,0,0,0,0,3,154,0,7,4,0,1,0.57,0,0,0,3,0,0,0,0.42,NA,NA,0%,0%
+1892782,Yussef Jradi,VfB Fortuna Biesdorf,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1892787,Emmanuel Bessong Ngam,VfB Fortuna Biesdorf,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1937240,Paulo Krause Barrufet,VfB Fortuna Biesdorf,3,0,0,1,0,0,0,1,256,0,18,4,0,1,0.948,1,2,2,1,0.167,0,0,0.58,RM,NA,100%,0%
+1979838,Liam Engfer,VfB Fortuna Biesdorf,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2045364,Mohammad Mansour,VfB Fortuna Biesdorf,3,0,0,1,0,0,3,0,125,0,2,4,0,1,0.463,1,2,2,1,0.167,0,0,0.43,NA,NA,0%,0%
+2089320,Alex Steinke,VfB Fortuna Biesdorf,3,1,0,0,0,0,0,1,235,0,8,4,0.25,1,0.87,1,2,2,1,0.167,0,0,0.59,ST,NA,100%,0%
+2236858,Mika Friebe,VfB Fortuna Biesdorf,2,0,0,0,0,0,2,0,27,0,28,4,0,0.6666666666666666,0.15,1,1,1,1,0.333,0,0,0.29,NA,NA,0%,0%
+2261424,Ibrahim Haj Youssef,VfB Fortuna Biesdorf,3,1,0,0,0,0,2,0,166,1,16,4,0.25,1,0.615,0,0,0,3,0,0,0,0.47,NA,NA,0%,0%
+2285443,Jonas Maroske,VfB Fortuna Biesdorf,3,0,0,0,0,0,0,1,225,0,22,4,0,1,0.833,1,2,2,1,0.167,0,0,0.54,LV,NA,100%,0%
+2300584,Justus Thore Schwandt,VfB Fortuna Biesdorf,0,0,0,0,0,0,0,0,0,0,12,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+238370,Dennis März,VfB Fortuna Biesdorf,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2407420,Tim Stuff,VfB Fortuna Biesdorf,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+351055,Benjamin Kadur,VfB Fortuna Biesdorf,2,0,0,0,0,0,1,0,135,0,6,4,0,0.6666666666666666,0.75,0,0,0,2,0,0,0,0.39,NA,NA,0%,0%
+357915,Rico Pohlmann,VfB Fortuna Biesdorf,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+527502,Urim Nerjovaj,VfB Fortuna Biesdorf,2,0,0,1,0,0,0,0,180,0,4,4,0,0.6666666666666666,1,1,1,1,1,0.333,0,0,0.55,IV,NA,50%,0%
+557905,Angelino Neidhardt,VfB Fortuna Biesdorf,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+635261,Miguel Hartwig,VfB Fortuna Biesdorf,2,0,0,1,0,0,0,0,180,0,3,4,0,0.6666666666666666,1,1,2,2,0,0.167,0,0,0.51,IV,NA,100%,0%
+665308,Philip Kadur,VfB Fortuna Biesdorf,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+666811,Pascal Treibert,VfB Fortuna Biesdorf,2,0,0,0,0,0,2,0,54,0,0,4,0,0.6666666666666666,0.3,0,1,1,1,0,0,0,0.26,NA,NA,0%,0%
+737003,Moritz Künne,VfB Fortuna Biesdorf,3,0,0,0,0,0,0,2,216,0,13,4,0,1,0.8,1,2,2,1,0.167,0,0,0.53,RV,NA,100%,0%
+849634,Leonard Sowa,VfB Fortuna Biesdorf,2,0,0,0,0,0,2,0,35,0,0,4,0,0.6666666666666666,0.194,1,1,1,1,0.333,0,0,0.31,NA,NA,0%,0%
+1018957,Lorenzo Pablo Mbile Sanchez,SSC Südwest 1947,1,0,0,0,0,0,1,0,1,0,14,2,0,0.3333333333333333,0.011,0,0,0,1,0,0,0,0.09,NA,NA,0%,0%
+1051581,Lukas Schulze,SSC Südwest 1947,3,0,0,0,0,0,0,3,233,0,16,2,0,1,0.863,3,3,3,0,0.333,1,0.333,0.61,ZDM,ZOM,100%,33%
+1116939,Manuel Hahn,SSC Südwest 1947,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1119735,Juan Cernescu,SSC Südwest 1947,2,1,1,0,0,0,0,0,180,1,23,2,1,0.6666666666666666,1,3,2,2,0,0.5,1,0.5,0.77,RM,NA,100%,0%
+1338340,David Nagel,SSC Südwest 1947,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1359793,Martin Olivier Kascha,SSC Südwest 1947,3,0,0,0,0,0,1,2,161,0,5,2,0,1,0.596,3,3,3,0,0.333,0,0,0.51,ST,NA,67%,0%
+1556591,Richard Rumler,SSC Südwest 1947,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1577700,Mohamed Rayen Chafra,SSC Südwest 1947,2,0,0,0,0,0,0,0,180,0,10,2,0,0.6666666666666666,1,0,2,2,0,0,0,0,0.47,LM,ZOM,50%,50%
+1613629,Melvin Glaser,SSC Südwest 1947,3,0,0,0,0,0,3,0,53,0,7,2,0,1,0.196,3,3,3,0,0.333,0,0,0.39,NA,NA,0%,0%
+1724998,Gian-Luca Blume,SSC Südwest 1947,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1765236,Felix Seddig,SSC Südwest 1947,0,0,0,0,0,0,0,0,0,0,31,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1844094,Zahm Rad,SSC Südwest 1947,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1890011,Edin Sejdic,SSC Südwest 1947,2,0,0,0,0,0,1,1,93,0,2,2,0,0.6666666666666666,0.517,3,2,2,0,0.5,0,0,0.45,IV,NA,50%,0%
+1892808,Berk Karadayi,SSC Südwest 1947,3,0,0,1,0,0,0,3,185,0,13,2,0,1,0.685,3,3,3,0,0.333,0,0,0.54,LM,RM,67%,33%
+2159348,Vincent Wolff,SSC Südwest 1947,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2164074,Lars Schoeneich,SSC Südwest 1947,3,0,0,0,0,0,0,1,269,1,29,2,0,1,0.996,3,3,3,0,0.333,1,0.333,0.65,IV,ZOM,67%,33%
+2171071,Jeldrik Greiner,SSC Südwest 1947,3,0,0,0,0,0,0,2,224,0,18,2,0,1,0.83,0,0,0,3,0,0,0,0.5,NA,NA,0%,0%
+2200249,James-Patrick Weiß,SSC Südwest 1947,2,0,0,0,0,0,1,0,125,0,0,2,0,0.6666666666666666,0.694,3,2,2,0,0.5,0,0,0.5,ST,NA,50%,0%
+2211826,Julian Tomov,SSC Südwest 1947,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2230962,Gustavo Santos Pereira,SSC Südwest 1947,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2232285,Jakob Heredia,SSC Südwest 1947,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2376582,Mateusz Smolarkiewicz,SSC Südwest 1947,1,0,0,0,0,0,1,0,22,0,15,2,0,0.3333333333333333,0.244,0,1,1,0,0,0,0,0.16,NA,NA,0%,0%
+268825,Cüneyt Gündogdu,SSC Südwest 1947,3,0,0,0,0,0,2,1,104,0,11,2,0,1,0.385,3,2,2,1,0.5,0,0,0.49,ZDM,NA,33%,0%
+346890,Toni Stroehlke,SSC Südwest 1947,3,0,0,0,0,0,0,0,270,0,22,2,0,1,1,3,3,3,0,0.333,0,0,0.63,TW,NA,100%,0%
+364699,Philipp Olsowski,SSC Südwest 1947,3,1,0,0,0,0,0,0,270,0,8,2,0.5,1,1,3,3,3,0,0.333,0,0,0.71,ZDM,NA,100%,0%
+554258,Maximilian Heckert,SSC Südwest 1947,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+564202,Rene Schulze,SSC Südwest 1947,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,3,3,3,-3,0.333,1,0,0.08,ZDM,ZOM,0%,0%
+586002,Deniz Stach,SSC Südwest 1947,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+629531,Ahmad Nassri,SSC Südwest 1947,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+732548,Lenard Greiner,SSC Südwest 1947,3,0,0,1,0,0,3,0,60,0,21,2,0,1,0.222,0,0,0,3,0,0,0,0.32,NA,NA,0%,0%
+787222,Enes Oguz Timur Schick,SSC Südwest 1947,3,0,0,0,0,0,0,1,256,0,9,2,0,1,0.948,3,3,3,0,0.333,1,0.333,0.63,RV,LV,67%,33%
+833296,Til Schramm,SSC Südwest 1947,3,0,0,0,0,0,0,0,270,0,6,2,0,1,1,3,3,3,0,0.333,1,0.333,0.65,IV,ST,100%,100%
+849276,Philipp Lionel Kuhles,SSC Südwest 1947,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
 937433,Alexander Willam,SSC Südwest 1947,1,0,0,0,0,0,1,0,14,0,NA,2,0,0.3333333333333333,0.156,0,0,0,1,0,0,0,0.13,NA,NA,0%,0%
-1202654,Amat Chaw,TSV Mariendorf 1897,3,0,0,1,0,0,0,0,270,0,NA,6,0,1,1,4,3,3,0,0.444,1,0.333,0.68,TW,NA,100%,0%
-1296929,Mehmet-Can Senocak,TSV Mariendorf 1897,3,4,0,0,0,0,1,1,198,1,NA,6,0.667,1,0.733,4,3,3,0,0.444,1,0.333,0.7,ST,NA,67%,0%
-1356165,Malte Fürst,TSV Mariendorf 1897,2,0,0,1,0,0,1,0,124,0,NA,6,0,0.6666666666666666,0.689,4,3,3,-1,0.444,0,0,0.48,IV,LV,50%,50%
-1434884,Ali Mohammed Kasola,TSV Mariendorf 1897,3,0,0,0,0,0,0,2,241,0,NA,6,0,1,0.893,4,3,3,0,0.444,2,0.667,0.66,ZM,LM,67%,33%
-1530035,Vincent Bühler,TSV Mariendorf 1897,2,0,1,0,0,0,2,0,63,0,NA,6,0.167,0.6666666666666666,0.35,3,2,2,0,0.5,0,0,0.42,NA,NA,0%,0%
-1556982,Louis Kromat,TSV Mariendorf 1897,3,0,0,0,0,0,1,1,175,2,NA,6,0,1,0.648,4,3,3,0,0.444,0,0,0.56,LM,NA,67%,0%
-1892813,Tugay Ulusoy,TSV Mariendorf 1897,3,0,1,2,0,0,1,2,188,0,NA,6,0.167,1,0.696,4,3,3,0,0.444,0,0,0.59,RM,NA,67%,0%
-2031931,Omran Iraqi,TSV Mariendorf 1897,0,0,0,0,0,0,0,0,0,0,NA,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2051556,Rui Marcel Peixoto,TSV Mariendorf 1897,2,0,0,0,0,0,1,1,66,0,NA,6,0,0.6666666666666666,0.367,0,0,0,2,0,0,0,0.28,NA,NA,0%,0%
-2055024,Abdulkarim Mechlaoui,TSV Mariendorf 1897,0,0,0,0,0,0,0,0,0,0,NA,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2133852,Marten Schröder,TSV Mariendorf 1897,0,0,0,0,0,0,0,0,0,0,NA,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2211450,Mohammed Aljorani,TSV Mariendorf 1897,0,0,0,0,0,0,0,0,0,0,NA,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2239379,Wesa Den Araujo Van-Dunem,TSV Mariendorf 1897,3,1,0,1,0,0,1,2,140,0,NA,6,0.167,1,0.519,1,1,1,2,0.333,0,0,0.51,NA,NA,0%,0%
-2406638,Arad Zardoshtian,TSV Mariendorf 1897,0,0,0,0,0,0,0,0,0,0,NA,6,0,0,0,0,0,0,0,0,0,0,0,ZDM,LM,0%,0%
-2463234,Jegor Kiuskins,TSV Mariendorf 1897,0,0,0,0,0,0,0,0,0,0,NA,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2469874,Daniel Veilert,TSV Mariendorf 1897,2,0,0,0,0,0,0,2,143,0,NA,6,0,0.6666666666666666,0.794,4,2,2,0,0.667,0,0,0.57,IV,RM,50%,50%
-2469879,Bendix Kadji,TSV Mariendorf 1897,2,0,0,0,0,0,2,0,14,0,NA,6,0,0.6666666666666666,0.078,0,0,0,2,0,0,0,0.19,NA,NA,0%,0%
-260745,Pascal Jan Wedemann,TSV Mariendorf 1897,1,0,1,0,0,0,0,0,90,0,NA,6,0.167,0.3333333333333333,1,3,1,1,0,1,1,1,0.71,IV,NA,100%,0%
-602026,Alianni Urgelles Montoya,TSV Mariendorf 1897,3,1,0,0,0,0,1,0,212,0,NA,6,0.167,1,0.785,1,2,2,1,0.167,0,0,0.55,ZM,NA,33%,0%
-626155,Erik-Paul Pfannschmidt,TSV Mariendorf 1897,3,0,1,1,0,0,1,0,205,0,NA,6,0.167,1,0.759,4,3,3,0,0.444,0,0,0.61,ZM,NA,67%,0%
-665385,Yusuf Yorguner,TSV Mariendorf 1897,2,0,0,0,0,0,1,1,59,0,NA,6,0,0.6666666666666666,0.328,1,2,2,0,0.167,0,0,0.31,ST,NA,50%,0%
-678219,David Rosner,TSV Mariendorf 1897,2,0,0,0,0,0,0,1,171,0,NA,6,0,0.6666666666666666,0.95,1,2,2,0,0.167,0,0,0.49,IV,NA,100%,0%
-733543,Eren Özer,TSV Mariendorf 1897,0,0,0,0,0,0,0,0,0,0,NA,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-767982,Benjamin Tutic,TSV Mariendorf 1897,3,0,1,0,0,0,1,1,161,1,NA,6,0.167,1,0.596,4,3,3,0,0.444,0,0,0.56,RV,ZM,33%,33%
-870865,Jannis Krieger,TSV Mariendorf 1897,1,0,0,0,0,0,0,0,90,0,NA,6,0,0.3333333333333333,1,1,1,1,0,0.333,0,0,0.47,ST,NA,100%,0%
-94532,Julian Austermann,TSV Mariendorf 1897,3,0,0,0,0,0,0,0,270,0,NA,6,0,1,1,4,3,3,0,0.444,1,0.333,0.68,IV,RV,67%,33%
-94712,Pascal Matthias,TSV Mariendorf 1897,0,0,0,0,0,0,0,0,0,0,NA,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-114838,Süleyman Kapan,Berlin Türkspor,2,2,0,0,0,0,0,0,180,0,NA,9,0.222,0.6666666666666666,1,3,2,2,0,0.5,0,0,0.62,ST,NA,100%,0%
-1264965,Umut Satici,Berlin Türkspor,1,0,0,0,0,0,1,1,21,0,NA,9,0,0.3333333333333333,0.233,0,1,1,0,0,0,0,0.15,NA,NA,0%,0%
-1378159,Nesta Gabriel Jean-Louis,Berlin Türkspor,0,0,0,0,0,0,0,0,0,0,NA,9,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1551632,Mame Cheikh Diop,Berlin Türkspor,1,0,0,0,0,0,1,0,11,0,NA,9,0,0.3333333333333333,0.122,3,1,1,0,1,0,0,0.37,NA,NA,0%,0%
-1555043,Aristotelis Dougalis,Berlin Türkspor,2,0,0,0,0,0,2,0,71,0,NA,9,0,0.6666666666666666,0.394,6,2,2,0,1,0,0,0.53,NA,NA,0%,0%
-1617091,Tristan Krien,Berlin Türkspor,3,0,0,1,0,0,3,0,42,0,NA,9,0,1,0.156,6,3,3,0,0.667,0,0,0.46,NA,NA,0%,0%
-1697525,Leon Haake,Berlin Türkspor,0,0,0,0,0,0,0,0,0,0,NA,9,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1844070,Jonas Mukuku Zola,Berlin Türkspor,3,0,0,2,0,0,0,3,169,0,NA,9,0,1,0.626,3,1,1,2,1,0,0,0.69,ST,NA,33%,0%
-1873213,Mapalo Korntreff,Berlin Türkspor,3,0,1,0,0,0,0,2,258,0,NA,9,0.111,1,0.956,3,2,2,1,0.5,0,0,0.68,LM,ZOM,33%,33%
-1915207,Frank Maikoga,Berlin Türkspor,0,0,0,0,0,0,0,0,0,0,NA,9,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2029528,Mahdi Soueidan,Berlin Türkspor,0,0,0,0,0,0,0,0,0,0,NA,9,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2188843,Artin Zardoshtian,Berlin Türkspor,3,1,2,1,0,0,0,0,270,1,NA,9,0.333,1,1,6,3,3,0,0.667,2,0.667,0.8,ZDM,LM,67%,33%
-2239946,Viktor Pokataiev,Berlin Türkspor,1,0,0,0,0,0,0,0,90,0,NA,9,0,0.3333333333333333,1,3,1,1,0,1,0,0,0.63,TW,NA,100%,0%
-2291260,Benjamin Heymann,Berlin Türkspor,2,1,0,1,0,0,0,1,154,1,NA,9,0.111,0.6666666666666666,0.856,6,2,2,0,1,0,0,0.69,LM,ZM,50%,50%
-2355034,King David Yeboah Frimpong Szigath,Berlin Türkspor,1,0,0,0,0,0,1,0,5,0,NA,9,0,0.3333333333333333,0.056,3,1,1,0,1,0,0,0.35,NA,NA,0%,0%
-2409743,Jahi Hyseni,Berlin Türkspor,0,0,0,0,0,0,0,0,0,0,NA,9,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2426055,Prince Collins Idemudia,Berlin Türkspor,1,0,0,0,0,0,1,0,5,0,NA,9,0,0.3333333333333333,0.056,3,1,1,0,1,0,0,0.35,NA,NA,0%,0%
-420083,Leon Bätge,Berlin Türkspor,2,0,0,0,0,0,0,0,180,0,NA,9,0,0.6666666666666666,1,3,2,2,0,0.5,0,0,0.59,TW,NA,100%,0%
-45029,Emre Turan,Berlin Türkspor,3,2,0,0,0,0,0,1,265,0,NA,9,0.222,1,0.981,6,3,3,0,0.667,0,0,0.74,IV,NA,100%,0%
-537868,Sefa Kahraman,Berlin Türkspor,3,1,0,2,0,0,0,1,259,0,NA,9,0.111,1,0.959,6,3,3,0,0.667,1,0.333,0.74,IV,NA,100%,0%
-670797,Kürsat Mahmut Cicek,Berlin Türkspor,0,0,0,0,0,0,0,0,0,0,NA,9,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-838407,Panagiotis Vassiliadis,Berlin Türkspor,3,1,0,0,0,0,0,0,270,0,NA,9,0.111,1,1,6,3,3,0,0.667,0,0,0.73,RV,IV,67%,33%
-870836,Joe Williams,Berlin Türkspor,3,0,0,0,0,0,0,0,270,0,NA,9,0,1,1,6,3,3,0,0.667,3,1,0.77,LV,ZM,67%,33%
-889415,Ahmad Rmieh,Berlin Türkspor,2,0,1,0,1,0,0,0,176,0,NA,9,0.111,0.6666666666666666,0.978,3,2,2,0,0.5,1,0.5,0.63,ZDM,ZM,50%,50%
-939992,Halit Bacak,Berlin Türkspor,3,0,1,1,0,0,0,0,270,0,NA,9,0.111,1,1,6,3,3,0,0.667,2,0.667,0.77,RM,ZDM,33%,33%
-1052222,Nils Ehritt,Frohnauer SC 1946,3,0,0,1,0,0,0,0,270,3,NA,0,0,1,1,0,0,0,3,0,0,0,0.55,RV,NA,67%,0%
-1426545,Marlon Mörcke,Frohnauer SC 1946,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1439799,Philipp Walter,Frohnauer SC 1946,3,0,0,0,0,0,2,1,110,0,NA,0,0,1,0.407,0,0,0,3,0,0,0,0.37,LM,ST,33%,33%
-1439801,Lasse Eickhoff,Frohnauer SC 1946,2,1,0,1,0,0,1,1,80,0,NA,0,0,0.6666666666666666,0.444,0,0,0,2,0,0,0,0.3,NA,NA,0%,0%
-1439802,Lucas Rindermann,Frohnauer SC 1946,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1439803,Levi Arend,Frohnauer SC 1946,2,0,0,0,0,0,2,0,31,0,NA,0,0,0.6666666666666666,0.172,0,0,0,2,0,0,0,0.22,NA,NA,0%,0%
-1602549,Luis Seiffert,Frohnauer SC 1946,3,0,1,0,0,0,1,2,137,0,NA,0,0,1,0.507,0,0,0,3,0,0,0,0.4,NA,NA,0%,0%
-1617836,Amir Sassi,Frohnauer SC 1946,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1819221,Lars Weber,Frohnauer SC 1946,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1892793,Tidjan Barnes,Frohnauer SC 1946,3,0,1,1,0,0,2,1,143,0,NA,0,0,1,0.53,0,0,0,3,0,0,0,0.41,NA,NA,0%,0%
-1905237,Maximilian Mundt,Frohnauer SC 1946,3,1,0,0,0,0,1,2,155,0,NA,0,0,1,0.574,0,0,0,3,0,0,0,0.42,RM,NA,33%,0%
-1917045,Buba Ceesay,Frohnauer SC 1946,2,1,1,0,0,0,0,2,128,0,NA,0,0,0.6666666666666666,0.711,0,0,0,2,0,0,0,0.38,ST,NA,100%,0%
-2044780,Jacob Schäfer,Frohnauer SC 1946,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2061473,Oscar Adams Llorente,Frohnauer SC 1946,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2170597,Benjamin Ritschl,Frohnauer SC 1946,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2194620,Isaac Manu Kyere,Frohnauer SC 1946,3,2,0,0,0,0,0,2,261,1,NA,0,0,1,0.967,0,0,0,3,0,0,0,0.54,LM,NA,67%,0%
-2315596,Rangga Musiol,Frohnauer SC 1946,3,2,0,1,0,0,0,1,244,0,NA,0,0,1,0.904,0,0,0,3,0,0,0,0.52,ZOM,NA,67%,0%
-2327023,Bachar Said,Frohnauer SC 1946,3,0,2,1,0,0,1,1,179,0,NA,0,0,1,0.663,0,0,0,3,0,0,0,0.45,NA,NA,0%,0%
-2379250,Nico Horvat,Frohnauer SC 1946,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2396031,Charlie Werner,Frohnauer SC 1946,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2455807,Dominik Kuppler,Frohnauer SC 1946,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-273708,Tobias Hampel,Frohnauer SC 1946,3,0,0,0,0,0,0,0,270,0,NA,0,0,1,1,0,0,0,3,0,0,0,0.55,IV,NA,67%,0%
-363856,Mike Ryberg,Frohnauer SC 1946,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-364314,Simon Wollesen,Frohnauer SC 1946,1,0,0,0,0,0,1,0,27,0,NA,0,0,0.3333333333333333,0.3,0,0,0,1,0,0,0,0.17,NA,NA,0%,0%
-496083,Sebastian Paul,Frohnauer SC 1946,3,0,0,0,0,0,0,0,270,0,NA,0,0,1,1,0,0,0,3,0,0,0,0.55,TW,NA,67%,0%
-554078,Dominik Lindhammer,Frohnauer SC 1946,3,0,0,1,0,0,2,1,117,0,NA,0,0,1,0.433,0,0,0,3,0,0,0,0.38,NA,NA,0%,0%
-626171,Nando Hofmann,Frohnauer SC 1946,3,0,0,0,0,0,1,0,201,0,NA,0,0,1,0.744,0,0,0,3,0,0,0,0.47,IV,NA,67%,0%
-763421,Erik Hollnagel,Frohnauer SC 1946,3,0,0,0,0,0,1,0,191,0,NA,0,0,1,0.707,0,0,0,3,0,0,0,0.46,ZDM,NA,67%,0%
-777731,Adrian Domke,Frohnauer SC 1946,2,0,1,0,0,0,0,1,156,0,NA,0,0,0.6666666666666666,0.867,0,0,0,2,0,0,0,0.43,LV,IV,100%,50%
-848203,Andre Stache,Frohnauer SC 1946,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1081182,Marvin Michels,SC Charlottenburg,3,0,0,1,0,0,0,0,270,0,NA,4,0,1,1,3,3,3,0,0.333,1,0.333,0.65,ZDM,ZM,67%,33%
-1105605,Leo Heye,SC Charlottenburg,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1117615,Justin Seidel,SC Charlottenburg,3,0,0,0,0,0,0,0,270,0,NA,4,0,1,1,3,3,3,0,0.333,2,0.667,0.67,TW,NA,100%,0%
-134714,Janos Löbe,SC Charlottenburg,2,0,0,0,0,0,0,2,156,0,NA,4,0,0.6666666666666666,0.867,3,2,2,0,0.5,0,0,0.55,LM,NA,100%,0%
-1488635,Adrian Droszczak,SC Charlottenburg,3,0,0,1,0,0,0,1,269,0,NA,4,0,1,0.996,3,3,3,0,0.333,2,0.667,0.67,IV,LV,67%,33%
-1585482,Omar Saif,SC Charlottenburg,2,0,0,0,0,0,1,1,79,0,NA,4,0,0.6666666666666666,0.439,0,2,2,0,0,0,0,0.3,LM,NA,50%,0%
-1710827,Eliot Tolaj,SC Charlottenburg,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1710831,Nana Kwame Badu-Amoah,SC Charlottenburg,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1826107,Lasse Engelsing,SC Charlottenburg,3,0,0,0,0,0,0,0,270,0,NA,4,0,1,1,3,3,3,0,0.333,0,0,0.63,RM,ZDM,33%,33%
-1980684,Nizar Mestetef,SC Charlottenburg,3,0,0,0,0,0,3,0,107,0,NA,4,0,1,0.396,3,3,3,0,0.333,0,0,0.45,NA,NA,0%,0%
-1985784,Timo Henning Jasper,SC Charlottenburg,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2079666,Kingsley Chigozie Onyemaobi,SC Charlottenburg,2,1,0,0,0,0,2,0,51,0,NA,4,0.25,0.6666666666666666,0.283,3,2,2,0,0.5,0,0,0.41,NA,NA,0%,0%
-2181029,Jonathan Schäfer,SC Charlottenburg,1,0,0,0,0,0,1,0,1,0,NA,4,0,0.3333333333333333,0.011,3,1,1,0,1,0,0,0.34,NA,NA,0%,0%
-2280422,Lukas Neitzel,SC Charlottenburg,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2375517,Abdoul Moumouni Kader Traore,SC Charlottenburg,2,0,0,0,0,0,2,0,10,0,NA,4,0,0.6666666666666666,0.056,3,1,1,1,1,0,0,0.43,NA,NA,0%,0%
-2409749,Aron Mugerwa,SC Charlottenburg,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2449090,Micah Tim Helge,SC Charlottenburg,2,0,0,0,0,0,0,0,180,0,NA,4,0,0.6666666666666666,1,0,2,2,0,0,0,0,0.47,LV,NA,100%,0%
-2452592,Noah Schmitt,SC Charlottenburg,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-434945,Marc Reichel,SC Charlottenburg,3,0,0,1,0,0,0,0,270,0,NA,4,0,1,1,3,3,3,0,0.333,0,0,0.63,IV,NA,100%,0%
-478528,Timo Brinkmann,SC Charlottenburg,2,0,0,0,0,0,0,1,167,0,NA,4,0,0.6666666666666666,0.928,3,2,2,0,0.5,0,0,0.57,IV,RV,50%,50%
-495616,Necmi Ulucay,SC Charlottenburg,3,0,1,0,0,0,0,2,217,0,NA,4,0.25,1,0.804,3,3,3,0,0.333,1,0.333,0.63,ZOM,ZM,67%,33%
-508525,Tugay Göcer,SC Charlottenburg,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-554434,Kai Hörschlein,SC Charlottenburg,2,1,0,0,0,0,0,2,143,0,NA,4,0.25,0.6666666666666666,0.794,0,2,2,0,0,1,0.5,0.47,RM,RV,50%,50%
-554638,Patrick Maykowski,SC Charlottenburg,3,2,0,0,0,0,1,1,191,0,NA,4,0.5,1,0.707,3,3,3,0,0.333,0,0,0.62,RM,ST,33%,33%
-557542,Ahmad Al-Khalaf,SC Charlottenburg,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-578440,Fatih Kücük,SC Charlottenburg,2,0,0,0,0,0,1,0,113,0,NA,4,0,0.6666666666666666,0.628,3,2,2,0,0.5,0,0,0.48,ZM,NA,50%,0%
-670925,Ahmad Selman,SC Charlottenburg,2,0,0,0,0,0,0,2,88,0,NA,4,0,0.6666666666666666,0.489,0,2,2,0,0,1,0.5,0.34,ST,NA,100%,0%
-718904,Ben Lehmann,SC Charlottenburg,3,0,0,0,0,0,2,1,118,0,NA,4,0,1,0.437,3,3,3,0,0.333,0,0,0.46,RV,NA,33%,0%
-1034772,Simon von Hallen,SV Empor Berlin,3,0,0,1,0,0,0,0,270,0,NA,6,0,1,1,1,3,3,0,0.111,0,0,0.58,NA,NA,0%,0%
-1084761,David Schäfer,SV Empor Berlin,2,0,1,0,0,0,2,0,50,0,NA,6,0.167,0.6666666666666666,0.278,1,2,2,0,0.167,0,0,0.32,NA,NA,0%,0%
-1256639,Falk Marquard,SV Empor Berlin,0,0,0,0,0,0,0,0,0,0,NA,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1266763,Valentin Samuel Kurz,SV Empor Berlin,0,0,0,0,0,0,0,0,0,0,NA,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1352216,Benedikt Mehl,SV Empor Berlin,0,0,0,0,0,0,0,0,0,0,NA,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1404837,Paul Nickel,SV Empor Berlin,3,0,0,0,0,0,2,1,115,0,NA,6,0,1,0.426,1,3,3,0,0.111,0,0,0.41,ZDM,NA,33%,0%
-154349,Max Zander,SV Empor Berlin,3,1,0,0,0,0,0,1,248,0,NA,6,0.167,1,0.919,1,3,3,0,0.111,0,0,0.58,ZOM,NA,67%,0%
-1850728,Stanley Schulz,SV Empor Berlin,3,0,0,0,0,0,0,3,175,0,NA,6,0,1,0.648,1,3,3,0,0.111,0,0,0.47,ZOM,NA,67%,0%
-1966211,Lucas Samuel Mc Isaac Ibanez,SV Empor Berlin,0,0,0,0,0,0,0,0,0,0,NA,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1202654,Amat Chaw,TSV Mariendorf 1897,3,0,0,1,0,0,0,0,270,0,22,6,0,1,1,4,3,3,0,0.444,1,0.333,0.68,TW,NA,100%,0%
+1296929,Mehmet-Can Senocak,TSV Mariendorf 1897,3,4,0,0,0,0,1,1,198,1,25,6,0.667,1,0.733,4,3,3,0,0.444,1,0.333,0.7,ST,NA,67%,0%
+1356165,Malte Fürst,TSV Mariendorf 1897,2,0,0,1,0,0,1,0,124,0,0,6,0,0.6666666666666666,0.689,4,3,3,-1,0.444,0,0,0.48,IV,LV,50%,50%
+1434884,Ali Mohammed Kasola,TSV Mariendorf 1897,3,0,0,0,0,0,0,2,241,0,30,6,0,1,0.893,4,3,3,0,0.444,2,0.667,0.66,ZM,LM,67%,33%
+1530035,Vincent Bühler,TSV Mariendorf 1897,2,0,1,0,0,0,2,0,63,0,0,6,0.167,0.6666666666666666,0.35,3,2,2,0,0.5,0,0,0.42,NA,NA,0%,0%
+1556982,Louis Kromat,TSV Mariendorf 1897,3,0,0,0,0,0,1,1,175,2,21,6,0,1,0.648,4,3,3,0,0.444,0,0,0.56,LM,NA,67%,0%
+1892813,Tugay Ulusoy,TSV Mariendorf 1897,3,0,1,2,0,0,1,2,188,0,99,6,0.167,1,0.696,4,3,3,0,0.444,0,0,0.59,RM,NA,67%,0%
+2031931,Omran Iraqi,TSV Mariendorf 1897,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2051556,Rui Marcel Peixoto,TSV Mariendorf 1897,2,0,0,0,0,0,1,1,66,0,3,6,0,0.6666666666666666,0.367,0,0,0,2,0,0,0,0.28,NA,NA,0%,0%
+2055024,Abdulkarim Mechlaoui,TSV Mariendorf 1897,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2133852,Marten Schröder,TSV Mariendorf 1897,0,0,0,0,0,0,0,0,0,0,1,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2211450,Mohammed Aljorani,TSV Mariendorf 1897,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2239379,Wesa Den Araujo Van-Dunem,TSV Mariendorf 1897,3,1,0,1,0,0,1,2,140,0,8,6,0.167,1,0.519,1,1,1,2,0.333,0,0,0.51,NA,NA,0%,0%
+2406638,Arad Zardoshtian,TSV Mariendorf 1897,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,ZDM,LM,0%,0%
+2463234,Jegor Kiuskins,TSV Mariendorf 1897,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2469874,Daniel Veilert,TSV Mariendorf 1897,2,0,0,0,0,0,0,2,143,0,27,6,0,0.6666666666666666,0.794,4,2,2,0,0.667,0,0,0.57,IV,RM,50%,50%
+2469879,Bendix Kadji,TSV Mariendorf 1897,2,0,0,0,0,0,2,0,14,0,39,6,0,0.6666666666666666,0.078,0,0,0,2,0,0,0,0.19,NA,NA,0%,0%
+260745,Pascal Jan Wedemann,TSV Mariendorf 1897,1,0,1,0,0,0,0,0,90,0,0,6,0.167,0.3333333333333333,1,3,1,1,0,1,1,1,0.71,IV,NA,100%,0%
+602026,Alianni Urgelles Montoya,TSV Mariendorf 1897,3,1,0,0,0,0,1,0,212,0,20,6,0.167,1,0.785,1,2,2,1,0.167,0,0,0.55,ZM,NA,33%,0%
+626155,Erik-Paul Pfannschmidt,TSV Mariendorf 1897,3,0,1,1,0,0,1,0,205,0,6,6,0.167,1,0.759,4,3,3,0,0.444,0,0,0.61,ZM,NA,67%,0%
+665385,Yusuf Yorguner,TSV Mariendorf 1897,2,0,0,0,0,0,1,1,59,0,17,6,0,0.6666666666666666,0.328,1,2,2,0,0.167,0,0,0.31,ST,NA,50%,0%
+678219,David Rosner,TSV Mariendorf 1897,2,0,0,0,0,0,0,1,171,0,4,6,0,0.6666666666666666,0.95,1,2,2,0,0.167,0,0,0.49,IV,NA,100%,0%
+733543,Eren Özer,TSV Mariendorf 1897,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+767982,Benjamin Tutic,TSV Mariendorf 1897,3,0,1,0,0,0,1,1,161,1,19,6,0.167,1,0.596,4,3,3,0,0.444,0,0,0.56,RV,ZM,33%,33%
+870865,Jannis Krieger,TSV Mariendorf 1897,1,0,0,0,0,0,0,0,90,0,29,6,0,0.3333333333333333,1,1,1,1,0,0.333,0,0,0.47,ST,NA,100%,0%
+94532,Julian Austermann,TSV Mariendorf 1897,3,0,0,0,0,0,0,0,270,0,18,6,0,1,1,4,3,3,0,0.444,1,0.333,0.68,IV,RV,67%,33%
+94712,Pascal Matthias,TSV Mariendorf 1897,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+114838,Süleyman Kapan,erlin Türkspor,2,2,0,0,0,0,0,0,180,0,0,9,0.222,0.6666666666666666,1,3,2,2,0,0.5,0,0,0.62,ST,NA,100%,0%
+1264965,Umut Satici,erlin Türkspor,1,0,0,0,0,0,1,1,21,0,0,9,0,0.3333333333333333,0.233,0,1,1,0,0,0,0,0.15,NA,NA,0%,0%
+1378159,Nesta Gabriel Jean-Louis,erlin Türkspor,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1551632,Mame Cheikh Diop,erlin Türkspor,1,0,0,0,0,0,1,0,11,0,3,9,0,0.3333333333333333,0.122,3,1,1,0,1,0,0,0.37,NA,NA,0%,0%
+1555043,Aristotelis Dougalis,erlin Türkspor,2,0,0,0,0,0,2,0,71,0,21,9,0,0.6666666666666666,0.394,6,2,2,0,1,0,0,0.53,NA,NA,0%,0%
+1617091,Tristan Krien,erlin Türkspor,3,0,0,1,0,0,3,0,42,0,19,9,0,1,0.156,6,3,3,0,0.667,0,0,0.46,NA,NA,0%,0%
+1697525,Leon Haake,erlin Türkspor,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1844070,Jonas Mukuku Zola,erlin Türkspor,3,0,0,2,0,0,0,3,169,0,17,9,0,1,0.626,3,1,1,2,1,0,0,0.69,ST,NA,33%,0%
+1873213,Mapalo Korntreff,erlin Türkspor,3,0,1,0,0,0,0,2,258,0,25,9,0.111,1,0.956,3,2,2,1,0.5,0,0,0.68,LM,ZOM,33%,33%
+1915207,Frank Maikoga,erlin Türkspor,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2029528,Mahdi Soueidan,erlin Türkspor,0,0,0,0,0,0,0,0,0,0,NA,9,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2188843,Artin Zardoshtian,erlin Türkspor,3,1,2,1,0,0,0,0,270,1,27,9,0.333,1,1,6,3,3,0,0.667,2,0.667,0.8,ZDM,LM,67%,33%
+2239946,Viktor Pokataiev,erlin Türkspor,1,0,0,0,0,0,0,0,90,0,23,9,0,0.3333333333333333,1,3,1,1,0,1,0,0,0.63,TW,NA,100%,0%
+2291260,Benjamin Heymann,erlin Türkspor,2,1,0,1,0,0,0,1,154,1,11,9,0.111,0.6666666666666666,0.856,6,2,2,0,1,0,0,0.69,LM,ZM,50%,50%
+2355034,King David Yeboah Frimpong Szigath,erlin Türkspor,1,0,0,0,0,0,1,0,5,0,99,9,0,0.3333333333333333,0.056,3,1,1,0,1,0,0,0.35,NA,NA,0%,0%
+2409743,Jahi Hyseni,erlin Türkspor,0,0,0,0,0,0,0,0,0,0,NA,9,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2426055,Prince Collins Idemudia,erlin Türkspor,1,0,0,0,0,0,1,0,5,0,5,9,0,0.3333333333333333,0.056,3,1,1,0,1,0,0,0.35,NA,NA,0%,0%
+420083,Leon Bätge,erlin Türkspor,2,0,0,0,0,0,0,0,180,0,1,9,0,0.6666666666666666,1,3,2,2,0,0.5,0,0,0.59,TW,NA,100%,0%
+45029,Emre Turan,erlin Türkspor,3,2,0,0,0,0,0,1,265,0,24,9,0.222,1,0.981,6,3,3,0,0.667,0,0,0.74,IV,NA,100%,0%
+537868,Sefa Kahraman,erlin Türkspor,3,1,0,2,0,0,0,1,259,0,37,9,0.111,1,0.959,6,3,3,0,0.667,1,0.333,0.74,IV,NA,100%,0%
+670797,Kürsat Mahmut Cicek,erlin Türkspor,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+838407,Panagiotis Vassiliadis,erlin Türkspor,3,1,0,0,0,0,0,0,270,0,2,9,0.111,1,1,6,3,3,0,0.667,0,0,0.73,RV,IV,67%,33%
+870836,Joe Williams,erlin Türkspor,3,0,0,0,0,0,0,0,270,0,8,9,0,1,1,6,3,3,0,0.667,3,1,0.77,LV,ZM,67%,33%
+889415,Ahmad Rmieh,erlin Türkspor,2,0,1,0,1,0,0,0,176,0,7,9,0.111,0.6666666666666666,0.978,3,2,2,0,0.5,1,0.5,0.63,ZDM,ZM,50%,50%
+939992,Halit Bacak,erlin Türkspor,3,0,1,1,0,0,0,0,270,0,10,9,0.111,1,1,6,3,3,0,0.667,2,0.667,0.77,RM,ZDM,33%,33%
+1052222,Nils Ehritt,Frohnauer SC,3,0,0,1,0,0,0,0,270,3,11,7,0,1,1,6,2,2,1,1,0,0,0.8,RV,NA,67%,0%
+1426545,Marlon Mörcke,Frohnauer SC,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1439799,Philipp Walter,Frohnauer SC,3,0,0,0,0,0,2,1,110,0,20,7,0,1,0.407,3,1,1,2,1,0,0,0.62,LM,ST,33%,33%
+1439801,Lasse Eickhoff,Frohnauer SC,2,1,0,1,0,0,1,1,80,0,92,7,0.143,0.6666666666666666,0.444,6,2,2,0,1,0,0,0.57,NA,NA,0%,0%
+1439802,Lucas Rindermann,Frohnauer SC,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1439803,Levi Arend,Frohnauer SC,2,0,0,0,0,0,2,0,31,0,19,7,0,0.6666666666666666,0.172,3,1,1,1,1,0,0,0.47,NA,NA,0%,0%
+1602549,Luis Seiffert,Frohnauer SC,3,0,1,0,0,0,1,2,137,0,22,7,0.143,1,0.507,3,1,1,2,1,0,0,0.67,NA,NA,0%,0%
+1617836,Amir Sassi,Frohnauer SC,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1819221,Lars Weber,Frohnauer SC,0,0,0,0,0,0,0,0,0,0,28,7,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1892793,Tidjan Barnes,Frohnauer SC,3,0,1,1,0,0,2,1,143,0,23,7,0.143,1,0.53,6,2,2,1,1,0,0,0.68,NA,NA,0%,0%
+1905237,Maximilian Mundt,Frohnauer SC,3,1,0,0,0,0,1,2,155,0,24,7,0.143,1,0.574,6,2,2,1,1,0,0,0.69,RM,NA,33%,0%
+1917045,Buba Ceesay,Frohnauer SC,2,1,1,0,0,0,0,2,128,0,9,7,0.286,0.6666666666666666,0.711,3,1,1,1,1,1,0.5,0.7,ST,NA,100%,0%
+2044780,Jacob Schäfer,Frohnauer SC,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2061473,Oscar Adams Llorente,Frohnauer SC,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2170597,Benjamin Ritschl,Frohnauer SC,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2194620,Isaac Manu Kyere,Frohnauer SC,3,2,0,0,0,0,0,2,261,1,15,7,0.286,1,0.967,6,2,2,1,1,1,0.333,0.85,LM,NA,67%,0%
+2315596,Rangga Musiol,Frohnauer SC,3,2,0,1,0,0,0,1,244,0,10,7,0.286,1,0.904,6,2,2,1,1,0,0,0.81,ZOM,NA,67%,0%
+2327023,Bachar Said,Frohnauer SC,3,0,2,1,0,0,1,1,179,0,21,7,0.286,1,0.663,0,0,0,3,0,0,0,0.49,NA,NA,0%,0%
+2379250,Nico Horvat,Frohnauer SC,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2396031,Charlie Werner,Frohnauer SC,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2455807,Dominik Kuppler,Frohnauer SC,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+273708,Tobias Hampel,Frohnauer SC,3,0,0,0,0,0,0,0,270,0,17,7,0,1,1,6,2,2,1,1,1,0.333,0.82,IV,NA,67%,0%
+363856,Mike Ryberg,Frohnauer SC,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+364314,Simon Wollesen,Frohnauer SC,1,0,0,0,0,0,1,0,27,0,0,7,0,0.3333333333333333,0.3,3,1,1,0,1,0,0,0.42,NA,NA,0%,0%
+496083,Sebastian Paul,Frohnauer SC,3,0,0,0,0,0,0,0,270,0,1,7,0,1,1,6,2,2,1,1,0,0,0.8,TW,NA,67%,0%
+554078,Dominik Lindhammer,Frohnauer SC,3,0,0,1,0,0,2,1,117,0,6,7,0,1,0.433,6,2,2,1,1,0,0,0.63,NA,NA,0%,0%
+626171,Nando Hofmann,Frohnauer SC,3,0,0,0,0,0,1,0,201,0,8,7,0,1,0.744,6,2,2,1,1,1,0.333,0.74,IV,NA,67%,0%
+763421,Erik Hollnagel,Frohnauer SC,3,0,0,0,0,0,1,0,191,0,27,7,0,1,0.707,6,2,2,1,1,1,0.333,0.73,ZDM,NA,67%,0%
+777731,Adrian Domke,Frohnauer SC,2,0,1,0,0,0,0,1,156,0,4,7,0.143,0.6666666666666666,0.867,3,1,1,1,1,0,0,0.7,LV,IV,100%,50%
+848203,Andre Stache,Frohnauer SC,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1081182,Marvin Michels,SC Charlottenburg,3,0,0,1,0,0,0,0,270,0,7,4,0,1,1,3,3,3,0,0.333,1,0.333,0.65,ZDM,ZM,67%,33%
+1105605,Leo Heye,SC Charlottenburg,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1117615,Justin Seidel,SC Charlottenburg,3,0,0,0,0,0,0,0,270,0,30,4,0,1,1,3,3,3,0,0.333,2,0.667,0.67,TW,NA,100%,0%
+134714,Janos Löbe,SC Charlottenburg,2,0,0,0,0,0,0,2,156,0,0,4,0,0.6666666666666666,0.867,3,2,2,0,0.5,0,0,0.55,LM,NA,100%,0%
+1488635,Adrian Droszczak,SC Charlottenburg,3,0,0,1,0,0,0,1,269,0,15,4,0,1,0.996,3,3,3,0,0.333,2,0.667,0.67,IV,LV,67%,33%
+1585482,Omar Saif,SC Charlottenburg,2,0,0,0,0,0,1,1,79,0,14,4,0,0.6666666666666666,0.439,0,2,2,0,0,0,0,0.3,LM,NA,50%,0%
+1710827,Eliot Tolaj,SC Charlottenburg,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1710831,Nana Kwame Badu-Amoah,SC Charlottenburg,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1826107,Lasse Engelsing,SC Charlottenburg,3,0,0,0,0,0,0,0,270,0,16,4,0,1,1,3,3,3,0,0.333,0,0,0.63,RM,ZDM,33%,33%
+1980684,Nizar Mestetef,SC Charlottenburg,3,0,0,0,0,0,3,0,107,0,28,4,0,1,0.396,3,3,3,0,0.333,0,0,0.45,NA,NA,0%,0%
+1985784,Timo Henning Jasper,SC Charlottenburg,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2079666,Kingsley Chigozie Onyemaobi,SC Charlottenburg,2,1,0,0,0,0,2,0,51,0,4,4,0.25,0.6666666666666666,0.283,3,2,2,0,0.5,0,0,0.41,NA,NA,0%,0%
+2181029,Jonathan Schäfer,SC Charlottenburg,1,0,0,0,0,0,1,0,1,0,0,4,0,0.3333333333333333,0.011,3,1,1,0,1,0,0,0.34,NA,NA,0%,0%
+2280422,Lukas Neitzel,SC Charlottenburg,0,0,0,0,0,0,0,0,0,0,92,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2375517,Abdoul Moumouni Kader Traore,SC Charlottenburg,2,0,0,0,0,0,2,0,10,0,29,4,0,0.6666666666666666,0.056,3,1,1,1,1,0,0,0.43,NA,NA,0%,0%
+2409749,Aron Mugerwa,SC Charlottenburg,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2449090,Micah Tim Helge,SC Charlottenburg,2,0,0,0,0,0,0,0,180,0,13,4,0,0.6666666666666666,1,0,2,2,0,0,0,0,0.47,LV,NA,100%,0%
+2452592,Noah Schmitt,SC Charlottenburg,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+434945,Marc Reichel,SC Charlottenburg,3,0,0,1,0,0,0,0,270,0,25,4,0,1,1,3,3,3,0,0.333,0,0,0.63,IV,NA,100%,0%
+478528,Timo Brinkmann,SC Charlottenburg,2,0,0,0,0,0,0,1,167,0,20,4,0,0.6666666666666666,0.928,3,2,2,0,0.5,0,0,0.57,IV,RV,50%,50%
+495616,Necmi Ulucay,SC Charlottenburg,3,0,1,0,0,0,0,2,217,0,10,4,0.25,1,0.804,3,3,3,0,0.333,1,0.333,0.63,ZOM,ZM,67%,33%
+508525,Tugay Göcer,SC Charlottenburg,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+554434,Kai Hörschlein,SC Charlottenburg,2,1,0,0,0,0,0,2,143,0,0,4,0.25,0.6666666666666666,0.794,0,2,2,0,0,1,0.5,0.47,RM,RV,50%,50%
+554638,Patrick Maykowski,SC Charlottenburg,3,2,0,0,0,0,1,1,191,0,27,4,0.5,1,0.707,3,3,3,0,0.333,0,0,0.62,RM,ST,33%,33%
+557542,Ahmad Al-Khalaf,SC Charlottenburg,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+578440,Fatih Kücük,SC Charlottenburg,2,0,0,0,0,0,1,0,113,0,0,4,0,0.6666666666666666,0.628,3,2,2,0,0.5,0,0,0.48,ZM,NA,50%,0%
+670925,Ahmad Selman,SC Charlottenburg,2,0,0,0,0,0,0,2,88,0,8,4,0,0.6666666666666666,0.489,0,2,2,0,0,1,0.5,0.34,ST,NA,100%,0%
+718904,Ben Lehmann,SC Charlottenburg,3,0,0,0,0,0,2,1,118,0,3,4,0,1,0.437,3,3,3,0,0.333,0,0,0.46,RV,NA,33%,0%
+1034772,Simon von Hallen,SV Empor Berlin,3,0,0,1,0,0,0,0,270,0,1,6,0,1,1,1,3,3,0,0.111,0,0,0.58,NA,NA,0%,0%
+1084761,David Schäfer,SV Empor Berlin,2,0,1,0,0,0,2,0,50,0,21,6,0.167,0.6666666666666666,0.278,1,2,2,0,0.167,0,0,0.32,NA,NA,0%,0%
+1256639,Falk Marquard,SV Empor Berlin,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1266763,Valentin Samuel Kurz,SV Empor Berlin,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1352216,Benedikt Mehl,SV Empor Berlin,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1404837,Paul Nickel,SV Empor Berlin,3,0,0,0,0,0,2,1,115,0,20,6,0,1,0.426,1,3,3,0,0.111,0,0,0.41,ZDM,NA,33%,0%
+154349,Max Zander,SV Empor Berlin,3,1,0,0,0,0,0,1,248,0,10,6,0.167,1,0.919,1,3,3,0,0.111,0,0,0.58,ZOM,NA,67%,0%
+1850728,Stanley Schulz,SV Empor Berlin,3,0,0,0,0,0,0,3,175,0,23,6,0,1,0.648,1,3,3,0,0.111,0,0,0.47,ZOM,NA,67%,0%
+1966211,Lucas Samuel Mc Isaac Ibanez,SV Empor Berlin,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
 1976037,Louis Franz Wesner,SV Empor Berlin,0,0,0,0,0,0,0,0,0,0,NA,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1979836,Vincent Lange,SV Empor Berlin,0,0,0,0,0,0,0,0,0,0,NA,6,0,0,0,0,0,0,0,0,0,0,0,ZM,NA,0%,0%
-2055523,Arthur Pschyrembel,SV Empor Berlin,0,0,0,0,0,0,0,0,0,0,NA,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2084397,Leopold Neumeier,SV Empor Berlin,3,0,0,0,0,0,2,1,134,0,NA,6,0,1,0.496,1,3,3,0,0.111,0,0,0.43,IV,NA,33%,0%
-2233337,Luis Ploschenz,SV Empor Berlin,1,0,0,0,0,0,1,0,20,0,NA,6,0,0.3333333333333333,0.222,1,1,1,0,0.333,0,0,0.23,NA,NA,0%,0%
-2274248,Jason Kofi Appiah,SV Empor Berlin,3,0,1,0,0,0,1,1,179,0,NA,6,0.167,1,0.663,1,3,3,0,0.111,0,0,0.5,RM,NA,67%,0%
-302247,Maurice Peitz,SV Empor Berlin,0,0,0,0,0,0,0,0,0,0,NA,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-312159,Mathias Felix Wenger,SV Empor Berlin,3,0,2,0,0,0,0,3,196,0,NA,6,0.333,1,0.726,1,3,3,0,0.111,0,0,0.55,RV,NA,67%,0%
-32364,Quentin Paul Albrecht,SV Empor Berlin,3,5,0,0,0,0,0,0,270,0,NA,6,0.833,1,1,0,2,2,1,0,1,0.333,0.69,ST,NA,33%,0%
-441881,Daniel Alankus,SV Empor Berlin,2,0,0,0,0,0,2,0,38,0,NA,6,0,0.6666666666666666,0.211,1,2,2,0,0.167,0,0,0.27,NA,NA,0%,0%
-485537,Michele La Pietra,SV Empor Berlin,0,0,0,0,0,0,0,0,0,0,NA,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-495599,David Garnczarek,SV Empor Berlin,0,0,0,0,0,0,0,0,0,0,NA,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-496045,Roman Hübner,SV Empor Berlin,1,0,0,0,0,0,1,0,13,0,NA,6,0,0.3333333333333333,0.144,0,1,1,0,0,0,0,0.13,NA,NA,0%,0%
-496051,Dennis Wegner,SV Empor Berlin,1,0,0,0,0,0,0,0,90,0,NA,6,0,0.3333333333333333,1,0,1,1,0,0,0,0,0.38,ZDM,NA,100%,0%
-508533,Trung Hieu Ngo,SV Empor Berlin,0,0,0,0,0,0,0,0,0,0,NA,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-633055,Marian Ruhberg,SV Empor Berlin,0,0,0,0,0,0,0,0,0,0,NA,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-665320,Can Sakar,SV Empor Berlin,2,0,0,1,0,0,2,0,59,0,NA,6,0,0.6666666666666666,0.328,1,2,2,0,0.167,0,0,0.31,NA,NA,0%,0%
-666810,Tom Stutzke,SV Empor Berlin,1,0,0,0,0,0,1,0,29,0,NA,6,0,0.3333333333333333,0.322,1,1,1,0,0.333,0,0,0.26,NA,NA,0%,0%
-681126,Tarik Khettal,SV Empor Berlin,3,0,0,2,0,0,0,0,270,0,NA,6,0,1,1,1,3,3,0,0.111,0,0,0.58,IV,NA,67%,0%
-681356,Hendrik Kühn,SV Empor Berlin,2,0,0,0,0,0,0,1,149,0,NA,6,0,0.6666666666666666,0.828,0,2,2,0,0,0,0,0.42,IV,NA,50%,0%
-681357,Leonardo Meirelles-Hartmann,SV Empor Berlin,3,0,0,1,0,0,0,1,257,0,NA,6,0,1,0.952,1,3,3,0,0.111,0,0,0.56,LV,NA,67%,0%
-710855,Lukas Boateng,SV Empor Berlin,1,0,0,0,0,0,0,1,67,0,NA,6,0,0.3333333333333333,0.744,0,1,1,0,0,0,0,0.31,NA,NA,0%,0%
-739799,Nikolai Wolany,SV Empor Berlin,0,0,0,0,0,0,0,0,0,0,NA,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-763854,Arnaud Salla,SV Empor Berlin,0,0,0,0,0,0,0,0,0,0,NA,6,0,0,0,0,0,0,0,0,0,0,0,LV,NA,0%,0%
-832713,Tim Falk,SV Empor Berlin,1,0,0,0,0,0,0,1,67,0,NA,6,0,0.3333333333333333,0.744,0,1,1,0,0,0,0,0.31,NA,NA,0%,0%
-890602,Simon Albrecht,SV Empor Berlin,1,0,0,0,0,0,1,1,4,0,NA,6,0,0.3333333333333333,0.044,0,2,2,-1,0,1,1,0.15,ST,NA,100%,0%
-939984,Joris Möller,SV Empor Berlin,3,0,0,0,0,0,0,0,270,0,NA,6,0,1,1,1,3,3,0,0.111,0,0,0.58,LM,NA,67%,0%
-1045699,Florent Iseni,FSV Spandauer Kickers,3,0,0,1,0,0,1,1,168,0,NA,5,0,1,0.622,7,3,3,0,0.778,1,0.333,0.65,IV,NA,67%,0%
-114001,Jack Krumnow,FSV Spandauer Kickers,3,0,0,0,1,0,0,0,265,0,NA,5,0,1,0.981,0,0,0,3,0,1,0.333,0.56,NA,NA,0%,0%
-1353320,Max Steinfels,FSV Spandauer Kickers,0,0,0,0,0,0,0,0,0,0,NA,5,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1979836,Vincent Lange,SV Empor Berlin,0,0,0,0,0,0,0,0,0,0,35,6,0,0,0,0,0,0,0,0,0,0,0,ZM,NA,0%,0%
+2055523,Arthur Pschyrembel,SV Empor Berlin,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2084397,Leopold Neumeier,SV Empor Berlin,3,0,0,0,0,0,2,1,134,0,27,6,0,1,0.496,1,3,3,0,0.111,0,0,0.43,IV,NA,33%,0%
+2233337,Luis Ploschenz,SV Empor Berlin,1,0,0,0,0,0,1,0,20,0,0,6,0,0.3333333333333333,0.222,1,1,1,0,0.333,0,0,0.23,NA,NA,0%,0%
+2274248,Jason Kofi Appiah,SV Empor Berlin,3,0,1,0,0,0,1,1,179,0,7,6,0.167,1,0.663,1,3,3,0,0.111,0,0,0.5,RM,NA,67%,0%
+302247,Maurice Peitz,SV Empor Berlin,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+312159,Mathias Felix Wenger,SV Empor Berlin,3,0,2,0,0,0,0,3,196,0,25,6,0.333,1,0.726,1,3,3,0,0.111,0,0,0.55,RV,NA,67%,0%
+32364,Quentin Paul Albrecht,SV Empor Berlin,3,5,0,0,0,0,0,0,270,0,9,6,0.833,1,1,0,2,2,1,0,1,0.333,0.69,ST,NA,33%,0%
+441881,Daniel Alankus,SV Empor Berlin,2,0,0,0,0,0,2,0,38,0,0,6,0,0.6666666666666666,0.211,1,2,2,0,0.167,0,0,0.27,NA,NA,0%,0%
+485537,Michele La Pietra,SV Empor Berlin,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+495599,David Garnczarek,SV Empor Berlin,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+496045,Roman Hübner,SV Empor Berlin,1,0,0,0,0,0,1,0,13,0,13,6,0,0.3333333333333333,0.144,0,1,1,0,0,0,0,0.13,NA,NA,0%,0%
+496051,Dennis Wegner,SV Empor Berlin,1,0,0,0,0,0,0,0,90,0,6,6,0,0.3333333333333333,1,0,1,1,0,0,0,0,0.38,ZDM,NA,100%,0%
+508533,Trung Hieu Ngo,SV Empor Berlin,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+633055,Marian Ruhberg,SV Empor Berlin,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+665320,Can Sakar,SV Empor Berlin,2,0,0,1,0,0,2,0,59,0,36,6,0,0.6666666666666666,0.328,1,2,2,0,0.167,0,0,0.31,NA,NA,0%,0%
+666810,Tom Stutzke,SV Empor Berlin,1,0,0,0,0,0,1,0,29,0,0,6,0,0.3333333333333333,0.322,1,1,1,0,0.333,0,0,0.26,NA,NA,0%,0%
+681126,Tarik Khettal,SV Empor Berlin,3,0,0,2,0,0,0,0,270,0,33,6,0,1,1,1,3,3,0,0.111,0,0,0.58,IV,NA,67%,0%
+681356,Hendrik Kühn,SV Empor Berlin,2,0,0,0,0,0,0,1,149,0,15,6,0,0.6666666666666666,0.828,0,2,2,0,0,0,0,0.42,IV,NA,50%,0%
+681357,Leonardo Meirelles-Hartmann,SV Empor Berlin,3,0,0,1,0,0,0,1,257,0,14,6,0,1,0.952,1,3,3,0,0.111,0,0,0.56,LV,NA,67%,0%
+710855,Lukas Boateng,SV Empor Berlin,1,0,0,0,0,0,0,1,67,0,0,6,0,0.3333333333333333,0.744,0,1,1,0,0,0,0,0.31,NA,NA,0%,0%
+739799,Nikolai Wolany,SV Empor Berlin,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+763854,Arnaud Salla,SV Empor Berlin,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,LV,NA,0%,0%
+832713,Tim Falk,SV Empor Berlin,1,0,0,0,0,0,0,1,67,0,3,6,0,0.3333333333333333,0.744,0,1,1,0,0,0,0,0.31,NA,NA,0%,0%
+890602,Simon Albrecht,SV Empor Berlin,1,0,0,0,0,0,1,1,4,0,0,6,0,0.3333333333333333,0.044,0,2,2,-1,0,1,1,0.15,ST,NA,100%,0%
+939984,Joris Möller,SV Empor Berlin,3,0,0,0,0,0,0,0,270,0,11,6,0,1,1,1,3,3,0,0.111,0,0,0.58,LM,NA,67%,0%
+1045699,Florent Iseni,FSV Spandauer Kickers,3,0,0,1,0,0,1,1,168,0,5,5,0,1,0.622,7,3,3,0,0.778,1,0.333,0.65,IV,NA,67%,0%
+114001,Jack Krumnow,FSV Spandauer Kickers,3,0,0,0,1,0,0,0,265,0,30,5,0,1,0.981,0,0,0,3,0,1,0.333,0.56,NA,NA,0%,0%
+1353320,Max Steinfels,FSV Spandauer Kickers,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
 1353364,Malick Fall,FSV Spandauer Kickers,0,0,0,0,0,0,0,0,0,0,NA,5,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1353384,Luke Möllers,FSV Spandauer Kickers,0,0,0,0,0,0,0,0,0,0,NA,5,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1370547,Tchanawe Tunde Kris-Walick Odoubiyi Cocou,FSV Spandauer Kickers,3,0,0,0,0,0,3,0,40,0,NA,5,0,1,0.148,1,1,1,2,0.333,0,0,0.38,NA,NA,0%,0%
-1771761,Felix Erkelenz,FSV Spandauer Kickers,0,0,0,0,0,0,0,0,0,0,NA,5,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1771773,Matti-Arne Waltersdorf,FSV Spandauer Kickers,0,0,0,0,0,0,0,0,0,0,NA,5,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1842754,Jakub Ado Klepczynski,FSV Spandauer Kickers,3,0,0,0,0,0,0,0,270,0,NA,5,0,1,1,7,3,3,0,0.778,1,0.333,0.76,IV,NA,100%,0%
-1892822,Vincent Kuckei,FSV Spandauer Kickers,3,0,0,1,0,0,0,2,255,0,NA,5,0,1,0.944,7,3,3,0,0.778,0,0,0.73,ZOM,ZM,67%,33%
-1892906,Tiziano Szuwarski,FSV Spandauer Kickers,2,0,0,0,1,0,0,0,151,0,NA,5,0,0.6666666666666666,0.839,4,2,2,0,0.667,0,0,0.59,LM,LV,50%,50%
-2030725,Isaac Vefonge Wana,FSV Spandauer Kickers,3,0,0,1,0,0,0,0,270,0,NA,5,0,1,1,0,0,0,3,0,0,0,0.55,NA,NA,0%,0%
-2033298,Abbas Jizzini,FSV Spandauer Kickers,0,0,0,0,0,0,0,0,0,0,NA,5,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2096542,Serhii Zhemchuzhnyi,FSV Spandauer Kickers,0,0,0,0,0,0,0,0,0,0,NA,5,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2278345,Elias Wesner,FSV Spandauer Kickers,0,0,0,0,0,0,0,0,0,0,NA,5,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2430153,Arda Sahin,FSV Spandauer Kickers,0,0,0,0,0,0,0,0,0,0,NA,5,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2446586,Matti Kittler,FSV Spandauer Kickers,0,0,0,0,0,0,0,0,0,0,NA,5,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2457649,Luca Pomorin,FSV Spandauer Kickers,0,0,0,0,0,0,0,0,0,0,NA,5,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-260743,Tugay Uzan,FSV Spandauer Kickers,2,1,0,1,0,0,0,2,140,0,NA,5,0.2,0.6666666666666666,0.778,6,2,2,0,1,1,0.5,0.71,ST,NA,50%,0%
-312633,Gino Krumnow,FSV Spandauer Kickers,0,0,0,0,0,0,0,0,0,0,NA,5,0,0,0,0,0,0,0,0,1,0,0,NA,NA,0%,0%
-499200,Fabian Senninger,FSV Spandauer Kickers,3,0,0,0,0,0,0,2,243,0,NA,5,0,1,0.9,7,3,3,0,0.778,1,0.333,0.73,ZDM,ZM,67%,33%
-519258,Okan Tastan,FSV Spandauer Kickers,3,3,0,1,0,0,0,2,252,1,NA,5,0.6,1,0.933,7,3,3,0,0.778,0,0,0.81,ST,NA,100%,0%
-557103,Julian Mosni,FSV Spandauer Kickers,0,0,0,0,0,0,0,0,0,0,NA,5,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-562750,Dominik Dampke,FSV Spandauer Kickers,0,0,0,0,0,0,0,0,0,0,NA,5,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-585513,Steffen Sawallich,FSV Spandauer Kickers,3,0,0,0,0,0,3,1,51,0,NA,5,0,1,0.189,7,3,3,0,0.778,0,0,0.5,NA,NA,0%,0%
-665791,Samuel Agyei-Yeboah,FSV Spandauer Kickers,3,0,0,0,0,0,2,1,99,0,NA,5,0,1,0.367,7,3,3,0,0.778,0,0,0.55,ST,NA,33%,0%
-755026,David Gezer,FSV Spandauer Kickers,2,0,0,1,0,0,2,0,12,0,NA,5,0,0.6666666666666666,0.067,6,2,2,0,1,0,0,0.44,NA,NA,0%,0%
-788680,Nils Gardeike,FSV Spandauer Kickers,3,0,0,2,0,0,0,0,270,2,NA,5,0,1,1,4,2,2,1,0.667,2,0.667,0.75,TW,NA,67%,0%
-794970,Khasan Dzhaukhar,FSV Spandauer Kickers,3,1,0,0,0,0,0,0,270,1,NA,5,0.2,1,1,7,3,3,0,0.778,0,0,0.77,LM,RV,33%,33%
-905766,Klaus Oldorff,FSV Spandauer Kickers,2,0,0,1,0,0,0,0,180,0,NA,5,0,0.6666666666666666,1,3,1,1,1,1,1,0.5,0.74,RM,NA,50%,0%
-1261234,Nico Samuel Wobeser,SFC Stern 1900,3,0,0,0,0,0,1,0,237,0,NA,4,0,1,0.878,4,3,3,0,0.444,0,0,0.62,IV,NA,67%,0%
-1292090,Cihan Caliskan,SFC Stern 1900,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1359548,Oliver Gantzberg,SFC Stern 1900,3,1,0,0,0,0,0,1,262,0,NA,4,0.25,1,0.97,4,3,3,0,0.444,1,0.333,0.71,ZOM,NA,100%,0%
-1366319,Omar Hajjaj,SFC Stern 1900,2,0,0,0,0,0,0,1,135,0,NA,4,0,0.6666666666666666,0.75,1,2,2,0,0.167,0,0,0.43,IV,ZDM,50%,50%
-1390296,Nicolas Fäßler,SFC Stern 1900,3,1,0,0,0,0,1,2,169,0,NA,4,0.25,1,0.626,4,3,3,0,0.444,0,0,0.59,ST,NA,67%,0%
-1527417,Jordan Thurau,SFC Stern 1900,3,1,0,0,0,0,2,1,113,0,NA,4,0.25,1,0.419,4,3,3,0,0.444,0,0,0.52,LM,NA,33%,0%
-1607311,Jörn Reher,SFC Stern 1900,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1827483,Ibrahim Kalil Keita,SFC Stern 1900,2,0,0,0,0,0,1,1,112,0,NA,4,0,0.6666666666666666,0.622,4,3,3,-1,0.444,1,0.5,0.49,RM,NA,50%,0%
-1873236,Colin Drost,SFC Stern 1900,1,0,0,0,0,0,1,0,45,0,NA,4,0,0.3333333333333333,0.5,1,1,1,0,0.333,0,0,0.32,NA,NA,0%,0%
-1873246,Hamid Sen,SFC Stern 1900,1,1,0,0,0,0,1,1,19,0,NA,4,0.25,0.3333333333333333,0.211,3,1,1,0,1,0,0,0.43,NA,NA,0%,0%
-1878829,Mik Dankou,SFC Stern 1900,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1892834,Nikolas Dickersbach,SFC Stern 1900,3,0,0,0,0,0,0,0,270,0,NA,4,0,1,1,4,3,3,0,0.444,0,0,0.66,TW,NA,100%,0%
-1892911,Ali Elmahdawi,SFC Stern 1900,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1980182,Nizar Jouini,SFC Stern 1900,1,0,0,0,0,0,1,0,25,0,NA,4,0,0.3333333333333333,0.278,1,1,1,0,0.333,0,0,0.25,NA,NA,0%,0%
-2125248,Elias Fürstenau,SFC Stern 1900,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2125280,Alagie Peterson Jobe,SFC Stern 1900,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2133618,Mert Torun,SFC Stern 1900,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2154709,Ali Shaarawy,SFC Stern 1900,1,0,0,0,0,0,0,1,45,0,NA,4,0,0.3333333333333333,0.5,0,1,1,0,0,0,0,0.23,LM,NA,100%,0%
-2211854,Darron Adamou,SFC Stern 1900,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2290934,Leon Krost,SFC Stern 1900,3,0,0,0,0,0,0,0,270,0,NA,4,0,1,1,4,3,3,0,0.444,2,0.667,0.69,RV,NA,100%,0%
-665780,Lukas Rohana,SFC Stern 1900,3,0,0,0,0,0,1,1,168,0,NA,4,0,1,0.622,4,3,3,0,0.444,0,0,0.55,ZDM,NA,33%,0%
-673299,Tim Schönfuß-Hahm,SFC Stern 1900,3,0,0,0,0,0,1,1,124,0,NA,4,0,1,0.459,0,1,1,2,0,0,0,0.39,IV,NA,33%,0%
-833734,Marvin Özdal,SFC Stern 1900,0,0,0,0,0,0,0,0,0,0,NA,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-838410,Florian Medrane,SFC Stern 1900,3,0,0,0,0,0,0,1,262,0,NA,4,0,1,0.97,4,3,3,0,0.444,0,0,0.65,RM,LM,67%,33%
-838414,Luca Rohr,SFC Stern 1900,3,0,0,0,0,0,0,0,270,0,NA,4,0,1,1,4,3,3,0,0.444,1,0.333,0.68,ZDM,NA,100%,0%
-838418,Eddie Udeoka,SFC Stern 1900,3,0,0,0,0,0,0,1,248,0,NA,4,0,1,0.919,4,3,3,0,0.444,0,0,0.64,LV,NA,100%,0%
-842022,Julian Hartmann,SFC Stern 1900,3,0,0,0,0,0,2,0,112,0,NA,4,0,1,0.415,4,3,3,0,0.444,0,0,0.49,IV,NA,33%,0%
-849633,Can Kilian Cakin,SFC Stern 1900,2,0,0,0,0,0,1,1,84,0,NA,4,0,0.6666666666666666,0.467,3,2,2,0,0.5,0,0,0.43,ST,NA,50%,0%
-1131297,Yannick Wilhelm,Füchse Berlin,2,0,0,1,0,0,0,1,165,0,NA,6,0,0.6666666666666666,0.917,6,2,2,0,1,0,0,0.69,LV,NA,100%,0%
-1435135,Nils Lox,Füchse Berlin,1,0,0,0,0,0,0,0,90,0,NA,6,0,0.3333333333333333,1,0,1,1,0,0,0,0,0.38,TW,NA,100%,0%
-1530047,Kaan Tüysüz,Füchse Berlin,3,0,0,1,0,0,0,0,270,0,NA,6,0,1,1,6,3,3,0,0.667,0,0,0.72,IV,NA,100%,0%
-1530057,Maximilian Dreger,Füchse Berlin,0,0,0,0,0,0,0,0,0,0,NA,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-156802,Kevin Otremba,Füchse Berlin,2,0,0,0,0,0,0,0,180,0,NA,6,0,0.6666666666666666,1,6,2,2,0,1,2,1,0.77,TW,NA,100%,0%
-1589226,Victor Sunday,Füchse Berlin,3,3,0,0,0,0,0,1,236,1,NA,6,0.5,1,0.874,6,3,3,0,0.667,1,0.333,0.77,ST,NA,100%,0%
-1628263,Maxim Cygankov,Füchse Berlin,1,0,0,0,0,0,0,0,90,0,NA,6,0,0.3333333333333333,1,6,3,3,-2,0.667,0,0,0.55,RV,NA,300%,0%
-1746990,Karim Naziru Zoungrana,Füchse Berlin,3,0,0,0,0,0,0,1,259,0,NA,6,0,1,0.959,6,3,3,0,0.667,0,0,0.7,ZDM,NA,100%,0%
-1873198,Can Türker,Füchse Berlin,0,0,0,0,0,0,0,0,0,0,NA,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1923641,Mirsad Bushaj,Füchse Berlin,2,1,0,1,0,0,0,2,109,0,NA,6,0.167,0.6666666666666666,0.606,6,2,2,0,1,0,0,0.62,ZDM,NA,100%,0%
-2035911,Furkan Yildirim,Füchse Berlin,3,1,0,2,0,0,3,0,86,0,NA,6,0.167,1,0.319,6,3,3,0,0.667,0,0,0.54,NA,NA,0%,0%
-2173334,Bekir Gündogdu,Füchse Berlin,1,0,0,0,0,0,1,0,15,0,NA,6,0,0.3333333333333333,0.167,3,1,1,0,1,0,0,0.38,ZDM,NA,100%,0%
-2209447,Raven Rabiega,Füchse Berlin,1,0,0,0,0,0,1,0,13,0,NA,6,0,0.3333333333333333,0.144,3,1,1,0,1,0,0,0.38,NA,NA,0%,0%
-2255212,Cengizhan Haney,Füchse Berlin,3,0,1,0,0,0,0,3,198,1,NA,6,0.167,1,0.733,6,3,3,0,0.667,0,0,0.66,LM,NA,100%,0%
-2262472,Lamine Ouedraogo,Füchse Berlin,3,0,0,0,0,0,0,3,238,0,NA,6,0,1,0.881,6,3,3,0,0.667,0,0,0.68,NA,NA,0%,0%
-2314860,Salem Bourakkadi,Füchse Berlin,3,0,0,1,0,0,3,0,59,0,NA,6,0,1,0.219,6,3,3,0,0.667,0,0,0.48,NA,NA,0%,0%
-2317314,Niklas Armbrecht,Füchse Berlin,0,0,0,0,0,0,0,0,0,0,NA,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2436886,Pedro Henrique Heerdt,Füchse Berlin,3,0,0,0,0,0,3,0,45,0,NA,6,0,1,0.167,3,2,2,1,0.5,0,0,0.43,NA,NA,0%,0%
-2464396,Pelal Eliraqui,Füchse Berlin,0,0,0,0,0,0,0,0,0,0,NA,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-27522,Thomas Brechler,Füchse Berlin,2,0,0,1,0,0,2,0,45,0,NA,6,0,0.6666666666666666,0.25,3,2,2,0,0.5,0,0,0.37,NA,NA,0%,0%
-448656,Artem Cygankov,Füchse Berlin,3,0,0,0,0,0,0,0,270,0,NA,6,0,1,1,6,3,3,0,0.667,0,0,0.72,RV,NA,100%,0%
-767837,Kevin Zecha,Füchse Berlin,0,0,0,0,0,0,0,0,0,0,NA,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-804130,Emre-Mert Aslan,Füchse Berlin,2,0,1,0,0,0,1,0,135,0,NA,6,0.167,0.6666666666666666,0.75,3,2,2,0,0.5,0,0,0.54,ZDM,NA,50%,0%
-937432,Dominik Klecha,Füchse Berlin,3,0,0,1,0,0,0,0,270,0,NA,6,0,1,1,6,3,3,0,0.667,2,0.667,0.75,IV,NA,100%,0%
-939982,Bedirhan Sivaci,Füchse Berlin,3,0,1,0,0,0,0,3,197,0,NA,6,0.167,1,0.73,6,3,3,0,0.667,0,0,0.66,ZOM,NA,100%,0%
-1005452,Otmar Baumann,1. FC Wilmersdorf,1,0,0,0,0,0,0,0,90,0,NA,3,0,0.3333333333333333,1,1,1,1,0,0.333,0,0,0.47,IV,NA,100%,0%
-1117061,Arthur Langhammer,1. FC Wilmersdorf,2,0,0,1,0,0,0,0,180,0,NA,3,0,0.6666666666666666,1,1,2,2,0,0.167,1,0.5,0.53,ZDM,NA,50%,0%
-1130579,Baran Akpinar,1. FC Wilmersdorf,2,0,0,0,0,0,0,1,152,0,NA,3,0,0.6666666666666666,0.844,1,2,2,0,0.167,0,0,0.46,RV,NA,100%,0%
-1131184,Yasar Can Cinar,1. FC Wilmersdorf,3,1,0,1,0,0,1,1,179,0,NA,3,0.333,1,0.663,2,3,3,0,0.222,0,0,0.55,ZOM,NA,33%,0%
-1311242,Maurice Miguel Noel Opfermann Arcones,1. FC Wilmersdorf,0,0,0,0,0,0,0,0,0,0,NA,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1366321,Yousef El-Meguid,1. FC Wilmersdorf,2,0,0,0,0,0,1,1,103,0,NA,3,0,0.6666666666666666,0.572,1,1,1,1,0.333,0,0,0.42,NA,NA,0%,0%
-1370804,Bardya Ahmadisad-Yekta,1. FC Wilmersdorf,0,0,0,0,0,0,0,0,0,0,NA,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1634087,Emir Ipek,1. FC Wilmersdorf,0,0,0,0,0,0,0,0,0,0,NA,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1759288,Rodrigo Flores Kaya,1. FC Wilmersdorf,3,0,0,0,0,0,1,2,143,0,NA,3,0,1,0.53,1,1,1,2,0.333,0,0,0.49,NA,NA,0%,0%
-1780355,Jan Hendrik Kuschke,1. FC Wilmersdorf,0,0,0,0,0,0,0,0,0,0,NA,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-179677,Rhami Ghandour,1. FC Wilmersdorf,2,0,0,0,0,0,1,0,124,0,NA,3,0,0.6666666666666666,0.689,1,2,2,0,0.167,2,1,0.47,NA,NA,0%,0%
-1873349,Robin Loch,1. FC Wilmersdorf,2,0,0,0,0,0,2,0,8,0,NA,3,0,0.6666666666666666,0.044,2,2,2,0,0.333,0,0,0.26,NA,NA,0%,0%
-1962492,Mackawy Eltahir,1. FC Wilmersdorf,0,0,0,0,0,0,0,0,0,0,NA,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2186792,Vincent Falk,1. FC Wilmersdorf,0,0,0,0,0,0,0,0,0,0,NA,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2250839,Mohammed Izal,1. FC Wilmersdorf,3,0,0,0,0,0,0,3,204,0,NA,3,0,1,0.756,1,2,2,1,0.167,0,0,0.52,LM,NA,67%,0%
-2318691,Serkan Akyol,1. FC Wilmersdorf,3,0,0,1,0,0,2,1,138,0,NA,3,0,1,0.511,1,2,2,1,0.167,0,0,0.45,ZM,NA,33%,0%
-2356729,Nelson Okech,1. FC Wilmersdorf,1,0,0,0,0,0,1,0,32,0,NA,3,0,0.3333333333333333,0.356,1,1,1,0,0.333,0,0,0.27,NA,NA,0%,0%
-2376487,Apollo Immanuel Döhl,1. FC Wilmersdorf,0,0,0,0,0,0,0,0,0,0,NA,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1353384,Luke Möllers,FSV Spandauer Kickers,0,0,0,0,0,0,0,0,0,0,15,5,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1370547,Tchanawe Tunde Kris-Walick Odoubiyi Cocou,FSV Spandauer Kickers,3,0,0,0,0,0,3,0,40,0,19,5,0,1,0.148,1,1,1,2,0.333,0,0,0.38,NA,NA,0%,0%
+1771761,Felix Erkelenz,FSV Spandauer Kickers,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1771773,Matti-Arne Waltersdorf,FSV Spandauer Kickers,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1842754,Jakub Ado Klepczynski,FSV Spandauer Kickers,3,0,0,0,0,0,0,0,270,0,20,5,0,1,1,7,3,3,0,0.778,1,0.333,0.76,IV,NA,100%,0%
+1892822,Vincent Kuckei,FSV Spandauer Kickers,3,0,0,1,0,0,0,2,255,0,10,5,0,1,0.944,7,3,3,0,0.778,0,0,0.73,ZOM,ZM,67%,33%
+1892906,Tiziano Szuwarski,FSV Spandauer Kickers,2,0,0,0,1,0,0,0,151,0,13,5,0,0.6666666666666666,0.839,4,2,2,0,0.667,0,0,0.59,LM,LV,50%,50%
+2030725,Isaac Vefonge Wana,FSV Spandauer Kickers,3,0,0,1,0,0,0,0,270,0,21,5,0,1,1,0,0,0,3,0,0,0,0.55,NA,NA,0%,0%
+2033298,Abbas Jizzini,FSV Spandauer Kickers,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2096542,Serhii Zhemchuzhnyi,FSV Spandauer Kickers,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2278345,Elias Wesner,FSV Spandauer Kickers,0,0,0,0,0,0,0,0,0,0,4,5,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2430153,Arda Sahin,FSV Spandauer Kickers,0,0,0,0,0,0,0,0,0,0,12,5,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2446586,Matti Kittler,FSV Spandauer Kickers,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2457649,Luca Pomorin,FSV Spandauer Kickers,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+260743,Tugay Uzan,FSV Spandauer Kickers,2,1,0,1,0,0,0,2,140,0,0,5,0.2,0.6666666666666666,0.778,6,2,2,0,1,1,0.5,0.71,ST,NA,50%,0%
+312633,Gino Krumnow,FSV Spandauer Kickers,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,1,0,0,NA,NA,0%,0%
+499200,Fabian Senninger,FSV Spandauer Kickers,3,0,0,0,0,0,0,2,243,0,17,5,0,1,0.9,7,3,3,0,0.778,1,0.333,0.73,ZDM,ZM,67%,33%
+519258,Okan Tastan,FSV Spandauer Kickers,3,3,0,1,0,0,0,2,252,1,7,5,0.6,1,0.933,7,3,3,0,0.778,0,0,0.81,ST,NA,100%,0%
+557103,Julian Mosni,FSV Spandauer Kickers,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+562750,Dominik Dampke,FSV Spandauer Kickers,0,0,0,0,0,0,0,0,0,0,3,5,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+585513,Steffen Sawallich,FSV Spandauer Kickers,3,0,0,0,0,0,3,1,51,0,70,5,0,1,0.189,7,3,3,0,0.778,0,0,0.5,NA,NA,0%,0%
+665791,Samuel Agyei-Yeboah,FSV Spandauer Kickers,3,0,0,0,0,0,2,1,99,0,8,5,0,1,0.367,7,3,3,0,0.778,0,0,0.55,ST,NA,33%,0%
+755026,David Gezer,FSV Spandauer Kickers,2,0,0,1,0,0,2,0,12,0,0,5,0,0.6666666666666666,0.067,6,2,2,0,1,0,0,0.44,NA,NA,0%,0%
+788680,Nils Gardeike,FSV Spandauer Kickers,3,0,0,2,0,0,0,0,270,2,23,5,0,1,1,4,2,2,1,0.667,2,0.667,0.75,TW,NA,67%,0%
+794970,Khasan Dzhaukhar,FSV Spandauer Kickers,3,1,0,0,0,0,0,0,270,1,6,5,0.2,1,1,7,3,3,0,0.778,0,0,0.77,LM,RV,33%,33%
+905766,Klaus Oldorff,FSV Spandauer Kickers,2,0,0,1,0,0,0,0,180,0,0,5,0,0.6666666666666666,1,3,1,1,1,1,1,0.5,0.74,RM,NA,50%,0%
+1261234,Nico Samuel Wobeser,SFC Stern 1900,3,0,0,0,0,0,1,0,237,0,14,4,0,1,0.878,4,3,3,0,0.444,0,0,0.62,IV,NA,67%,0%
+1292090,Cihan Caliskan,SFC Stern 1900,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1359548,Oliver Gantzberg,SFC Stern 1900,3,1,0,0,0,0,0,1,262,0,20,4,0.25,1,0.97,4,3,3,0,0.444,1,0.333,0.71,ZOM,NA,100%,0%
+1366319,Omar Hajjaj,SFC Stern 1900,2,0,0,0,0,0,0,1,135,0,19,4,0,0.6666666666666666,0.75,1,2,2,0,0.167,0,0,0.43,IV,ZDM,50%,50%
+1390296,Nicolas Fäßler,SFC Stern 1900,3,1,0,0,0,0,1,2,169,0,9,4,0.25,1,0.626,4,3,3,0,0.444,0,0,0.59,ST,NA,67%,0%
+1527417,Jordan Thurau,SFC Stern 1900,3,1,0,0,0,0,2,1,113,0,7,4,0.25,1,0.419,4,3,3,0,0.444,0,0,0.52,LM,NA,33%,0%
+1607311,Jörn Reher,SFC Stern 1900,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1827483,Ibrahim Kalil Keita,SFC Stern 1900,2,0,0,0,0,0,1,1,112,0,16,4,0,0.6666666666666666,0.622,4,3,3,-1,0.444,1,0.5,0.49,RM,NA,50%,0%
+1873236,Colin Drost,SFC Stern 1900,1,0,0,0,0,0,1,0,45,0,22,4,0,0.3333333333333333,0.5,1,1,1,0,0.333,0,0,0.32,NA,NA,0%,0%
+1873246,Hamid Sen,SFC Stern 1900,1,1,0,0,0,0,1,1,19,0,0,4,0.25,0.3333333333333333,0.211,3,1,1,0,1,0,0,0.43,NA,NA,0%,0%
+1878829,Mik Dankou,SFC Stern 1900,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1892834,Nikolas Dickersbach,SFC Stern 1900,3,0,0,0,0,0,0,0,270,0,12,4,0,1,1,4,3,3,0,0.444,0,0,0.66,TW,NA,100%,0%
+1892911,Ali Elmahdawi,SFC Stern 1900,0,0,0,0,0,0,0,0,0,0,8,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1980182,Nizar Jouini,SFC Stern 1900,1,0,0,0,0,0,1,0,25,0,0,4,0,0.3333333333333333,0.278,1,1,1,0,0.333,0,0,0.25,NA,NA,0%,0%
+2125248,Elias Fürstenau,SFC Stern 1900,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2125280,Alagie Peterson Jobe,SFC Stern 1900,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2133618,Mert Torun,SFC Stern 1900,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2154709,Ali Shaarawy,SFC Stern 1900,1,0,0,0,0,0,0,1,45,0,23,4,0,0.3333333333333333,0.5,0,1,1,0,0,0,0,0.23,LM,NA,100%,0%
+2211854,Darron Adamou,SFC Stern 1900,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2290934,Leon Krost,SFC Stern 1900,3,0,0,0,0,0,0,0,270,0,3,4,0,1,1,4,3,3,0,0.444,2,0.667,0.69,RV,NA,100%,0%
+665780,Lukas Rohana,SFC Stern 1900,3,0,0,0,0,0,1,1,168,0,6,4,0,1,0.622,4,3,3,0,0.444,0,0,0.55,ZDM,NA,33%,0%
+673299,Tim Schönfuß-Hahm,SFC Stern 1900,3,0,0,0,0,0,1,1,124,0,5,4,0,1,0.459,0,1,1,2,0,0,0,0.39,IV,NA,33%,0%
+833734,Marvin Özdal,SFC Stern 1900,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+838410,Florian Medrane,SFC Stern 1900,3,0,0,0,0,0,0,1,262,0,11,4,0,1,0.97,4,3,3,0,0.444,0,0,0.65,RM,LM,67%,33%
+838414,Luca Rohr,SFC Stern 1900,3,0,0,0,0,0,0,0,270,0,21,4,0,1,1,4,3,3,0,0.444,1,0.333,0.68,ZDM,NA,100%,0%
+838418,Eddie Udeoka,SFC Stern 1900,3,0,0,0,0,0,0,1,248,0,55,4,0,1,0.919,4,3,3,0,0.444,0,0,0.64,LV,NA,100%,0%
+842022,Julian Hartmann,SFC Stern 1900,3,0,0,0,0,0,2,0,112,0,4,4,0,1,0.415,4,3,3,0,0.444,0,0,0.49,IV,NA,33%,0%
+849633,Can Kilian Cakin,SFC Stern 1900,2,0,0,0,0,0,1,1,84,0,10,4,0,0.6666666666666666,0.467,3,2,2,0,0.5,0,0,0.43,ST,NA,50%,0%
+1131297,Yannick Wilhelm,Füchse Berlin,2,0,0,1,0,0,0,1,165,0,9,6,0,0.6666666666666666,0.917,6,2,2,0,1,0,0,0.69,LV,NA,100%,0%
+1435135,Nils Lox,Füchse Berlin,1,0,0,0,0,0,0,0,90,0,20,6,0,0.3333333333333333,1,0,1,1,0,0,0,0,0.38,TW,NA,100%,0%
+1530047,Kaan Tüysüz,Füchse Berlin,3,0,0,1,0,0,0,0,270,0,8,6,0,1,1,6,3,3,0,0.667,0,0,0.72,IV,NA,100%,0%
+1530057,Maximilian Dreger,Füchse Berlin,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+156802,Kevin Otremba,Füchse Berlin,2,0,0,0,0,0,0,0,180,0,1,6,0,0.6666666666666666,1,6,2,2,0,1,2,1,0.77,TW,NA,100%,0%
+1589226,Victor Sunday,Füchse Berlin,3,3,0,0,0,0,0,1,236,1,22,6,0.5,1,0.874,6,3,3,0,0.667,1,0.333,0.77,ST,NA,100%,0%
+1628263,Maxim Cygankov,Füchse Berlin,1,0,0,0,0,0,0,0,90,0,0,6,0,0.3333333333333333,1,6,3,3,-2,0.667,0,0,0.55,RV,NA,300%,0%
+1746990,Karim Naziru Zoungrana,Füchse Berlin,3,0,0,0,0,0,0,1,259,0,15,6,0,1,0.959,6,3,3,0,0.667,0,0,0.7,ZDM,NA,100%,0%
+1873198,Can Türker,Füchse Berlin,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1923641,Mirsad Bushaj,Füchse Berlin,2,1,0,1,0,0,0,2,109,0,23,6,0.167,0.6666666666666666,0.606,6,2,2,0,1,0,0,0.62,ZDM,NA,100%,0%
+2035911,Furkan Yildirim,Füchse Berlin,3,1,0,2,0,0,3,0,86,0,13,6,0.167,1,0.319,6,3,3,0,0.667,0,0,0.54,NA,NA,0%,0%
+2173334,Bekir Gündogdu,Füchse Berlin,1,0,0,0,0,0,1,0,15,0,16,6,0,0.3333333333333333,0.167,3,1,1,0,1,0,0,0.38,ZDM,NA,100%,0%
+2209447,Raven Rabiega,Füchse Berlin,1,0,0,0,0,0,1,0,13,0,11,6,0,0.3333333333333333,0.144,3,1,1,0,1,0,0,0.38,NA,NA,0%,0%
+2255212,Cengizhan Haney,Füchse Berlin,3,0,1,0,0,0,0,3,198,1,26,6,0.167,1,0.733,6,3,3,0,0.667,0,0,0.66,LM,NA,100%,0%
+2262472,Lamine Ouedraogo,Füchse Berlin,3,0,0,0,0,0,0,3,238,0,19,6,0,1,0.881,6,3,3,0,0.667,0,0,0.68,NA,NA,0%,0%
+2314860,Salem Bourakkadi,Füchse Berlin,3,0,0,1,0,0,3,0,59,0,33,6,0,1,0.219,6,3,3,0,0.667,0,0,0.48,NA,NA,0%,0%
+2317314,Niklas Armbrecht,Füchse Berlin,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2436886,Pedro Henrique Heerdt,Füchse Berlin,3,0,0,0,0,0,3,0,45,0,21,6,0,1,0.167,3,2,2,1,0.5,0,0,0.43,NA,NA,0%,0%
+2464396,Pelal Eliraqui,Füchse Berlin,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+27522,Thomas Brechler,Füchse Berlin,2,0,0,1,0,0,2,0,45,0,31,6,0,0.6666666666666666,0.25,3,2,2,0,0.5,0,0,0.37,NA,NA,0%,0%
+448656,Artem Cygankov,Füchse Berlin,3,0,0,0,0,0,0,0,270,0,7,6,0,1,1,6,3,3,0,0.667,0,0,0.72,RV,NA,100%,0%
+767837,Kevin Zecha,Füchse Berlin,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+804130,Emre-Mert Aslan,Füchse Berlin,2,0,1,0,0,0,1,0,135,0,0,6,0.167,0.6666666666666666,0.75,3,2,2,0,0.5,0,0,0.54,ZDM,NA,50%,0%
+937432,Dominik Klecha,Füchse Berlin,3,0,0,1,0,0,0,0,270,0,4,6,0,1,1,6,3,3,0,0.667,2,0.667,0.75,IV,NA,100%,0%
+939982,Bedirhan Sivaci,Füchse Berlin,3,0,1,0,0,0,0,3,197,0,0,6,0.167,1,0.73,6,3,3,0,0.667,0,0,0.66,ZOM,NA,100%,0%
+1005452,Otmar Baumann,1. FC Wilmersdorf,1,0,0,0,0,0,0,0,90,0,2,3,0,0.3333333333333333,1,1,1,1,0,0.333,0,0,0.47,IV,NA,100%,0%
+1117061,Arthur Langhammer,1. FC Wilmersdorf,2,0,0,1,0,0,0,0,180,0,9,3,0,0.6666666666666666,1,1,2,2,0,0.167,1,0.5,0.53,ZDM,NA,50%,0%
+1130579,Baran Akpinar,1. FC Wilmersdorf,2,0,0,0,0,0,0,1,152,0,11,3,0,0.6666666666666666,0.844,1,2,2,0,0.167,0,0,0.46,RV,NA,100%,0%
+1131184,Yasar Can Cinar,1. FC Wilmersdorf,3,1,0,1,0,0,1,1,179,0,14,3,0.333,1,0.663,2,3,3,0,0.222,0,0,0.55,ZOM,NA,33%,0%
+1311242,Maurice Miguel Noel Opfermann Arcones,1. FC Wilmersdorf,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1366321,Yousef El-Meguid,1. FC Wilmersdorf,2,0,0,0,0,0,1,1,103,0,12,3,0,0.6666666666666666,0.572,1,1,1,1,0.333,0,0,0.42,NA,NA,0%,0%
+1370804,Bardya Ahmadisad-Yekta,1. FC Wilmersdorf,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1634087,Emir Ipek,1. FC Wilmersdorf,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1759288,Rodrigo Flores Kaya,1. FC Wilmersdorf,3,0,0,0,0,0,1,2,143,0,29,3,0,1,0.53,1,1,1,2,0.333,0,0,0.49,NA,NA,0%,0%
+1780355,Jan Hendrik Kuschke,1. FC Wilmersdorf,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+179677,Rhami Ghandour,1. FC Wilmersdorf,2,0,0,0,0,0,1,0,124,0,2,3,0,0.6666666666666666,0.689,1,2,2,0,0.167,2,1,0.47,NA,NA,0%,0%
+1873349,Robin Loch,1. FC Wilmersdorf,2,0,0,0,0,0,2,0,8,0,5,3,0,0.6666666666666666,0.044,2,2,2,0,0.333,0,0,0.26,NA,NA,0%,0%
+1962492,Mackawy Eltahir,1. FC Wilmersdorf,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2186792,Vincent Falk,1. FC Wilmersdorf,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2250839,Mohammed Izal,1. FC Wilmersdorf,3,0,0,0,0,0,0,3,204,0,22,3,0,1,0.756,1,2,2,1,0.167,0,0,0.52,LM,NA,67%,0%
+2318691,Serkan Akyol,1. FC Wilmersdorf,3,0,0,1,0,0,2,1,138,0,10,3,0,1,0.511,1,2,2,1,0.167,0,0,0.45,ZM,NA,33%,0%
+2356729,Nelson Okech,1. FC Wilmersdorf,1,0,0,0,0,0,1,0,32,0,7,3,0,0.3333333333333333,0.356,1,1,1,0,0.333,0,0,0.27,NA,NA,0%,0%
+2376487,Apollo Immanuel Döhl,1. FC Wilmersdorf,0,0,0,0,0,0,0,0,0,0,13,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
 2444776,Can Voigt,1. FC Wilmersdorf,1,0,0,0,0,0,0,1,83,1,NA,3,0,0.3333333333333333,0.922,1,1,1,0,0.333,0,0,0.44,NA,NA,0%,0%
 26367,Marco Karim Benyamina,1. FC Wilmersdorf,2,0,0,0,0,0,0,0,180,0,NA,3,0,0.6666666666666666,1,1,2,2,0,0.167,0,0,0.51,ST,NA,50%,0%
-27632,Joel Samake,1. FC Wilmersdorf,3,0,0,0,0,0,0,0,270,0,NA,3,0,1,1,2,3,3,0,0.222,1,0.333,0.62,TW,NA,67%,0%
-309569,Kemal Atici,1. FC Wilmersdorf,0,0,0,0,0,0,0,0,0,0,NA,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-463205,Jan Ilskens,1. FC Wilmersdorf,1,0,0,0,0,0,1,0,21,0,NA,3,0,0.3333333333333333,0.233,1,1,1,0,0.333,0,0,0.24,NA,NA,0%,0%
-592923,Max Ilskens,1. FC Wilmersdorf,0,0,0,0,0,0,0,0,0,0,NA,3,0,0,0,1,1,1,-1,0.333,0,0,0.08,NA,NA,0%,0%
-598827,Jonas Techie-Menson,1. FC Wilmersdorf,3,0,0,0,0,0,0,1,225,0,NA,3,0,1,0.833,2,3,3,0,0.222,0,0,0.56,LV,NA,67%,0%
-671853,Nii Bruce Weber,1. FC Wilmersdorf,0,0,0,0,0,0,0,0,0,0,NA,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-736011,Enes Aydin,1. FC Wilmersdorf,3,0,0,0,0,0,0,0,270,0,NA,3,0,1,1,2,3,3,0,0.222,0,0,0.61,IV,NA,67%,0%
-833674,Marvin Kupfer,1. FC Wilmersdorf,2,1,0,0,1,0,0,0,182,0,NA,3,0.333,0.6666666666666666,1.011,1,2,2,0,0.167,1,0.5,0.59,RM,ST,50%,50%
-840007,Valentin Henneke,1. FC Wilmersdorf,3,0,0,1,0,0,0,0,270,0,NA,3,0,1,1,2,3,3,0,0.222,0,0,0.61,ZDM,ZM,33%,33%
-902375,Nicolas Russo,1. FC Wilmersdorf,3,1,0,1,0,0,2,1,118,0,NA,3,0.333,1,0.437,2,3,3,0,0.222,0,0,0.49,NA,NA,0%,0%
-905759,Hamza Dabanoglu,1. FC Wilmersdorf,0,0,0,0,0,0,0,0,0,0,NA,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-909944,Elias Migdal,1. FC Wilmersdorf,0,0,0,0,0,0,0,0,0,0,NA,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1118216,Tim Marscheider,SV Blau-Weiß Hohen Neuendorf,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1274217,Niklas Lehmann,SV Blau-Weiß Hohen Neuendorf,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,RV,NA,0%,0%
-1368729,Daniel Chukwu,SV Blau-Weiß Hohen Neuendorf,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1371222,Matteo Münzberg,SV Blau-Weiß Hohen Neuendorf,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-151640,Dag Rüdiger,SV Blau-Weiß Hohen Neuendorf,3,0,1,2,0,0,0,0,270,0,NA,0,0,1,1,0,0,0,3,0,0,0,0.55,RV,NA,33%,0%
-1610419,Yeri Said Schock Negrete,SV Blau-Weiß Hohen Neuendorf,3,0,1,0,0,0,2,1,134,0,NA,0,0,1,0.496,0,0,0,3,0,0,0,0.4,NA,NA,0%,0%
-1627952,Yorick Otte,SV Blau-Weiß Hohen Neuendorf,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1627954,Lucas Diels,SV Blau-Weiß Hohen Neuendorf,2,0,0,0,0,0,0,1,149,0,NA,0,0,0.6666666666666666,0.828,0,0,0,2,0,0,0,0.42,IV,NA,50%,0%
-1771382,Kubilay Dündar,SV Blau-Weiß Hohen Neuendorf,1,0,0,1,0,0,1,0,31,0,NA,0,0,0.3333333333333333,0.344,0,0,0,1,0,0,0,0.19,NA,NA,0%,0%
-1812119,Leon Draski,SV Blau-Weiß Hohen Neuendorf,2,0,1,1,0,0,0,2,153,0,NA,0,0,0.6666666666666666,0.85,0,0,0,2,0,0,0,0.42,NA,NA,0%,0%
-1855258,Leandro Röttgen,SV Blau-Weiß Hohen Neuendorf,3,1,2,1,0,0,2,1,123,1,NA,0,0,1,0.456,0,0,0,3,0,0,0,0.39,LM,NA,33%,0%
-1873167,Tarik Housein,SV Blau-Weiß Hohen Neuendorf,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1873220,Patrik Schremf,SV Blau-Weiß Hohen Neuendorf,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1878366,Marvin Schipper,SV Blau-Weiß Hohen Neuendorf,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1927568,Tobias Liebig,SV Blau-Weiß Hohen Neuendorf,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1977524,Edgar Lange,SV Blau-Weiß Hohen Neuendorf,3,0,0,0,0,0,1,1,207,0,NA,0,0,1,0.767,0,0,0,3,0,0,0,0.48,ZM,NA,33%,0%
-1997853,Jannes Lendner,SV Blau-Weiß Hohen Neuendorf,3,0,0,1,0,0,1,2,134,0,NA,0,0,1,0.496,0,0,0,3,0,0,0,0.4,ZM,NA,33%,0%
-2074651,Berken Sevim,SV Blau-Weiß Hohen Neuendorf,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2137479,Felix Vogt,SV Blau-Weiß Hohen Neuendorf,3,0,0,1,0,0,1,2,143,0,NA,0,0,1,0.53,0,0,0,3,0,0,0,0.41,NA,NA,0%,0%
-2274087,Jeremy Domke,SV Blau-Weiß Hohen Neuendorf,3,0,0,0,0,0,0,1,243,0,NA,0,0,1,0.9,0,0,0,3,0,0,0,0.52,LV,IV,67%,33%
-2301896,Mika Strobel,SV Blau-Weiß Hohen Neuendorf,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2301897,Xaver Witczak,SV Blau-Weiß Hohen Neuendorf,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2318874,Marlon Klebow,SV Blau-Weiß Hohen Neuendorf,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2323267,Dennis Pagel,SV Blau-Weiß Hohen Neuendorf,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2377295,Ron Günther,SV Blau-Weiß Hohen Neuendorf,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,RM,NA,0%,0%
-2456582,Noe-Samuel Bacanu,SV Blau-Weiß Hohen Neuendorf,2,0,0,0,0,0,2,0,32,0,NA,0,0,0.6666666666666666,0.178,0,0,0,2,0,0,0,0.22,NA,NA,0%,0%
-2465048,Sebastian Maronde,SV Blau-Weiß Hohen Neuendorf,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-260889,Jean-Marc Soine,SV Blau-Weiß Hohen Neuendorf,3,5,0,2,0,0,2,1,89,1,NA,0,0,1,0.33,0,0,0,3,0,0,0,0.35,ST,NA,33%,0%
-273725,Nick Przesang,SV Blau-Weiß Hohen Neuendorf,3,1,2,0,0,0,1,2,167,0,NA,0,0,1,0.619,0,0,0,3,0,0,0,0.44,NA,NA,0%,0%
-357601,Norman Anton,SV Blau-Weiß Hohen Neuendorf,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-554205,Martin Urbanski,SV Blau-Weiß Hohen Neuendorf,2,0,0,0,0,0,0,0,180,0,NA,0,0,0.6666666666666666,1,0,0,0,2,0,0,0,0.47,NA,NA,0%,0%
-554293,Timo Kopmann,SV Blau-Weiß Hohen Neuendorf,3,0,0,0,0,0,0,0,270,0,NA,0,0,1,1,0,0,0,3,0,0,0,0.55,TW,NA,33%,0%
-561837,Sebastian Wolf,SV Blau-Weiß Hohen Neuendorf,3,1,1,0,0,0,0,1,257,1,NA,0,0,1,0.952,0,0,0,3,0,0,0,0.54,RM,NA,33%,0%
-581709,Julian Butt,SV Blau-Weiß Hohen Neuendorf,2,0,1,0,0,0,2,0,28,0,NA,0,0,0.6666666666666666,0.156,0,0,0,2,0,0,0,0.21,NA,NA,0%,0%
-608303,Robin Sankowsky,SV Blau-Weiß Hohen Neuendorf,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-672376,Kevin Ghaderi,SV Blau-Weiß Hohen Neuendorf,0,0,0,1,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-781814,Thomas Stoltz,SV Blau-Weiß Hohen Neuendorf,3,0,0,0,0,0,0,0,270,0,NA,0,0,1,1,0,0,0,3,0,0,0,0.55,IV,NA,33%,0%
-833293,Tim Niederau,SV Blau-Weiß Hohen Neuendorf,1,1,0,0,1,0,0,0,72,0,NA,0,0,0.3333333333333333,0.8,0,0,0,1,0,0,0,0.32,NA,NA,0%,0%
-1081195,Avni Kablan,SC Staaken,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1359054,Philippe Daniel Tchienguin Touko,SC Staaken,1,0,0,0,0,1,0,0,69,0,NA,0,0,0.3333333333333333,0.767,0,0,0,1,0,0,0,0.31,RM,NA,100%,0%
-1370850,Ferris Freiwald,SC Staaken,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1384595,Nassim Badran,SC Staaken,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1416830,Firas El Dayekh,SC Staaken,2,0,0,0,0,0,0,0,180,0,NA,0,0,0.6666666666666666,1,0,0,0,2,0,0,0,0.47,NA,NA,0%,0%
-1435293,Daniel Tutzschke,SC Staaken,2,0,0,0,0,0,0,1,170,0,NA,0,0,0.6666666666666666,0.944,0,0,0,2,0,0,0,0.45,ZDM,ZM,50%,50%
-1436644,Fabio Hackbarth,SC Staaken,1,0,0,0,0,0,0,0,90,0,NA,0,0,0.3333333333333333,1,0,0,0,1,0,0,0,0.38,IV,NA,100%,0%
-1444365,Kevin Flemming,SC Staaken,1,0,0,0,0,0,1,0,17,0,NA,0,0,0.3333333333333333,0.189,0,0,0,1,0,0,0,0.14,NA,NA,0%,0%
-1472506,Jannik Jantzen,SC Staaken,1,0,0,0,0,0,1,0,12,0,NA,0,0,0.3333333333333333,0.133,0,0,0,1,0,0,0,0.12,NA,NA,0%,0%
-1842752,Florian Jaekel,SC Staaken,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1844074,Jakob Lummert,SC Staaken,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1849744,Pascal Uhl,SC Staaken,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1979461,Azad Cinar,SC Staaken,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,ZOM,NA,0%,0%
-1979466,Jan Heumer,SC Staaken,2,0,0,0,0,0,2,1,39,0,NA,0,0,0.6666666666666666,0.217,0,0,0,2,0,0,0,0.23,NA,NA,0%,0%
-1987202,Linus Hechtfisch,SC Staaken,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-1988080,Justin Hoffmeister,SC Staaken,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2057609,Leon Diezemann,SC Staaken,1,0,0,0,0,0,1,0,16,0,NA,0,0,0.3333333333333333,0.178,0,0,0,1,0,0,0,0.14,NA,NA,0%,0%
-2084373,Mohammed Younes,SC Staaken,2,0,0,0,0,0,0,2,90,0,NA,0,0,0.6666666666666666,0.5,0,0,0,2,0,0,0,0.32,LV,NA,50%,0%
-2101635,Max Anton Oberbach,SC Staaken,2,0,0,1,0,0,0,0,180,1,NA,0,0,0.6666666666666666,1,0,0,0,2,0,0,0,0.47,TW,NA,100%,0%
-2114718,Florian Thamm,SC Staaken,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2211867,Nico Moretti,SC Staaken,0,0,0,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
-2328868,Finn Walter,SC Staaken,2,0,0,0,0,0,0,2,118,0,NA,0,0,0.6666666666666666,0.656,0,0,0,2,0,0,0,0.36,LM,ST,50%,50%
-2371702,Karim Abdel Hamid,SC Staaken,2,0,0,1,0,0,1,1,134,0,NA,0,0,0.6666666666666666,0.744,0,0,0,2,0,0,0,0.39,NA,NA,0%,0%
-2468205,Luca Förster,SC Staaken,2,1,0,0,0,0,0,0,180,0,NA,0,0,0.6666666666666666,1,0,0,0,2,0,0,0,0.47,IV,RV,50%,50%
-500928,Efraim Koku Gakpeto,SC Staaken,2,0,0,1,0,0,0,2,158,0,NA,0,0,0.6666666666666666,0.878,0,0,0,2,0,0,0,0.43,ST,NA,100%,0%
-513919,Erhan Bahceci,SC Staaken,1,1,0,0,0,0,1,0,10,0,NA,0,0,0.3333333333333333,0.111,0,0,0,1,0,0,0,0.12,NA,NA,0%,0%
-519264,Deniz Aksakal,SC Staaken,2,0,1,1,0,0,0,0,180,0,NA,0,0,0.6666666666666666,1,0,0,0,2,0,0,0,0.47,IV,NA,100%,0%
-556306,Tim Lampert,SC Staaken,2,0,0,1,0,0,0,0,180,0,NA,0,0,0.6666666666666666,1,0,0,0,2,0,0,0,0.47,IV,RV,50%,50%
-61064,Benjamin Stein,SC Staaken,2,0,0,1,0,0,2,0,74,0,NA,0,0,0.6666666666666666,0.411,0,0,0,2,0,0,0,0.29,NA,NA,0%,0%
-835658,Sinan Ufak,SC Staaken,2,0,0,0,0,0,1,1,62,0,NA,0,0,0.6666666666666666,0.344,0,0,0,2,0,0,0,0.27,ZM,NA,50%,0%
+27632,Joel Samake,1. FC Wilmersdorf,3,0,0,0,0,0,0,0,270,0,1,3,0,1,1,2,3,3,0,0.222,1,0.333,0.62,TW,NA,67%,0%
+309569,Kemal Atici,1. FC Wilmersdorf,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+463205,Jan Ilskens,1. FC Wilmersdorf,1,0,0,0,0,0,1,0,21,0,26,3,0,0.3333333333333333,0.233,1,1,1,0,0.333,0,0,0.24,NA,NA,0%,0%
+592923,Max Ilskens,1. FC Wilmersdorf,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,1,1,-1,0.333,0,0,0.08,NA,NA,0%,0%
+598827,Jonas Techie-Menson,1. FC Wilmersdorf,3,0,0,0,0,0,0,1,225,0,28,3,0,1,0.833,2,3,3,0,0.222,0,0,0.56,LV,NA,67%,0%
+671853,Nii Bruce Weber,1. FC Wilmersdorf,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+736011,Enes Aydin,1. FC Wilmersdorf,3,0,0,0,0,0,0,0,270,0,31,3,0,1,1,2,3,3,0,0.222,0,0,0.61,IV,NA,67%,0%
+833674,Marvin Kupfer,1. FC Wilmersdorf,2,1,0,0,1,0,0,0,182,0,21,3,0.333,0.6666666666666666,1.011,1,2,2,0,0.167,1,0.5,0.59,RM,ST,50%,50%
+840007,Valentin Henneke,1. FC Wilmersdorf,3,0,0,1,0,0,0,0,270,0,17,3,0,1,1,2,3,3,0,0.222,0,0,0.61,ZDM,ZM,33%,33%
+902375,Nicolas Russo,1. FC Wilmersdorf,3,1,0,1,0,0,2,1,118,0,18,3,0.333,1,0.437,2,3,3,0,0.222,0,0,0.49,NA,NA,0%,0%
+905759,Hamza Dabanoglu,1. FC Wilmersdorf,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+909944,Elias Migdal,1. FC Wilmersdorf,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1118216,Tim Marscheider,SV BW Hohen Neuendorf,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1274217,Niklas Lehmann,SV BW Hohen Neuendorf,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,RV,NA,0%,0%
+1368729,Daniel Chukwu,SV BW Hohen Neuendorf,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1371222,Matteo Münzberg,SV BW Hohen Neuendorf,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+151640,Dag Rüdiger,SV BW Hohen Neuendorf,3,0,1,2,0,0,0,0,270,0,31,9,0.111,1,1,9,3,3,0,1,2,0.667,0.85,RV,NA,33%,0%
+1610419,Yeri Said Schock Negrete,SV BW Hohen Neuendorf,3,0,1,0,0,0,2,1,134,0,4,9,0.111,1,0.496,0,0,0,3,0,0,0,0.42,NA,NA,0%,0%
+1627952,Yorick Otte,SV BW Hohen Neuendorf,0,0,0,0,0,0,0,0,0,0,22,9,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1627954,Lucas Diels,SV BW Hohen Neuendorf,2,0,0,0,0,0,0,1,149,0,0,9,0,0.6666666666666666,0.828,6,2,2,0,1,1,0.5,0.69,IV,NA,50%,0%
+1771382,Kubilay Dündar,SV BW Hohen Neuendorf,1,0,0,1,0,0,1,0,31,0,0,9,0,0.3333333333333333,0.344,3,1,1,0,1,0,0,0.44,NA,NA,0%,0%
+1812119,Leon Draski,SV BW Hohen Neuendorf,2,0,1,1,0,0,0,2,153,0,8,9,0.111,0.6666666666666666,0.85,6,2,2,0,1,0,0,0.69,NA,NA,0%,0%
+1855258,Leandro Röttgen,SV BW Hohen Neuendorf,3,1,2,1,0,0,2,1,123,1,13,9,0.333,1,0.456,9,3,3,0,1,0,0,0.69,LM,NA,33%,0%
+1873167,Tarik Housein,SV BW Hohen Neuendorf,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1873220,Patrik Schremf,SV BW Hohen Neuendorf,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1878366,Marvin Schipper,SV BW Hohen Neuendorf,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1927568,Tobias Liebig,SV BW Hohen Neuendorf,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1977524,Edgar Lange,SV BW Hohen Neuendorf,3,0,0,0,0,0,1,1,207,0,3,9,0,1,0.767,9,3,3,0,1,0,0,0.73,ZM,NA,33%,0%
+1997853,Jannes Lendner,SV BW Hohen Neuendorf,3,0,0,1,0,0,1,2,134,0,6,9,0,1,0.496,9,3,3,0,1,0,0,0.65,ZM,NA,33%,0%
+2074651,Berken Sevim,SV BW Hohen Neuendorf,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2137479,Felix Vogt,SV BW Hohen Neuendorf,3,0,0,1,0,0,1,2,143,0,11,9,0,1,0.53,9,3,3,0,1,0,0,0.66,NA,NA,0%,0%
+2274087,Jeremy Domke,SV BW Hohen Neuendorf,3,0,0,0,0,0,0,1,243,0,18,9,0,1,0.9,9,3,3,0,1,0,0,0.77,LV,IV,67%,33%
+2301896,Mika Strobel,SV BW Hohen Neuendorf,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2301897,Xaver Witczak,SV BW Hohen Neuendorf,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2318874,Marlon Klebow,SV BW Hohen Neuendorf,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2323267,Dennis Pagel,SV BW Hohen Neuendorf,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2377295,Ron Günther,SV BW Hohen Neuendorf,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,RM,NA,0%,0%
+2456582,Noe-Samuel Bacanu,SV BW Hohen Neuendorf,2,0,0,0,0,0,2,0,32,0,7,9,0,0.6666666666666666,0.178,6,2,2,0,1,0,0,0.47,NA,NA,0%,0%
+2465048,Sebastian Maronde,SV BW Hohen Neuendorf,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+260889,Jean-Marc Soine,SV BW Hohen Neuendorf,3,5,0,2,0,0,2,1,89,1,23,9,0.556,1,0.33,9,3,3,0,1,1,0.333,0.7,ST,NA,33%,0%
+273725,Nick Przesang,SV BW Hohen Neuendorf,3,1,2,0,0,0,1,2,167,0,30,9,0.333,1,0.619,9,3,3,0,1,0,0,0.74,NA,NA,0%,0%
+357601,Norman Anton,SV BW Hohen Neuendorf,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+554205,Martin Urbanski,SV BW Hohen Neuendorf,2,0,0,0,0,0,0,0,180,0,10,9,0,0.6666666666666666,1,6,2,2,0,1,0,0,0.72,NA,NA,0%,0%
+554293,Timo Kopmann,SV BW Hohen Neuendorf,3,0,0,0,0,0,0,0,270,0,1,9,0,1,1,9,3,3,0,1,0,0,0.8,TW,NA,33%,0%
+561837,Sebastian Wolf,SV BW Hohen Neuendorf,3,1,1,0,0,0,0,1,257,1,27,9,0.222,1,0.952,9,3,3,0,1,1,0.333,0.84,RM,NA,33%,0%
+581709,Julian Butt,SV BW Hohen Neuendorf,2,0,1,0,0,0,2,0,28,0,0,9,0.111,0.6666666666666666,0.156,6,2,2,0,1,0,0,0.48,NA,NA,0%,0%
+608303,Robin Sankowsky,SV BW Hohen Neuendorf,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+672376,Kevin Ghaderi,SV BW Hohen Neuendorf,0,0,0,1,0,0,0,0,0,0,15,9,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+781814,Thomas Stoltz,SV BW Hohen Neuendorf,3,0,0,0,0,0,0,0,270,0,21,9,0,1,1,9,3,3,0,1,1,0.333,0.82,IV,NA,33%,0%
+833293,Tim Niederau,SV BW Hohen Neuendorf,1,1,0,0,1,0,0,0,72,0,20,9,0.111,0.3333333333333333,0.8,3,1,1,0,1,0,0,0.59,NA,NA,0%,0%
+1081195,Avni Kablan,SC Staaken,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1359054,Philippe Daniel Tchienguin Touko,SC Staaken,1,0,0,0,0,1,0,0,69,0,NA,2,0,0.3333333333333333,0.767,1,1,1,0,0.333,0,0,0.4,RM,NA,100%,0%
+1370850,Ferris Freiwald,SC Staaken,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1384595,Nassim Badran,SC Staaken,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1416830,Firas El Dayekh,SC Staaken,2,0,0,0,0,0,0,0,180,0,13,2,0,0.6666666666666666,1,1,2,2,0,0.167,1,0.5,0.53,NA,NA,0%,0%
+1435293,Daniel Tutzschke,SC Staaken,2,0,0,0,0,0,0,1,170,0,12,2,0,0.6666666666666666,0.944,1,2,2,0,0.167,0,0,0.49,ZDM,ZM,50%,50%
+1436644,Fabio Hackbarth,SC Staaken,1,0,0,0,0,0,0,0,90,0,16,2,0,0.3333333333333333,1,0,1,1,0,0,0,0,0.38,IV,NA,100%,0%
+1444365,Kevin Flemming,SC Staaken,1,0,0,0,0,0,1,0,17,0,10,2,0,0.3333333333333333,0.189,0,1,1,0,0,0,0,0.14,NA,NA,0%,0%
+1472506,Jannik Jantzen,SC Staaken,1,0,0,0,0,0,1,0,12,0,27,2,0,0.3333333333333333,0.133,1,1,1,0,0.333,0,0,0.21,NA,NA,0%,0%
+1842752,Florian Jaekel,SC Staaken,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1844074,Jakob Lummert,SC Staaken,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1849744,Pascal Uhl,SC Staaken,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1979461,Azad Cinar,SC Staaken,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,ZOM,NA,0%,0%
+1979466,Jan Heumer,SC Staaken,2,0,0,0,0,0,2,1,39,0,5,2,0,0.6666666666666666,0.217,1,2,2,0,0.167,0,0,0.27,NA,NA,0%,0%
+1987202,Linus Hechtfisch,SC Staaken,0,0,0,0,0,0,0,0,0,0,26,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+1988080,Justin Hoffmeister,SC Staaken,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2057609,Leon Diezemann,SC Staaken,1,0,0,0,0,0,1,0,16,0,NA,2,0,0.3333333333333333,0.178,1,1,1,0,0.333,0,0,0.22,NA,NA,0%,0%
+2084373,Mohammed Younes,SC Staaken,2,0,0,0,0,0,0,2,90,0,23,2,0,0.6666666666666666,0.5,1,2,2,0,0.167,0,0,0.36,LV,NA,50%,0%
+2101635,Max Anton Oberbach,SC Staaken,2,0,0,1,0,0,0,0,180,1,1,2,0,0.6666666666666666,1,1,2,2,0,0.167,1,0.5,0.53,TW,NA,100%,0%
+2114718,Florian Thamm,SC Staaken,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2211867,Nico Moretti,SC Staaken,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,NA,NA,0%,0%
+2328868,Finn Walter,SC Staaken,2,0,0,0,0,0,0,2,118,0,7,2,0,0.6666666666666666,0.656,1,2,2,0,0.167,0,0,0.41,LM,ST,50%,50%
+2371702,Karim Abdel Hamid,SC Staaken,2,0,0,1,0,0,1,1,134,0,22,2,0,0.6666666666666666,0.744,0,1,1,1,0,0,0,0.39,NA,NA,0%,0%
+2468205,Luca Förster,SC Staaken,2,1,0,0,0,0,0,0,180,0,21,2,0.5,0.6666666666666666,1,1,2,2,0,0.167,0,0,0.58,IV,RV,50%,50%
+500928,Efraim Koku Gakpeto,SC Staaken,2,0,0,1,0,0,0,2,158,0,9,2,0,0.6666666666666666,0.878,1,2,2,0,0.167,1,0.5,0.5,ST,NA,100%,0%
+513919,Erhan Bahceci,SC Staaken,1,1,0,0,0,0,1,0,10,0,28,2,0.5,0.3333333333333333,0.111,0,1,1,0,0,0,0,0.19,NA,NA,0%,0%
+519264,Deniz Aksakal,SC Staaken,2,0,1,1,0,0,0,0,180,0,17,2,0.5,0.6666666666666666,1,1,2,2,0,0.167,0,0,0.58,IV,NA,100%,0%
+556306,Tim Lampert,SC Staaken,2,0,0,1,0,0,0,0,180,0,2,2,0,0.6666666666666666,1,1,2,2,0,0.167,0,0,0.51,IV,RV,50%,50%
+61064,Benjamin Stein,SC Staaken,2,0,0,1,0,0,2,0,74,0,11,2,0,0.6666666666666666,0.411,1,2,2,0,0.167,1,0.5,0.36,NA,NA,0%,0%
+835658,Sinan Ufak,SC Staaken,2,0,0,0,0,0,1,1,62,0,8,2,0,0.6666666666666666,0.344,1,2,2,0,0.167,0,0,0.31,ZM,NA,50%,0%
