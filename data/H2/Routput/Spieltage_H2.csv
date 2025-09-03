@@ -15,22 +15,22 @@ matchday,H,A,Tore_H,Tore_A,where
 1,DJK SW Neukölln 1920 e.V.,BSV 1892,4,2,away
 1,SV Empor Berlin II,1.FC Schöneberg,2,6,away
 1,SF Johannisthal,BSV Hürtürkel,4,2,away
-2,SV Empor Berlin II,BFC Preussen II,NA,NA,home
-2,DJK SW Neukölln 1920 e.V.,FC Internationale Berlin,NA,NA,home
-2,SF Charlottenburg-Wilmersdorf 03,1.FC Schöneberg,NA,NA,home
-2,Berlin Hilalspor,Pfeffersport,NA,NA,home
-2,SC Berliner Amateure,BSV Hürtürkel,NA,NA,home
-2,SF Johannisthal,Berliner SC II,NA,NA,home
-2,SC Borsigwalde,Friedenauer TSC,NA,NA,home
-2,Berolina Mitte,BSV 1892,NA,NA,home
-2,BFC Preussen II,SV Empor Berlin II,NA,NA,away
-2,FC Internationale Berlin,DJK SW Neukölln 1920 e.V.,NA,NA,away
-2,1.FC Schöneberg,SF Charlottenburg-Wilmersdorf 03,NA,NA,away
-2,Pfeffersport,Berlin Hilalspor,NA,NA,away
-2,BSV Hürtürkel,SC Berliner Amateure,NA,NA,away
-2,Berliner SC II,SF Johannisthal,NA,NA,away
-2,Friedenauer TSC,SC Borsigwalde,NA,NA,away
-2,BSV 1892,Berolina Mitte,NA,NA,away
+2,SV Empor Berlin II,BFC Preussen II,4,1,home
+2,DJK SW Neukölln 1920 e.V.,FC Internationale Berlin,0,2,home
+2,SF Charlottenburg-Wilmersdorf 03,1.FC Schöneberg,1,3,home
+2,Berlin Hilalspor,Pfeffersport,4,1,home
+2,SC Berliner Amateure,BSV Hürtürkel,1,4,home
+2,SF Johannisthal,Berliner SC II,8,0,home
+2,SC Borsigwalde,Friedenauer TSC,0,2,home
+2,Berolina Mitte,BSV 1892,0,4,home
+2,BFC Preussen II,SV Empor Berlin II,1,4,away
+2,FC Internationale Berlin,DJK SW Neukölln 1920 e.V.,2,0,away
+2,1.FC Schöneberg,SF Charlottenburg-Wilmersdorf 03,3,1,away
+2,Pfeffersport,Berlin Hilalspor,1,4,away
+2,BSV Hürtürkel,SC Berliner Amateure,4,1,away
+2,Berliner SC II,SF Johannisthal,0,8,away
+2,Friedenauer TSC,SC Borsigwalde,2,0,away
+2,BSV 1892,Berolina Mitte,4,0,away
 3,BFC Preussen II,DJK SW Neukölln 1920 e.V.,NA,NA,home
 3,Friedenauer TSC,FC Internationale Berlin,NA,NA,home
 3,Pfeffersport,SF Johannisthal,NA,NA,home
