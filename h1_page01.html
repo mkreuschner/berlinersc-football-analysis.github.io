@@ -88,6 +88,8 @@
       <nav class="tabs" role="tablist" aria-label="Ansicht wählen">
         <button class="tab-btn active" id="tab-spieltag" role="tab" aria-selected="true" aria-controls="panel-spieltag">Spieltag</button>
         <button class="tab-btn" id="tab-tabellen" role="tab" aria-selected="false" aria-controls="panel-tabellen">Tabellen</button>
+        <button class="tab-btn" id="tab-scorer" role="tab" aria-selected="false" aria-controls="panel-scorer">Torjäger</button>
+        <button class="tab-btn" id="tab-player" role="tab" aria-selected="false" aria-controls="panel-player">Beste Spieler</button>
       </nav>
     </div>
 
@@ -111,30 +113,61 @@
       </div>
     </section>
 
-    <!-- Panel: Tabellen -->
-    <section class="tab-panel" id="panel-tabellen" role="tabpanel" aria-labelledby="tab-tabellen">
-      <div class="panel-inner">
-        <div class="container">
-          <div class="w3-container" id="table">
-            <div class="select-container">
-              <select id="tableSelect">
-                <option value="">-- Tabelle auswählen --</option>
-                <option value="https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/H1/Routput/gesamttabelle_H1.csv" data-columns="#,team,S,Tore,Dif,Pkt">Gesamttabelle</option>
-                <!-- <option value="https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/H1/Routput/survival_thresholds_H1.csv" data-columns="#,team,Pkt,Pred,100%,90%,75%,50%">Prediction</option>-->
-                <option value="https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/H1/Routput/formtabelle_H1.csv" data-columns="#,team,E5,E4,E3,E2,E1,Tore,Pkt" data-special="form">Formtabelle</option>
-                <option value="https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/H1/Routput/heimtabelle_H1.csv" data-columns="#,team,S,Tore,Dif,Pkt">Heimtabelle</option>
-                <option value="https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/H1/Routput/auswaertstabelle_H1.csv" data-columns="#,team,S,Tore,Dif,Pkt">Auswärtstabelle</option>
-                <option value="https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/H1/Routput/rasentabelle_H1.csv" data-columns="#,team,S,Tore,Dif,Pkt">Rasentabelle</option>
-                <option value="https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/H1/Routput/kunstrasentabelle_H1.csv" data-columns="#,team,S,Tore,Dif,Pkt">Kunstrasentabelle</option>
-                <option value="https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/H1/Routput/kleinkunstrasentabelle_H1.csv" data-columns="#,team,S,Tore,Dif,Pkt">kleiner-Platz-Tabelle</option>
-              </select>
-            </div>
-            <div id="table-container" style="margin-top: 1rem;"></div>
-          </div>
+  <!-- PANEL: Tabellen -->
+  <section class="tab-panel" id="panel-tabellen" role="tabpanel" aria-labelledby="tab-tabellen">
+    <div class="panel-inner">
+      <div class="w3-container" id="table-tabellen">
+        <div class="select-container">
+          <select id="tableSelect-tabellen">
+            <option value="">-- Tabelle auswählen --</option>
+            <option value="https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/H1/Routput/gesamttabelle_H1.csv" data-columns="#,team,S,Tore,Dif,Pkt">Gesamttabelle</option>
+            <option value="https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/H1/Routput/formtabelle_H1.csv" data-columns="#,team,E5,E4,E3,E2,E1,Tore,Pkt" data-special="form">Formtabelle</option>
+            <option value="https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/H1/Routput/heimtabelle_H1.csv" data-columns="#,team,S,Tore,Dif,Pkt">Heimtabelle</option>
+            <option value="https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/H1/Routput/auswaertstabelle_H1.csv" data-columns="#,team,S,Tore,Dif,Pkt">Auswärtstabelle</option>
+            <option value="https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/H1/Routput/rasentabelle_H1.csv" data-columns="#,team,S,Tore,Dif,Pkt">Rasentabelle</option>
+            <option value="https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/H1/Routput/kunstrasentabelle_H1.csv" data-columns="#,team,S,Tore,Dif,Pkt">Kunstrasentabelle</option>
+            <option value="https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/H1/Routput/kleinkunstrasentabelle_H1.csv" data-columns="#,team,S,Tore,Dif,Pkt">kleiner-Platz-Tabelle</option>
+          </select>
         </div>
+        <div id="table-container-tabellen" style="margin-top: 1rem;"></div>
       </div>
-    </section>
-  </div>
+    </div>
+  </section>
+
+  <!-- PANEL: Scorer -->
+  <section class="tab-panel" id="panel-scorer" role="tabpanel" aria-labelledby="tab-scorer">
+    <div class="panel-inner">
+      <div class="table-scroll">
+      <div class="w3-container" id="table-scorer">
+        <div class="select-container">
+          <select id="tableSelect-scorer">
+            <option value="">-- Tabelle auswählen --</option>
+            <option value="https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/H1/Routput/scorerpoints_H1.csv" data-columns="#,team,S,Tore,Dif,Pkt">Scorer</option>
+          </select>
+        </div>
+        <div id="table-container-scorer" style="margin-top: 1rem;"></div>
+      </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PANEL: Beste Spieler -->
+  <section class="tab-panel" id="panel-player" role="tabpanel" aria-labelledby="tab-player">
+    <div class="panel-inner">
+      <div class="table-scroll">
+      <div class="w3-container" id="table-player">
+        <div class="select-container">
+          <select id="tableSelect-player">
+            <option value="">-- Tabelle auswählen --</option>
+            <option value="https://raw.githubusercontent.com/mkreuschner/berlinersc-football-analysis.github.io/main/data/H1/Routput/best_score_H1.csv" data-columns="#,team,S,Tore,Dif,Pkt">Best Player</option>
+          </select>
+        </div>
+        <div id="table-container-player" style="margin-top: 1rem;"></div>
+      </div>
+      </div>
+    </div>
+  </section>
+
 
   <!-- Footer -->
   <footer class="w3-center w3-light-grey w3-padding-48 w3-large">
@@ -149,41 +182,40 @@
   <script>
     (function () {
       const tabs = Array.from(document.querySelectorAll('.tab-btn'));
-      const panels = {
-        spieltag: document.getElementById('panel-spieltag'),
-        tabellen: document.getElementById('panel-tabellen')
-      };
+      const panels = Array.from(document.querySelectorAll('.tab-panel'));
 
-      function activate(name) {
+      function activateByPanelId(panelId) {
+        // Buttons
         tabs.forEach(btn => {
-          const isActive = btn.id === 'tab-' + name;
+          const isActive = btn.getAttribute('aria-controls') === panelId;
           btn.classList.toggle('active', isActive);
           btn.setAttribute('aria-selected', String(isActive));
         });
-        Object.entries(panels).forEach(([key, panel]) => {
-          panel.classList.toggle('active', key === name);
+        // Panels
+        panels.forEach(panel => {
+          panel.classList.toggle('active', panel.id === panelId);
         });
       }
 
-      tabs.forEach(btn => {
+      // Klick + Tastatur
+      tabs.forEach((btn, idx) => {
         btn.addEventListener('click', () => {
-          const name = btn.id.replace('tab-', '');
-          activate(name);
+          const panelId = btn.getAttribute('aria-controls');
+          activateByPanelId(panelId);
         });
         btn.addEventListener('keydown', (e) => {
           if (e.key === 'ArrowRight' || e.key === 'ArrowLeft') {
             e.preventDefault();
-            const i = tabs.indexOf(btn);
-            const next = e.key === 'ArrowRight' ? (i + 1) % tabs.length : (i - 1 + tabs.length) % tabs.length;
+            const next = e.key === 'ArrowRight' ? (idx + 1) % tabs.length : (idx - 1 + tabs.length) % tabs.length;
             tabs[next].focus();
           }
         });
       });
 
-      activate('spieltag');
+      // Startzustand: aktiver Button bestimmt das Panel
+      const initiallyActive = tabs.find(b => b.classList.contains('active')) || tabs[0];
+      activateByPanelId(initiallyActive.getAttribute('aria-controls'));
     })();
-  </script>
-
-
+</script>
 </body>
 </html>

@@ -104,3 +104,14 @@ width: 70%;
     display: flex;
 }
 
+.table-scroll {
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+.table-scroll table {
+  width: max-content;      /* Tabelle so breit wie Inhalt */
+  border-collapse: collapse;
+  white-space: nowrap;     /* verhindert Umbrüche, sorgt für echtes Seitwärts-Scrollen */
+}
+
