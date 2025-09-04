@@ -40,11 +40,23 @@ document.addEventListener("DOMContentLoaded", () => {
   const canon = (s) => teamAliases[norm(s)] ?? norm(s);
 
     // Teams und Kategorien
-    const teams = ["BSC Hürtürkel", "BFC Preussen II", "SC Berliner Amateure", "Berolina Mitte",
-        "SC Borsigwalde 1910", "Berliner SV 1892", "SF Johannisthal",
-        "FC Internationale Berlin 1980", "DJK Neukölln", "Berliner SC II",
-        "1.FC Schöneberg", "Pfeffersport", "Berlin Hilalspor",
-        "SV Empor Berlin II", "SF Charlottenburg-Wilmmersdorf", "Friedenauer TSC"];
+    const teams = [
+        "BSV Hürtürkel", 
+        "BFC Preussen II", 
+        "SC Berliner Amateure", 
+        "Berolina Mitte",
+        "SC Borsigwalde", 
+        "Berliner SV 1892", 
+        "SF Johannisthal",
+        "FC Internationale Berlin", 
+        "DJK Schwarz-Weiß Neukölln", 
+        "Berliner SC II",
+        "1.FC Schöneberg", 
+        "Pfeffersport", 
+        "Berlin Hilalspor",
+        "SV Empor Berlin II", 
+        "SF Charlottenburg-Wilmersdorf 03", 
+        "Friedenauer TSC"];
 
 
     const teamAbbreviations = {
