@@ -11,8 +11,8 @@ Rank,Team,Name,Nr,Pos,Spiele,Tore
 10,Sp.Vg. Blau Weiß 1890 Berlin,Nils Köhne,4,IV,3,2
 11,TSV Rudow Berlin,Ahmad Haj Youssef,19,NA,3,2
 12,TSV Rudow Berlin,Melih Hortum,10,ZOM,3,2
-13,erlin Türkspor,Süleyman Kapan,0,ST,2,2
-14,erlin Türkspor,Emre Turan,24,IV,3,2
+13,Berlin Türkspor,Süleyman Kapan,0,ST,2,2
+14,Berlin Türkspor,Emre Turan,24,IV,3,2
 15,Frohnauer SC,Isaac Manu Kyere,15,LM,3,2
 16,Frohnauer SC,Rangga Musiol,10,ZOM,3,2
 17,SC Charlottenburg,Patrick Maykowski,27,RM,3,2
@@ -32,10 +32,10 @@ Rank,Team,Name,Nr,Pos,Spiele,Tore
 31,SSC Südwest 1947,Philipp Olsowski,8,ZDM,3,1
 32,TSV Mariendorf 1897,Wesa Den Araujo Van-Dunem,8,NA,3,1
 33,TSV Mariendorf 1897,Alianni Urgelles Montoya,20,ZM,3,1
-34,erlin Türkspor,Artin Zardoshtian,27,ZDM,3,1
-35,erlin Türkspor,Benjamin Heymann,11,LM,2,1
-36,erlin Türkspor,Sefa Kahraman,37,IV,3,1
-37,erlin Türkspor,Panagiotis Vassiliadis,2,RV,3,1
+34,Berlin Türkspor,Artin Zardoshtian,27,ZDM,3,1
+35,Berlin Türkspor,Benjamin Heymann,11,LM,2,1
+36,Berlin Türkspor,Sefa Kahraman,37,IV,3,1
+37,Berlin Türkspor,Panagiotis Vassiliadis,2,RV,3,1
 38,Frohnauer SC,Lasse Eickhoff,92,NA,2,1
 39,Frohnauer SC,Maximilian Mundt,24,RM,3,1
 40,Frohnauer SC,Buba Ceesay,9,ST,2,1
@@ -276,25 +276,25 @@ Rank,Team,Name,Nr,Pos,Spiele,Tore
 275,TSV Mariendorf 1897,Jannis Krieger,29,ST,1,0
 276,TSV Mariendorf 1897,Julian Austermann,18,IV,3,0
 277,TSV Mariendorf 1897,Pascal Matthias,0,NA,0,0
-278,erlin Türkspor,Umut Satici,0,NA,1,0
-279,erlin Türkspor,Nesta Gabriel Jean-Louis,0,NA,0,0
-280,erlin Türkspor,Mame Cheikh Diop,3,NA,1,0
-281,erlin Türkspor,Aristotelis Dougalis,21,NA,2,0
-282,erlin Türkspor,Tristan Krien,19,NA,3,0
-283,erlin Türkspor,Leon Haake,0,NA,0,0
-284,erlin Türkspor,Jonas Mukuku Zola,17,ST,3,0
-285,erlin Türkspor,Mapalo Korntreff,25,LM,3,0
-286,erlin Türkspor,Frank Maikoga,0,NA,0,0
-287,erlin Türkspor,Mahdi Soueidan,NA,NA,0,0
-288,erlin Türkspor,Viktor Pokataiev,23,TW,1,0
-289,erlin Türkspor,King David Yeboah Frimpong Szigath,99,NA,1,0
-290,erlin Türkspor,Jahi Hyseni,NA,NA,0,0
-291,erlin Türkspor,Prince Collins Idemudia,5,NA,1,0
-292,erlin Türkspor,Leon Bätge,1,TW,2,0
-293,erlin Türkspor,Kürsat Mahmut Cicek,0,NA,0,0
-294,erlin Türkspor,Joe Williams,8,LV,3,0
-295,erlin Türkspor,Ahmad Rmieh,7,ZDM,2,0
-296,erlin Türkspor,Halit Bacak,10,RM,3,0
+278,Berlin Türkspor,Umut Satici,0,NA,1,0
+279,Berlin Türkspor,Nesta Gabriel Jean-Louis,0,NA,0,0
+280,Berlin Türkspor,Mame Cheikh Diop,3,NA,1,0
+281,Berlin Türkspor,Aristotelis Dougalis,21,NA,2,0
+282,Berlin Türkspor,Tristan Krien,19,NA,3,0
+283,Berlin Türkspor,Leon Haake,0,NA,0,0
+284,Berlin Türkspor,Jonas Mukuku Zola,17,ST,3,0
+285,Berlin Türkspor,Mapalo Korntreff,25,LM,3,0
+286,Berlin Türkspor,Frank Maikoga,0,NA,0,0
+287,Berlin Türkspor,Mahdi Soueidan,NA,NA,0,0
+288,Berlin Türkspor,Viktor Pokataiev,23,TW,1,0
+289,Berlin Türkspor,King David Yeboah Frimpong Szigath,99,NA,1,0
+290,Berlin Türkspor,Jahi Hyseni,NA,NA,0,0
+291,Berlin Türkspor,Prince Collins Idemudia,5,NA,1,0
+292,Berlin Türkspor,Leon Bätge,1,TW,2,0
+293,Berlin Türkspor,Kürsat Mahmut Cicek,0,NA,0,0
+294,Berlin Türkspor,Joe Williams,8,LV,3,0
+295,Berlin Türkspor,Ahmad Rmieh,7,ZDM,2,0
+296,Berlin Türkspor,Halit Bacak,10,RM,3,0
 297,Frohnauer SC,Nils Ehritt,11,RV,3,0
 298,Frohnauer SC,Marlon Mörcke,0,NA,0,0
 299,Frohnauer SC,Philipp Walter,20,LM,3,0

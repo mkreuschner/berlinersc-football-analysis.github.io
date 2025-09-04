@@ -6,28 +6,28 @@
 1,"Frohnauer SC","SFC Stern 1900",3,1,NA,NA,NA
 1,"Berliner SC","SC Charlottenburg",3,1,NA,NA,NA
 1,"SV BW Hohen Neuendorf","SSC Südwest 1947",3,1,NA,NA,NA
-1,"SC Staaken","erlin Türkspor",2,3,NA,NA,NA
+1,"SC Staaken","Berlin Türkspor",2,3,NA,NA,NA
 1,"TSV Mariendorf 1897","1. FC Wilmersdorf",2,2,NA,NA,NA
 2,"SSC Südwest 1947","Sp.Vg. Blau Weiß 1890 Berlin",0,4,NA,NA,NA
 2,"1. FC Wilmersdorf","SV BW Hohen Neuendorf",1,2,NA,NA,NA
 2,"Polar Pinguin Berlin","SV Empor Berlin",3,3,NA,NA,NA
 2,"FSV Spandauer Kickers","Berliner SC",2,1,NA,NA,NA
 2,"TSV Rudow Berlin","Frohnauer SC",2,2,NA,NA,NA
-2,"erlin Türkspor","VfB Fortuna Biesdorf",4,1,NA,NA,NA
+2,"Berlin Türkspor","VfB Fortuna Biesdorf",4,1,NA,NA,NA
 2,"SC Staaken","VSG Altglienicke II",NA,NA,0.343,0.342,0.315
 2,"SC Charlottenburg","Füchse Berlin",1,2,NA,NA,NA
 2,"SFC Stern 1900","TSV Mariendorf 1897",3,2,NA,NA,NA
 3,"SSC Südwest 1947","VSG Altglienicke II",1,0,NA,NA,NA
 3,"1. FC Wilmersdorf","SC Staaken",0,0,NA,NA,NA
 3,"TSV Rudow Berlin","VfB Fortuna Biesdorf",1,2,NA,NA,NA
-3,"erlin Türkspor","SV BW Hohen Neuendorf",2,4,NA,NA,NA
+3,"Berlin Türkspor","SV BW Hohen Neuendorf",2,4,NA,NA,NA
 3,"Füchse Berlin","TSV Mariendorf 1897",0,2,NA,NA,NA
 3,"SFC Stern 1900","Berliner SC",0,0,NA,NA,NA
 3,"FSV Spandauer Kickers","Sp.Vg. Blau Weiß 1890 Berlin",2,1,NA,NA,NA
 3,"SC Charlottenburg","SV Empor Berlin",2,1,NA,NA,NA
 3,"Polar Pinguin Berlin","Frohnauer SC",1,2,NA,NA,NA
 4,"SSC Südwest 1947","TSV Rudow Berlin",NA,NA,0.394,0.318,0.287
-4,"erlin Türkspor","FSV Spandauer Kickers",NA,NA,0.356,0.336,0.308
+4,"Berlin Türkspor","FSV Spandauer Kickers",NA,NA,0.356,0.336,0.308
 4,"VSG Altglienicke II","SC Charlottenburg",NA,NA,0.369,0.33,0.302
 4,"VfB Fortuna Biesdorf","Füchse Berlin",NA,NA,0.343,0.342,0.315
 4,"Sp.Vg. Blau Weiß 1890 Berlin","TSV Mariendorf 1897",NA,NA,0.394,0.318,0.287
@@ -42,7 +42,7 @@
 5,"FSV Spandauer Kickers","SSC Südwest 1947",NA,NA,0.421,0.307,0.272
 5,"SC Charlottenburg","SV BW Hohen Neuendorf",NA,NA,0.309,0.336,0.356
 5,"Berliner SC","Frohnauer SC",NA,NA,0.331,0.347,0.322
-5,"Polar Pinguin Berlin","erlin Türkspor",NA,NA,0.315,0.341,0.343
+5,"Polar Pinguin Berlin","Berlin Türkspor",NA,NA,0.315,0.341,0.343
 5,"TSV Mariendorf 1897","VfB Fortuna Biesdorf",NA,NA,0.369,0.33,0.302
 6,"SV Empor Berlin","SFC Stern 1900",NA,NA,0.331,0.347,0.322
 6,"Sp.Vg. Blau Weiß 1890 Berlin","TSV Rudow Berlin",NA,NA,0.434,0.301,0.264
@@ -51,18 +51,18 @@
 6,"TSV Mariendorf 1897","SC Charlottenburg",NA,NA,0.381,0.324,0.294
 6,"Füchse Berlin","1. FC Wilmersdorf",NA,NA,0.421,0.307,0.272
 6,"SV BW Hohen Neuendorf","SC Staaken",NA,NA,0.474,0.285,0.241
-6,"VSG Altglienicke II","erlin Türkspor",NA,NA,0.331,0.347,0.322
+6,"VSG Altglienicke II","Berlin Türkspor",NA,NA,0.331,0.347,0.322
 6,"VfB Fortuna Biesdorf","SSC Südwest 1947",NA,NA,0.381,0.324,0.294
 7,"SSC Südwest 1947","Polar Pinguin Berlin",NA,NA,0.394,0.318,0.287
 7,"TSV Rudow Berlin","FSV Spandauer Kickers",NA,NA,0.309,0.336,0.356
-7,"erlin Türkspor","SFC Stern 1900",NA,NA,0.394,0.318,0.287
+7,"Berlin Türkspor","SFC Stern 1900",NA,NA,0.394,0.318,0.287
 7,"Sp.Vg. Blau Weiß 1890 Berlin","Berliner SC",NA,NA,0.394,0.318,0.287
 7,"VSG Altglienicke II","TSV Mariendorf 1897",NA,NA,0.356,0.336,0.308
 7,"VfB Fortuna Biesdorf","SV Empor Berlin",NA,NA,0.408,0.313,0.28
 7,"Frohnauer SC","1. FC Wilmersdorf",NA,NA,0.434,0.301,0.264
 7,"SV BW Hohen Neuendorf","Füchse Berlin",NA,NA,0.408,0.313,0.28
 7,"SC Staaken","SC Charlottenburg",NA,NA,0.343,0.342,0.315
-8,"SC Charlottenburg","erlin Türkspor",NA,NA,0.331,0.347,0.322
+8,"SC Charlottenburg","Berlin Türkspor",NA,NA,0.331,0.347,0.322
 8,"1. FC Wilmersdorf","FSV Spandauer Kickers",NA,NA,0.315,0.341,0.343
 8,"Füchse Berlin","SC Staaken",NA,NA,0.434,0.301,0.264
 8,"SFC Stern 1900","SSC Südwest 1947",NA,NA,0.381,0.324,0.294
@@ -73,7 +73,7 @@
 8,"TSV Mariendorf 1897","SV BW Hohen Neuendorf",NA,NA,0.315,0.341,0.343
 9,"SSC Südwest 1947","SC Charlottenburg",NA,NA,0.369,0.33,0.302
 9,"TSV Rudow Berlin","SFC Stern 1900",NA,NA,0.331,0.347,0.322
-9,"erlin Türkspor","Füchse Berlin",NA,NA,0.369,0.33,0.302
+9,"Berlin Türkspor","Füchse Berlin",NA,NA,0.369,0.33,0.302
 9,"VSG Altglienicke II","Berliner SC",NA,NA,0.356,0.336,0.308
 9,"VfB Fortuna Biesdorf","Frohnauer SC",NA,NA,0.331,0.347,0.322
 9,"Sp.Vg. Blau Weiß 1890 Berlin","1. FC Wilmersdorf",NA,NA,0.421,0.307,0.272
@@ -81,7 +81,7 @@
 9,"SV BW Hohen Neuendorf","SV Empor Berlin",NA,NA,0.474,0.285,0.241
 9,"SC Staaken","TSV Mariendorf 1897",NA,NA,0.331,0.347,0.322
 10,"SSC Südwest 1947","SC Staaken",NA,NA,0.394,0.318,0.287
-10,"1. FC Wilmersdorf","erlin Türkspor",NA,NA,0.322,0.347,0.331
+10,"1. FC Wilmersdorf","Berlin Türkspor",NA,NA,0.322,0.347,0.331
 10,"TSV Rudow Berlin","SV BW Hohen Neuendorf",NA,NA,0.295,0.325,0.38
 10,"Füchse Berlin","Berliner SC",NA,NA,0.394,0.318,0.287
 10,"SC Charlottenburg","Frohnauer SC",NA,NA,0.322,0.347,0.331
@@ -89,7 +89,7 @@
 10,"FSV Spandauer Kickers","VSG Altglienicke II",NA,NA,0.421,0.307,0.272
 10,"Polar Pinguin Berlin","VfB Fortuna Biesdorf",NA,NA,0.331,0.347,0.322
 10,"TSV Mariendorf 1897","SV Empor Berlin",NA,NA,0.408,0.313,0.28
-11,"erlin Türkspor","SSC Südwest 1947",NA,NA,0.408,0.313,0.28
+11,"Berlin Türkspor","SSC Südwest 1947",NA,NA,0.408,0.313,0.28
 11,"Sp.Vg. Blau Weiß 1890 Berlin","SC Charlottenburg",NA,NA,0.408,0.313,0.28
 11,"VSG Altglienicke II","Polar Pinguin Berlin",NA,NA,0.394,0.318,0.287
 11,"VfB Fortuna Biesdorf","SFC Stern 1900",NA,NA,0.369,0.33,0.302
@@ -106,7 +106,7 @@
 12,"SV Empor Berlin","SC Staaken",NA,NA,0.369,0.33,0.302
 12,"Frohnauer SC","VSG Altglienicke II",NA,NA,0.421,0.307,0.272
 12,"Berliner SC","SV BW Hohen Neuendorf",NA,NA,0.315,0.341,0.343
-12,"TSV Mariendorf 1897","erlin Türkspor",NA,NA,0.343,0.342,0.315
+12,"TSV Mariendorf 1897","Berlin Türkspor",NA,NA,0.343,0.342,0.315
 13,"1. FC Wilmersdorf","SFC Stern 1900",NA,NA,0.343,0.342,0.315
 13,"Füchse Berlin","FSV Spandauer Kickers",NA,NA,0.356,0.336,0.308
 13,"SC Charlottenburg","Polar Pinguin Berlin",NA,NA,0.394,0.318,0.287
@@ -114,12 +114,12 @@
 13,"SV Empor Berlin","SSC Südwest 1947",NA,NA,0.343,0.342,0.315
 13,"VfB Fortuna Biesdorf","VSG Altglienicke II",NA,NA,0.381,0.324,0.294
 13,"Frohnauer SC","SC Staaken",NA,NA,0.448,0.296,0.257
-13,"Berliner SC","erlin Türkspor",NA,NA,0.343,0.342,0.315
+13,"Berliner SC","Berlin Türkspor",NA,NA,0.343,0.342,0.315
 13,"TSV Mariendorf 1897","TSV Rudow Berlin",NA,NA,0.408,0.313,0.28
 14,"SSC Südwest 1947","Berliner SC",NA,NA,0.356,0.336,0.308
 14,"1. FC Wilmersdorf","VSG Altglienicke II",NA,NA,0.356,0.336,0.308
 14,"TSV Rudow Berlin","SV Empor Berlin",NA,NA,0.369,0.33,0.302
-14,"erlin Türkspor","Frohnauer SC",NA,NA,0.356,0.336,0.308
+14,"Berlin Türkspor","Frohnauer SC",NA,NA,0.356,0.336,0.308
 14,"SFC Stern 1900","SC Charlottenburg",NA,NA,0.381,0.324,0.294
 14,"FSV Spandauer Kickers","TSV Mariendorf 1897",NA,NA,0.408,0.313,0.28
 14,"SV BW Hohen Neuendorf","VfB Fortuna Biesdorf",NA,NA,0.434,0.301,0.264
@@ -131,12 +131,12 @@
 15,"Polar Pinguin Berlin","SFC Stern 1900",NA,NA,0.331,0.347,0.322
 15,"FSV Spandauer Kickers","SC Charlottenburg",NA,NA,0.421,0.307,0.272
 15,"TSV Rudow Berlin","Füchse Berlin",NA,NA,0.315,0.341,0.343
-15,"erlin Türkspor","SV Empor Berlin",NA,NA,0.434,0.301,0.264
+15,"Berlin Türkspor","SV Empor Berlin",NA,NA,0.434,0.301,0.264
 15,"SC Staaken","Berliner SC",NA,NA,0.331,0.347,0.322
 15,"SV BW Hohen Neuendorf","Frohnauer SC",NA,NA,0.394,0.318,0.287
 16,"Füchse Berlin","SFC Stern 1900",NA,NA,0.394,0.318,0.287
 16,"VSG Altglienicke II","SV BW Hohen Neuendorf",NA,NA,0.309,0.336,0.356
-16,"Sp.Vg. Blau Weiß 1890 Berlin","erlin Türkspor",NA,NA,0.369,0.33,0.302
+16,"Sp.Vg. Blau Weiß 1890 Berlin","Berlin Türkspor",NA,NA,0.369,0.33,0.302
 16,"SV Empor Berlin","FSV Spandauer Kickers",NA,NA,0.309,0.336,0.356
 16,"VfB Fortuna Biesdorf","SC Staaken",NA,NA,0.408,0.313,0.28
 16,"SC Charlottenburg","1. FC Wilmersdorf",NA,NA,0.381,0.324,0.294
@@ -144,7 +144,7 @@
 16,"Berliner SC","TSV Rudow Berlin",NA,NA,0.408,0.313,0.28
 16,"TSV Mariendorf 1897","Polar Pinguin Berlin",NA,NA,0.408,0.313,0.28
 17,"1. FC Wilmersdorf","SSC Südwest 1947",NA,NA,0.356,0.336,0.308
-17,"TSV Rudow Berlin","erlin Türkspor",NA,NA,0.315,0.341,0.343
+17,"TSV Rudow Berlin","Berlin Türkspor",NA,NA,0.315,0.341,0.343
 17,"Füchse Berlin","Sp.Vg. Blau Weiß 1890 Berlin",NA,NA,0.369,0.33,0.302
 17,"SC Charlottenburg","VfB Fortuna Biesdorf",NA,NA,0.356,0.336,0.308
 17,"SFC Stern 1900","VSG Altglienicke II",NA,NA,0.381,0.324,0.294
@@ -159,10 +159,10 @@
 18,"SFC Stern 1900","Frohnauer SC",NA,NA,0.331,0.347,0.322
 18,"SC Charlottenburg","Berliner SC",NA,NA,0.356,0.336,0.308
 18,"SSC Südwest 1947","SV BW Hohen Neuendorf",NA,NA,0.309,0.336,0.356
-18,"erlin Türkspor","SC Staaken",NA,NA,0.434,0.301,0.264
+18,"Berlin Türkspor","SC Staaken",NA,NA,0.434,0.301,0.264
 18,"1. FC Wilmersdorf","TSV Mariendorf 1897",NA,NA,0.343,0.342,0.315
 19,"SC Staaken","SSC Südwest 1947",NA,NA,0.343,0.342,0.315
-19,"erlin Türkspor","1. FC Wilmersdorf",NA,NA,0.421,0.307,0.272
+19,"Berlin Türkspor","1. FC Wilmersdorf",NA,NA,0.421,0.307,0.272
 19,"SV BW Hohen Neuendorf","TSV Rudow Berlin",NA,NA,0.474,0.285,0.241
 19,"Berliner SC","Füchse Berlin",NA,NA,0.343,0.342,0.315
 19,"Frohnauer SC","SC Charlottenburg",NA,NA,0.421,0.307,0.272
@@ -170,7 +170,7 @@
 19,"VSG Altglienicke II","FSV Spandauer Kickers",NA,NA,0.322,0.347,0.331
 19,"VfB Fortuna Biesdorf","Polar Pinguin Berlin",NA,NA,0.408,0.313,0.28
 19,"SV Empor Berlin","TSV Mariendorf 1897",NA,NA,0.331,0.347,0.322
-20,"SSC Südwest 1947","erlin Türkspor",NA,NA,0.331,0.347,0.322
+20,"SSC Südwest 1947","Berlin Türkspor",NA,NA,0.331,0.347,0.322
 20,"SC Charlottenburg","Sp.Vg. Blau Weiß 1890 Berlin",NA,NA,0.331,0.347,0.322
 20,"Polar Pinguin Berlin","VSG Altglienicke II",NA,NA,0.343,0.342,0.315
 20,"SFC Stern 1900","VfB Fortuna Biesdorf",NA,NA,0.369,0.33,0.302
@@ -180,7 +180,7 @@
 20,"FSV Spandauer Kickers","SV BW Hohen Neuendorf",NA,NA,0.343,0.342,0.315
 20,"TSV Rudow Berlin","SC Staaken",NA,NA,0.369,0.33,0.302
 21,"SSC Südwest 1947","1. FC Wilmersdorf",NA,NA,0.381,0.324,0.294
-21,"erlin Türkspor","TSV Rudow Berlin",NA,NA,0.434,0.301,0.264
+21,"Berlin Türkspor","TSV Rudow Berlin",NA,NA,0.434,0.301,0.264
 21,"Sp.Vg. Blau Weiß 1890 Berlin","Füchse Berlin",NA,NA,0.369,0.33,0.302
 21,"VfB Fortuna Biesdorf","SC Charlottenburg",NA,NA,0.381,0.324,0.294
 21,"VSG Altglienicke II","SFC Stern 1900",NA,NA,0.356,0.336,0.308
@@ -189,7 +189,7 @@
 21,"SV BW Hohen Neuendorf","Polar Pinguin Berlin",NA,NA,0.474,0.285,0.241
 21,"Frohnauer SC","TSV Mariendorf 1897",NA,NA,0.408,0.313,0.28
 22,"TSV Rudow Berlin","SSC Südwest 1947",NA,NA,0.343,0.342,0.315
-22,"FSV Spandauer Kickers","erlin Türkspor",NA,NA,0.381,0.324,0.294
+22,"FSV Spandauer Kickers","Berlin Türkspor",NA,NA,0.381,0.324,0.294
 22,"SC Charlottenburg","VSG Altglienicke II",NA,NA,0.369,0.33,0.302
 22,"Füchse Berlin","VfB Fortuna Biesdorf",NA,NA,0.394,0.318,0.287
 22,"TSV Mariendorf 1897","Sp.Vg. Blau Weiß 1890 Berlin",NA,NA,0.343,0.342,0.315
@@ -204,12 +204,12 @@
 23,"SSC Südwest 1947","FSV Spandauer Kickers",NA,NA,0.322,0.347,0.331
 23,"SV BW Hohen Neuendorf","SC Charlottenburg",NA,NA,0.448,0.296,0.257
 23,"Frohnauer SC","Berliner SC",NA,NA,0.408,0.313,0.28
-23,"erlin Türkspor","Polar Pinguin Berlin",NA,NA,0.434,0.301,0.264
+23,"Berlin Türkspor","Polar Pinguin Berlin",NA,NA,0.434,0.301,0.264
 23,"VfB Fortuna Biesdorf","TSV Mariendorf 1897",NA,NA,0.369,0.33,0.302
 24,"VSG Altglienicke II","SSC Südwest 1947",NA,NA,0.369,0.33,0.302
 24,"SC Staaken","1. FC Wilmersdorf",NA,NA,0.356,0.336,0.308
 24,"VfB Fortuna Biesdorf","TSV Rudow Berlin",NA,NA,0.408,0.313,0.28
-24,"SV BW Hohen Neuendorf","erlin Türkspor",NA,NA,0.408,0.313,0.28
+24,"SV BW Hohen Neuendorf","Berlin Türkspor",NA,NA,0.408,0.313,0.28
 24,"TSV Mariendorf 1897","Füchse Berlin",NA,NA,0.343,0.342,0.315
 24,"Berliner SC","SFC Stern 1900",NA,NA,0.369,0.33,0.302
 24,"Sp.Vg. Blau Weiß 1890 Berlin","FSV Spandauer Kickers",NA,NA,0.356,0.336,0.308
@@ -222,18 +222,18 @@
 25,"SSC Südwest 1947","SV Empor Berlin",NA,NA,0.394,0.318,0.287
 25,"VSG Altglienicke II","VfB Fortuna Biesdorf",NA,NA,0.356,0.336,0.308
 25,"SC Staaken","Frohnauer SC",NA,NA,0.309,0.336,0.356
-25,"erlin Türkspor","Berliner SC",NA,NA,0.394,0.318,0.287
+25,"Berlin Türkspor","Berliner SC",NA,NA,0.394,0.318,0.287
 25,"TSV Rudow Berlin","TSV Mariendorf 1897",NA,NA,0.331,0.347,0.322
 26,"Polar Pinguin Berlin","SSC Südwest 1947",NA,NA,0.343,0.342,0.315
 26,"FSV Spandauer Kickers","TSV Rudow Berlin",NA,NA,0.448,0.296,0.257
-26,"SFC Stern 1900","erlin Türkspor",NA,NA,0.343,0.342,0.315
+26,"SFC Stern 1900","Berlin Türkspor",NA,NA,0.343,0.342,0.315
 26,"Berliner SC","Sp.Vg. Blau Weiß 1890 Berlin",NA,NA,0.343,0.342,0.315
 26,"TSV Mariendorf 1897","VSG Altglienicke II",NA,NA,0.381,0.324,0.294
 26,"SV Empor Berlin","VfB Fortuna Biesdorf",NA,NA,0.331,0.347,0.322
 26,"1. FC Wilmersdorf","Frohnauer SC",NA,NA,0.315,0.341,0.343
 26,"Füchse Berlin","SV BW Hohen Neuendorf",NA,NA,0.331,0.347,0.322
 26,"SC Charlottenburg","SC Staaken",NA,NA,0.394,0.318,0.287
-27,"erlin Türkspor","SC Charlottenburg",NA,NA,0.408,0.313,0.28
+27,"Berlin Türkspor","SC Charlottenburg",NA,NA,0.408,0.313,0.28
 27,"FSV Spandauer Kickers","1. FC Wilmersdorf",NA,NA,0.434,0.301,0.264
 27,"SC Staaken","Füchse Berlin",NA,NA,0.315,0.341,0.343
 27,"SSC Südwest 1947","SFC Stern 1900",NA,NA,0.356,0.336,0.308
@@ -244,7 +244,7 @@
 27,"SV BW Hohen Neuendorf","TSV Mariendorf 1897",NA,NA,0.434,0.301,0.264
 28,"SC Charlottenburg","SSC Südwest 1947",NA,NA,0.369,0.33,0.302
 28,"SFC Stern 1900","TSV Rudow Berlin",NA,NA,0.408,0.313,0.28
-28,"Füchse Berlin","erlin Türkspor",NA,NA,0.369,0.33,0.302
+28,"Füchse Berlin","Berlin Türkspor",NA,NA,0.369,0.33,0.302
 28,"Berliner SC","VSG Altglienicke II",NA,NA,0.381,0.324,0.294
 28,"Frohnauer SC","VfB Fortuna Biesdorf",NA,NA,0.408,0.313,0.28
 28,"1. FC Wilmersdorf","Sp.Vg. Blau Weiß 1890 Berlin",NA,NA,0.322,0.347,0.331
@@ -259,7 +259,7 @@
 29,"SC Staaken","SV Empor Berlin",NA,NA,0.369,0.33,0.302
 29,"VSG Altglienicke II","Frohnauer SC",NA,NA,0.322,0.347,0.331
 29,"SV BW Hohen Neuendorf","Berliner SC",NA,NA,0.434,0.301,0.264
-29,"erlin Türkspor","TSV Mariendorf 1897",NA,NA,0.394,0.318,0.287
+29,"Berlin Türkspor","TSV Mariendorf 1897",NA,NA,0.394,0.318,0.287
 30,"SFC Stern 1900","SV Empor Berlin",NA,NA,0.408,0.313,0.28
 30,"TSV Rudow Berlin","Sp.Vg. Blau Weiß 1890 Berlin",NA,NA,0.315,0.341,0.343
 30,"FSV Spandauer Kickers","Frohnauer SC",NA,NA,0.369,0.33,0.302
@@ -267,12 +267,12 @@
 30,"SC Charlottenburg","TSV Mariendorf 1897",NA,NA,0.356,0.336,0.308
 30,"1. FC Wilmersdorf","Füchse Berlin",NA,NA,0.322,0.347,0.331
 30,"SC Staaken","SV BW Hohen Neuendorf",NA,NA,0.295,0.325,0.38
-30,"erlin Türkspor","VSG Altglienicke II",NA,NA,0.408,0.313,0.28
+30,"Berlin Türkspor","VSG Altglienicke II",NA,NA,0.408,0.313,0.28
 30,"SSC Südwest 1947","VfB Fortuna Biesdorf",NA,NA,0.356,0.336,0.308
 31,"Berliner SC","SSC Südwest 1947",NA,NA,0.381,0.324,0.294
 31,"VSG Altglienicke II","1. FC Wilmersdorf",NA,NA,0.381,0.324,0.294
 31,"SV Empor Berlin","TSV Rudow Berlin",NA,NA,0.369,0.33,0.302
-31,"Frohnauer SC","erlin Türkspor",NA,NA,0.381,0.324,0.294
+31,"Frohnauer SC","Berlin Türkspor",NA,NA,0.381,0.324,0.294
 31,"SC Charlottenburg","SFC Stern 1900",NA,NA,0.356,0.336,0.308
 31,"TSV Mariendorf 1897","FSV Spandauer Kickers",NA,NA,0.331,0.347,0.322
 31,"VfB Fortuna Biesdorf","SV BW Hohen Neuendorf",NA,NA,0.315,0.341,0.343
@@ -283,13 +283,13 @@
 32,"SV Empor Berlin","Polar Pinguin Berlin",NA,NA,0.369,0.33,0.302
 32,"Berliner SC","FSV Spandauer Kickers",NA,NA,0.331,0.347,0.322
 32,"Frohnauer SC","TSV Rudow Berlin",NA,NA,0.448,0.296,0.257
-32,"VfB Fortuna Biesdorf","erlin Türkspor",NA,NA,0.343,0.342,0.315
+32,"VfB Fortuna Biesdorf","Berlin Türkspor",NA,NA,0.343,0.342,0.315
 32,"VSG Altglienicke II","SC Staaken",NA,NA,0.394,0.318,0.287
 32,"Füchse Berlin","SC Charlottenburg",NA,NA,0.408,0.313,0.28
 32,"TSV Mariendorf 1897","SFC Stern 1900",NA,NA,0.369,0.33,0.302
 33,"SFC Stern 1900","Füchse Berlin",NA,NA,0.343,0.342,0.315
 33,"SV BW Hohen Neuendorf","VSG Altglienicke II",NA,NA,0.448,0.296,0.257
-33,"erlin Türkspor","Sp.Vg. Blau Weiß 1890 Berlin",NA,NA,0.369,0.33,0.302
+33,"Berlin Türkspor","Sp.Vg. Blau Weiß 1890 Berlin",NA,NA,0.369,0.33,0.302
 33,"FSV Spandauer Kickers","SV Empor Berlin",NA,NA,0.448,0.296,0.257
 33,"SC Staaken","VfB Fortuna Biesdorf",NA,NA,0.331,0.347,0.322
 33,"1. FC Wilmersdorf","SC Charlottenburg",NA,NA,0.356,0.336,0.308
@@ -302,6 +302,6 @@
 34,"SFC Stern 1900","Polar Pinguin Berlin",NA,NA,0.408,0.313,0.28
 34,"SC Charlottenburg","FSV Spandauer Kickers",NA,NA,0.322,0.347,0.331
 34,"Füchse Berlin","TSV Rudow Berlin",NA,NA,0.434,0.301,0.264
-34,"SV Empor Berlin","erlin Türkspor",NA,NA,0.315,0.341,0.343
+34,"SV Empor Berlin","Berlin Türkspor",NA,NA,0.315,0.341,0.343
 34,"Berliner SC","SC Staaken",NA,NA,0.408,0.313,0.28
 34,"Frohnauer SC","SV BW Hohen Neuendorf",NA,NA,0.343,0.342,0.315

@@ -6,7 +6,7 @@ Rank,Team,Name,Nr,Pos,Spiele,Scorerpoints,Tore,Assists,Ratio
 5,Füchse Berlin,Victor Sunday,22,ST,3,3,3,0,50
 6,Sp.Vg. Blau Weiß 1890 Berlin,Darryl Julian Geurts,11,LM,3,3,2,1,37.5
 7,Sp.Vg. Blau Weiß 1890 Berlin,Guilherme Henrique Lopes De Oliveira,13,NA,3,3,3,0,37.5
-8,erlin Türkspor,Artin Zardoshtian,27,ZDM,3,3,1,2,33.3
+8,Berlin Türkspor,Artin Zardoshtian,27,ZDM,3,3,1,2,33.3
 9,SV BW Hohen Neuendorf,Leandro Röttgen,13,LM,3,3,1,2,33.3
 10,SV BW Hohen Neuendorf,Nick Przesang,30,NA,3,3,1,2,33.3
 11,SSC Südwest 1947,Juan Cernescu,23,RM,2,2,1,1,100
@@ -23,8 +23,8 @@ Rank,Team,Name,Nr,Pos,Spiele,Scorerpoints,Tore,Assists,Ratio
 22,Frohnauer SC,Bachar Said,21,NA,3,2,0,2,28.6
 23,Sp.Vg. Blau Weiß 1890 Berlin,Nils Köhne,4,IV,3,2,2,0,25
 24,Sp.Vg. Blau Weiß 1890 Berlin,Fabian Engel,55,ZDM,1,2,0,2,25
-25,erlin Türkspor,Süleyman Kapan,0,ST,2,2,2,0,22.2
-26,erlin Türkspor,Emre Turan,24,IV,3,2,2,0,22.2
+25,Berlin Türkspor,Süleyman Kapan,0,ST,2,2,2,0,22.2
+26,Berlin Türkspor,Emre Turan,24,IV,3,2,2,0,22.2
 27,SV BW Hohen Neuendorf,Sebastian Wolf,27,RM,3,2,1,1,22.2
 28,SSC Südwest 1947,Philipp Olsowski,8,ZDM,3,1,1,0,50
 29,SC Staaken,Luca Förster,21,IV,2,1,1,0,50
@@ -78,12 +78,12 @@ Rank,Team,Name,Nr,Pos,Spiele,Scorerpoints,Tore,Assists,Ratio
 77,Sp.Vg. Blau Weiß 1890 Berlin,Michael Hinz,30,TW,3,1,0,1,12.5
 78,Sp.Vg. Blau Weiß 1890 Berlin,Marcel Rausch,19,ZDM,3,1,0,1,12.5
 79,Sp.Vg. Blau Weiß 1890 Berlin,Florian Kohls,0,ZM,1,1,1,0,12.5
-80,erlin Türkspor,Mapalo Korntreff,25,LM,3,1,0,1,11.1
-81,erlin Türkspor,Benjamin Heymann,11,LM,2,1,1,0,11.1
-82,erlin Türkspor,Sefa Kahraman,37,IV,3,1,1,0,11.1
-83,erlin Türkspor,Panagiotis Vassiliadis,2,RV,3,1,1,0,11.1
-84,erlin Türkspor,Ahmad Rmieh,7,ZDM,2,1,0,1,11.1
-85,erlin Türkspor,Halit Bacak,10,RM,3,1,0,1,11.1
+80,Berlin Türkspor,Mapalo Korntreff,25,LM,3,1,0,1,11.1
+81,Berlin Türkspor,Benjamin Heymann,11,LM,2,1,1,0,11.1
+82,Berlin Türkspor,Sefa Kahraman,37,IV,3,1,1,0,11.1
+83,Berlin Türkspor,Panagiotis Vassiliadis,2,RV,3,1,1,0,11.1
+84,Berlin Türkspor,Ahmad Rmieh,7,ZDM,2,1,0,1,11.1
+85,Berlin Türkspor,Halit Bacak,10,RM,3,1,0,1,11.1
 86,SV BW Hohen Neuendorf,Dag Rüdiger,31,RV,3,1,0,1,11.1
 87,SV BW Hohen Neuendorf,Yeri Said Schock Negrete,4,NA,3,1,0,1,11.1
 88,SV BW Hohen Neuendorf,Leon Draski,8,NA,2,1,0,1,11.1
@@ -205,16 +205,16 @@ Rank,Team,Name,Nr,Pos,Spiele,Scorerpoints,Tore,Assists,Ratio
 204,TSV Mariendorf 1897,David Rosner,4,IV,2,0,0,0,0
 205,TSV Mariendorf 1897,Jannis Krieger,29,ST,1,0,0,0,0
 206,TSV Mariendorf 1897,Julian Austermann,18,IV,3,0,0,0,0
-207,erlin Türkspor,Umut Satici,0,NA,1,0,0,0,0
-208,erlin Türkspor,Mame Cheikh Diop,3,NA,1,0,0,0,0
-209,erlin Türkspor,Aristotelis Dougalis,21,NA,2,0,0,0,0
-210,erlin Türkspor,Tristan Krien,19,NA,3,0,0,0,0
-211,erlin Türkspor,Jonas Mukuku Zola,17,ST,3,0,0,0,0
-212,erlin Türkspor,Viktor Pokataiev,23,TW,1,0,0,0,0
-213,erlin Türkspor,King David Yeboah Frimpong Szigath,99,NA,1,0,0,0,0
-214,erlin Türkspor,Prince Collins Idemudia,5,NA,1,0,0,0,0
-215,erlin Türkspor,Leon Bätge,1,TW,2,0,0,0,0
-216,erlin Türkspor,Joe Williams,8,LV,3,0,0,0,0
+207,Berlin Türkspor,Umut Satici,0,NA,1,0,0,0,0
+208,Berlin Türkspor,Mame Cheikh Diop,3,NA,1,0,0,0,0
+209,Berlin Türkspor,Aristotelis Dougalis,21,NA,2,0,0,0,0
+210,Berlin Türkspor,Tristan Krien,19,NA,3,0,0,0,0
+211,Berlin Türkspor,Jonas Mukuku Zola,17,ST,3,0,0,0,0
+212,Berlin Türkspor,Viktor Pokataiev,23,TW,1,0,0,0,0
+213,Berlin Türkspor,King David Yeboah Frimpong Szigath,99,NA,1,0,0,0,0
+214,Berlin Türkspor,Prince Collins Idemudia,5,NA,1,0,0,0,0
+215,Berlin Türkspor,Leon Bätge,1,TW,2,0,0,0,0
+216,Berlin Türkspor,Joe Williams,8,LV,3,0,0,0,0
 217,Frohnauer SC,Nils Ehritt,11,RV,3,0,0,0,0
 218,Frohnauer SC,Philipp Walter,20,LM,3,0,0,0,0
 219,Frohnauer SC,Levi Arend,19,NA,2,0,0,0,0

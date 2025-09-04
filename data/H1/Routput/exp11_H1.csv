@@ -20,6 +20,27 @@ Team,Formation,Anzahl,Total_Spiele,Wahrscheinlichkeit,dreier_kette,vierer_kette,
 1. FC Wilmersdorf,4-5-1,1,3,33%,Nein,Ja,1. FC Wilmersdorf,IV,2,Otmar Baumann,0.47
 1. FC Wilmersdorf,4-5-1,1,3,33%,Nein,Ja,1. FC Wilmersdorf,RV,11,Baran Akpinar,0.46
 1. FC Wilmersdorf,4-5-1,1,3,33%,Nein,Ja,1. FC Wilmersdorf,ZM,10,Serkan Akyol,0.45
+Berlin Türkspor,3-6-1,1,3,33%,Ja,Nein,Berlin Türkspor,LM,27,Artin Zardoshtian,0.8
+Berlin Türkspor,3-6-1,1,3,33%,Ja,Nein,Berlin Türkspor,ZM,8,Joe Williams,0.77
+Berlin Türkspor,3-6-1,1,3,33%,Ja,Nein,Berlin Türkspor,RM,10,Halit Bacak,0.77
+Berlin Türkspor,3-6-1,1,3,33%,Ja,Nein,Berlin Türkspor,IV,24,Emre Turan,0.74
+Berlin Türkspor,3-6-1,1,3,33%,Ja,Nein,Berlin Türkspor,IV,37,Sefa Kahraman,0.74
+Berlin Türkspor,3-6-1,1,3,33%,Ja,Nein,Berlin Türkspor,IV,2,Panagiotis Vassiliadis,0.73
+Berlin Türkspor,3-6-1,1,3,33%,Ja,Nein,Berlin Türkspor,ST,17,Jonas Mukuku Zola,0.69
+Berlin Türkspor,3-6-1,1,3,33%,Ja,Nein,Berlin Türkspor,ZM,11,Benjamin Heymann,0.69
+Berlin Türkspor,3-6-1,1,3,33%,Ja,Nein,Berlin Türkspor,TW,23,Viktor Pokataiev,0.63
+Berlin Türkspor,3-6-1,1,3,33%,Ja,Nein,Berlin Türkspor,ZM,7,Ahmad Rmieh,0.63
+Berlin Türkspor,4-2-3-1,2,3,67%,Nein,Ja,Berlin Türkspor,ZDM,27,Artin Zardoshtian,0.8
+Berlin Türkspor,4-2-3-1,2,3,67%,Nein,Ja,Berlin Türkspor,LV,8,Joe Williams,0.77
+Berlin Türkspor,4-2-3-1,2,3,67%,Nein,Ja,Berlin Türkspor,RM,10,Halit Bacak,0.77
+Berlin Türkspor,4-2-3-1,2,3,67%,Nein,Ja,Berlin Türkspor,IV,24,Emre Turan,0.74
+Berlin Türkspor,4-2-3-1,2,3,67%,Nein,Ja,Berlin Türkspor,IV,37,Sefa Kahraman,0.74
+Berlin Türkspor,4-2-3-1,2,3,67%,Nein,Ja,Berlin Türkspor,RV,2,Panagiotis Vassiliadis,0.73
+Berlin Türkspor,4-2-3-1,2,3,67%,Nein,Ja,Berlin Türkspor,ST,17,Jonas Mukuku Zola,0.69
+Berlin Türkspor,4-2-3-1,2,3,67%,Nein,Ja,Berlin Türkspor,LM,11,Benjamin Heymann,0.69
+Berlin Türkspor,4-2-3-1,2,3,67%,Nein,Ja,Berlin Türkspor,ZOM,25,Mapalo Korntreff,0.68
+Berlin Türkspor,4-2-3-1,2,3,67%,Nein,Ja,Berlin Türkspor,TW,23,Viktor Pokataiev,0.63
+Berlin Türkspor,4-2-3-1,2,3,67%,Nein,Ja,Berlin Türkspor,ZDM,7,Ahmad Rmieh,0.63
 Berliner SC,4-1-4-1,1,3,33%,Nein,Ja,Berliner SC,LM,19,Stephan Ngah,0.76
 Berliner SC,4-1-4-1,1,3,33%,Nein,Ja,Berliner SC,ZDM,15,Jeff Nnaemeka-Chukwurah,0.73
 Berliner SC,4-1-4-1,1,3,33%,Nein,Ja,Berliner SC,ZOM,17,Justin Maximilian Neumann,0.72
@@ -266,24 +287,3 @@ VfB Fortuna Biesdorf,4-4-2,2,3,67%,Nein,Ja,VfB Fortuna Biesdorf,IV,3,Miguel Hart
 VfB Fortuna Biesdorf,4-4-2,2,3,67%,Nein,Ja,VfB Fortuna Biesdorf,ST,21,Darvin Schramm,0.5
 VfB Fortuna Biesdorf,4-4-2,2,3,67%,Nein,Ja,VfB Fortuna Biesdorf,ZM,23,Ole Eric Petschner,0.5
 VfB Fortuna Biesdorf,4-4-2,2,3,67%,Nein,Ja,VfB Fortuna Biesdorf,ZM,24,Benjamin Sommer,0.46
-erlin Türkspor,3-6-1,1,3,33%,Ja,Nein,erlin Türkspor,LM,27,Artin Zardoshtian,0.8
-erlin Türkspor,3-6-1,1,3,33%,Ja,Nein,erlin Türkspor,ZM,8,Joe Williams,0.77
-erlin Türkspor,3-6-1,1,3,33%,Ja,Nein,erlin Türkspor,RM,10,Halit Bacak,0.77
-erlin Türkspor,3-6-1,1,3,33%,Ja,Nein,erlin Türkspor,IV,24,Emre Turan,0.74
-erlin Türkspor,3-6-1,1,3,33%,Ja,Nein,erlin Türkspor,IV,37,Sefa Kahraman,0.74
-erlin Türkspor,3-6-1,1,3,33%,Ja,Nein,erlin Türkspor,IV,2,Panagiotis Vassiliadis,0.73
-erlin Türkspor,3-6-1,1,3,33%,Ja,Nein,erlin Türkspor,ST,17,Jonas Mukuku Zola,0.69
-erlin Türkspor,3-6-1,1,3,33%,Ja,Nein,erlin Türkspor,ZM,11,Benjamin Heymann,0.69
-erlin Türkspor,3-6-1,1,3,33%,Ja,Nein,erlin Türkspor,TW,23,Viktor Pokataiev,0.63
-erlin Türkspor,3-6-1,1,3,33%,Ja,Nein,erlin Türkspor,ZM,7,Ahmad Rmieh,0.63
-erlin Türkspor,4-2-3-1,2,3,67%,Nein,Ja,erlin Türkspor,ZDM,27,Artin Zardoshtian,0.8
-erlin Türkspor,4-2-3-1,2,3,67%,Nein,Ja,erlin Türkspor,LV,8,Joe Williams,0.77
-erlin Türkspor,4-2-3-1,2,3,67%,Nein,Ja,erlin Türkspor,RM,10,Halit Bacak,0.77
-erlin Türkspor,4-2-3-1,2,3,67%,Nein,Ja,erlin Türkspor,IV,24,Emre Turan,0.74
-erlin Türkspor,4-2-3-1,2,3,67%,Nein,Ja,erlin Türkspor,IV,37,Sefa Kahraman,0.74
-erlin Türkspor,4-2-3-1,2,3,67%,Nein,Ja,erlin Türkspor,RV,2,Panagiotis Vassiliadis,0.73
-erlin Türkspor,4-2-3-1,2,3,67%,Nein,Ja,erlin Türkspor,ST,17,Jonas Mukuku Zola,0.69
-erlin Türkspor,4-2-3-1,2,3,67%,Nein,Ja,erlin Türkspor,LM,11,Benjamin Heymann,0.69
-erlin Türkspor,4-2-3-1,2,3,67%,Nein,Ja,erlin Türkspor,ZOM,25,Mapalo Korntreff,0.68
-erlin Türkspor,4-2-3-1,2,3,67%,Nein,Ja,erlin Türkspor,TW,23,Viktor Pokataiev,0.63
-erlin Türkspor,4-2-3-1,2,3,67%,Nein,Ja,erlin Türkspor,ZDM,7,Ahmad Rmieh,0.63

@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', () => {
     'Polar Pinguin Berlin': 'Polar',
     'SC Charlottenburg': 'SCC',
     'FSV Spandauer Kickers': 'Spaki',
-    'SC Staaken 1919': 'Staaken',
+    'SC Staaken': 'Staaken',
     'SFC Stern 1900': 'Stern 1900',
     'SSC Südwest 1947': 'Südwest',
     'Berlin Türkspor': 'Türkspor',

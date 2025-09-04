@@ -6,13 +6,13 @@ Rank,Team,Nr,Name,Pos,Spielzeit,matches_played_ratio,playtime_ratio,points_per_g
 5,SV BW Hohen Neuendorf,21,Thomas Stoltz,IV,270,1,1,1,0,0.333,0.82
 6,Frohnauer SC,10,Rangga Musiol,ZOM,244,1,0.904,1,0.286,0,0.81
 7,FSV Spandauer Kickers,7,Okan Tastan,ST,252,1,0.933,0.778,0.6,0,0.81
-8,erlin Türkspor,27,Artin Zardoshtian,ZDM,270,1,1,0.667,0.333,0.667,0.8
+8,Berlin Türkspor,27,Artin Zardoshtian,ZDM,270,1,1,0.667,0.333,0.667,0.8
 9,Frohnauer SC,11,Nils Ehritt,RV,270,1,1,1,0,0,0.8
 10,Frohnauer SC,1,Sebastian Paul,TW,270,1,1,1,0,0,0.8
 11,SV BW Hohen Neuendorf,1,Timo Kopmann,TW,270,1,1,1,0,0,0.8
 12,SSC Südwest 1947,23,Juan Cernescu,RM,180,0.6666666666666666,1,0.5,1,0.5,0.77
-13,erlin Türkspor,8,Joe Williams,LV,270,1,1,0.667,0,1,0.77
-14,erlin Türkspor,10,Halit Bacak,RM,270,1,1,0.667,0.111,0.667,0.77
+13,Berlin Türkspor,8,Joe Williams,LV,270,1,1,0.667,0,1,0.77
+14,Berlin Türkspor,10,Halit Bacak,RM,270,1,1,0.667,0.111,0.667,0.77
 15,FSV Spandauer Kickers,6,Khasan Dzhaukhar,LM,270,1,1,0.778,0.2,0,0.77
 16,Füchse Berlin,1,Kevin Otremba,TW,180,0.6666666666666666,1,1,0,1,0.77
 17,Füchse Berlin,22,Victor Sunday,ST,236,1,0.874,0.667,0.5,0.333,0.77
@@ -22,15 +22,15 @@ Rank,Team,Nr,Name,Pos,Spielzeit,matches_played_ratio,playtime_ratio,points_per_g
 21,FSV Spandauer Kickers,23,Nils Gardeike,TW,270,1,1,0.667,0,0.667,0.75
 22,Füchse Berlin,4,Dominik Klecha,IV,270,1,1,0.667,0,0.667,0.75
 23,Sp.Vg. Blau Weiß 1890 Berlin,30,Michael Hinz,TW,270,1,1,0.667,0.125,0,0.74
-24,erlin Türkspor,24,Emre Turan,IV,265,1,0.981,0.667,0.222,0,0.74
-25,erlin Türkspor,37,Sefa Kahraman,IV,259,1,0.959,0.667,0.111,0.333,0.74
+24,Berlin Türkspor,24,Emre Turan,IV,265,1,0.981,0.667,0.222,0,0.74
+25,Berlin Türkspor,37,Sefa Kahraman,IV,259,1,0.959,0.667,0.111,0.333,0.74
 26,Frohnauer SC,8,Nando Hofmann,IV,201,1,0.744,1,0,0.333,0.74
 27,FSV Spandauer Kickers,0,Klaus Oldorff,RM,180,0.6666666666666666,1,1,0,0.5,0.74
 28,SV BW Hohen Neuendorf,30,Nick Przesang,NA,167,1,0.619,1,0.333,0,0.74
 29,Berliner SC,15,Jeff Nnaemeka-Chukwurah,ZDM,270,1,1,0.667,0,0.333,0.73
 30,Sp.Vg. Blau Weiß 1890 Berlin,27,Gelicio Aurelio Banze,IV,270,1,1,0.667,0,0.333,0.73
 31,Sp.Vg. Blau Weiß 1890 Berlin,19,Marcel Rausch,ZDM,238,1,0.881,0.667,0.125,0.667,0.73
-32,erlin Türkspor,2,Panagiotis Vassiliadis,RV,270,1,1,0.667,0.111,0,0.73
+32,Berlin Türkspor,2,Panagiotis Vassiliadis,RV,270,1,1,0.667,0.111,0,0.73
 33,Frohnauer SC,27,Erik Hollnagel,ZDM,191,1,0.707,1,0,0.333,0.73
 34,FSV Spandauer Kickers,10,Vincent Kuckei,ZOM,255,1,0.944,0.778,0,0,0.73
 35,FSV Spandauer Kickers,17,Fabian Senninger,ZDM,243,1,0.9,0.778,0,0.333,0.73
@@ -53,8 +53,8 @@ Rank,Team,Nr,Name,Pos,Spielzeit,matches_played_ratio,playtime_ratio,points_per_g
 52,Füchse Berlin,15,Karim Naziru Zoungrana,ZDM,259,1,0.959,0.667,0,0,0.7
 53,SV BW Hohen Neuendorf,23,Jean-Marc Soine,ST,89,1,0.33,1,0.556,0.333,0.7
 54,Berliner SC,1,Tom Köster,TW,270,1,1,0.444,0,0.667,0.69
-55,erlin Türkspor,17,Jonas Mukuku Zola,ST,169,1,0.626,1,0,0,0.69
-56,erlin Türkspor,11,Benjamin Heymann,LM,154,0.6666666666666666,0.856,1,0.111,0,0.69
+55,Berlin Türkspor,17,Jonas Mukuku Zola,ST,169,1,0.626,1,0,0,0.69
+56,Berlin Türkspor,11,Benjamin Heymann,LM,154,0.6666666666666666,0.856,1,0.111,0,0.69
 57,Frohnauer SC,24,Maximilian Mundt,RM,155,1,0.574,1,0.143,0,0.69
 58,SV Empor Berlin,9,Quentin Paul Albrecht,ST,270,1,1,0,0.833,0.333,0.69
 59,SFC Stern 1900,3,Leon Krost,RV,270,1,1,0.444,0,0.667,0.69
@@ -66,7 +66,7 @@ Rank,Team,Nr,Name,Pos,Spielzeit,matches_played_ratio,playtime_ratio,points_per_g
 65,Sp.Vg. Blau Weiß 1890 Berlin,4,Nils Köhne,IV,177,1,0.656,0.667,0.25,0.667,0.68
 66,TSV Mariendorf 1897,22,Amat Chaw,TW,270,1,1,0.444,0,0.333,0.68
 67,TSV Mariendorf 1897,18,Julian Austermann,IV,270,1,1,0.444,0,0.333,0.68
-68,erlin Türkspor,25,Mapalo Korntreff,LM,258,1,0.956,0.5,0.111,0,0.68
+68,Berlin Türkspor,25,Mapalo Korntreff,LM,258,1,0.956,0.5,0.111,0,0.68
 69,Frohnauer SC,23,Tidjan Barnes,NA,143,1,0.53,1,0.143,0,0.68
 70,SFC Stern 1900,21,Luca Rohr,ZDM,270,1,1,0.444,0,0.333,0.68
 71,Füchse Berlin,19,Lamine Ouedraogo,NA,238,1,0.881,0.667,0,0,0.68
@@ -94,13 +94,13 @@ Rank,Team,Nr,Name,Pos,Spielzeit,matches_played_ratio,playtime_ratio,points_per_g
 93,Sp.Vg. Blau Weiß 1890 Berlin,3,Lionel Salla,LV,192,1,0.711,0.667,0,0,0.63
 94,SSC Südwest 1947,22,Toni Stroehlke,TW,270,1,1,0.333,0,0,0.63
 95,SSC Südwest 1947,9,Enes Oguz Timur Schick,RV,256,1,0.948,0.333,0,0.333,0.63
-96,erlin Türkspor,23,Viktor Pokataiev,TW,90,0.3333333333333333,1,1,0,0,0.63
-97,erlin Türkspor,7,Ahmad Rmieh,ZDM,176,0.6666666666666666,0.978,0.5,0.111,0.5,0.63
+96,Berlin Türkspor,23,Viktor Pokataiev,TW,90,0.3333333333333333,1,1,0,0,0.63
+97,Berlin Türkspor,7,Ahmad Rmieh,ZDM,176,0.6666666666666666,0.978,0.5,0.111,0.5,0.63
 98,Frohnauer SC,6,Dominik Lindhammer,NA,117,1,0.433,1,0,0,0.63
 99,SC Charlottenburg,16,Lasse Engelsing,RM,270,1,1,0.333,0,0,0.63
 100,SC Charlottenburg,25,Marc Reichel,IV,270,1,1,0.333,0,0,0.63
 101,SC Charlottenburg,10,Necmi Ulucay,ZOM,217,1,0.804,0.333,0.25,0.333,0.63
-102,erlin Türkspor,0,Süleyman Kapan,ST,180,0.6666666666666666,1,0.5,0.222,0,0.62
+102,Berlin Türkspor,0,Süleyman Kapan,ST,180,0.6666666666666666,1,0.5,0.222,0,0.62
 103,Frohnauer SC,20,Philipp Walter,LM,110,1,0.407,1,0,0,0.62
 104,SC Charlottenburg,27,Patrick Maykowski,RM,191,1,0.707,0.333,0.5,0,0.62
 105,SFC Stern 1900,14,Nico Samuel Wobeser,IV,237,1,0.878,0.444,0,0,0.62
@@ -123,7 +123,7 @@ Rank,Team,Nr,Name,Pos,Spielzeit,matches_played_ratio,playtime_ratio,points_per_g
 122,VfB Fortuna Biesdorf,33,Maximilian Sangel,TW,270,1,1,0.167,0,0,0.59
 123,VfB Fortuna Biesdorf,8,Alex Steinke,ST,235,1,0.87,0.167,0.25,0,0.59
 124,TSV Mariendorf 1897,99,Tugay Ulusoy,RM,188,1,0.696,0.444,0.167,0,0.59
-125,erlin Türkspor,1,Leon Bätge,TW,180,0.6666666666666666,1,0.5,0,0,0.59
+125,Berlin Türkspor,1,Leon Bätge,TW,180,0.6666666666666666,1,0.5,0,0,0.59
 126,FSV Spandauer Kickers,13,Tiziano Szuwarski,LM,151,0.6666666666666666,0.839,0.667,0,0,0.59
 127,SFC Stern 1900,9,Nicolas Fäßler,ST,169,1,0.626,0.444,0.25,0,0.59
 128,1. FC Wilmersdorf,21,Marvin Kupfer,RM,182,0.6666666666666666,1.011,0.167,0.333,0.5,0.59
@@ -176,7 +176,7 @@ Rank,Team,Nr,Name,Pos,Spielzeit,matches_played_ratio,playtime_ratio,points_per_g
 175,TSV Rudow Berlin,21,Abdullah Bayram,LV,252,1,0.933,0,0,0,0.53
 176,TSV Rudow Berlin,24,Mushakir Razeek,RV,251,1,0.93,0,0,0,0.53
 177,VfB Fortuna Biesdorf,13,Moritz Künne,RV,216,1,0.8,0.167,0,0,0.53
-178,erlin Türkspor,21,Aristotelis Dougalis,NA,71,0.6666666666666666,0.394,1,0,0,0.53
+178,Berlin Türkspor,21,Aristotelis Dougalis,NA,71,0.6666666666666666,0.394,1,0,0,0.53
 179,1. FC Wilmersdorf,9,Arthur Langhammer,ZDM,180,0.6666666666666666,1,0.167,0,0.5,0.53
 180,SC Staaken,13,Firas El Dayekh,NA,180,0.6666666666666666,1,0.167,0,0.5,0.53
 181,SC Staaken,1,Max Anton Oberbach,TW,180,0.6666666666666666,1,0.167,0,0.5,0.53
@@ -229,7 +229,7 @@ Rank,Team,Nr,Name,Pos,Spielzeit,matches_played_ratio,playtime_ratio,points_per_g
 228,Sp.Vg. Blau Weiß 1890 Berlin,8,Jonathan Maurer,NA,27,0.6666666666666666,0.15,1,0,0,0.46
 229,TSV Rudow Berlin,17,Lucas Robbin Bähr,IV,179,0.6666666666666666,0.994,0,0,0,0.46
 230,VfB Fortuna Biesdorf,24,Benjamin Sommer,ZM,114,0.6666666666666666,0.633,0.167,0.25,0.5,0.46
-231,erlin Türkspor,19,Tristan Krien,NA,42,1,0.156,0.667,0,0,0.46
+231,Berlin Türkspor,19,Tristan Krien,NA,42,1,0.156,0.667,0,0,0.46
 232,SC Charlottenburg,3,Ben Lehmann,RV,118,1,0.437,0.333,0,0,0.46
 233,1. FC Wilmersdorf,11,Baran Akpinar,RV,152,0.6666666666666666,0.844,0.167,0,0,0.46
 234,Polar Pinguin Berlin,0,Nicolas Marley Alexander Koch,NA,147,0.6666666666666666,0.817,0.167,0,0,0.45
@@ -273,7 +273,7 @@ Rank,Team,Nr,Name,Pos,Spielzeit,matches_played_ratio,playtime_ratio,points_per_g
 272,Füchse Berlin,16,Bekir Gündogdu,ZDM,15,0.3333333333333333,0.167,1,0,0,0.38
 273,Füchse Berlin,11,Raven Rabiega,NA,13,0.3333333333333333,0.144,1,0,0,0.38
 274,SC Staaken,16,Fabio Hackbarth,IV,90,0.3333333333333333,1,0,0,0,0.38
-275,erlin Türkspor,3,Mame Cheikh Diop,NA,11,0.3333333333333333,0.122,1,0,0,0.37
+275,Berlin Türkspor,3,Mame Cheikh Diop,NA,11,0.3333333333333333,0.122,1,0,0,0.37
 276,Füchse Berlin,31,Thomas Brechler,NA,45,0.6666666666666666,0.25,0.5,0,0,0.37
 277,VSG Altglienicke II,13,Devin Lieberam,NA,42,0.6666666666666666,0.233,0.5,0,0,0.36
 278,Polar Pinguin Berlin,13,Sören Zeidler,NA,90,0.6666666666666666,0.5,0.167,0,0,0.36
@@ -281,8 +281,8 @@ Rank,Team,Nr,Name,Pos,Spielzeit,matches_played_ratio,playtime_ratio,points_per_g
 280,SC Staaken,23,Mohammed Younes,LV,90,0.6666666666666666,0.5,0.167,0,0,0.36
 281,SC Staaken,11,Benjamin Stein,NA,74,0.6666666666666666,0.411,0.167,0,0.5,0.36
 282,TSV Rudow Berlin,8,Hasan Iraqui,NA,94,1,0.348,0,0,0,0.35
-283,erlin Türkspor,99,King David Yeboah Frimpong Szigath,NA,5,0.3333333333333333,0.056,1,0,0,0.35
-284,erlin Türkspor,5,Prince Collins Idemudia,NA,5,0.3333333333333333,0.056,1,0,0,0.35
+283,Berlin Türkspor,99,King David Yeboah Frimpong Szigath,NA,5,0.3333333333333333,0.056,1,0,0,0.35
+284,Berlin Türkspor,5,Prince Collins Idemudia,NA,5,0.3333333333333333,0.056,1,0,0,0.35
 285,SC Charlottenburg,0,Jonathan Schäfer,NA,1,0.3333333333333333,0.011,1,0,0,0.34
 286,SC Charlottenburg,8,Ahmad Selman,ST,88,0.6666666666666666,0.489,0,0,0.5,0.34
 287,Polar Pinguin Berlin,25,Pascal Löhmann,ZM,99,0.6666666666666666,0.55,0,0,0,0.33
@@ -334,7 +334,7 @@ Rank,Team,Nr,Name,Pos,Spielzeit,matches_played_ratio,playtime_ratio,points_per_g
 333,VfB Fortuna Biesdorf,0,Jean-Claude Nanevie,NA,26,0.3333333333333333,0.289,0,0,0,0.17
 334,SSC Südwest 1947,15,Mateusz Smolarkiewicz,NA,22,0.3333333333333333,0.244,0,0,0,0.16
 335,TSV Rudow Berlin,16,Yannick Emanuel Wöhle,NA,20,0.3333333333333333,0.222,0,0,0,0.15
-336,erlin Türkspor,0,Umut Satici,NA,21,0.3333333333333333,0.233,0,0,0,0.15
+336,Berlin Türkspor,0,Umut Satici,NA,21,0.3333333333333333,0.233,0,0,0,0.15
 337,SV Empor Berlin,0,Simon Albrecht,ST,4,0.3333333333333333,0.044,0,0,1,0.15
 338,Polar Pinguin Berlin,27,Malte Riebel,NA,16,0.3333333333333333,0.178,0,0,0,0.14
 339,SC Staaken,10,Kevin Flemming,NA,17,0.3333333333333333,0.189,0,0,0,0.14

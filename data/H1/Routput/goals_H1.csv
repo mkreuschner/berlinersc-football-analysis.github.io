@@ -17,8 +17,8 @@ Lorenz,Berliner SC,SC Charlottenburg,88,3:1
 Niederau,SV BW Hohen Neuendorf,SSC Südwest 1947,29,1:0
 Röttgen,SV BW Hohen Neuendorf,SSC Südwest 1947,64,2:1
 Soine,SV BW Hohen Neuendorf,SSC Südwest 1947,88,3:1
-Förster,SC Staaken,erlin Türkspor,38,1:1
-Bahceci,SC Staaken,erlin Türkspor,88,2:3
+Förster,SC Staaken,Berlin Türkspor,38,1:1
+Bahceci,SC Staaken,Berlin Türkspor,88,2:3
 Senocak,TSV Mariendorf 1897,1. FC Wilmersdorf,8,1:0
 Haj Youssef,TSV Rudow Berlin,VSG Altglienicke II,90,3:1
 Tastan,FSV Spandauer Kickers,VfB Fortuna Biesdorf,18,1:1
@@ -30,9 +30,9 @@ Eigentor,Füchse Berlin,SV Empor Berlin,63,1:4
 Thurau,SFC Stern 1900,Frohnauer SC,82,3:1
 Hörschlein,SC Charlottenburg,Berliner SC,51,0:1
 Olsowski,SSC Südwest 1947,SV BW Hohen Neuendorf,39,1:1
-Heymann,erlin Türkspor,SC Staaken,18,0:1
-Kahraman,erlin Türkspor,SC Staaken,43,1:2
-Vassiliadis,erlin Türkspor,SC Staaken,72,1:3
+Heymann,Berlin Türkspor,SC Staaken,18,0:1
+Kahraman,Berlin Türkspor,SC Staaken,43,1:2
+Vassiliadis,Berlin Türkspor,SC Staaken,72,1:3
 Kupfer,1. FC Wilmersdorf,TSV Mariendorf 1897,71,1:1
 Cinar,1. FC Wilmersdorf,TSV Mariendorf 1897,73,1:2
 Russo,1. FC Wilmersdorf,SV BW Hohen Neuendorf,90,1:1
@@ -43,10 +43,10 @@ Tastan,FSV Spandauer Kickers,Berliner SC,16,1:0
 Uzan,FSV Spandauer Kickers,Berliner SC,56,2:1
 Musiol,TSV Rudow Berlin,Frohnauer SC,45,1:1
 Mundt,TSV Rudow Berlin,Frohnauer SC,83,2:1
-Zardoshtian,erlin Türkspor,VfB Fortuna Biesdorf,42,1:0
-Kapan,erlin Türkspor,VfB Fortuna Biesdorf,50,2:0
-Eigentor,erlin Türkspor,VfB Fortuna Biesdorf,76,3:0
-Turan,erlin Türkspor,VfB Fortuna Biesdorf,84,4:0
+Zardoshtian,Berlin Türkspor,VfB Fortuna Biesdorf,42,1:0
+Kapan,Berlin Türkspor,VfB Fortuna Biesdorf,50,2:0
+Eigentor,Berlin Türkspor,VfB Fortuna Biesdorf,76,3:0
+Turan,Berlin Türkspor,VfB Fortuna Biesdorf,84,4:0
 Maykowski,SC Charlottenburg,Füchse Berlin,45,1:0
 Sen,SFC Stern 1900,TSV Mariendorf 1897,75,1:1
 Gantzberg,SFC Stern 1900,TSV Mariendorf 1897,76,2:1
@@ -63,15 +63,15 @@ Q. Albrecht,SV Empor Berlin,Polar Pinguin Berlin,87,1:3
 Ngah,Berliner SC,FSV Spandauer Kickers,42,1:1
 Youssef,Frohnauer SC,TSV Rudow Berlin,3,0:1
 Günther,Frohnauer SC,TSV Rudow Berlin,90,2:2
-Haj Youssef,VfB Fortuna Biesdorf,erlin Türkspor,90,4:1
+Haj Youssef,VfB Fortuna Biesdorf,Berlin Türkspor,90,4:1
 Sunday,Füchse Berlin,SC Charlottenburg,53,1:1
 Yildirim,Füchse Berlin,SC Charlottenburg,90,1:2
 Van-Dunem,TSV Mariendorf 1897,SFC Stern 1900,14,0:1
 Senocak,TSV Mariendorf 1897,SFC Stern 1900,90,3:2
 Cernescu,SSC Südwest 1947,VSG Altglienicke II,5,1:0
 Steinke,TSV Rudow Berlin,VfB Fortuna Biesdorf,90,1:2
-Kapan,erlin Türkspor,SV BW Hohen Neuendorf,65,1:3
-Turan,erlin Türkspor,SV BW Hohen Neuendorf,90,2:4
+Kapan,Berlin Türkspor,SV BW Hohen Neuendorf,65,1:3
+Turan,Berlin Türkspor,SV BW Hohen Neuendorf,90,2:4
 Dzhaukhar,FSV Spandauer Kickers,Sp.Vg. Blau Weiß 1890 Berlin,47,1:0
 Tastan,FSV Spandauer Kickers,Sp.Vg. Blau Weiß 1890 Berlin,72,2:0
 Maykowski,SC Charlottenburg,SV Empor Berlin,33,1:1
@@ -79,10 +79,10 @@ Onyemaobii,SC Charlottenburg,SV Empor Berlin,65,2:1
 Ndubueze,Polar Pinguin Berlin,Frohnauer SC,35,1:1
 Hortum,VfB Fortuna Biesdorf,TSV Rudow Berlin,2,0:1
 Hortum,VfB Fortuna Biesdorf,TSV Rudow Berlin,70,0:2
-Soine,SV BW Hohen Neuendorf,erlin Türkspor,6,0:1
-Soine,SV BW Hohen Neuendorf,erlin Türkspor,28,0:2
-Soine,SV BW Hohen Neuendorf,erlin Türkspor,33,0:3
-Wolf,SV BW Hohen Neuendorf,erlin Türkspor,81,1:4
+Soine,SV BW Hohen Neuendorf,Berlin Türkspor,6,0:1
+Soine,SV BW Hohen Neuendorf,Berlin Türkspor,28,0:2
+Soine,SV BW Hohen Neuendorf,Berlin Türkspor,33,0:3
+Wolf,SV BW Hohen Neuendorf,Berlin Türkspor,81,1:4
 Senocak,TSV Mariendorf 1897,Füchse Berlin,2,0:1
 Senocak,TSV Mariendorf 1897,Füchse Berlin,83,0:2
 Köhne,Sp.Vg. Blau Weiß 1890 Berlin,FSV Spandauer Kickers,79,2:1
