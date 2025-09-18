@@ -1,318 +1,371 @@
 Rank,Team,Nr,Name,Pos,Spielzeit,matches_played_ratio,playtime_ratio,points_per_game,scorerpoints_ratio,best_player_ratio,Score
-1,SF Johannisthal,11,Lukas Olff,RV,180,1,1,1,0.333,0.5,0.87
-2,1.FC Schöneberg,NA,Burak Cabuk,ZDM,180,1,1,1,0.222,0.5,0.86
-3,1.FC Schöneberg,NA,Sean Franz,ZDM,180,1,1,1,0,1,0.85
-4,FC Internationale Berlin,NA,Santiago Henrich Paya,RM,157,1,0.872,1,0.333,0.5,0.84
-5,FC Internationale Berlin,NA,Gaston Ignacio Nieto,ST,158,1,0.878,1,0.333,0.5,0.84
-6,SF Johannisthal,17,Nikolas Müller,LM,151,1,0.839,1,0.333,0.5,0.83
-7,SF Johannisthal,4,Jakob Dörre,LV,180,1,1,1,0,0.5,0.83
-8,1.FC Schöneberg,NA,Yildiray Demir,ZDM,178,1,0.989,1,0.222,0,0.83
-9,1.FC Schöneberg,NA,Kani Özdil,IV,180,1,1,1,0,0.5,0.83
-10,Friedenauer TSC,NA,Louis Anthony Guske,NA,180,1,1,1,0,0.5,0.83
-11,1.FC Schöneberg,NA,Emin Musa Cetintas,RM,170,1,0.944,1,0.222,0,0.82
-12,SF Johannisthal,31,Max Mittelstädt,RM,180,1,1,1,0.083,0,0.81
-13,FC Internationale Berlin,NA,Jascha Robin Wörteler,IV,180,1,1,1,0,0,0.8
-14,FC Internationale Berlin,NA,Alexander Schulze,TW,180,1,1,1,0,0,0.8
-15,SF Johannisthal,1,Toni Ölke,TW,180,1,1,1,0,0,0.8
-16,SF Johannisthal,2,Lars Walden,IV,180,1,1,1,0,0,0.8
-17,1.FC Schöneberg,NA,Radovan-Damjan Stojanovic,IV,180,1,1,1,0,0,0.8
-18,Friedenauer TSC,NA,Paul Kleinfeldt,NA,180,1,1,1,0,0,0.8
-19,Friedenauer TSC,NA,Kenney Kojo Sey,NA,180,1,1,1,0,0,0.8
-20,FC Internationale Berlin,NA,Enrique Freitag,ZM,157,1,0.872,1,0,0.5,0.79
-21,SF Johannisthal,9,Yoshua Lüdtke,LM,151,1,0.839,1,0.25,0,0.79
-22,Friedenauer TSC,NA,Marten Niemeyer,NA,177,1,0.983,1,0,0,0.79
-23,Berlin Hilalspor,NA,Mohamad-Ali Chawraba,LM,180,1,1,0.5,0.5,0.5,0.78
-24,1.FC Schöneberg,NA,Dogukan Degirmenci,RV,170,1,0.944,1,0,0,0.78
-25,Friedenauer TSC,NA,Tim Gandert,NA,116,1,0.644,1,0.4,0.5,0.78
-26,FC Internationale Berlin,NA,Giovanni Marigo,LM,158,1,0.878,1,0,0,0.76
-27,Friedenauer TSC,NA,Iven Stritzke,NA,155,1,0.861,1,0,0,0.76
-28,Friedenauer TSC,NA,Dominik Plohmann,NA,90,0.5,1,1,0.2,1,0.76
-29,Pfeffersport,NA,Paul Oskar Schirp,ZM,90,0.5,1,1,0.25,1,0.76
-30,Berliner SC II,19,Tim Niedenhoff,IV,180,1,1,0.5,0.5,0,0.75
-31,FC Internationale Berlin,NA,Nicholas Cartwright Stanley,ST,121,1,0.672,1,0.333,0,0.75
-32,SV Empor Berlin II,12,Billy Bradley Tuckerman,LM,121,1,0.672,1,0.167,0.5,0.75
-33,DJK Schwarz-Weiß Neukölln,NA,Tobias Schmidt,RM,180,1,1,0.5,0.5,0,0.75
-34,FC Internationale Berlin,NA,Nicolas Costa Echeverria,IV,90,0.5,1,1,0,1,0.73
-35,BSV Hürtürkel,NA,Leopold Antonius Bussmann,RM,170,1,0.944,0.5,0.333,0.5,0.73
-36,BSV Hürtürkel,NA,Abdullah Usame Karadeniz,TW,90,0.5,1,1,0,1,0.73
-37,BSV 1892,NA,Karl Anker,RM,180,1,1,0.5,0.167,0.5,0.73
-38,SC Borsigwalde,NA,Nikola Siljanoski,TW,90,0.5,1,1,0,1,0.73
-39,DJK Schwarz-Weiß Neukölln,NA,Julian Kirsch,ZDM,90,0.5,1,1,0,1,0.73
-40,DJK Schwarz-Weiß Neukölln,NA,Patrick Boel,TW,180,1,1,0.5,0,1,0.73
-41,DJK Schwarz-Weiß Neukölln,NA,Vittorio Achour,LM,162,1,0.9,0.5,0.25,1,0.73
-42,Berliner SC II,6,Kevin Uwe Einspannier,ST,147,1,0.817,0.5,0.5,0.5,0.72
-43,SC Borsigwalde,NA,Marcel Bubner,ST,178,1,0.989,0.5,0.333,0,0.72
-44,Berliner SC II,14,Konstantin Joseski,RV,179,1,0.994,0.5,0.25,0,0.71
-45,Pfeffersport,NA,William Scarlett,NA,154,1,0.856,0.5,0.5,0,0.71
-46,DJK Schwarz-Weiß Neukölln,NA,Dorian Kühn,LV,90,0.5,1,1,0.25,0,0.71
-47,DJK Schwarz-Weiß Neukölln,NA,Christoph Ruden,ZDM,180,1,1,0.5,0.25,0,0.71
-48,Berliner SC II,21,Jesse Kreuschner,TW,180,1,1,0.5,0,0.5,0.7
-49,SF Johannisthal,16,Marvin Pawel,ZM,117,1,0.65,1,0,0,0.7
-50,SF Johannisthal,3,Yannik Pilz,IV,103,1,0.572,1,0,0.5,0.7
-51,BSV 1892,NA,Hendrik Lüttschwager,TW,180,1,1,0.5,0,0.5,0.7
-52,BSV 1892,NA,Lennard Schleifenbaum,ZDM,180,1,1,0.5,0,0.5,0.7
-53,BSV 1892,NA,David Bellin,ST,180,1,1,0.5,0.167,0,0.7
-54,Pfeffersport,NA,Jonathan Grunert,ST,174,1,0.967,0.5,0.25,0,0.7
-55,Pfeffersport,NA,Philipp Pilz,IV,180,1,1,0.5,0,0.5,0.7
-56,Pfeffersport,NA,Heinrich Sander,IV,180,1,1,0.5,0,0.5,0.7
-57,SV Empor Berlin II,4,Marian Popp,IV,180,1,1,0.5,0,0.5,0.7
-58,SC Borsigwalde,NA,Nick Thalke,RM,180,1,1,0.5,0,0.5,0.7
-59,SF Charlottenburg-Wilmersdorf 03,NA,Maximilian Kocher,RM,180,1,1,0,1,0,0.7
-60,FC Internationale Berlin,NA,Franzisko Bätz,ZM,114,1,0.633,1,0,0,0.69
-61,Berlin Hilalspor,NA,Armin Asotic,RM,172,1,0.956,0.5,0,0.5,0.69
-62,Berliner SC II,4,Leon Ibrom,IV,90,0.5,1,1,0,0,0.68
-63,Berliner SC II,2,Jakob Heilmann,LV,180,1,1,0.5,0,0,0.68
-64,Berliner SC II,5,Dominique Leitner,IV,180,1,1,0.5,0,0,0.68
-65,FC Internationale Berlin,NA,Luis Driemel,IV,90,0.5,1,1,0,0,0.68
-66,FC Internationale Berlin,NA,Antonio Boeddinghaus,IV,90,0.5,1,1,0,0,0.68
-67,SF Johannisthal,10,Lukas Ferl,NA,53,1,0.294,1,0.417,0.5,0.68
-68,SF Johannisthal,5,Marvin Herter,LV,90,0.5,1,1,0,0,0.68
-69,Berlin Hilalspor,NA,Ömer Tanis,IV,90,0.5,1,1,0,0,0.68
-70,Berlin Hilalspor,NA,Mortaza Rahimi,LV,90,0.5,1,1,0,0,0.68
-71,Berlin Hilalspor,NA,Mohammed Fadel,TW,90,0.5,1,1,0,0,0.68
-72,Berlin Hilalspor,NA,Volkan Neziroglu,ST,170,1,0.944,0.5,0.167,0,0.68
-73,Berlin Hilalspor,NA,Bilgehan Hancer,ST,170,1,0.944,0.5,0,0.5,0.68
-74,BSV Hürtürkel,NA,Ali Tanis,IV,180,1,1,0.5,0,0,0.68
-75,BSV Hürtürkel,NA,Serkan Türkoglu,IV,180,1,1,0.5,0,0,0.68
-76,1.FC Schöneberg,NA,Zafer Kaan Göksar,NA,90,0.5,1,1,0,0,0.68
-77,1.FC Schöneberg,NA,Janik Meyer,TW,90,0.5,1,1,0,0,0.68
-78,BSV 1892,NA,Niklas Jost,IV,180,1,1,0.5,0,0,0.68
-79,BSV 1892,NA,Stefano Tedesco,IV,90,0.5,1,1,0,0,0.68
-80,Friedenauer TSC,NA,Niklas Rother,NA,90,0.5,1,1,0,0,0.68
-81,Friedenauer TSC,NA,Teoman Saatci,NA,90,0.5,1,1,0,0,0.68
-82,Pfeffersport,NA,Mohamed Boudlal,LV,180,1,1,0.5,0,0,0.68
-83,Pfeffersport,NA,Manuel Goudjo Aguigah,LM,90,0.5,1,1,0,0,0.68
-84,Pfeffersport,NA,Elias Aguigah,LM,90,0.5,1,1,0,0,0.68
-85,Pfeffersport,NA,Zorc Kolfenbach,TW,90,0.5,1,1,0,0,0.68
-86,SV Empor Berlin II,5,Jannick Wollmann,IV,180,1,1,0.5,0,0,0.68
-87,SV Empor Berlin II,33,Janne Henrik Bloch,TW,90,0.5,1,1,0,0,0.68
-88,SC Borsigwalde,NA,Khaled El-Okkla,IV,180,1,1,0.5,0,0,0.68
-89,SC Borsigwalde,NA,Kevin Kummer,ZDM,180,1,1,0.5,0,0,0.68
-90,SC Borsigwalde,NA,Mohammed Mustafa Acar,IV,180,1,1,0.5,0,0,0.68
-91,Berliner SC II,10,Erhan Kücükosman,ST,87,0.5,0.967,1,0,0,0.67
-92,FC Internationale Berlin,NA,Niklas Schindler,IV,87,0.5,0.967,1,0,0,0.67
-93,1.FC Schöneberg,NA,Atakan Gündogdu,LV,89,0.5,0.989,1,0,0,0.67
-94,Friedenauer TSC,NA,Dominik Vukoja,NA,102,1,0.567,1,0,0,0.67
-95,Friedenauer TSC,NA,Joshua Fuchs,NA,87,0.5,0.967,1,0,0,0.67
-96,Friedenauer TSC,NA,Ihab Al-Khalaf,NA,55,0.5,0.611,1,0.4,1,0.67
-97,Pfeffersport,NA,Carl Zimmering,RV,89,0.5,0.989,1,0,0,0.67
-98,SF Johannisthal,33,Eric Warncke,RM,95,1,0.528,1,0,0,0.66
-99,BSV Hürtürkel,NA,Dursun Tunahan Akdag,ZDM,154,1,0.856,0.5,0,0.5,0.66
-100,DJK Schwarz-Weiß Neukölln,NA,Norman Guski,ST,146,1,0.811,0.5,0.25,0,0.66
-101,BSV Hürtürkel,NA,Emre Kücükodabasi,RV,165,1,0.917,0.5,0,0,0.65
-102,BSV 1892,NA,Julius Zauner,RM,166,1,0.922,0.5,0,0,0.65
-103,SV Empor Berlin II,15,Philipp Macketanz,LV,166,1,0.922,0.5,0,0,0.65
-104,SV Empor Berlin II,9,Nico Bochnia,ST,135,1,0.75,0.5,0.333,0,0.65
-105,SV Empor Berlin II,18,Emile Ako,ZM,135,1,0.75,0.5,0.167,0.5,0.65
-106,SC Borsigwalde,NA,Sadjad Rassuli,ZOM,164,1,0.911,0.5,0,0,0.65
-107,Berliner SC II,18,Bryan Lilja,RM,160,1,0.889,0.5,0,0,0.64
-108,BSV Hürtürkel,NA,Harun Efe Kurnaz,ZOM,159,1,0.883,0.5,0,0,0.64
-109,Friedenauer TSC,NA,Kevin Woithe,NA,67,1,0.372,1,0,0.5,0.64
-110,Friedenauer TSC,NA,Lionel Vowinckel,NA,78,0.5,0.867,1,0,0,0.64
-111,Pfeffersport,NA,Julian Marcell,ZM,158,1,0.878,0.5,0,0,0.64
-112,SV Empor Berlin II,3,Niclas Nixdorf,RM,81,0.5,0.9,1,0,0,0.64
-113,FC Internationale Berlin,NA,Bryson Rodney Pink,LM,70,1,0.389,1,0,0,0.62
-114,SF Johannisthal,7,Jonathan Behrend,ZDM,71,0.5,0.789,1,0.083,0,0.62
-115,BSV 1892,NA,Tim Paschke,LM,146,1,0.811,0.5,0,0,0.62
-116,SV Empor Berlin II,NA,Luis Ploschenz,NA,45,0.5,0.5,1,0.333,1,0.62
-117,Berliner SC II,31,Alexander Lorenz,ST,69,0.5,0.767,1,0,0,0.61
-118,FC Internationale Berlin,NA,Akiyasu Tsuchiya,ZM,66,1,0.367,1,0,0,0.61
-119,1.FC Schöneberg,NA,Morrez Nhacuonga,NA,56,1,0.311,1,0.111,0,0.61
-120,1.FC Schöneberg,NA,Enes Uzun,NA,179,1,0.994,0,0.444,0,0.61
-121,Friedenauer TSC,NA,Tarkan Taskiran,NA,50,1,0.278,1,0.2,0,0.61
-122,SC Borsigwalde,NA,Prince Selemani Angali,RV,143,1,0.794,0.5,0,0,0.61
-123,BSV Hürtürkel,NA,Kubilay Yilmaz,ST,120,1,0.667,0.5,0.167,0,0.6
-124,BSV Hürtürkel,NA,Onur Yüksek,NA,180,1,1,0,0.333,0,0.6
-125,BSV Hürtürkel,NA,Umut Yüksek,NA,180,1,1,0,0.333,0,0.6
-126,SV Empor Berlin II,19,Rafael Mentrup,ST,135,1,0.75,0.5,0,0,0.6
-127,SC Borsigwalde,NA,Mostafa Kassem,LV,133,1,0.739,0.5,0,0,0.6
-128,DJK Schwarz-Weiß Neukölln,NA,Barkan Köprülügil,LV,135,1,0.75,0.5,0,0,0.6
-129,SF Charlottenburg-Wilmersdorf 03,NA,Bakary Diakite,LM,180,1,1,0,0,1,0.6
-130,BSV 1892,NA,El-Amin Elsaadawi,NA,114,1,0.633,0.5,0.167,0,0.59
-131,BSV 1892,NA,Benjamin Schnack,IV,111,1,0.617,0.5,0,0.5,0.59
-132,Berliner SC II,20,Jakob Baum,LM,126,1,0.7,0.5,0,0,0.58
-133,SF Johannisthal,6,Colin Gonda,ZDM,63,0.5,0.7,1,0,0,0.58
-134,Berolina Mitte,7,Valentin Wiegand,ZDM,90,0.5,1,0,1,0,0.58
-135,SV Empor Berlin II,17,Julian Duczmal,ZM,125,1,0.694,0.5,0,0,0.58
-136,BFC Preussen II,3,Leo Sommerfeld,IV,180,1,1,0,0,0.5,0.58
-137,BFC Preussen II,8,Magnus Stahlberg,IV,180,1,1,0,0,0.5,0.58
-138,DJK Schwarz-Weiß Neukölln,NA,Justin Jakob,RV,126,1,0.7,0.5,0,0,0.58
-139,DJK Schwarz-Weiß Neukölln,NA,Nico Lindner,IV,123,1,0.683,0.5,0,0,0.58
-140,BSV 1892,NA,Dominik Hinze,ZOM,59,0.5,0.656,1,0,0,0.57
-141,SC Borsigwalde,NA,Marcel Knaack,ZOM,45,0.5,0.5,1,0.333,0,0.57
-142,FC Internationale Berlin,NA,Albert Bauder,NA,34,1,0.189,1,0,0,0.56
-143,SF Johannisthal,NA,Tom Franke,ST,57,0.5,0.633,1,0,0,0.56
-144,1.FC Schöneberg,NA,Salih Uzun,NA,156,1,0.867,0,0.333,0,0.56
-145,Friedenauer TSC,NA,Maximilian Reinhard Schubart,NA,55,0.5,0.611,1,0,0,0.56
-146,Pfeffersport,NA,Mohammad Barakat,NA,86,1,0.478,0.5,0.25,0,0.56
-147,SV Empor Berlin II,8,Reyaj Shrestha,NA,114,1,0.633,0.5,0,0,0.56
-148,DJK Schwarz-Weiß Neukölln,NA,Josip Ramljak,IV,57,0.5,0.633,1,0,0,0.56
-149,Berlin Hilalspor,NA,Sadri Can Ekmekci,NA,179,1,0.994,0,0,0,0.55
-150,Berlin Hilalspor,NA,Görkem Yilmaz,ST,180,1,1,0,0,0,0.55
-151,Berlin Hilalspor,NA,Hasan Köse,ZM,89,1,0.494,0.5,0.167,0,0.55
-152,SC Berliner Amateure,NA,Nikolai Kemlein,NA,179,1,0.994,0,0,0,0.55
-153,SC Berliner Amateure,NA,Jaromil Essers,NA,180,1,1,0,0,0,0.55
-154,SC Berliner Amateure,NA,Soulemane Imorou,NA,180,1,1,0,0,0,0.55
-155,Berolina Mitte,NA,Daiwy Chioccarelli,LM,180,1,1,0,0,0,0.55
-156,Berolina Mitte,NA,Andreas Gefnider,LV,180,1,1,0,0,0,0.55
-157,Berolina Mitte,6,Henning Stötefalke,NA,180,1,1,0,0,0,0.55
-158,Berolina Mitte,5,Marc Oliver Schlarmann,RV,180,1,1,0,0,0,0.55
-159,SV Empor Berlin II,2,Pascal Bräkow,RV,107,1,0.594,0.5,0,0,0.55
-160,BFC Preussen II,22,Atacan Özcan,RV,180,1,1,0,0,0,0.55
-161,BFC Preussen II,19,Abdallah Ferchichi,LV,165,1,0.917,0,0,0.5,0.55
-162,BFC Preussen II,5,Dan Feldmann,ST,180,1,1,0,0,0,0.55
-163,DJK Schwarz-Weiß Neukölln,NA,Bekar Hoeri,NA,180,1,1,0,0,0,0.55
-164,SF Charlottenburg-Wilmersdorf 03,NA,Erik Kosky,RV,180,1,1,0,0,0,0.55
-165,SF Charlottenburg-Wilmersdorf 03,NA,Johannes Gehring,ZM,180,1,1,0,0,0,0.55
-166,SF Charlottenburg-Wilmersdorf 03,NA,Koffi Ange Mickael Hermann Yao,IV,167,1,0.928,0,0,0.5,0.55
-167,1.FC Schöneberg,NA,Emre Gedek,NA,16,1,0.089,1,0.111,0,0.54
-168,SC Berliner Amateure,NA,Lars Werner,ZOM,159,1,0.883,0,0,0.5,0.54
-169,Berliner SC II,33,Alessandro Tamburo,ST,93,1,0.517,0.5,0,0,0.53
-170,Pfeffersport,NA,Benedict Klenk,ZM,94,1,0.522,0.5,0,0,0.53
-171,FC Internationale Berlin,NA,Jamie Dell Bullock,NA,14,1,0.078,1,0,0,0.52
-172,Berlin Hilalspor,NA,Dogus Güngör,RV,45,0.5,0.5,1,0,0,0.52
-173,Berlin Hilalspor,NA,Ramdane Wahabou,LM,84,1,0.467,0.5,0,0,0.52
-174,Berlin Hilalspor,NA,Mohamed Marouwane,IV,90,1,0.5,0.5,0,0,0.52
-175,1.FC Schöneberg,NA,Izzet Ciftci,NA,11,1,0.061,1,0,0,0.52
-176,BSV 1892,NA,Joscha Yanar,LM,45,0.5,0.5,1,0,0,0.52
-177,SC Berliner Amateure,NA,Asbjørn Kistrup Barfod,NA,74,1,0.411,0,1,0,0.52
-178,SC Berliner Amateure,NA,Lucian Ewald,NA,162,1,0.9,0,0,0,0.52
-179,Berlin Hilalspor,NA,Taha Aslan,ZM,80,1,0.444,0.5,0,0,0.51
-180,BSV 1892,NA,Paul Busche,ST,90,0.5,1,0,0.167,1,0.5
-181,SC Borsigwalde,NA,Daniel Mpembele Nzongo,NA,119,1,0.661,0,0.333,0,0.5
-182,BFC Preussen II,33,Can Kelesoglu,RM,151,1,0.839,0,0,0,0.5
-183,BFC Preussen II,29,Georgios Mikelatze,ST,90,0.5,1,0,0.5,0,0.5
-184,SF Charlottenburg-Wilmersdorf 03,NA,Oskar Dornheim,ZM,150,1,0.833,0,0,0,0.5
-185,SF Johannisthal,NA,Mathis Aust,NA,33,0.5,0.367,1,0,0,0.49
-186,BSV Hürtürkel,NA,Ilker Samed Yigit,NA,70,1,0.389,0.5,0,0,0.49
-187,Friedenauer TSC,NA,Eray Krüger,NA,35,0.5,0.389,1,0,0,0.49
-188,Berolina Mitte,4,Yann Metzmacher,ZDM,142,1,0.789,0,0,0,0.49
-189,Berolina Mitte,19,Steven Buchweitz,ST,142,1,0.789,0,0,0,0.49
-190,Berolina Mitte,NA,Julius Meier,TW,144,1,0.8,0,0,0,0.49
-191,SC Borsigwalde,NA,David Mpembele Nzongo,NA,143,1,0.794,0,0,0,0.49
-192,SF Johannisthal,13,Patrick Kroll,NA,19,0.5,0.211,1,0.25,0,0.48
-193,BSV 1892,NA,Chidera Iwuozor,NA,45,1,0.25,0.5,0.167,0,0.48
-194,SC Berliner Amateure,NA,Malte Räuchle,NA,90,0.5,1,0,0,1,0.48
-195,Berolina Mitte,3,Floris Lucas Georgi,IV,135,1,0.75,0,0,0,0.48
-196,BFC Preussen II,13,Rommel Abou-Chaker,ZOM,92,1,0.511,0,0.5,0,0.48
-197,DJK Schwarz-Weiß Neukölln,NA,Alisan Erdogan,ZOM,63,1,0.35,0.5,0,0,0.48
-198,DJK Schwarz-Weiß Neukölln,NA,Guillermo Ernesto Padilla Cross,NA,138,1,0.767,0,0,0,0.48
-199,SF Charlottenburg-Wilmersdorf 03,NA,Nicholas Jean-Louis,LV,135,1,0.75,0,0,0,0.48
-200,SC Berliner Amateure,NA,Jan Schönball,NA,81,0.5,0.9,0,0.5,0,0.47
-201,SV Empor Berlin II,6,Justin Schmiedel,NA,28,0.5,0.311,1,0,0,0.47
-202,BSV Hürtürkel,NA,Muhammed Yildirgan,NA,26,0.5,0.289,1,0,0,0.46
-203,Pfeffersport,NA,Jannik Kremer,RM,24,0.5,0.267,1,0,0,0.46
-204,Berliner SC II,15,Nikolaos Kaggelidids,ZM,47,1,0.261,0.5,0,0,0.45
-205,FC Internationale Berlin,NA,Nikita Ovcharov,NA,23,0.5,0.256,1,0,0,0.45
-206,BSV 1892,NA,Yunus Malik,LV,90,0.5,1,0,0.167,0,0.45
-207,SC Berliner Amateure,NA,Julian Fleige,NA,123,1,0.683,0,0,0,0.45
-208,Berolina Mitte,14,Felix Opoku,ST,118,1,0.656,0,0,0,0.45
-209,DJK Schwarz-Weiß Neukölln,NA,Glian Hoeri,NA,78,1,0.433,0,0.5,0,0.45
-210,Berliner SC II,22,Alwin Hunger,NA,21,0.5,0.233,1,0,0,0.44
-211,BSV Hürtürkel,NA,Görkem-Alp Zeren,NA,15,0.5,0.167,1,0,0,0.43
-212,BSV 1892,NA,Arthur Stephan,NA,34,1,0.189,0.5,0,0,0.43
-213,DJK Schwarz-Weiß Neukölln,NA,Lukas Elszel,NA,16,0.5,0.178,1,0,0,0.43
-214,FC Internationale Berlin,NA,Milan Daus,NA,90,0.5,1,0,0,0,0.42
-215,Berlin Hilalspor,NA,Davut Kösker,TW,90,0.5,1,0,0,0,0.42
-216,BSV Hürtürkel,NA,David Langer,NA,90,0.5,1,0,0,0,0.42
-217,BSV Hürtürkel,NA,Furkan Arslan,NA,90,0.5,1,0,0,0,0.42
-218,BSV Hürtürkel,NA,Ibrahim Inal,NA,89,0.5,0.989,0,0,0,0.42
-219,BSV 1892,NA,Nick Bechler,IV,90,0.5,1,0,0,0,0.42
-220,SC Berliner Amateure,NA,Nerzihoua Moussa Kone,NA,90,0.5,1,0,0,0,0.42
-221,SC Berliner Amateure,NA,Lars Tasche,NA,99,1,0.55,0,0,0,0.42
-222,SC Berliner Amateure,NA,Caspar Ropers,NA,90,0.5,1,0,0,0,0.42
-223,SC Berliner Amateure,NA,Emil Orywal,NA,90,0.5,1,0,0,0,0.42
-224,Pfeffersport,NA,Emmanuel Sokowonci Daniel,NA,88,0.5,0.978,0,0,0,0.42
-225,Pfeffersport,NA,Oskar Schmiedel,NA,28,1,0.156,0.5,0,0,0.42
-226,Berolina Mitte,NA,Fabio Benabid,IV,90,0.5,1,0,0,0,0.42
-227,Berolina Mitte,NA,Rio Wermer,NA,90,0.5,1,0,0,0,0.42
-228,SV Empor Berlin II,NA,Erik Hegenbarth,NA,14,0.5,0.156,1,0,0,0.42
-229,SV Empor Berlin II,NA,Anushan Rajaratnam,NA,90,0.5,1,0,0,0,0.42
-230,SV Empor Berlin II,NA,Maurice Meyer,TW,90,0.5,1,0,0,0,0.42
-231,SC Borsigwalde,NA,Jose Roberto Rodrigues,NA,90,0.5,1,0,0,0,0.42
-232,BFC Preussen II,NA,Tim Fisch,TW,90,0.5,1,0,0,0,0.42
-233,BFC Preussen II,16,Kiminu Mayoungou,IV,90,0.5,1,0,0,0,0.42
-234,BFC Preussen II,NA,Jerome Kortebusch,RV,90,0.5,1,0,0,0,0.42
-235,BFC Preussen II,NA,Adam Lamkaddam,NA,90,0.5,1,0,0,0,0.42
-236,BFC Preussen II,30,Yasin Demir,ZDM,90,0.5,1,0,0,0,0.42
-237,BFC Preussen II,NA,Hugo Timur,LM,90,0.5,1,0,0,0,0.42
-238,SF Charlottenburg-Wilmersdorf 03,NA,Hussein Sabah,IV,90,0.5,1,0,0,0,0.42
-239,SF Charlottenburg-Wilmersdorf 03,NA,Niklas Höhne,TW,90,0.5,1,0,0,0,0.42
-240,SF Charlottenburg-Wilmersdorf 03,NA,Nazir Boukari Yabara,NA,90,0.5,1,0,0,0,0.42
-241,SF Charlottenburg-Wilmersdorf 03,NA,Janek Wendt,IV,90,0.5,1,0,0,0,0.42
-242,SF Charlottenburg-Wilmersdorf 03,NA,Lucas Dziadek,IV,90,0.5,1,0,0,0,0.42
-243,FC Internationale Berlin,NA,Joshua Senne,NA,11,0.5,0.122,1,0,0,0.41
-244,1.FC Schöneberg,NA,Dolunay Sabahat,NA,10,0.5,0.111,1,0,0,0.41
-245,Friedenauer TSC,NA,Joshua Ridzewski,NA,9,0.5,0.1,1,0,0,0.41
-246,Friedenauer TSC,NA,Diego Joaquin Lopez Martinez,NA,2,0.5,0.022,1,0.2,0,0.41
-247,SV Empor Berlin II,13,Mavin Wandel,NA,23,1,0.128,0.5,0,0,0.41
-248,SC Borsigwalde,NA,Dariusz Duhnke,NA,11,0.5,0.122,1,0,0,0.41
-249,BSV Hürtürkel,NA,Muzaffer Kirimoglu,NA,6,0.5,0.067,1,0,0,0.4
-250,Friedenauer TSC,NA,Theo Prümke,NA,91,1,0.506,0,0,0,0.4
-251,Pfeffersport,NA,Friedrich Würzner,NA,81,0.5,0.9,0,0,0,0.4
-252,Berolina Mitte,9,Moritz Müller,LM,90,1,0.5,0,0,0,0.4
-253,Berolina Mitte,10,Jhon Fernando Garces Daza,NA,90,1,0.5,0,0,0,0.4
-254,SF Charlottenburg-Wilmersdorf 03,NA,Nuno Tyrese Nuamah Dos Santos,NA,88,1,0.489,0,0,0,0.4
-255,SC Berliner Amateure,NA,Paul Linus van Bürck,NA,79,0.5,0.878,0,0,0,0.39
-256,Pfeffersport,NA,Marius Schreiber,NA,10,1,0.056,0.5,0,0,0.39
-257,SV Empor Berlin II,NA,Leon Drannaschk,NA,80,0.5,0.889,0,0,0,0.39
-258,SF Charlottenburg-Wilmersdorf 03,NA,Levi Köhler,IV,78,0.5,0.867,0,0,0,0.39
-259,SF Johannisthal,19,Max Hoffmann,NA,77,0.5,0.856,0,0,0,0.38
-260,Berlin Hilalspor,NA,Willy Akanakimana,ZM,61,0.5,0.678,0,0,1,0.38
-261,Berlin Hilalspor,NA,Okan Ekmekci,NA,65,1,0.361,0,0.167,0,0.38
-262,SC Borsigwalde,NA,David Viedt,NA,2,0.5,0.022,1,0,0,0.38
-263,SC Borsigwalde,NA,Ömer Coskunaydin,NA,2,0.5,0.022,1,0,0,0.38
-264,Berliner SC II,28,Nino Zamorano,NA,71,0.5,0.789,0,0,0,0.36
-265,Berliner SC II,8,Yigit Öncü,NA,64,0.5,0.711,0,0,0,0.34
-266,BFC Preussen II,NA,Julian Loder,NA,65,0.5,0.722,0,0,0,0.34
-267,SC Berliner Amateure,NA,Tom Kozak,NA,61,0.5,0.678,0,0,0,0.33
-268,SC Berliner Amateure,NA,Carlos Frei,NA,61,0.5,0.678,0,0,0,0.33
-269,Pfeffersport,NA,Noah Roitzsch,NA,61,0.5,0.678,0,0,0,0.33
-270,BFC Preussen II,NA,Tim Henseler,ZDM,62,0.5,0.689,0,0,0,0.33
-271,Berolina Mitte,20,Tim Wolf-Triebel,NA,36,1,0.2,0,0,0,0.31
-272,1.FC Schöneberg,NA,Samer Abou Khalil,NA,44,0.5,0.489,0,0.111,0,0.29
-273,SC Berliner Amateure,NA,Abdallah Soliman,NA,26,1,0.144,0,0,0,0.29
-274,Berliner SC II,16,Lennard Schröder,NA,20,1,0.111,0,0,0,0.28
-275,Berliner SC II,17,Carlos Huambo,NA,20,1,0.111,0,0,0,0.28
-276,SC Berliner Amateure,NA,Lorenz Dändliker,NA,45,0.5,0.5,0,0,0,0.28
-277,SC Berliner Amateure,NA,Guillermo Sancho Incirci,NA,45,0.5,0.5,0,0,0,0.28
-278,Berolina Mitte,NA,Stephan Arbelaez Rodriguez,NA,45,0.5,0.5,0,0,0,0.28
-279,SC Borsigwalde,NA,Christian Mousa,NA,45,0.5,0.5,0,0,0,0.28
-280,SF Charlottenburg-Wilmersdorf 03,NA,Robin Gorr,NA,45,0.5,0.5,0,0,0,0.28
-281,SF Charlottenburg-Wilmersdorf 03,NA,Mohammad Sabra,NA,19,1,0.106,0,0,0,0.28
-282,SF Charlottenburg-Wilmersdorf 03,NA,Philipp Aufschlag,NA,45,0.5,0.5,0,0,0,0.28
-283,Berolina Mitte,NA,Leandro Ngomane,NA,38,0.5,0.422,0,0,0,0.25
-284,SC Borsigwalde,NA,David Chukwu,NA,37,0.5,0.411,0,0,0,0.25
-285,Berliner SC II,11,Danilo Arsic,NA,33,0.5,0.367,0,0,0,0.24
-286,Berliner SC II,31,Daniel Brüggemann,NA,33,0.5,0.367,0,0,0,0.24
-287,Berlin Hilalspor,NA,Onur Eren,NA,36,0.5,0.4,0,0,0,0.24
-288,SF Charlottenburg-Wilmersdorf 03,NA,Salmane Adib,NA,34,0.5,0.378,0,0,0,0.24
-289,SV Empor Berlin II,NA,Laurens Cerny,NA,31,0.5,0.344,0,0,0,0.23
-290,SC Berliner Amateure,NA,Ismaila Njie,NA,29,0.5,0.322,0,0,0,0.22
-291,Pfeffersport,NA,Jannik Kuß,NA,29,0.5,0.322,0,0,0,0.22
-292,BFC Preussen II,15,Marcel Berner,NA,29,0.5,0.322,0,0,0,0.22
-293,SC Borsigwalde,NA,Adam Barnat,NA,26,0.5,0.289,0,0,0,0.21
-294,BFC Preussen II,NA,Ahmad El-Mustapha,RM,25,0.5,0.278,0,0,0,0.21
-295,BFC Preussen II,NA,Sebastian Rühland,NA,26,0.5,0.289,0,0,0,0.21
-296,SF Charlottenburg-Wilmersdorf 03,NA,Raphael Liwschiz,NA,24,0.5,0.267,0,0,0,0.21
-297,BSV Hürtürkel,NA,Ismail Ülke,NA,15,0.5,0.167,0,0,0,0.18
-298,SC Borsigwalde,NA,Islam Umalatov,NA,16,0.5,0.178,0,0,0,0.18
-299,SC Borsigwalde,NA,Magnus Crone,NA,16,0.5,0.178,0,0,0,0.18
-300,BFC Preussen II,27,Serhan Arslani,NA,15,0.5,0.167,0,0,0,0.18
-301,DJK Schwarz-Weiß Neukölln,NA,Shaker Shawrdi,NA,18,0.5,0.2,0,0,0,0.18
-302,SC Berliner Amateure,NA,Fynn Niklas Paetschke,NA,13,0.5,0.144,0,0,0,0.17
-303,SF Charlottenburg-Wilmersdorf 03,NA,Lasse Kollof,NA,13,0.5,0.144,0,0,0,0.17
-304,Berlin Hilalspor,NA,Donte Williams,NA,10,0.5,0.111,0,0,0,0.16
-305,SC Berliner Amateure,NA,Joscha Schulte-Holtey,NA,12,0.5,0.133,0,0,0,0.16
-306,SC Berliner Amateure,NA,Moritz Willkomm,NA,11,0.5,0.122,0,0,0,0.16
-307,Berolina Mitte,22,Minh Dang Ngo,NA,10,0.5,0.111,0,0,0,0.16
-308,SV Empor Berlin II,NA,Malte Bohn,NA,10,0.5,0.111,0,0,0,0.16
-309,DJK Schwarz-Weiß Neukölln,NA,Noah Faubourg,NA,9,0.5,0.1,0,0,0,0.16
-310,DJK Schwarz-Weiß Neukölln,NA,Kamil Czuba,NA,9,0.5,0.1,0,0,0,0.16
-311,SF Charlottenburg-Wilmersdorf 03,NA,Dhia Mayel,NA,12,0.5,0.133,0,0,0,0.16
-312,Berlin Hilalspor,NA,Kassem El-Ahmad,NA,8,0.5,0.089,0,0,0,0.15
-313,Berlin Hilalspor,NA,Ensar Gün,NA,1,0.5,0.011,0,0,0,0.13
-314,BSV Hürtürkel,NA,Jacob Ahrendt,NA,1,0.5,0.011,0,0,0,0.13
-315,1.FC Schöneberg,NA,Tahsin Özkara,NA,1,0.5,0.011,0,0,0,0.13
-316,Friedenauer TSC,NA,Carl Prümke,NA,1,0.5,0.011,0,0,0,0.13
-317,Pfeffersport,NA,Bonke Andresen,NA,2,0.5,0.022,0,0,0,0.13
+1,FC Internationale Berlin,NA,Gaston Ignacio Nieto,ST,242,1,0.896,1,0.333,0.667,0.85
+2,FC Internationale Berlin,NA,Santiago Henrich Paya,RM,233,1,0.863,1,0.267,0.333,0.82
+3,FC Internationale Berlin,NA,Nicholas Cartwright Stanley,ST,270,1,1,1,0.133,0,0.82
+4,SF Johannisthal,17,Nikolas Müller,LM,241,1,0.893,1,0.25,0.333,0.82
+5,SF Johannisthal,9,Yoshua Lüdtke,LM,237,1,0.878,1,0.312,0,0.81
+6,FC Internationale Berlin,NA,Alexander Schulze,TW,270,1,1,1,0,0,0.8
+7,SF Johannisthal,1,Toni Ölke,TW,270,1,1,1,0,0,0.8
+8,SF Johannisthal,2,Lars Walden,IV,270,1,1,1,0,0,0.8
+9,FC Internationale Berlin,NA,Jascha Robin Wörteler,IV,250,1,0.926,1,0,0,0.78
+10,SF Johannisthal,11,Lukas Olff,RV,180,0.6666666666666666,1,1,0.25,0.5,0.78
+11,1.FC Schöneberg,NA,Burak Cabuk,RM,270,1,1,0.667,0.182,0.333,0.76
+12,Berliner SC II,21,Jesse Kreuschner,TW,270,1,1,0.667,0,0.667,0.75
+13,Berliner SC II,6,Kevin Uwe Einspannier,ZM,237,1,0.878,0.667,0.333,0.333,0.75
+14,FC Internationale Berlin,NA,Giovanni Marigo,LM,223,1,0.826,1,0,0,0.75
+15,FC Internationale Berlin,NA,Luis Driemel,IV,180,0.6666666666666666,1,1,0.067,0.5,0.75
+16,1.FC Schöneberg,NA,Sean Franz,ZDM,270,1,1,0.667,0,0.667,0.75
+17,Berliner SC II,14,Konstantin Joseski,RV,264,1,0.978,0.667,0.167,0,0.74
+18,FC Internationale Berlin,NA,Nicolas Costa Echeverria,IV,180,0.6666666666666666,1,1,0,0.5,0.74
+19,SF Johannisthal,4,Jakob Dörre,LV,180,0.6666666666666666,1,1,0,0.5,0.74
+20,1.FC Schöneberg,NA,Yildiray Demir,ZDM,268,1,0.993,0.667,0.182,0,0.74
+21,Friedenauer TSC,NA,Louis Anthony Guske,NA,180,0.6666666666666666,1,1,0,0.5,0.74
+22,SF Johannisthal,31,Max Mittelstädt,RM,180,0.6666666666666666,1,1,0.062,0,0.73
+23,BSV 1892,NA,Hendrik Lüttschwager,TW,270,1,1,0.667,0,0.333,0.73
+24,Friedenauer TSC,NA,Paul Kleinfeldt,RV,270,1,1,0.667,0,0.333,0.73
+25,SC Borsigwalde,NA,Khaled El-Okkla,IV,270,1,1,0.667,0,0.333,0.73
+26,SC Borsigwalde,NA,Nick Thalke,RM,270,1,1,0.667,0,0.333,0.73
+27,SC Borsigwalde,NA,Mohammed Mustafa Acar,IV,270,1,1,0.667,0,0.333,0.73
+28,Berliner SC II,19,Tim Niedenhoff,IV,270,1,1,0.5,0.333,0,0.72
+29,Berliner SC II,5,Dominique Leitner,IV,270,1,1,0.667,0,0,0.72
+30,FC Internationale Berlin,NA,Antonio Boeddinghaus,IV,180,0.6666666666666666,1,1,0,0,0.72
+31,1.FC Schöneberg,NA,Emin Musa Cetintas,RM,250,1,0.926,0.667,0.182,0,0.72
+32,1.FC Schöneberg,NA,Kani Özdil,IV,260,1,0.963,0.667,0,0.333,0.72
+33,BSV 1892,NA,Niklas Jost,IV,270,1,1,0.667,0,0,0.72
+34,BSV 1892,NA,Stefano Tedesco,IV,180,0.6666666666666666,1,1,0,0,0.72
+35,Friedenauer TSC,NA,Kenney Kojo Sey,IV,270,1,1,0.667,0,0,0.72
+36,Pfeffersport,NA,Manuel Goudjo Aguigah,LM,180,0.6666666666666666,1,1,0,0,0.72
+37,SC Borsigwalde,NA,Kevin Kummer,ZDM,270,1,1,0.667,0,0,0.72
+38,BFC Preussen II,NA,Adam Lamkaddam,TW,180,0.6666666666666666,1,1,0,0,0.72
+39,Berliner SC II,10,Erhan Kücükosman,ST,177,0.6666666666666666,0.983,1,0,0,0.71
+40,SF Johannisthal,33,Eric Warncke,LM,181,1,0.67,1,0.062,0,0.71
+41,BSV 1892,NA,David Bellin,ST,256,1,0.948,0.667,0.091,0,0.71
+42,Friedenauer TSC,NA,Marten Niemeyer,ZOM,267,1,0.989,0.667,0,0,0.71
+43,Friedenauer TSC,NA,Dominik Plohmann,NA,90,0.3333333333333333,1,1,0.167,1,0.71
+44,FC Internationale Berlin,NA,Enrique Freitag,ZM,157,0.6666666666666666,0.872,1,0,0.5,0.7
+45,SF Johannisthal,6,Colin Gonda,ZDM,153,0.6666666666666666,0.85,1,0,0.5,0.7
+46,SF Johannisthal,10,Lukas Ferl,ST,117,1,0.433,1,0.375,0.333,0.7
+47,BSV Hürtürkel,NA,Leopold Antonius Bussmann,RM,260,1,0.963,0.333,0.429,0.333,0.7
+48,BSV 1892,NA,Karl Anker,IV,225,1,0.833,0.667,0.091,0.333,0.7
+49,Berolina Mitte,NA,Rio Wermer,ZOM,170,0.6666666666666666,0.944,1,0,0,0.7
+50,SC Borsigwalde,NA,Sadjad Rassuli,ZDM,254,1,0.941,0.667,0,0,0.7
+51,Berliner SC II,2,Jakob Heilmann,LV,244,1,0.904,0.667,0,0,0.69
+52,SF Johannisthal,7,Jonathan Behrend,ZDM,161,0.6666666666666666,0.894,1,0.062,0,0.69
+53,Berlin Hilalspor,NA,Mohamad-Ali Chawraba,LM,180,0.6666666666666666,1,0.5,0.5,0.5,0.69
+54,1.FC Schöneberg,NA,Dogukan Degirmenci,LV,244,1,0.904,0.667,0,0,0.69
+55,Berliner SC II,0,Simon Riedel,RV,90,0.3333333333333333,1,1,0,1,0.68
+56,BSV Hürtürkel,NA,Abdullah Usame Karadeniz,TW,90,0.3333333333333333,1,1,0,1,0.68
+57,BSV 1892,NA,Nikita Charkov,RV,90,0.3333333333333333,1,1,0,1,0.68
+58,BSV 1892,NA,Lennard Schleifenbaum,ZDM,209,1,0.774,0.667,0.091,0.333,0.68
+59,BSV 1892,NA,Tim Paschke,LM,236,1,0.874,0.667,0,0,0.68
+60,Friedenauer TSC,NA,Tim Gandert,NA,116,0.6666666666666666,0.644,1,0.333,0.5,0.68
+61,SC Borsigwalde,NA,Nikola Siljanoski,TW,90,0.3333333333333333,1,1,0,1,0.68
+62,BFC Preussen II,3,Leo Sommerfeld,IV,270,1,1,0.333,0.2,0.333,0.68
+63,BFC Preussen II,29,Georgios Mikelatze,ST,180,0.6666666666666666,1,0.5,0.4,0.5,0.68
+64,SF Johannisthal,19,Max Hoffmann,LV,145,0.6666666666666666,0.806,1,0.062,0,0.67
+65,1.FC Schöneberg,NA,Radovan-Damjan Stojanovic,IV,225,1,0.833,0.667,0,0,0.67
+66,Pfeffersport,NA,Carl Zimmering,RV,154,0.6666666666666666,0.856,1,0,0,0.67
+67,SV Empor Berlin II,12,Billy Bradley Tuckerman,LM,121,0.6666666666666666,0.672,1,0.167,0.5,0.67
+68,SC Borsigwalde,NA,Marcel Bubner,ST,204,1,0.756,0.667,0.2,0,0.67
+69,BFC Preussen II,8,Magnus Stahlberg,LM,270,1,1,0.333,0,0.667,0.67
+70,DJK Schwarz-Weiß Neukölln,NA,Dorian Kühn,LV,90,0.3333333333333333,1,1,0.25,0,0.67
+71,DJK Schwarz-Weiß Neukölln,NA,Tobias Schmidt,RM,180,0.6666666666666666,1,0.5,0.5,0,0.67
+72,DJK Schwarz-Weiß Neukölln,NA,Patrick Boel,TW,270,1,1,0.333,0,0.667,0.67
+73,BSV 1892,NA,Julius Zauner,RM,195,1,0.722,0.667,0.182,0,0.66
+74,Berlin Hilalspor,NA,Volkan Neziroglu,ST,260,1,0.963,0.333,0.167,0,0.65
+75,Pfeffersport,NA,Paul Oskar Schirp,ZM,180,0.6666666666666666,1,0.5,0.25,0.5,0.65
+76,Pfeffersport,NA,Philipp Pilz,IV,270,1,1,0.333,0,0.333,0.65
+77,Pfeffersport,NA,Heinrich Sander,IV,270,1,1,0.333,0,0.333,0.65
+78,DJK Schwarz-Weiß Neukölln,NA,Vittorio Achour,LM,162,0.6666666666666666,0.9,0.5,0.25,1,0.65
+79,SF Charlottenburg-Wilmersdorf 03,NA,Johannes Gehring,ZM,270,1,1,0.111,0.5,0,0.65
+80,FC Internationale Berlin,NA,Maxwell Stanley,ST,121,0.6666666666666666,0.672,1,0.133,0,0.64
+81,BSV 1892,NA,Paul Busche,ST,176,0.6666666666666666,0.978,0.5,0.182,0.5,0.64
+82,Friedenauer TSC,NA,Iven Stritzke,RM,200,1,0.741,0.667,0,0,0.64
+83,SF Charlottenburg-Wilmersdorf 03,NA,Maximilian Kocher,LM,262,1,0.97,0.111,0.5,0,0.64
+84,Berliner SC II,4,Leon Ibrom,IV,90,0.3333333333333333,1,1,0,0,0.63
+85,FC Internationale Berlin,NA,Akiyasu Tsuchiya,ZM,121,1,0.448,1,0,0,0.63
+86,SF Johannisthal,5,Marvin Herter,LV,90,0.3333333333333333,1,1,0,0,0.63
+87,Berlin Hilalspor,NA,Mohammed Fadel,TW,90,0.3333333333333333,1,1,0,0,0.63
+88,BSV Hürtürkel,NA,Ali Tanis,IV,270,1,1,0.333,0,0,0.63
+89,1.FC Schöneberg,NA,Atakan Gündogdu,LV,89,0.3333333333333333,0.989,1,0,0,0.63
+90,1.FC Schöneberg,NA,Zafer Kaan Göksar,NA,90,0.3333333333333333,1,1,0,0,0.63
+91,1.FC Schöneberg,NA,Janik Meyer,TW,90,0.3333333333333333,1,1,0,0,0.63
+92,BSV 1892,NA,Nick Bechler,IV,180,0.6666666666666666,1,0.5,0.091,0.5,0.63
+93,Friedenauer TSC,NA,Teoman Saatci,NA,90,0.3333333333333333,1,1,0,0,0.63
+94,Pfeffersport,NA,Mohamed Boudlal,LM,270,1,1,0.333,0,0,0.63
+95,Pfeffersport,NA,William Scarlett,NA,199,1,0.737,0.333,0.5,0,0.63
+96,Pfeffersport,NA,Elias Aguigah,LM,90,0.3333333333333333,1,1,0,0,0.63
+97,Pfeffersport,NA,Zorc Kolfenbach,TW,90,0.3333333333333333,1,1,0,0,0.63
+98,Berolina Mitte,5,Marc Oliver Schlarmann,RV,270,1,1,0.333,0,0,0.63
+99,SV Empor Berlin II,33,Janne Henrik Bloch,TW,90,0.3333333333333333,1,1,0,0,0.63
+100,SC Borsigwalde,NA,Prince Selemani Angali,IV,188,1,0.696,0.667,0,0,0.63
+101,BFC Preussen II,19,Abdallah Ferchichi,LV,255,1,0.944,0.333,0,0.333,0.63
+102,Berliner SC II,7,Linus Dersch,ST,85,0.3333333333333333,0.944,1,0,0,0.62
+103,BSV 1892,NA,El-Amin Elsaadawi,NA,128,1,0.474,0.667,0.273,0.333,0.62
+104,Friedenauer TSC,NA,Ihab Al-Khalaf,NA,55,0.3333333333333333,0.611,1,0.333,1,0.62
+105,Pfeffersport,NA,Jonathan Grunert,ST,174,0.6666666666666666,0.967,0.5,0.25,0,0.62
+106,Berolina Mitte,NA,Fabio Benabid,IV,180,0.6666666666666666,1,0.5,0,0.5,0.62
+107,SV Empor Berlin II,18,Emile Ako,ZDM,225,1,0.833,0.333,0.167,0.333,0.62
+108,SV Empor Berlin II,4,Marian Popp,IV,180,0.6666666666666666,1,0.5,0,0.5,0.62
+109,BFC Preussen II,30,Yasin Demir,ZDM,180,0.6666666666666666,1,0.5,0,0.5,0.62
+110,DJK Schwarz-Weiß Neukölln,NA,Christoph Ruden,ZDM,225,1,0.833,0.333,0.25,0,0.62
+111,FC Internationale Berlin,NA,Franzisko Bätz,ZM,114,0.6666666666666666,0.633,1,0,0,0.61
+112,SF Johannisthal,16,Marvin Pawel,ZM,117,0.6666666666666666,0.65,1,0,0,0.61
+113,SF Johannisthal,3,Yannik Pilz,IV,103,0.6666666666666666,0.572,1,0,0.5,0.61
+114,Berlin Hilalspor,NA,Bilgehan Hancer,ST,235,1,0.87,0.333,0,0.333,0.61
+115,Friedenauer TSC,NA,Kevin Woithe,LV,157,1,0.581,0.667,0,0.333,0.61
+116,Berolina Mitte,4,Yann Metzmacher,ZDM,232,1,0.859,0.333,0,0.333,0.61
+117,SC Borsigwalde,NA,Mostafa Kassem,LV,210,1,0.778,0.5,0,0,0.61
+118,SF Charlottenburg-Wilmersdorf 03,NA,Bakary Diakite,ST,270,1,1,0.111,0,0.667,0.61
+119,Berlin Hilalspor,NA,Armin Asotic,RM,229,1,0.848,0.333,0,0.333,0.6
+120,BSV Hürtürkel,NA,Harun Efe Kurnaz,ZDM,240,1,0.889,0.333,0,0,0.6
+121,1.FC Schöneberg,NA,Enes Uzun,NA,269,1,0.996,0,0.364,0,0.6
+122,SV Empor Berlin II,3,Niclas Nixdorf,RM,81,0.3333333333333333,0.9,1,0,0,0.6
+123,Berliner SC II,20,Jakob Baum,LM,152,1,0.563,0.667,0,0,0.59
+124,Berliner SC II,15,Nikolaos Kaggelidids,LV,137,1,0.507,0.667,0.167,0,0.59
+125,FC Internationale Berlin,NA,Niklas Schindler,IV,107,0.6666666666666666,0.594,1,0,0,0.59
+126,Berlin Hilalspor,NA,Ömer Tanis,IV,180,0.6666666666666666,1,0.5,0,0,0.59
+127,Berlin Hilalspor,NA,Mortaza Rahimi,LV,180,0.6666666666666666,1,0.5,0,0,0.59
+128,BSV Hürtürkel,NA,Kubilay Yilmaz,ST,210,1,0.778,0.333,0.143,0,0.59
+129,BSV Hürtürkel,NA,Umut Yüksek,NA,270,1,1,0,0.286,0,0.59
+130,BSV Hürtürkel,NA,Serkan Türkoglu,IV,180,0.6666666666666666,1,0.5,0,0,0.59
+131,1.FC Schöneberg,NA,Salih Uzun,NA,246,1,0.911,0,0.455,0,0.59
+132,Friedenauer TSC,NA,Lionel Vowinckel,NA,78,0.3333333333333333,0.867,1,0,0,0.59
+133,Friedenauer TSC,NA,Niklas Rother,TW,180,0.6666666666666666,1,0.5,0,0,0.59
+134,Friedenauer TSC,NA,Finley Fuchs,IV,177,0.6666666666666666,0.983,0.5,0,0,0.59
+135,Friedenauer TSC,NA,Dominik Vukoja,NA,102,0.6666666666666666,0.567,1,0,0,0.59
+136,SV Empor Berlin II,5,Jannick Wollmann,IV,180,0.6666666666666666,1,0.5,0,0,0.59
+137,BFC Preussen II,16,Kiminu Mayoungou,IV,180,0.6666666666666666,1,0.5,0,0,0.59
+138,BFC Preussen II,NA,Jerome Kortebusch,RV,179,0.6666666666666666,0.994,0.5,0,0,0.59
+139,BFC Preussen II,22,Atacan Özcan,RM,235,1,0.87,0.333,0,0,0.59
+140,DJK Schwarz-Weiß Neukölln,NA,Norman Guski,ST,199,1,0.737,0.333,0.25,0,0.59
+141,SF Johannisthal,NA,Marvin Hilgendorf,RV,72,0.3333333333333333,0.8,1,0.062,0,0.58
+142,SC Berliner Amateure,NA,Soulemane Imorou,NA,270,1,1,0.111,0,0,0.58
+143,Berolina Mitte,3,Floris Lucas Georgi,IV,225,1,0.833,0.333,0,0,0.58
+144,SV Empor Berlin II,NA,Luis Ploschenz,NA,45,0.3333333333333333,0.5,1,0.333,1,0.58
+145,DJK Schwarz-Weiß Neukölln,NA,Barkan Köprülügil,LV,225,1,0.833,0.333,0,0,0.58
+146,SF Charlottenburg-Wilmersdorf 03,NA,Erik Kosky,RV,270,1,1,0.111,0,0,0.58
+147,SF Charlottenburg-Wilmersdorf 03,NA,Koffi Ange Mickael Hermann Yao,IV,257,1,0.952,0.111,0,0.333,0.58
+148,BSV Hürtürkel,NA,Dursun Tunahan Akdag,ZDM,154,0.6666666666666666,0.856,0.5,0,0.5,0.57
+149,BSV Hürtürkel,NA,Emre Kücükodabasi,RV,165,0.6666666666666666,0.917,0.5,0,0,0.57
+150,SC Berliner Amateure,NA,Lars Werner,ZOM,249,1,0.922,0.111,0,0.333,0.57
+151,SC Berliner Amateure,NA,Lucian Ewald,NA,252,1,0.933,0.111,0,0.333,0.57
+152,Berolina Mitte,14,Felix Opoku,ST,169,1,0.626,0.333,0.333,0,0.57
+153,SV Empor Berlin II,15,Philipp Macketanz,LV,166,0.6666666666666666,0.922,0.5,0,0,0.57
+154,SV Empor Berlin II,9,Nico Bochnia,ST,135,0.6666666666666666,0.75,0.5,0.333,0,0.57
+155,SV Empor Berlin II,17,Julian Duczmal,ZDM,215,1,0.796,0.333,0,0,0.57
+156,Berliner SC II,18,Bryan Lilja,RM,160,0.6666666666666666,0.889,0.5,0,0,0.56
+157,Berliner SC II,31,Alexander Lorenz,ST,69,0.3333333333333333,0.767,1,0,0,0.56
+158,BSV Hürtürkel,NA,Onur Yüksek,NA,239,1,0.885,0,0.286,0,0.56
+159,SC Berliner Amateure,NA,Jaromil Essers,NA,252,1,0.933,0.111,0,0,0.56
+160,Pfeffersport,NA,Julian Marcell,ZM,158,0.6666666666666666,0.878,0.5,0,0,0.56
+161,SV Empor Berlin II,19,Rafael Mentrup,LM,205,1,0.759,0.333,0,0,0.56
+162,SV Empor Berlin II,8,Reyaj Shrestha,LV,204,1,0.756,0.333,0,0,0.56
+163,SF Johannisthal,NA,Tom Franke,ST,83,0.6666666666666666,0.461,1,0,0,0.55
+164,Berlin Hilalspor,NA,Sadri Can Ekmekci,NA,269,1,0.996,0,0,0,0.55
+165,BSV 1892,NA,Chidera Iwuozor,LV,106,1,0.393,0.667,0.091,0,0.55
+166,Berolina Mitte,6,Henning Stötefalke,NA,270,1,1,0,0,0,0.55
+167,SV Empor Berlin II,2,Pascal Bräkow,RV,197,1,0.73,0.333,0,0,0.55
+168,Pfeffersport,NA,Mohammad Barakat,RM,151,1,0.559,0.333,0.25,0,0.54
+169,Berolina Mitte,NA,Andreas Gefnider,LV,187,1,0.693,0.333,0,0,0.54
+170,DJK Schwarz-Weiß Neukölln,NA,Julian Kirsch,ZDM,135,0.6666666666666666,0.75,0.5,0,0.5,0.54
+171,DJK Schwarz-Weiß Neukölln,NA,Josip Ramljak,IV,147,0.6666666666666666,0.817,0.5,0,0,0.54
+172,SF Charlottenburg-Wilmersdorf 03,NA,Oskar Dornheim,ZM,240,1,0.889,0.111,0,0,0.54
+173,Berliner SC II,33,Alessandro Tamburo,ST,98,1,0.363,0.667,0,0,0.53
+174,FC Internationale Berlin,NA,Bryson Rodney Pink,LM,70,0.6666666666666666,0.389,1,0,0,0.53
+175,Berlin Hilalspor,NA,Ramdane Wahabou,LM,174,1,0.644,0.333,0,0,0.53
+176,Berlin Hilalspor,NA,Görkem Yilmaz,ST,253,1,0.937,0,0,0,0.53
+177,BSV 1892,NA,Yunus Malik,LV,135,0.6666666666666666,0.75,0.5,0.091,0,0.53
+178,SC Berliner Amateure,NA,Malte Räuchle,NA,180,0.6666666666666666,1,0.167,0,0.5,0.53
+179,Friedenauer TSC,NA,Tarkan Taskiran,NA,50,0.6666666666666666,0.278,1,0.167,0,0.53
+180,Berolina Mitte,9,Moritz Müller,LM,173,1,0.641,0.333,0,0,0.53
+181,Berolina Mitte,NA,Leandro Ngomane,RM,128,0.6666666666666666,0.711,0.5,0.167,0,0.53
+182,BFC Preussen II,NA,Hugo Timur,LM,125,0.6666666666666666,0.694,0.5,0.2,0,0.53
+183,1.FC Schöneberg,NA,Morrez Nhacuonga,NA,56,0.6666666666666666,0.311,1,0.091,0,0.52
+184,BSV 1892,NA,Dominik Hinze,ZOM,63,0.6666666666666666,0.35,1,0,0,0.52
+185,Berolina Mitte,20,Tim Wolf-Triebel,TW,126,1,0.467,0.5,0,0,0.52
+186,BFC Preussen II,NA,Ugurcan Yilmaz,ST,55,0.3333333333333333,0.611,1,0,0,0.52
+187,SC Berliner Amateure,NA,Nerzihoua Moussa Kone,NA,180,0.6666666666666666,1,0.167,0,0,0.51
+188,Friedenauer TSC,NA,Joshua Fuchs,IV,90,0.3333333333333333,1,0.5,0,0,0.51
+189,SC Borsigwalde,NA,Daniel Mpembele Nzongo,NA,209,1,0.774,0,0.2,0,0.51
+190,SC Borsigwalde,NA,Mohammad Kassem,LV,90,0.3333333333333333,1,0.5,0,0,0.51
+191,SC Borsigwalde,NA,Marcel Knaack,ZOM,45,0.3333333333333333,0.5,1,0.2,0,0.51
+192,DJK Schwarz-Weiß Neukölln,NA,Glian Hoeri,NA,168,1,0.622,0,0.5,0,0.51
+193,DJK Schwarz-Weiß Neukölln,NA,Justin Jakob,RV,155,1,0.574,0.333,0,0,0.51
+194,SF Charlottenburg-Wilmersdorf 03,NA,Niklas Höhne,TW,180,0.6666666666666666,1,0.167,0,0,0.51
+195,SF Charlottenburg-Wilmersdorf 03,NA,Lucas Dziadek,IV,180,0.6666666666666666,1,0.167,0,0,0.51
+196,BSV 1892,NA,Benjamin Schnack,IV,111,0.6666666666666666,0.617,0.5,0,0.5,0.5
+197,Berolina Mitte,19,Steven Buchweitz,ST,152,1,0.563,0.333,0,0,0.5
+198,DJK Schwarz-Weiß Neukölln,NA,Nico Lindner,IV,123,0.6666666666666666,0.683,0.5,0,0,0.5
+199,Berlin Hilalspor,NA,Davut Kösker,TW,180,0.6666666666666666,1,0,0,0.5,0.49
+200,SC Berliner Amateure,NA,Lars Tasche,NA,189,1,0.7,0.111,0,0,0.49
+201,Pfeffersport,NA,Benedict Klenk,ZM,139,1,0.515,0.333,0,0,0.49
+202,SV Empor Berlin II,6,Justin Schmiedel,IV,118,0.6666666666666666,0.656,0.5,0,0,0.49
+203,FC Internationale Berlin,NA,Nikita Ovcharov,NA,29,0.6666666666666666,0.161,1,0.067,0,0.48
+204,Berlin Hilalspor,NA,Dogus Güngör,RV,45,0.3333333333333333,0.5,1,0,0,0.48
+205,BSV 1892,NA,Joscha Yanar,LM,45,0.3333333333333333,0.5,1,0,0,0.48
+206,SC Berliner Amateure,NA,Ben Kozak,NA,90,0.3333333333333333,1,0.167,0.333,0,0.48
+207,SC Borsigwalde,NA,Ammar Memidzan,ZOM,45,0.3333333333333333,0.5,1,0,0,0.48
+208,Berliner SC II,NA,Fabian Niedenhoff,IV,71,0.3333333333333333,0.789,0.5,0.167,0,0.47
+209,FC Internationale Berlin,NA,Albert Bauder,NA,34,0.6666666666666666,0.189,1,0,0,0.47
+210,BSV Hürtürkel,NA,David Langer,TW,180,0.6666666666666666,1,0,0,0,0.47
+211,BSV Hürtürkel,NA,Görkem-Alp Zeren,IV,105,0.6666666666666666,0.583,0.5,0,0,0.47
+212,SC Berliner Amateure,NA,Yannik Rosenberg,NA,90,0.3333333333333333,1,0.333,0,0,0.47
+213,Berolina Mitte,NA,Daiwy Chioccarelli,LM,180,0.6666666666666666,1,0,0,0,0.47
+214,SV Empor Berlin II,NA,Anushan Rajaratnam,ZOM,180,0.6666666666666666,1,0,0,0,0.47
+215,BFC Preussen II,5,Dan Feldmann,ST,180,0.6666666666666666,1,0,0,0,0.47
+216,DJK Schwarz-Weiß Neukölln,NA,Bekar Hoeri,NA,180,0.6666666666666666,1,0,0,0,0.47
+217,SF Charlottenburg-Wilmersdorf 03,NA,Lasslo Jacobs,IV,90,0.3333333333333333,1,0.333,0,0,0.47
+218,SF Charlottenburg-Wilmersdorf 03,NA,Janek Wendt,IV,159,0.6666666666666666,0.883,0.167,0,0,0.47
+219,Berlin Hilalspor,NA,Hasan Köse,ZM,89,0.6666666666666666,0.494,0.5,0.167,0,0.46
+220,1.FC Schöneberg,NA,Emre Gedek,NA,26,1,0.096,0.667,0.091,0,0.46
+221,SC Berliner Amateure,NA,Nikolai Kemlein,NA,179,0.6666666666666666,0.994,0,0,0,0.46
+222,Friedenauer TSC,NA,Maximilian Reinhard Schubart,ST,100,0.6666666666666666,0.556,0.5,0,0,0.46
+223,Berolina Mitte,NA,Jonas Tilmann,ST,39,0.3333333333333333,0.433,1,0,0,0.46
+224,SF Charlottenburg-Wilmersdorf 03,NA,Philipp Aufschlag,ZM,135,0.6666666666666666,0.75,0.167,0,0.5,0.46
+225,FC Internationale Berlin,NA,Dominic Kranz,NA,35,0.3333333333333333,0.389,1,0,0,0.45
+226,Friedenauer TSC,NA,Theo Prümke,ZDM,181,1,0.67,0,0,0,0.45
+227,Pfeffersport,NA,Friedrich Würzner,ST,171,0.6666666666666666,0.95,0,0,0,0.45
+228,BFC Preussen II,NA,Julian von Gliszczynski,NA,35,0.3333333333333333,0.389,1,0,0,0.45
+229,FC Internationale Berlin,NA,Jamie Dell Bullock,NA,14,0.6666666666666666,0.078,1,0,0,0.44
+230,SF Johannisthal,NA,Mathis Aust,NA,33,0.3333333333333333,0.367,1,0,0,0.44
+231,Berlin Hilalspor,NA,Mohamed Marouwane,IV,90,0.6666666666666666,0.5,0.5,0,0,0.44
+232,Berolina Mitte,10,Jhon Fernando Garces Daza,NA,152,1,0.563,0,0.167,0,0.44
+233,SC Borsigwalde,NA,David Mpembele Nzongo,NA,172,1,0.637,0,0,0,0.44
+234,SC Borsigwalde,NA,David Viedt,NA,15,0.6666666666666666,0.083,1,0,0,0.44
+235,SC Borsigwalde,NA,Adam Barnat,ST,90,0.6666666666666666,0.5,0.5,0,0,0.44
+236,DJK Schwarz-Weiß Neukölln,NA,Alisan Erdogan,ZOM,100,1,0.37,0.333,0,0,0.44
+237,Berliner SC II,8,Yigit Öncü,NA,83,0.6666666666666666,0.461,0.5,0,0,0.43
+238,Berolina Mitte,NA,Ilya Hadari,LV,28,0.3333333333333333,0.311,1,0,0,0.43
+239,SV Empor Berlin II,NA,Aaron Yusuff,TW,90,0.3333333333333333,1,0,0,1,0.43
+240,SF Johannisthal,13,Patrick Kroll,NA,19,0.3333333333333333,0.211,1,0.188,0,0.42
+241,Berlin Hilalspor,NA,Taha Aslan,ZM,80,0.6666666666666666,0.444,0.5,0,0,0.42
+242,BSV Hürtürkel,NA,Muhammed Yildirgan,NA,26,0.3333333333333333,0.289,1,0,0,0.42
+243,BSV Hürtürkel,NA,Ilker Samed Yigit,NA,79,1,0.293,0.333,0,0,0.42
+244,Friedenauer TSC,NA,Eray Krüger,NA,80,0.6666666666666666,0.444,0.5,0,0,0.42
+245,Pfeffersport,NA,Noah Roitzsch,LV,151,0.6666666666666666,0.839,0,0,0,0.42
+246,SC Borsigwalde,NA,Magnus Crone,NA,61,0.6666666666666666,0.339,0.5,0.2,0,0.42
+247,BFC Preussen II,33,Can Kelesoglu,RM,151,0.6666666666666666,0.839,0,0,0,0.42
+248,DJK Schwarz-Weiß Neukölln,NA,Lukas Elszel,LV,77,0.6666666666666666,0.428,0.5,0,0,0.42
+249,SF Johannisthal,NA,Leander Wachholz,NA,22,0.3333333333333333,0.244,1,0,0,0.41
+250,Berlin Hilalspor,NA,Okan Ekmekci,NA,122,1,0.452,0,0.167,0,0.41
+251,Pfeffersport,NA,Jannik Kremer,RM,24,0.3333333333333333,0.267,1,0,0,0.41
+252,Berolina Mitte,7,Valentin Wiegand,ZDM,90,0.3333333333333333,1,0,0.167,0,0.41
+253,Berolina Mitte,NA,Julius Meier,TW,144,0.6666666666666666,0.8,0,0,0,0.41
+254,Berliner SC II,22,Alwin Hunger,NA,21,0.3333333333333333,0.233,1,0,0,0.4
+255,1.FC Schöneberg,NA,Izzet Ciftci,NA,21,1,0.078,0.5,0,0,0.4
+256,SC Berliner Amateure,NA,Jan Schönball,NA,81,0.3333333333333333,0.9,0,0.333,0,0.4
+257,DJK Schwarz-Weiß Neukölln,NA,Guillermo Ernesto Padilla Cross,NA,138,0.6666666666666666,0.767,0,0,0,0.4
+258,SF Johannisthal,NA,Robin Singh,NA,18,0.3333333333333333,0.2,1,0,0,0.39
+259,SC Berliner Amateure,NA,Asbjørn Kistrup Barfod,NA,74,0.6666666666666666,0.411,0,0.667,0,0.39
+260,SF Charlottenburg-Wilmersdorf 03,NA,Nicholas Jean-Louis,LV,135,0.6666666666666666,0.75,0,0,0,0.39
+261,FC Internationale Berlin,NA,Matteo Topal,NA,14,0.3333333333333333,0.156,1,0,0,0.38
+262,FC Internationale Berlin,NA,Milan Daus,NA,90,0.3333333333333333,1,0,0,0,0.38
+263,SF Johannisthal,NA,Benjamin Mujic,NA,90,0.3333333333333333,1,0,0,0,0.38
+264,Berlin Hilalspor,NA,Sercan Fallmann,LV,90,0.3333333333333333,1,0,0,0,0.38
+265,BSV Hürtürkel,NA,Furkan Arslan,NA,90,0.3333333333333333,1,0,0,0,0.38
+266,BSV Hürtürkel,NA,Kadir Inal,NA,90,0.3333333333333333,1,0,0,0,0.38
+267,1.FC Schöneberg,NA,Dolunay Sabahat,NA,55,0.6666666666666666,0.306,0.5,0,0,0.38
+268,1.FC Schöneberg,NA,Tornike Kvaratskhelia,TW,90,0.3333333333333333,1,0,0,0,0.38
+269,1.FC Schöneberg,NA,Youssef Fakhro,IV,90,0.3333333333333333,1,0,0,0,0.38
+270,SC Berliner Amateure,NA,Caspar Ropers,NA,90,0.3333333333333333,1,0,0,0,0.38
+271,SC Berliner Amateure,NA,Emil Orywal,NA,90,0.3333333333333333,1,0,0,0,0.38
+272,Friedenauer TSC,NA,Joshua Ridzewski,NA,54,0.6666666666666666,0.3,0.5,0,0,0.38
+273,Pfeffersport,NA,Emmanuel Sokowonci Daniel,NA,88,0.3333333333333333,0.978,0,0,0,0.38
+274,Pfeffersport,NA,Luca Tschiche,TW,90,0.3333333333333333,1,0,0,0,0.38
+275,SV Empor Berlin II,NA,Erik Hegenbarth,NA,14,0.3333333333333333,0.156,1,0,0,0.38
+276,SV Empor Berlin II,NA,Maurice Meyer,TW,90,0.3333333333333333,1,0,0,0,0.38
+277,SC Borsigwalde,NA,Islam Umalatov,NA,32,0.6666666666666666,0.178,0.5,0.2,0,0.38
+278,SC Borsigwalde,NA,Jose Roberto Rodrigues,NA,90,0.3333333333333333,1,0,0,0,0.38
+279,BFC Preussen II,NA,Tim Fisch,TW,90,0.3333333333333333,1,0,0,0,0.38
+280,BFC Preussen II,NA,Reda Ouakil,NA,90,0.3333333333333333,1,0,0,0,0.38
+281,DJK Schwarz-Weiß Neukölln,NA,Luthando Saul,IV,90,0.3333333333333333,1,0,0,0,0.38
+282,DJK Schwarz-Weiß Neukölln,NA,Mike Rupprecht,ZOM,90,0.3333333333333333,1,0,0,0,0.38
+283,SF Charlottenburg-Wilmersdorf 03,NA,Hussein Sabah,IV,90,0.3333333333333333,1,0,0,0,0.38
+284,SF Charlottenburg-Wilmersdorf 03,NA,Nazir Boukari Yabara,NA,90,0.3333333333333333,1,0,0,0,0.38
+285,FC Internationale Berlin,NA,Joshua Senne,NA,11,0.3333333333333333,0.122,1,0,0,0.37
+286,BSV Hürtürkel,NA,Ibrahim Inal,NA,120,0.6666666666666666,0.667,0,0,0,0.37
+287,SC Berliner Amateure,NA,Julian Fleige,NA,123,0.6666666666666666,0.683,0,0,0,0.37
+288,SC Berliner Amateure,NA,Felix Mehring,NA,62,0.3333333333333333,0.689,0.333,0,0,0.37
+289,Pfeffersport,NA,Marius Schreiber,NA,35,1,0.13,0.333,0,0,0.37
+290,SV Empor Berlin II,NA,Laurens Cerny,RM,121,0.6666666666666666,0.672,0,0,0,0.37
+291,SC Borsigwalde,NA,Dariusz Duhnke,NA,11,0.3333333333333333,0.122,1,0,0,0.37
+292,Friedenauer TSC,NA,Diego Joaquin Lopez Martinez,NA,2,0.3333333333333333,0.022,1,0.167,0,0.36
+293,Berliner SC II,0,Marcel Potempa,NA,5,0.3333333333333333,0.056,1,0,0,0.35
+294,SF Johannisthal,NA,Tom Förster,NA,4,0.3333333333333333,0.044,1,0,0,0.35
+295,SF Johannisthal,NA,Hendrik Bode,NA,4,0.3333333333333333,0.044,1,0,0,0.35
+296,BSV Hürtürkel,NA,Younes Missaoui,NA,81,0.3333333333333333,0.9,0,0,0,0.35
+297,BSV Hürtürkel,NA,Muzaffer Kirimoglu,NA,6,0.3333333333333333,0.067,1,0,0,0.35
+298,BSV 1892,NA,Arthur Stephan,NA,34,0.6666666666666666,0.189,0.5,0,0,0.35
+299,SC Berliner Amateure,NA,Paul Linus van Bürck,NA,79,0.3333333333333333,0.878,0,0,0,0.35
+300,SV Empor Berlin II,NA,Leon Drannaschk,NA,80,0.3333333333333333,0.889,0,0,0,0.35
+301,SV Empor Berlin II,NA,Aiham Saleem,ST,79,0.3333333333333333,0.878,0,0,0,0.35
+302,BFC Preussen II,13,Rommel Abou-Chaker,ZOM,92,0.6666666666666666,0.511,0,0.2,0,0.35
+303,Berlin Hilalspor,NA,Willy Akanakimana,ZM,61,0.3333333333333333,0.678,0,0,1,0.34
+304,Pfeffersport,NA,Oskar Schmiedel,IV,28,0.6666666666666666,0.156,0.5,0,0,0.34
+305,SC Borsigwalde,NA,Ömer Coskunaydin,NA,2,0.3333333333333333,0.022,1,0,0,0.34
+306,SF Charlottenburg-Wilmersdorf 03,NA,Levi Köhler,IV,78,0.3333333333333333,0.867,0,0,0,0.34
+307,SC Berliner Amateure,NA,Tom Kozak,NA,61,0.3333333333333333,0.678,0.167,0,0,0.33
+308,SC Berliner Amateure,NA,Joscha Schulte-Holtey,NA,44,0.6666666666666666,0.244,0.167,0.333,0,0.33
+309,SV Empor Berlin II,13,Mavin Wandel,NA,23,0.6666666666666666,0.128,0.5,0,0,0.33
+310,Berliner SC II,28,Nino Zamorano,NA,71,0.3333333333333333,0.789,0,0,0,0.32
+311,SC Berliner Amateure,NA,Moritz Willkomm,NA,69,0.6666666666666666,0.383,0.167,0,0,0.32
+312,BFC Preussen II,27,Serhan Arslani,NA,16,0.6666666666666666,0.089,0.5,0,0,0.32
+313,SF Charlottenburg-Wilmersdorf 03,NA,Mohammad Sabra,NA,27,1,0.1,0.111,0,0,0.31
+314,SF Charlottenburg-Wilmersdorf 03,NA,Nuno Tyrese Nuamah Dos Santos,NA,88,0.6666666666666666,0.489,0,0,0,0.31
+315,BFC Preussen II,NA,Julian Loder,NA,65,0.3333333333333333,0.722,0,0,0,0.3
+316,BSV 1892,NA,Nicht öffentlich,NA,61,0.3333333333333333,0.678,0,0,0,0.29
+317,SC Berliner Amateure,NA,Carlos Frei,NA,61,0.3333333333333333,0.678,0,0,0,0.29
+318,BFC Preussen II,NA,Tim Henseler,ZDM,62,0.3333333333333333,0.689,0,0,0,0.29
+319,Berlin Hilalspor,NA,Onur Eren,NA,69,0.6666666666666666,0.383,0,0,0,0.28
+320,BSV Hürtürkel,NA,Serdar Günes,RV,59,0.3333333333333333,0.656,0,0,0,0.28
+321,Friedenauer TSC,NA,Carl Prümke,ZDM,46,0.6666666666666666,0.256,0,0.167,0,0.27
+322,DJK Schwarz-Weiß Neukölln,NA,Shaker Shawrdi,RM,63,0.6666666666666666,0.35,0,0,0,0.27
+323,Pfeffersport,NA,Jannik Kuß,NA,54,0.6666666666666666,0.3,0,0,0,0.26
+324,DJK Schwarz-Weiß Neukölln,NA,Kamil Czuba,NA,54,0.6666666666666666,0.3,0,0,0,0.26
+325,1.FC Schöneberg,NA,Samer Abou Khalil,NA,44,0.3333333333333333,0.489,0,0.091,0,0.24
+326,SF Charlottenburg-Wilmersdorf 03,NA,Othmann Jamali Idrissi,NA,21,0.3333333333333333,0.233,0.333,0,0,0.24
+327,SC Berliner Amateure,NA,Niklas Wittjen,NA,18,0.3333333333333333,0.2,0.333,0,0,0.23
+328,SC Berliner Amateure,NA,Lorenz Dändliker,NA,45,0.3333333333333333,0.5,0,0,0,0.23
+329,SC Berliner Amateure,NA,Guillermo Sancho Incirci,NA,45,0.3333333333333333,0.5,0,0,0,0.23
+330,Friedenauer TSC,NA,Patrick Magiera,ZOM,45,0.3333333333333333,0.5,0,0,0,0.23
+331,Berolina Mitte,NA,Stephan Arbelaez Rodriguez,NA,45,0.3333333333333333,0.5,0,0,0,0.23
+332,SV Empor Berlin II,NA,Tedo Kublashvili,IV,45,0.3333333333333333,0.5,0,0,0,0.23
+333,SV Empor Berlin II,NA,Leopold Milan Greiner,NA,45,0.3333333333333333,0.5,0,0,0,0.23
+334,SC Borsigwalde,NA,Christian Mousa,NA,45,0.3333333333333333,0.5,0,0,0,0.23
+335,DJK Schwarz-Weiß Neukölln,NA,Maurice Duhme,NA,45,0.3333333333333333,0.5,0,0,0,0.23
+336,DJK Schwarz-Weiß Neukölln,NA,Ali Mert Koca,ZDM,45,0.3333333333333333,0.5,0,0,0,0.23
+337,SF Charlottenburg-Wilmersdorf 03,NA,Robin Gorr,NA,45,0.3333333333333333,0.5,0,0,0,0.23
+338,Berlin Hilalspor,NA,Donte Williams,NA,35,0.6666666666666666,0.194,0,0,0,0.22
+339,SC Berliner Amateure,NA,Abdallah Soliman,NA,26,0.6666666666666666,0.144,0,0,0,0.21
+340,SC Borsigwalde,NA,David Chukwu,NA,37,0.3333333333333333,0.411,0,0,0,0.21
+341,Berliner SC II,16,Lennard Schröder,NA,20,0.6666666666666666,0.111,0,0,0,0.2
+342,Berliner SC II,17,Carlos Huambo,NA,20,0.6666666666666666,0.111,0,0,0,0.2
+343,SF Charlottenburg-Wilmersdorf 03,NA,Salmane Adib,NA,34,0.3333333333333333,0.378,0,0,0,0.2
+344,Berliner SC II,11,Danilo Arsic,NA,33,0.3333333333333333,0.367,0,0,0,0.19
+345,Berliner SC II,31,Daniel Brüggemann,NA,33,0.3333333333333333,0.367,0,0,0,0.19
+346,Berlin Hilalspor,NA,Ilker Hasret Demir,ZDM,33,0.3333333333333333,0.367,0,0,0,0.19
+347,BSV Hürtürkel,NA,Hakan Önal,NA,31,0.3333333333333333,0.344,0,0,0,0.19
+348,1.FC Schöneberg,NA,Tahsin Özkara,NA,17,0.6666666666666666,0.094,0,0,0,0.19
+349,SC Berliner Amateure,NA,Finn Kurt Bielenberg,NA,28,0.3333333333333333,0.311,0,0,0,0.18
+350,SC Berliner Amateure,NA,Ismaila Njie,NA,29,0.3333333333333333,0.322,0,0,0,0.18
+351,BFC Preussen II,15,Marcel Berner,NA,29,0.3333333333333333,0.322,0,0,0,0.18
+352,FC Internationale Berlin,NA,Tiago de Sousa Oliveira,NA,25,0.3333333333333333,0.278,0,0,0,0.17
+353,BFC Preussen II,NA,Ahmad El-Mustapha,RM,25,0.3333333333333333,0.278,0,0,0,0.17
+354,BFC Preussen II,NA,Sebastian Rühland,NA,26,0.3333333333333333,0.289,0,0,0,0.17
+355,SF Charlottenburg-Wilmersdorf 03,NA,Raphael Liwschiz,NA,24,0.3333333333333333,0.267,0,0,0,0.16
+356,SV Empor Berlin II,NA,Dominik Nogradi,NA,20,0.3333333333333333,0.222,0,0,0,0.15
+357,Berlin Hilalspor,NA,Samet Balci,NA,17,0.3333333333333333,0.189,0,0,0,0.14
+358,BSV Hürtürkel,NA,Ismail Ülke,NA,15,0.3333333333333333,0.167,0,0,0,0.13
+359,SC Berliner Amateure,NA,Fynn Niklas Paetschke,NA,13,0.3333333333333333,0.144,0,0,0,0.13
+360,SF Charlottenburg-Wilmersdorf 03,NA,Lasse Kollof,NA,13,0.3333333333333333,0.144,0,0,0,0.13
+361,Berolina Mitte,22,Minh Dang Ngo,NA,10,0.3333333333333333,0.111,0,0,0,0.12
+362,SV Empor Berlin II,NA,Malte Bohn,NA,10,0.3333333333333333,0.111,0,0,0,0.12
+363,SV Empor Berlin II,NA,Halil Tüzen,NA,11,0.3333333333333333,0.122,0,0,0,0.12
+364,SF Charlottenburg-Wilmersdorf 03,NA,Dhia Mayel,NA,12,0.3333333333333333,0.133,0,0,0,0.12
+365,Berlin Hilalspor,NA,Kassem El-Ahmad,NA,8,0.3333333333333333,0.089,0,0,0,0.11
+366,BSV Hürtürkel,NA,Hamza El Kassem,LV,9,0.3333333333333333,0.1,0,0,0,0.11
+367,DJK Schwarz-Weiß Neukölln,NA,Noah Faubourg,NA,9,0.3333333333333333,0.1,0,0,0,0.11
+368,Berlin Hilalspor,NA,Ensar Gün,NA,1,0.3333333333333333,0.011,0,0,0,0.09
+369,BSV Hürtürkel,NA,Jacob Ahrendt,NA,1,0.3333333333333333,0.011,0,0,0,0.09
+370,Pfeffersport,NA,Bonke Andresen,NA,2,0.3333333333333333,0.022,0,0,0,0.09

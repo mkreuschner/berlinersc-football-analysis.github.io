@@ -1,318 +1,371 @@
 Rank,Team,Name,Nr,Pos,Spiele,Scorerpoints,Tore,Assists,Ratio
-1,SF Johannisthal,Lukas Ferl,10,NA,2,5,4,1,41.7
-2,1.FC Schöneberg,Enes Uzun,NA,NA,2,4,4,0,44.4
-3,SF Johannisthal,Nikolas Müller,17,LM,2,4,2,2,33.3
-4,SF Johannisthal,Lukas Olff,11,RV,2,4,1,3,33.3
-5,Berlin Hilalspor,Mohamad-Ali Chawraba,NA,LM,2,3,3,0,50
-6,FC Internationale Berlin,Santiago Henrich Paya,NA,RM,2,3,3,0,33.3
-7,FC Internationale Berlin,Gaston Ignacio Nieto,NA,ST,2,3,3,0,33.3
-8,FC Internationale Berlin,Nicholas Cartwright Stanley,NA,ST,2,3,3,0,33.3
-9,1.FC Schöneberg,Salih Uzun,NA,NA,2,3,1,2,33.3
-10,SF Johannisthal,Yoshua Lüdtke,9,LM,2,3,3,0,25
-11,SF Johannisthal,Patrick Kroll,13,NA,1,3,1,2,25
-12,SC Berliner Amateure,Asbjørn Kistrup Barfod,NA,NA,2,2,1,1,100
-13,Berliner SC II,Kevin Uwe Einspannier,6,ST,2,2,2,0,50
-14,Berliner SC II,Tim Niedenhoff,19,IV,2,2,1,1,50
-15,Pfeffersport,William Scarlett,NA,NA,2,2,2,0,50
-16,DJK Schwarz-Weiß Neukölln,Glian Hoeri,NA,NA,2,2,1,1,50
-17,DJK Schwarz-Weiß Neukölln,Tobias Schmidt,NA,RM,2,2,0,2,50
-18,Friedenauer TSC,Tim Gandert,NA,NA,2,2,2,0,40
-19,Friedenauer TSC,Ihab Al-Khalaf,NA,NA,1,2,2,0,40
-20,BSV Hürtürkel,Leopold Antonius Bussmann,NA,RM,2,2,1,1,33.3
-21,BSV Hürtürkel,Onur Yüksek,NA,NA,2,2,2,0,33.3
-22,BSV Hürtürkel,Umut Yüksek,NA,NA,2,2,2,0,33.3
+1,SF Johannisthal,Lukas Ferl,10,ST,3,6,5,1,37.5
+2,1.FC Schöneberg,Salih Uzun,NA,NA,3,5,3,2,45.5
+3,FC Internationale Berlin,Gaston Ignacio Nieto,NA,ST,3,5,5,0,33.3
+4,SF Johannisthal,Yoshua Lüdtke,9,LM,3,5,4,1,31.2
+5,1.FC Schöneberg,Enes Uzun,NA,NA,3,4,4,0,36.4
+6,FC Internationale Berlin,Santiago Henrich Paya,NA,RM,3,4,4,0,26.7
+7,SF Johannisthal,Nikolas Müller,17,LM,3,4,2,2,25
+8,SF Johannisthal,Lukas Olff,11,RV,2,4,1,3,25
+9,Berlin Hilalspor,Mohamad-Ali Chawraba,NA,LM,2,3,3,0,50
+10,BSV Hürtürkel,Leopold Antonius Bussmann,NA,RM,3,3,2,1,42.9
+11,BSV 1892,El-Amin Elsaadawi,NA,NA,3,3,1,2,27.3
+12,SF Johannisthal,Patrick Kroll,13,NA,1,3,1,2,18.8
+13,SC Berliner Amateure,Asbjørn Kistrup Barfod,NA,NA,2,2,1,1,66.7
+14,Pfeffersport,William Scarlett,NA,NA,3,2,2,0,50
+15,DJK Schwarz-Weiß Neukölln,Glian Hoeri,NA,NA,3,2,1,1,50
+16,DJK Schwarz-Weiß Neukölln,Tobias Schmidt,NA,RM,2,2,0,2,50
+17,BFC Preussen II,Georgios Mikelatze,29,ST,2,2,2,0,40
+18,Berliner SC II,Kevin Uwe Einspannier,6,ZM,3,2,2,0,33.3
+19,Berliner SC II,Tim Niedenhoff,19,IV,3,2,1,1,33.3
+20,Friedenauer TSC,Tim Gandert,NA,NA,2,2,2,0,33.3
+21,Friedenauer TSC,Ihab Al-Khalaf,NA,NA,1,2,2,0,33.3
+22,Berolina Mitte,Felix Opoku,14,ST,3,2,2,0,33.3
 23,SV Empor Berlin II,Nico Bochnia,9,ST,2,2,2,0,33.3
 24,SV Empor Berlin II,Luis Ploschenz,NA,NA,1,2,2,0,33.3
-25,1.FC Schöneberg,Emin Musa Cetintas,NA,RM,2,2,0,2,22.2
-26,1.FC Schöneberg,Yildiray Demir,NA,ZDM,2,2,1,1,22.2
-27,1.FC Schöneberg,Burak Cabuk,NA,ZDM,2,2,2,0,22.2
-28,Berolina Mitte,Valentin Wiegand,7,ZDM,1,1,1,0,100
-29,SF Charlottenburg-Wilmersdorf 03,Maximilian Kocher,NA,RM,2,1,1,0,100
-30,SC Berliner Amateure,Jan Schönball,NA,NA,1,1,1,0,50
-31,BFC Preussen II,Rommel Abou-Chaker,13,ZOM,2,1,1,0,50
-32,BFC Preussen II,Georgios Mikelatze,29,ST,1,1,1,0,50
-33,SC Borsigwalde,Daniel Mpembele Nzongo,NA,NA,2,1,1,0,33.3
-34,SC Borsigwalde,Marcel Bubner,NA,ST,2,1,1,0,33.3
-35,SC Borsigwalde,Marcel Knaack,NA,ZOM,1,1,1,0,33.3
-36,Berliner SC II,Konstantin Joseski,14,RV,2,1,1,0,25
-37,Pfeffersport,Jonathan Grunert,NA,ST,2,1,1,0,25
-38,Pfeffersport,Mohammad Barakat,NA,NA,2,1,0,1,25
-39,Pfeffersport,Paul Oskar Schirp,NA,ZM,1,1,1,0,25
-40,DJK Schwarz-Weiß Neukölln,Dorian Kühn,NA,LV,1,1,1,0,25
-41,DJK Schwarz-Weiß Neukölln,Norman Guski,NA,ST,2,1,1,0,25
-42,DJK Schwarz-Weiß Neukölln,Vittorio Achour,NA,LM,2,1,0,1,25
-43,DJK Schwarz-Weiß Neukölln,Christoph Ruden,NA,ZDM,2,1,1,0,25
-44,Friedenauer TSC,Tarkan Taskiran,NA,NA,2,1,0,1,20
-45,Friedenauer TSC,Diego Joaquin Lopez Martinez,NA,NA,1,1,1,0,20
-46,Friedenauer TSC,Dominik Plohmann,NA,NA,1,1,0,1,20
-47,Berlin Hilalspor,Okan Ekmekci,NA,NA,2,1,1,0,16.7
-48,Berlin Hilalspor,Volkan Neziroglu,NA,ST,2,1,1,0,16.7
-49,Berlin Hilalspor,Hasan Köse,NA,ZM,2,1,1,0,16.7
-50,BSV Hürtürkel,Kubilay Yilmaz,NA,ST,2,1,0,1,16.7
-51,BSV 1892,Paul Busche,NA,ST,1,1,1,0,16.7
-52,BSV 1892,Yunus Malik,NA,LV,1,1,1,0,16.7
-53,BSV 1892,Chidera Iwuozor,NA,NA,2,1,1,0,16.7
-54,BSV 1892,El-Amin Elsaadawi,NA,NA,2,1,1,0,16.7
-55,BSV 1892,Karl Anker,NA,RM,2,1,1,0,16.7
-56,BSV 1892,David Bellin,NA,ST,2,1,1,0,16.7
-57,SV Empor Berlin II,Emile Ako,18,ZM,2,1,1,0,16.7
-58,SV Empor Berlin II,Billy Bradley Tuckerman,12,LM,2,1,1,0,16.7
-59,1.FC Schöneberg,Samer Abou Khalil,NA,NA,1,1,0,1,11.1
-60,1.FC Schöneberg,Emre Gedek,NA,NA,2,1,0,1,11.1
-61,1.FC Schöneberg,Morrez Nhacuonga,NA,NA,2,1,1,0,11.1
-62,SF Johannisthal,Max Mittelstädt,31,RM,2,1,0,1,8.3
-63,SF Johannisthal,Jonathan Behrend,7,ZDM,1,1,1,0,8.3
-64,Berliner SC II,Danilo Arsic,11,NA,1,0,0,0,0
-65,Berliner SC II,Leon Ibrom,4,IV,1,0,0,0,0
-66,Berliner SC II,Jakob Baum,20,LM,2,0,0,0,0
-67,Berliner SC II,Nikolaos Kaggelidids,15,ZM,2,0,0,0,0
-68,Berliner SC II,Alwin Hunger,22,NA,1,0,0,0,0
-69,Berliner SC II,Bryan Lilja,18,RM,2,0,0,0,0
-70,Berliner SC II,Jesse Kreuschner,21,TW,2,0,0,0,0
-71,Berliner SC II,Erhan Kücükosman,10,ST,1,0,0,0,0
-72,Berliner SC II,Lennard Schröder,16,NA,2,0,0,0,0
-73,Berliner SC II,Alessandro Tamburo,33,ST,2,0,0,0,0
-74,Berliner SC II,Yigit Öncü,8,NA,1,0,0,0,0
-75,Berliner SC II,Carlos Huambo,17,NA,2,0,0,0,0
-76,Berliner SC II,Daniel Brüggemann,31,NA,1,0,0,0,0
-77,Berliner SC II,Alexander Lorenz,31,ST,1,0,0,0,0
-78,Berliner SC II,Nino Zamorano,28,NA,1,0,0,0,0
-79,Berliner SC II,Jakob Heilmann,2,LV,2,0,0,0,0
-80,Berliner SC II,Dominique Leitner,5,IV,2,0,0,0,0
-81,FC Internationale Berlin,Akiyasu Tsuchiya,NA,ZM,2,0,0,0,0
-82,FC Internationale Berlin,Jascha Robin Wörteler,NA,IV,2,0,0,0,0
-83,FC Internationale Berlin,Bryson Rodney Pink,NA,LM,2,0,0,0,0
-84,FC Internationale Berlin,Giovanni Marigo,NA,LM,2,0,0,0,0
-85,FC Internationale Berlin,Franzisko Bätz,NA,ZM,2,0,0,0,0
-86,FC Internationale Berlin,Nicolas Costa Echeverria,NA,IV,1,0,0,0,0
-87,FC Internationale Berlin,Jamie Dell Bullock,NA,NA,2,0,0,0,0
-88,FC Internationale Berlin,Nikita Ovcharov,NA,NA,1,0,0,0,0
-89,FC Internationale Berlin,Alexander Schulze,NA,TW,2,0,0,0,0
-90,FC Internationale Berlin,Luis Driemel,NA,IV,1,0,0,0,0
-91,FC Internationale Berlin,Joshua Senne,NA,NA,1,0,0,0,0
-92,FC Internationale Berlin,Antonio Boeddinghaus,NA,IV,1,0,0,0,0
-93,FC Internationale Berlin,Niklas Schindler,NA,IV,1,0,0,0,0
-94,FC Internationale Berlin,Enrique Freitag,NA,ZM,2,0,0,0,0
-95,FC Internationale Berlin,Albert Bauder,NA,NA,2,0,0,0,0
-96,FC Internationale Berlin,Milan Daus,NA,NA,1,0,0,0,0
-97,SF Johannisthal,Toni Ölke,1,TW,2,0,0,0,0
-98,SF Johannisthal,Jakob Dörre,4,LV,2,0,0,0,0
-99,SF Johannisthal,Marvin Pawel,16,ZM,2,0,0,0,0
-100,SF Johannisthal,Tom Franke,NA,ST,1,0,0,0,0
-101,SF Johannisthal,Max Hoffmann,19,NA,1,0,0,0,0
-102,SF Johannisthal,Yannik Pilz,3,IV,2,0,0,0,0
-103,SF Johannisthal,Colin Gonda,6,ZDM,1,0,0,0,0
-104,SF Johannisthal,Mathis Aust,NA,NA,1,0,0,0,0
-105,SF Johannisthal,Lars Walden,2,IV,2,0,0,0,0
-106,SF Johannisthal,Eric Warncke,33,RM,2,0,0,0,0
-107,SF Johannisthal,Marvin Herter,5,LV,1,0,0,0,0
-108,Berlin Hilalspor,Sadri Can Ekmekci,NA,NA,2,0,0,0,0
-109,Berlin Hilalspor,Ömer Tanis,NA,IV,1,0,0,0,0
-110,Berlin Hilalspor,Donte Williams,NA,NA,1,0,0,0,0
-111,Berlin Hilalspor,Mortaza Rahimi,NA,LV,1,0,0,0,0
-112,Berlin Hilalspor,Dogus Güngör,NA,RV,1,0,0,0,0
-113,Berlin Hilalspor,Ensar Gün,NA,NA,1,0,0,0,0
-114,Berlin Hilalspor,Armin Asotic,NA,RM,2,0,0,0,0
-115,Berlin Hilalspor,Kassem El-Ahmad,NA,NA,1,0,0,0,0
-116,Berlin Hilalspor,Willy Akanakimana,NA,ZM,1,0,0,0,0
-117,Berlin Hilalspor,Mohammed Fadel,NA,TW,1,0,0,0,0
-118,Berlin Hilalspor,Ramdane Wahabou,NA,LM,2,0,0,0,0
-119,Berlin Hilalspor,Mohamed Marouwane,NA,IV,2,0,0,0,0
-120,Berlin Hilalspor,Taha Aslan,NA,ZM,2,0,0,0,0
-121,Berlin Hilalspor,Onur Eren,NA,NA,1,0,0,0,0
-122,Berlin Hilalspor,Davut Kösker,NA,TW,1,0,0,0,0
-123,Berlin Hilalspor,Görkem Yilmaz,NA,ST,2,0,0,0,0
-124,Berlin Hilalspor,Bilgehan Hancer,NA,ST,2,0,0,0,0
-125,BSV Hürtürkel,Jacob Ahrendt,NA,NA,1,0,0,0,0
-126,BSV Hürtürkel,Muzaffer Kirimoglu,NA,NA,1,0,0,0,0
-127,BSV Hürtürkel,David Langer,NA,NA,1,0,0,0,0
-128,BSV Hürtürkel,Dursun Tunahan Akdag,NA,ZDM,2,0,0,0,0
-129,BSV Hürtürkel,Görkem-Alp Zeren,NA,NA,1,0,0,0,0
-130,BSV Hürtürkel,Emre Kücükodabasi,NA,RV,2,0,0,0,0
-131,BSV Hürtürkel,Muhammed Yildirgan,NA,NA,1,0,0,0,0
-132,BSV Hürtürkel,Ali Tanis,NA,IV,2,0,0,0,0
-133,BSV Hürtürkel,Ilker Samed Yigit,NA,NA,2,0,0,0,0
-134,BSV Hürtürkel,Harun Efe Kurnaz,NA,ZOM,2,0,0,0,0
-135,BSV Hürtürkel,Furkan Arslan,NA,NA,1,0,0,0,0
-136,BSV Hürtürkel,Serkan Türkoglu,NA,IV,2,0,0,0,0
-137,BSV Hürtürkel,Ismail Ülke,NA,NA,1,0,0,0,0
-138,BSV Hürtürkel,Abdullah Usame Karadeniz,NA,TW,1,0,0,0,0
-139,BSV Hürtürkel,Ibrahim Inal,NA,NA,1,0,0,0,0
-140,1.FC Schöneberg,Atakan Gündogdu,NA,LV,1,0,0,0,0
-141,1.FC Schöneberg,Radovan-Damjan Stojanovic,NA,IV,2,0,0,0,0
-142,1.FC Schöneberg,Zafer Kaan Göksar,NA,NA,1,0,0,0,0
-143,1.FC Schöneberg,Dolunay Sabahat,NA,NA,1,0,0,0,0
-144,1.FC Schöneberg,Dogukan Degirmenci,NA,RV,2,0,0,0,0
-145,1.FC Schöneberg,Kani Özdil,NA,IV,2,0,0,0,0
-146,1.FC Schöneberg,Tahsin Özkara,NA,NA,1,0,0,0,0
-147,1.FC Schöneberg,Sean Franz,NA,ZDM,2,0,0,0,0
-148,1.FC Schöneberg,Izzet Ciftci,NA,NA,2,0,0,0,0
-149,1.FC Schöneberg,Janik Meyer,NA,TW,1,0,0,0,0
-150,BSV 1892,Niklas Jost,NA,IV,2,0,0,0,0
-151,BSV 1892,Arthur Stephan,NA,NA,2,0,0,0,0
-152,BSV 1892,Dominik Hinze,NA,ZOM,1,0,0,0,0
-153,BSV 1892,Hendrik Lüttschwager,NA,TW,2,0,0,0,0
-154,BSV 1892,Nick Bechler,NA,IV,1,0,0,0,0
-155,BSV 1892,Benjamin Schnack,NA,IV,2,0,0,0,0
-156,BSV 1892,Julius Zauner,NA,RM,2,0,0,0,0
-157,BSV 1892,Lennard Schleifenbaum,NA,ZDM,2,0,0,0,0
-158,BSV 1892,Joscha Yanar,NA,LM,1,0,0,0,0
-159,BSV 1892,Tim Paschke,NA,LM,2,0,0,0,0
-160,BSV 1892,Stefano Tedesco,NA,IV,1,0,0,0,0
-161,SC Berliner Amateure,Julian Fleige,NA,NA,2,0,0,0,0
-162,SC Berliner Amateure,Nerzihoua Moussa Kone,NA,NA,1,0,0,0,0
-163,SC Berliner Amateure,Nikolai Kemlein,NA,NA,2,0,0,0,0
-164,SC Berliner Amateure,Fynn Niklas Paetschke,NA,NA,1,0,0,0,0
-165,SC Berliner Amateure,Paul Linus van Bürck,NA,NA,1,0,0,0,0
-166,SC Berliner Amateure,Tom Kozak,NA,NA,1,0,0,0,0
-167,SC Berliner Amateure,Lorenz Dändliker,NA,NA,1,0,0,0,0
-168,SC Berliner Amateure,Jaromil Essers,NA,NA,2,0,0,0,0
-169,SC Berliner Amateure,Lars Tasche,NA,NA,2,0,0,0,0
-170,SC Berliner Amateure,Joscha Schulte-Holtey,NA,NA,1,0,0,0,0
-171,SC Berliner Amateure,Lars Werner,NA,ZOM,2,0,0,0,0
-172,SC Berliner Amateure,Soulemane Imorou,NA,NA,2,0,0,0,0
-173,SC Berliner Amateure,Caspar Ropers,NA,NA,1,0,0,0,0
-174,SC Berliner Amateure,Abdallah Soliman,NA,NA,2,0,0,0,0
-175,SC Berliner Amateure,Emil Orywal,NA,NA,1,0,0,0,0
-176,SC Berliner Amateure,Guillermo Sancho Incirci,NA,NA,1,0,0,0,0
-177,SC Berliner Amateure,Ismaila Njie,NA,NA,1,0,0,0,0
-178,SC Berliner Amateure,Lucian Ewald,NA,NA,2,0,0,0,0
-179,SC Berliner Amateure,Malte Räuchle,NA,NA,1,0,0,0,0
-180,SC Berliner Amateure,Moritz Willkomm,NA,NA,1,0,0,0,0
-181,SC Berliner Amateure,Carlos Frei,NA,NA,1,0,0,0,0
-182,Friedenauer TSC,Kevin Woithe,NA,NA,2,0,0,0,0
-183,Friedenauer TSC,Maximilian Reinhard Schubart,NA,NA,1,0,0,0,0
-184,Friedenauer TSC,Lionel Vowinckel,NA,NA,1,0,0,0,0
-185,Friedenauer TSC,Theo Prümke,NA,NA,2,0,0,0,0
-186,Friedenauer TSC,Carl Prümke,NA,NA,1,0,0,0,0
-187,Friedenauer TSC,Niklas Rother,NA,NA,1,0,0,0,0
-188,Friedenauer TSC,Joshua Ridzewski,NA,NA,1,0,0,0,0
-189,Friedenauer TSC,Eray Krüger,NA,NA,1,0,0,0,0
-190,Friedenauer TSC,Dominik Vukoja,NA,NA,2,0,0,0,0
-191,Friedenauer TSC,Teoman Saatci,NA,NA,1,0,0,0,0
-192,Friedenauer TSC,Paul Kleinfeldt,NA,NA,2,0,0,0,0
-193,Friedenauer TSC,Iven Stritzke,NA,NA,2,0,0,0,0
-194,Friedenauer TSC,Joshua Fuchs,NA,NA,1,0,0,0,0
-195,Friedenauer TSC,Marten Niemeyer,NA,NA,2,0,0,0,0
-196,Friedenauer TSC,Louis Anthony Guske,NA,NA,2,0,0,0,0
-197,Friedenauer TSC,Kenney Kojo Sey,NA,NA,2,0,0,0,0
-198,Pfeffersport,Julian Marcell,NA,ZM,2,0,0,0,0
-199,Pfeffersport,Friedrich Würzner,NA,NA,1,0,0,0,0
-200,Pfeffersport,Carl Zimmering,NA,RV,1,0,0,0,0
-201,Pfeffersport,Mohamed Boudlal,NA,LV,2,0,0,0,0
-202,Pfeffersport,Noah Roitzsch,NA,NA,1,0,0,0,0
-203,Pfeffersport,Marius Schreiber,NA,NA,2,0,0,0,0
-204,Pfeffersport,Manuel Goudjo Aguigah,NA,LM,1,0,0,0,0
-205,Pfeffersport,Emmanuel Sokowonci Daniel,NA,NA,1,0,0,0,0
-206,Pfeffersport,Jannik Kuß,NA,NA,1,0,0,0,0
-207,Pfeffersport,Bonke Andresen,NA,NA,1,0,0,0,0
-208,Pfeffersport,Benedict Klenk,NA,ZM,2,0,0,0,0
-209,Pfeffersport,Oskar Schmiedel,NA,NA,2,0,0,0,0
-210,Pfeffersport,Philipp Pilz,NA,IV,2,0,0,0,0
-211,Pfeffersport,Heinrich Sander,NA,IV,2,0,0,0,0
-212,Pfeffersport,Jannik Kremer,NA,RM,1,0,0,0,0
-213,Pfeffersport,Elias Aguigah,NA,LM,1,0,0,0,0
-214,Pfeffersport,Zorc Kolfenbach,NA,TW,1,0,0,0,0
-215,Berolina Mitte,Moritz Müller,9,LM,2,0,0,0,0
-216,Berolina Mitte,Floris Lucas Georgi,3,IV,2,0,0,0,0
-217,Berolina Mitte,Leandro Ngomane,NA,NA,1,0,0,0,0
-218,Berolina Mitte,Fabio Benabid,NA,IV,1,0,0,0,0
-219,Berolina Mitte,Yann Metzmacher,4,ZDM,2,0,0,0,0
-220,Berolina Mitte,Rio Wermer,NA,NA,1,0,0,0,0
-221,Berolina Mitte,Minh Dang Ngo,22,NA,1,0,0,0,0
-222,Berolina Mitte,Stephan Arbelaez Rodriguez,NA,NA,1,0,0,0,0
-223,Berolina Mitte,Jhon Fernando Garces Daza,10,NA,2,0,0,0,0
-224,Berolina Mitte,Felix Opoku,14,ST,2,0,0,0,0
-225,Berolina Mitte,Daiwy Chioccarelli,NA,LM,2,0,0,0,0
-226,Berolina Mitte,Steven Buchweitz,19,ST,2,0,0,0,0
-227,Berolina Mitte,Tim Wolf-Triebel,20,NA,2,0,0,0,0
-228,Berolina Mitte,Andreas Gefnider,NA,LV,2,0,0,0,0
-229,Berolina Mitte,Henning Stötefalke,6,NA,2,0,0,0,0
-230,Berolina Mitte,Julius Meier,NA,TW,2,0,0,0,0
-231,Berolina Mitte,Marc Oliver Schlarmann,5,RV,2,0,0,0,0
-232,SV Empor Berlin II,Philipp Macketanz,15,LV,2,0,0,0,0
-233,SV Empor Berlin II,Pascal Bräkow,2,RV,2,0,0,0,0
-234,SV Empor Berlin II,Malte Bohn,NA,NA,1,0,0,0,0
-235,SV Empor Berlin II,Justin Schmiedel,6,NA,1,0,0,0,0
-236,SV Empor Berlin II,Niclas Nixdorf,3,RM,1,0,0,0,0
-237,SV Empor Berlin II,Jannick Wollmann,5,IV,2,0,0,0,0
-238,SV Empor Berlin II,Leon Drannaschk,NA,NA,1,0,0,0,0
-239,SV Empor Berlin II,Janne Henrik Bloch,33,TW,1,0,0,0,0
-240,SV Empor Berlin II,Erik Hegenbarth,NA,NA,1,0,0,0,0
-241,SV Empor Berlin II,Julian Duczmal,17,ZM,2,0,0,0,0
-242,SV Empor Berlin II,Rafael Mentrup,19,ST,2,0,0,0,0
-243,SV Empor Berlin II,Mavin Wandel,13,NA,2,0,0,0,0
-244,SV Empor Berlin II,Laurens Cerny,NA,NA,1,0,0,0,0
-245,SV Empor Berlin II,Anushan Rajaratnam,NA,NA,1,0,0,0,0
-246,SV Empor Berlin II,Reyaj Shrestha,8,NA,2,0,0,0,0
-247,SV Empor Berlin II,Marian Popp,4,IV,2,0,0,0,0
-248,SV Empor Berlin II,Maurice Meyer,NA,TW,1,0,0,0,0
-249,SC Borsigwalde,David Mpembele Nzongo,NA,NA,2,0,0,0,0
-250,SC Borsigwalde,Khaled El-Okkla,NA,IV,2,0,0,0,0
-251,SC Borsigwalde,David Chukwu,NA,NA,1,0,0,0,0
-252,SC Borsigwalde,David Viedt,NA,NA,1,0,0,0,0
-253,SC Borsigwalde,Mostafa Kassem,NA,LV,2,0,0,0,0
-254,SC Borsigwalde,Islam Umalatov,NA,NA,1,0,0,0,0
-255,SC Borsigwalde,Jose Roberto Rodrigues,NA,NA,1,0,0,0,0
-256,SC Borsigwalde,Prince Selemani Angali,NA,RV,2,0,0,0,0
-257,SC Borsigwalde,Nick Thalke,NA,RM,2,0,0,0,0
-258,SC Borsigwalde,Adam Barnat,NA,NA,1,0,0,0,0
-259,SC Borsigwalde,Sadjad Rassuli,NA,ZOM,2,0,0,0,0
-260,SC Borsigwalde,Dariusz Duhnke,NA,NA,1,0,0,0,0
-261,SC Borsigwalde,Christian Mousa,NA,NA,1,0,0,0,0
-262,SC Borsigwalde,Nikola Siljanoski,NA,TW,1,0,0,0,0
-263,SC Borsigwalde,Ömer Coskunaydin,NA,NA,1,0,0,0,0
-264,SC Borsigwalde,Kevin Kummer,NA,ZDM,2,0,0,0,0
-265,SC Borsigwalde,Mohammed Mustafa Acar,NA,IV,2,0,0,0,0
-266,SC Borsigwalde,Magnus Crone,NA,NA,1,0,0,0,0
-267,BFC Preussen II,Tim Fisch,NA,TW,1,0,0,0,0
-268,BFC Preussen II,Kiminu Mayoungou,16,IV,1,0,0,0,0
-269,BFC Preussen II,Jerome Kortebusch,NA,RV,1,0,0,0,0
-270,BFC Preussen II,Ahmad El-Mustapha,NA,RM,1,0,0,0,0
-271,BFC Preussen II,Serhan Arslani,27,NA,1,0,0,0,0
-272,BFC Preussen II,Tim Henseler,NA,ZDM,1,0,0,0,0
-273,BFC Preussen II,Adam Lamkaddam,NA,NA,1,0,0,0,0
-274,BFC Preussen II,Leo Sommerfeld,3,IV,2,0,0,0,0
-275,BFC Preussen II,Atacan Özcan,22,RV,2,0,0,0,0
-276,BFC Preussen II,Abdallah Ferchichi,19,LV,2,0,0,0,0
-277,BFC Preussen II,Can Kelesoglu,33,RM,2,0,0,0,0
-278,BFC Preussen II,Sebastian Rühland,NA,NA,1,0,0,0,0
-279,BFC Preussen II,Julian Loder,NA,NA,1,0,0,0,0
-280,BFC Preussen II,Magnus Stahlberg,8,IV,2,0,0,0,0
-281,BFC Preussen II,Yasin Demir,30,ZDM,1,0,0,0,0
-282,BFC Preussen II,Marcel Berner,15,NA,1,0,0,0,0
-283,BFC Preussen II,Hugo Timur,NA,LM,1,0,0,0,0
-284,BFC Preussen II,Dan Feldmann,5,ST,2,0,0,0,0
-285,DJK Schwarz-Weiß Neukölln,Lukas Elszel,NA,NA,1,0,0,0,0
-286,DJK Schwarz-Weiß Neukölln,Alisan Erdogan,NA,ZOM,2,0,0,0,0
-287,DJK Schwarz-Weiß Neukölln,Barkan Köprülügil,NA,LV,2,0,0,0,0
-288,DJK Schwarz-Weiß Neukölln,Noah Faubourg,NA,NA,1,0,0,0,0
-289,DJK Schwarz-Weiß Neukölln,Julian Kirsch,NA,ZDM,1,0,0,0,0
-290,DJK Schwarz-Weiß Neukölln,Shaker Shawrdi,NA,NA,1,0,0,0,0
-291,DJK Schwarz-Weiß Neukölln,Bekar Hoeri,NA,NA,2,0,0,0,0
-292,DJK Schwarz-Weiß Neukölln,Kamil Czuba,NA,NA,1,0,0,0,0
-293,DJK Schwarz-Weiß Neukölln,Guillermo Ernesto Padilla Cross,NA,NA,2,0,0,0,0
-294,DJK Schwarz-Weiß Neukölln,Patrick Boel,NA,TW,2,0,0,0,0
-295,DJK Schwarz-Weiß Neukölln,Justin Jakob,NA,RV,2,0,0,0,0
-296,DJK Schwarz-Weiß Neukölln,Josip Ramljak,NA,IV,1,0,0,0,0
-297,DJK Schwarz-Weiß Neukölln,Nico Lindner,NA,IV,2,0,0,0,0
-298,SF Charlottenburg-Wilmersdorf 03,Robin Gorr,NA,NA,1,0,0,0,0
-299,SF Charlottenburg-Wilmersdorf 03,Erik Kosky,NA,RV,2,0,0,0,0
-300,SF Charlottenburg-Wilmersdorf 03,Nicholas Jean-Louis,NA,LV,2,0,0,0,0
-301,SF Charlottenburg-Wilmersdorf 03,Levi Köhler,NA,IV,1,0,0,0,0
-302,SF Charlottenburg-Wilmersdorf 03,Johannes Gehring,NA,ZM,2,0,0,0,0
-303,SF Charlottenburg-Wilmersdorf 03,Mohammad Sabra,NA,NA,2,0,0,0,0
-304,SF Charlottenburg-Wilmersdorf 03,Koffi Ange Mickael Hermann Yao,NA,IV,2,0,0,0,0
-305,SF Charlottenburg-Wilmersdorf 03,Philipp Aufschlag,NA,NA,1,0,0,0,0
-306,SF Charlottenburg-Wilmersdorf 03,Bakary Diakite,NA,LM,2,0,0,0,0
-307,SF Charlottenburg-Wilmersdorf 03,Hussein Sabah,NA,IV,1,0,0,0,0
-308,SF Charlottenburg-Wilmersdorf 03,Niklas Höhne,NA,TW,1,0,0,0,0
-309,SF Charlottenburg-Wilmersdorf 03,Lasse Kollof,NA,NA,1,0,0,0,0
-310,SF Charlottenburg-Wilmersdorf 03,Oskar Dornheim,NA,ZM,2,0,0,0,0
-311,SF Charlottenburg-Wilmersdorf 03,Nuno Tyrese Nuamah Dos Santos,NA,NA,2,0,0,0,0
-312,SF Charlottenburg-Wilmersdorf 03,Dhia Mayel,NA,NA,1,0,0,0,0
-313,SF Charlottenburg-Wilmersdorf 03,Salmane Adib,NA,NA,1,0,0,0,0
-314,SF Charlottenburg-Wilmersdorf 03,Nazir Boukari Yabara,NA,NA,1,0,0,0,0
-315,SF Charlottenburg-Wilmersdorf 03,Janek Wendt,NA,IV,1,0,0,0,0
-316,SF Charlottenburg-Wilmersdorf 03,Raphael Liwschiz,NA,NA,1,0,0,0,0
-317,SF Charlottenburg-Wilmersdorf 03,Lucas Dziadek,NA,IV,1,0,0,0,0
+25,BSV Hürtürkel,Onur Yüksek,NA,NA,3,2,2,0,28.6
+26,BSV Hürtürkel,Umut Yüksek,NA,NA,3,2,2,0,28.6
+27,1.FC Schöneberg,Emin Musa Cetintas,NA,RM,3,2,0,2,18.2
+28,1.FC Schöneberg,Yildiray Demir,NA,ZDM,3,2,1,1,18.2
+29,1.FC Schöneberg,Burak Cabuk,NA,RM,3,2,2,0,18.2
+30,BSV 1892,Paul Busche,NA,ST,2,2,2,0,18.2
+31,BSV 1892,Julius Zauner,NA,RM,3,2,2,0,18.2
+32,FC Internationale Berlin,Nicholas Cartwright Stanley,NA,ST,3,2,2,0,13.3
+33,FC Internationale Berlin,Maxwell Stanley,NA,ST,2,2,2,0,13.3
+34,SF Charlottenburg-Wilmersdorf 03,Maximilian Kocher,NA,LM,3,1,1,0,50
+35,SF Charlottenburg-Wilmersdorf 03,Johannes Gehring,NA,ZM,3,1,1,0,50
+36,SC Berliner Amateure,Joscha Schulte-Holtey,NA,NA,2,1,0,1,33.3
+37,SC Berliner Amateure,Jan Schönball,NA,NA,1,1,1,0,33.3
+38,SC Berliner Amateure,Ben Kozak,NA,NA,1,1,1,0,33.3
+39,Pfeffersport,Jonathan Grunert,NA,ST,2,1,1,0,25
+40,Pfeffersport,Mohammad Barakat,NA,RM,3,1,0,1,25
+41,Pfeffersport,Paul Oskar Schirp,NA,ZM,2,1,1,0,25
+42,DJK Schwarz-Weiß Neukölln,Dorian Kühn,NA,LV,1,1,1,0,25
+43,DJK Schwarz-Weiß Neukölln,Norman Guski,NA,ST,3,1,1,0,25
+44,DJK Schwarz-Weiß Neukölln,Vittorio Achour,NA,LM,2,1,0,1,25
+45,DJK Schwarz-Weiß Neukölln,Christoph Ruden,NA,ZDM,3,1,1,0,25
+46,SC Borsigwalde,Daniel Mpembele Nzongo,NA,NA,3,1,1,0,20
+47,SC Borsigwalde,Islam Umalatov,NA,NA,2,1,1,0,20
+48,SC Borsigwalde,Marcel Bubner,NA,ST,3,1,1,0,20
+49,SC Borsigwalde,Marcel Knaack,NA,ZOM,1,1,1,0,20
+50,SC Borsigwalde,Magnus Crone,NA,NA,2,1,1,0,20
+51,BFC Preussen II,Leo Sommerfeld,3,IV,3,1,1,0,20
+52,BFC Preussen II,Rommel Abou-Chaker,13,ZOM,2,1,1,0,20
+53,BFC Preussen II,Hugo Timur,NA,LM,2,1,1,0,20
+54,Berliner SC II,Nikolaos Kaggelidids,15,LV,3,1,1,0,16.7
+55,Berliner SC II,Fabian Niedenhoff,NA,IV,1,1,1,0,16.7
+56,Berliner SC II,Konstantin Joseski,14,RV,3,1,1,0,16.7
+57,Berlin Hilalspor,Okan Ekmekci,NA,NA,3,1,1,0,16.7
+58,Berlin Hilalspor,Volkan Neziroglu,NA,ST,3,1,1,0,16.7
+59,Berlin Hilalspor,Hasan Köse,NA,ZM,2,1,1,0,16.7
+60,Friedenauer TSC,Carl Prümke,NA,ZDM,2,1,1,0,16.7
+61,Friedenauer TSC,Tarkan Taskiran,NA,NA,2,1,0,1,16.7
+62,Friedenauer TSC,Diego Joaquin Lopez Martinez,NA,NA,1,1,1,0,16.7
+63,Friedenauer TSC,Dominik Plohmann,NA,NA,1,1,0,1,16.7
+64,Berolina Mitte,Leandro Ngomane,NA,RM,2,1,1,0,16.7
+65,Berolina Mitte,Valentin Wiegand,7,ZDM,1,1,1,0,16.7
+66,Berolina Mitte,Jhon Fernando Garces Daza,10,NA,3,1,1,0,16.7
+67,SV Empor Berlin II,Emile Ako,18,ZDM,3,1,1,0,16.7
+68,SV Empor Berlin II,Billy Bradley Tuckerman,12,LM,2,1,1,0,16.7
+69,BSV Hürtürkel,Kubilay Yilmaz,NA,ST,3,1,0,1,14.3
+70,1.FC Schöneberg,Samer Abou Khalil,NA,NA,1,1,0,1,9.1
+71,1.FC Schöneberg,Emre Gedek,NA,NA,3,1,0,1,9.1
+72,1.FC Schöneberg,Morrez Nhacuonga,NA,NA,2,1,1,0,9.1
+73,BSV 1892,Yunus Malik,NA,LV,2,1,1,0,9.1
+74,BSV 1892,Chidera Iwuozor,NA,LV,3,1,1,0,9.1
+75,BSV 1892,Nick Bechler,NA,IV,2,1,1,0,9.1
+76,BSV 1892,Karl Anker,NA,IV,3,1,1,0,9.1
+77,BSV 1892,Lennard Schleifenbaum,NA,ZDM,3,1,1,0,9.1
+78,BSV 1892,David Bellin,NA,ST,3,1,1,0,9.1
+79,FC Internationale Berlin,Nikita Ovcharov,NA,NA,2,1,1,0,6.7
+80,FC Internationale Berlin,Luis Driemel,NA,IV,2,1,1,0,6.7
+81,SF Johannisthal,Max Mittelstädt,31,RM,2,1,0,1,6.2
+82,SF Johannisthal,Max Hoffmann,19,LV,2,1,1,0,6.2
+83,SF Johannisthal,Jonathan Behrend,7,ZDM,2,1,1,0,6.2
+84,SF Johannisthal,Eric Warncke,33,LM,3,1,1,0,6.2
+85,SF Johannisthal,Marvin Hilgendorf,NA,RV,1,1,0,1,6.2
+86,Berliner SC II,Danilo Arsic,11,NA,1,0,0,0,0
+87,Berliner SC II,Leon Ibrom,4,IV,1,0,0,0,0
+88,Berliner SC II,Jakob Baum,20,LM,3,0,0,0,0
+89,Berliner SC II,Alwin Hunger,22,NA,1,0,0,0,0
+90,Berliner SC II,Bryan Lilja,18,RM,2,0,0,0,0
+91,Berliner SC II,Jesse Kreuschner,21,TW,3,0,0,0,0
+92,Berliner SC II,Erhan Kücükosman,10,ST,2,0,0,0,0
+93,Berliner SC II,Lennard Schröder,16,NA,2,0,0,0,0
+94,Berliner SC II,Alessandro Tamburo,33,ST,3,0,0,0,0
+95,Berliner SC II,Yigit Öncü,8,NA,2,0,0,0,0
+96,Berliner SC II,Simon Riedel,0,RV,1,0,0,0,0
+97,Berliner SC II,Carlos Huambo,17,NA,2,0,0,0,0
+98,Berliner SC II,Daniel Brüggemann,31,NA,1,0,0,0,0
+99,Berliner SC II,Alexander Lorenz,31,ST,1,0,0,0,0
+100,Berliner SC II,Nino Zamorano,28,NA,1,0,0,0,0
+101,Berliner SC II,Linus Dersch,7,ST,1,0,0,0,0
+102,Berliner SC II,Jakob Heilmann,2,LV,3,0,0,0,0
+103,Berliner SC II,Dominique Leitner,5,IV,3,0,0,0,0
+104,Berliner SC II,Marcel Potempa,0,NA,1,0,0,0,0
+105,FC Internationale Berlin,Akiyasu Tsuchiya,NA,ZM,3,0,0,0,0
+106,FC Internationale Berlin,Jascha Robin Wörteler,NA,IV,3,0,0,0,0
+107,FC Internationale Berlin,Bryson Rodney Pink,NA,LM,2,0,0,0,0
+108,FC Internationale Berlin,Giovanni Marigo,NA,LM,3,0,0,0,0
+109,FC Internationale Berlin,Tiago de Sousa Oliveira,NA,NA,1,0,0,0,0
+110,FC Internationale Berlin,Matteo Topal,NA,NA,1,0,0,0,0
+111,FC Internationale Berlin,Franzisko Bätz,NA,ZM,2,0,0,0,0
+112,FC Internationale Berlin,Nicolas Costa Echeverria,NA,IV,2,0,0,0,0
+113,FC Internationale Berlin,Dominic Kranz,NA,NA,1,0,0,0,0
+114,FC Internationale Berlin,Jamie Dell Bullock,NA,NA,2,0,0,0,0
+115,FC Internationale Berlin,Alexander Schulze,NA,TW,3,0,0,0,0
+116,FC Internationale Berlin,Joshua Senne,NA,NA,1,0,0,0,0
+117,FC Internationale Berlin,Antonio Boeddinghaus,NA,IV,2,0,0,0,0
+118,FC Internationale Berlin,Niklas Schindler,NA,IV,2,0,0,0,0
+119,FC Internationale Berlin,Enrique Freitag,NA,ZM,2,0,0,0,0
+120,FC Internationale Berlin,Albert Bauder,NA,NA,2,0,0,0,0
+121,FC Internationale Berlin,Milan Daus,NA,NA,1,0,0,0,0
+122,SF Johannisthal,Toni Ölke,1,TW,3,0,0,0,0
+123,SF Johannisthal,Jakob Dörre,4,LV,2,0,0,0,0
+124,SF Johannisthal,Marvin Pawel,16,ZM,2,0,0,0,0
+125,SF Johannisthal,Tom Franke,NA,ST,2,0,0,0,0
+126,SF Johannisthal,Leander Wachholz,NA,NA,1,0,0,0,0
+127,SF Johannisthal,Yannik Pilz,3,IV,2,0,0,0,0
+128,SF Johannisthal,Benjamin Mujic,NA,NA,1,0,0,0,0
+129,SF Johannisthal,Colin Gonda,6,ZDM,2,0,0,0,0
+130,SF Johannisthal,Mathis Aust,NA,NA,1,0,0,0,0
+131,SF Johannisthal,Tom Förster,NA,NA,1,0,0,0,0
+132,SF Johannisthal,Robin Singh,NA,NA,1,0,0,0,0
+133,SF Johannisthal,Lars Walden,2,IV,3,0,0,0,0
+134,SF Johannisthal,Hendrik Bode,NA,NA,1,0,0,0,0
+135,SF Johannisthal,Marvin Herter,5,LV,1,0,0,0,0
+136,Berlin Hilalspor,Samet Balci,NA,NA,1,0,0,0,0
+137,Berlin Hilalspor,Ilker Hasret Demir,NA,ZDM,1,0,0,0,0
+138,Berlin Hilalspor,Sadri Can Ekmekci,NA,NA,3,0,0,0,0
+139,Berlin Hilalspor,Ömer Tanis,NA,IV,2,0,0,0,0
+140,Berlin Hilalspor,Donte Williams,NA,NA,2,0,0,0,0
+141,Berlin Hilalspor,Mortaza Rahimi,NA,LV,2,0,0,0,0
+142,Berlin Hilalspor,Dogus Güngör,NA,RV,1,0,0,0,0
+143,Berlin Hilalspor,Ensar Gün,NA,NA,1,0,0,0,0
+144,Berlin Hilalspor,Armin Asotic,NA,RM,3,0,0,0,0
+145,Berlin Hilalspor,Kassem El-Ahmad,NA,NA,1,0,0,0,0
+146,Berlin Hilalspor,Willy Akanakimana,NA,ZM,1,0,0,0,0
+147,Berlin Hilalspor,Mohammed Fadel,NA,TW,1,0,0,0,0
+148,Berlin Hilalspor,Sercan Fallmann,NA,LV,1,0,0,0,0
+149,Berlin Hilalspor,Ramdane Wahabou,NA,LM,3,0,0,0,0
+150,Berlin Hilalspor,Mohamed Marouwane,NA,IV,2,0,0,0,0
+151,Berlin Hilalspor,Taha Aslan,NA,ZM,2,0,0,0,0
+152,Berlin Hilalspor,Onur Eren,NA,NA,2,0,0,0,0
+153,Berlin Hilalspor,Davut Kösker,NA,TW,2,0,0,0,0
+154,Berlin Hilalspor,Görkem Yilmaz,NA,ST,3,0,0,0,0
+155,Berlin Hilalspor,Bilgehan Hancer,NA,ST,3,0,0,0,0
+156,BSV Hürtürkel,Younes Missaoui,NA,NA,1,0,0,0,0
+157,BSV Hürtürkel,Jacob Ahrendt,NA,NA,1,0,0,0,0
+158,BSV Hürtürkel,Hamza El Kassem,NA,LV,1,0,0,0,0
+159,BSV Hürtürkel,Muzaffer Kirimoglu,NA,NA,1,0,0,0,0
+160,BSV Hürtürkel,David Langer,NA,TW,2,0,0,0,0
+161,BSV Hürtürkel,Dursun Tunahan Akdag,NA,ZDM,2,0,0,0,0
+162,BSV Hürtürkel,Görkem-Alp Zeren,NA,IV,2,0,0,0,0
+163,BSV Hürtürkel,Emre Kücükodabasi,NA,RV,2,0,0,0,0
+164,BSV Hürtürkel,Muhammed Yildirgan,NA,NA,1,0,0,0,0
+165,BSV Hürtürkel,Ali Tanis,NA,IV,3,0,0,0,0
+166,BSV Hürtürkel,Ilker Samed Yigit,NA,NA,3,0,0,0,0
+167,BSV Hürtürkel,Harun Efe Kurnaz,NA,ZDM,3,0,0,0,0
+168,BSV Hürtürkel,Furkan Arslan,NA,NA,1,0,0,0,0
+169,BSV Hürtürkel,Kadir Inal,NA,NA,1,0,0,0,0
+170,BSV Hürtürkel,Hakan Önal,NA,NA,1,0,0,0,0
+171,BSV Hürtürkel,Serdar Günes,NA,RV,1,0,0,0,0
+172,BSV Hürtürkel,Serkan Türkoglu,NA,IV,2,0,0,0,0
+173,BSV Hürtürkel,Ismail Ülke,NA,NA,1,0,0,0,0
+174,BSV Hürtürkel,Abdullah Usame Karadeniz,NA,TW,1,0,0,0,0
+175,BSV Hürtürkel,Ibrahim Inal,NA,NA,2,0,0,0,0
+176,1.FC Schöneberg,Atakan Gündogdu,NA,LV,1,0,0,0,0
+177,1.FC Schöneberg,Radovan-Damjan Stojanovic,NA,IV,3,0,0,0,0
+178,1.FC Schöneberg,Zafer Kaan Göksar,NA,NA,1,0,0,0,0
+179,1.FC Schöneberg,Dolunay Sabahat,NA,NA,2,0,0,0,0
+180,1.FC Schöneberg,Dogukan Degirmenci,NA,LV,3,0,0,0,0
+181,1.FC Schöneberg,Tornike Kvaratskhelia,NA,TW,1,0,0,0,0
+182,1.FC Schöneberg,Kani Özdil,NA,IV,3,0,0,0,0
+183,1.FC Schöneberg,Tahsin Özkara,NA,NA,2,0,0,0,0
+184,1.FC Schöneberg,Youssef Fakhro,NA,IV,1,0,0,0,0
+185,1.FC Schöneberg,Sean Franz,NA,ZDM,3,0,0,0,0
+186,1.FC Schöneberg,Izzet Ciftci,NA,NA,3,0,0,0,0
+187,1.FC Schöneberg,Janik Meyer,NA,TW,1,0,0,0,0
+188,BSV 1892,Niklas Jost,NA,IV,3,0,0,0,0
+189,BSV 1892,Arthur Stephan,NA,NA,2,0,0,0,0
+190,BSV 1892,Dominik Hinze,NA,ZOM,2,0,0,0,0
+191,BSV 1892,Hendrik Lüttschwager,NA,TW,3,0,0,0,0
+192,BSV 1892,Benjamin Schnack,NA,IV,2,0,0,0,0
+193,BSV 1892,Nikita Charkov,NA,RV,1,0,0,0,0
+194,BSV 1892,Nicht öffentlich,NA,NA,1,0,0,0,0
+195,BSV 1892,Joscha Yanar,NA,LM,1,0,0,0,0
+196,BSV 1892,Tim Paschke,NA,LM,3,0,0,0,0
+197,BSV 1892,Stefano Tedesco,NA,IV,2,0,0,0,0
+198,SC Berliner Amateure,Julian Fleige,NA,NA,2,0,0,0,0
+199,SC Berliner Amateure,Nerzihoua Moussa Kone,NA,NA,2,0,0,0,0
+200,SC Berliner Amateure,Niklas Wittjen,NA,NA,1,0,0,0,0
+201,SC Berliner Amateure,Finn Kurt Bielenberg,NA,NA,1,0,0,0,0
+202,SC Berliner Amateure,Nikolai Kemlein,NA,NA,2,0,0,0,0
+203,SC Berliner Amateure,Felix Mehring,NA,NA,1,0,0,0,0
+204,SC Berliner Amateure,Fynn Niklas Paetschke,NA,NA,1,0,0,0,0
+205,SC Berliner Amateure,Paul Linus van Bürck,NA,NA,1,0,0,0,0
+206,SC Berliner Amateure,Tom Kozak,NA,NA,1,0,0,0,0
+207,SC Berliner Amateure,Yannik Rosenberg,NA,NA,1,0,0,0,0
+208,SC Berliner Amateure,Lorenz Dändliker,NA,NA,1,0,0,0,0
+209,SC Berliner Amateure,Jaromil Essers,NA,NA,3,0,0,0,0
+210,SC Berliner Amateure,Lars Tasche,NA,NA,3,0,0,0,0
+211,SC Berliner Amateure,Lars Werner,NA,ZOM,3,0,0,0,0
+212,SC Berliner Amateure,Soulemane Imorou,NA,NA,3,0,0,0,0
+213,SC Berliner Amateure,Caspar Ropers,NA,NA,1,0,0,0,0
+214,SC Berliner Amateure,Abdallah Soliman,NA,NA,2,0,0,0,0
+215,SC Berliner Amateure,Emil Orywal,NA,NA,1,0,0,0,0
+216,SC Berliner Amateure,Guillermo Sancho Incirci,NA,NA,1,0,0,0,0
+217,SC Berliner Amateure,Ismaila Njie,NA,NA,1,0,0,0,0
+218,SC Berliner Amateure,Lucian Ewald,NA,NA,3,0,0,0,0
+219,SC Berliner Amateure,Malte Räuchle,NA,NA,2,0,0,0,0
+220,SC Berliner Amateure,Moritz Willkomm,NA,NA,2,0,0,0,0
+221,SC Berliner Amateure,Carlos Frei,NA,NA,1,0,0,0,0
+222,Friedenauer TSC,Kevin Woithe,NA,LV,3,0,0,0,0
+223,Friedenauer TSC,Maximilian Reinhard Schubart,NA,ST,2,0,0,0,0
+224,Friedenauer TSC,Lionel Vowinckel,NA,NA,1,0,0,0,0
+225,Friedenauer TSC,Theo Prümke,NA,ZDM,3,0,0,0,0
+226,Friedenauer TSC,Niklas Rother,NA,TW,2,0,0,0,0
+227,Friedenauer TSC,Joshua Ridzewski,NA,NA,2,0,0,0,0
+228,Friedenauer TSC,Finley Fuchs,NA,IV,2,0,0,0,0
+229,Friedenauer TSC,Eray Krüger,NA,NA,2,0,0,0,0
+230,Friedenauer TSC,Dominik Vukoja,NA,NA,2,0,0,0,0
+231,Friedenauer TSC,Teoman Saatci,NA,NA,1,0,0,0,0
+232,Friedenauer TSC,Paul Kleinfeldt,NA,RV,3,0,0,0,0
+233,Friedenauer TSC,Iven Stritzke,NA,RM,3,0,0,0,0
+234,Friedenauer TSC,Joshua Fuchs,NA,IV,1,0,0,0,0
+235,Friedenauer TSC,Marten Niemeyer,NA,ZOM,3,0,0,0,0
+236,Friedenauer TSC,Louis Anthony Guske,NA,NA,2,0,0,0,0
+237,Friedenauer TSC,Patrick Magiera,NA,ZOM,1,0,0,0,0
+238,Friedenauer TSC,Kenney Kojo Sey,NA,IV,3,0,0,0,0
+239,Pfeffersport,Julian Marcell,NA,ZM,2,0,0,0,0
+240,Pfeffersport,Friedrich Würzner,NA,ST,2,0,0,0,0
+241,Pfeffersport,Carl Zimmering,NA,RV,2,0,0,0,0
+242,Pfeffersport,Mohamed Boudlal,NA,LM,3,0,0,0,0
+243,Pfeffersport,Noah Roitzsch,NA,LV,2,0,0,0,0
+244,Pfeffersport,Marius Schreiber,NA,NA,3,0,0,0,0
+245,Pfeffersport,Manuel Goudjo Aguigah,NA,LM,2,0,0,0,0
+246,Pfeffersport,Emmanuel Sokowonci Daniel,NA,NA,1,0,0,0,0
+247,Pfeffersport,Jannik Kuß,NA,NA,2,0,0,0,0
+248,Pfeffersport,Bonke Andresen,NA,NA,1,0,0,0,0
+249,Pfeffersport,Benedict Klenk,NA,ZM,3,0,0,0,0
+250,Pfeffersport,Oskar Schmiedel,NA,IV,2,0,0,0,0
+251,Pfeffersport,Philipp Pilz,NA,IV,3,0,0,0,0
+252,Pfeffersport,Heinrich Sander,NA,IV,3,0,0,0,0
+253,Pfeffersport,Jannik Kremer,NA,RM,1,0,0,0,0
+254,Pfeffersport,Luca Tschiche,NA,TW,1,0,0,0,0
+255,Pfeffersport,Elias Aguigah,NA,LM,1,0,0,0,0
+256,Pfeffersport,Zorc Kolfenbach,NA,TW,1,0,0,0,0
+257,Berolina Mitte,Moritz Müller,9,LM,3,0,0,0,0
+258,Berolina Mitte,Floris Lucas Georgi,3,IV,3,0,0,0,0
+259,Berolina Mitte,Fabio Benabid,NA,IV,2,0,0,0,0
+260,Berolina Mitte,Yann Metzmacher,4,ZDM,3,0,0,0,0
+261,Berolina Mitte,Rio Wermer,NA,ZOM,2,0,0,0,0
+262,Berolina Mitte,Jonas Tilmann,NA,ST,1,0,0,0,0
+263,Berolina Mitte,Minh Dang Ngo,22,NA,1,0,0,0,0
+264,Berolina Mitte,Stephan Arbelaez Rodriguez,NA,NA,1,0,0,0,0
+265,Berolina Mitte,Ilya Hadari,NA,LV,1,0,0,0,0
+266,Berolina Mitte,Daiwy Chioccarelli,NA,LM,2,0,0,0,0
+267,Berolina Mitte,Steven Buchweitz,19,ST,3,0,0,0,0
+268,Berolina Mitte,Tim Wolf-Triebel,20,TW,3,0,0,0,0
+269,Berolina Mitte,Andreas Gefnider,NA,LV,3,0,0,0,0
+270,Berolina Mitte,Henning Stötefalke,6,NA,3,0,0,0,0
+271,Berolina Mitte,Julius Meier,NA,TW,2,0,0,0,0
+272,Berolina Mitte,Marc Oliver Schlarmann,5,RV,3,0,0,0,0
+273,SV Empor Berlin II,Philipp Macketanz,15,LV,2,0,0,0,0
+274,SV Empor Berlin II,Pascal Bräkow,2,RV,3,0,0,0,0
+275,SV Empor Berlin II,Malte Bohn,NA,NA,1,0,0,0,0
+276,SV Empor Berlin II,Justin Schmiedel,6,IV,2,0,0,0,0
+277,SV Empor Berlin II,Niclas Nixdorf,3,RM,1,0,0,0,0
+278,SV Empor Berlin II,Jannick Wollmann,5,IV,2,0,0,0,0
+279,SV Empor Berlin II,Dominik Nogradi,NA,NA,1,0,0,0,0
+280,SV Empor Berlin II,Aaron Yusuff,NA,TW,1,0,0,0,0
+281,SV Empor Berlin II,Leon Drannaschk,NA,NA,1,0,0,0,0
+282,SV Empor Berlin II,Janne Henrik Bloch,33,TW,1,0,0,0,0
+283,SV Empor Berlin II,Erik Hegenbarth,NA,NA,1,0,0,0,0
+284,SV Empor Berlin II,Julian Duczmal,17,ZDM,3,0,0,0,0
+285,SV Empor Berlin II,Rafael Mentrup,19,LM,3,0,0,0,0
+286,SV Empor Berlin II,Mavin Wandel,13,NA,2,0,0,0,0
+287,SV Empor Berlin II,Laurens Cerny,NA,RM,2,0,0,0,0
+288,SV Empor Berlin II,Halil Tüzen,NA,NA,1,0,0,0,0
+289,SV Empor Berlin II,Tedo Kublashvili,NA,IV,1,0,0,0,0
+290,SV Empor Berlin II,Anushan Rajaratnam,NA,ZOM,2,0,0,0,0
+291,SV Empor Berlin II,Reyaj Shrestha,8,LV,3,0,0,0,0
+292,SV Empor Berlin II,Aiham Saleem,NA,ST,1,0,0,0,0
+293,SV Empor Berlin II,Leopold Milan Greiner,NA,NA,1,0,0,0,0
+294,SV Empor Berlin II,Marian Popp,4,IV,2,0,0,0,0
+295,SV Empor Berlin II,Maurice Meyer,NA,TW,1,0,0,0,0
+296,SC Borsigwalde,David Mpembele Nzongo,NA,NA,3,0,0,0,0
+297,SC Borsigwalde,Khaled El-Okkla,NA,IV,3,0,0,0,0
+298,SC Borsigwalde,David Chukwu,NA,NA,1,0,0,0,0
+299,SC Borsigwalde,David Viedt,NA,NA,2,0,0,0,0
+300,SC Borsigwalde,Mostafa Kassem,NA,LV,3,0,0,0,0
+301,SC Borsigwalde,Jose Roberto Rodrigues,NA,NA,1,0,0,0,0
+302,SC Borsigwalde,Prince Selemani Angali,NA,IV,3,0,0,0,0
+303,SC Borsigwalde,Nick Thalke,NA,RM,3,0,0,0,0
+304,SC Borsigwalde,Adam Barnat,NA,ST,2,0,0,0,0
+305,SC Borsigwalde,Sadjad Rassuli,NA,ZDM,3,0,0,0,0
+306,SC Borsigwalde,Mohammad Kassem,NA,LV,1,0,0,0,0
+307,SC Borsigwalde,Dariusz Duhnke,NA,NA,1,0,0,0,0
+308,SC Borsigwalde,Christian Mousa,NA,NA,1,0,0,0,0
+309,SC Borsigwalde,Ammar Memidzan,NA,ZOM,1,0,0,0,0
+310,SC Borsigwalde,Nikola Siljanoski,NA,TW,1,0,0,0,0
+311,SC Borsigwalde,Ömer Coskunaydin,NA,NA,1,0,0,0,0
+312,SC Borsigwalde,Kevin Kummer,NA,ZDM,3,0,0,0,0
+313,SC Borsigwalde,Mohammed Mustafa Acar,NA,IV,3,0,0,0,0
+314,BFC Preussen II,Tim Fisch,NA,TW,1,0,0,0,0
+315,BFC Preussen II,Kiminu Mayoungou,16,IV,2,0,0,0,0
+316,BFC Preussen II,Jerome Kortebusch,NA,RV,2,0,0,0,0
+317,BFC Preussen II,Ahmad El-Mustapha,NA,RM,1,0,0,0,0
+318,BFC Preussen II,Serhan Arslani,27,NA,2,0,0,0,0
+319,BFC Preussen II,Tim Henseler,NA,ZDM,1,0,0,0,0
+320,BFC Preussen II,Adam Lamkaddam,NA,TW,2,0,0,0,0
+321,BFC Preussen II,Atacan Özcan,22,RM,3,0,0,0,0
+322,BFC Preussen II,Reda Ouakil,NA,NA,1,0,0,0,0
+323,BFC Preussen II,Abdallah Ferchichi,19,LV,3,0,0,0,0
+324,BFC Preussen II,Can Kelesoglu,33,RM,2,0,0,0,0
+325,BFC Preussen II,Sebastian Rühland,NA,NA,1,0,0,0,0
+326,BFC Preussen II,Julian Loder,NA,NA,1,0,0,0,0
+327,BFC Preussen II,Magnus Stahlberg,8,LM,3,0,0,0,0
+328,BFC Preussen II,Ugurcan Yilmaz,NA,ST,1,0,0,0,0
+329,BFC Preussen II,Yasin Demir,30,ZDM,2,0,0,0,0
+330,BFC Preussen II,Marcel Berner,15,NA,1,0,0,0,0
+331,BFC Preussen II,Julian von Gliszczynski,NA,NA,1,0,0,0,0
+332,BFC Preussen II,Dan Feldmann,5,ST,2,0,0,0,0
+333,DJK Schwarz-Weiß Neukölln,Lukas Elszel,NA,LV,2,0,0,0,0
+334,DJK Schwarz-Weiß Neukölln,Alisan Erdogan,NA,ZOM,3,0,0,0,0
+335,DJK Schwarz-Weiß Neukölln,Barkan Köprülügil,NA,LV,3,0,0,0,0
+336,DJK Schwarz-Weiß Neukölln,Noah Faubourg,NA,NA,1,0,0,0,0
+337,DJK Schwarz-Weiß Neukölln,Julian Kirsch,NA,ZDM,2,0,0,0,0
+338,DJK Schwarz-Weiß Neukölln,Shaker Shawrdi,NA,RM,2,0,0,0,0
+339,DJK Schwarz-Weiß Neukölln,Bekar Hoeri,NA,NA,2,0,0,0,0
+340,DJK Schwarz-Weiß Neukölln,Kamil Czuba,NA,NA,2,0,0,0,0
+341,DJK Schwarz-Weiß Neukölln,Guillermo Ernesto Padilla Cross,NA,NA,2,0,0,0,0
+342,DJK Schwarz-Weiß Neukölln,Maurice Duhme,NA,NA,1,0,0,0,0
+343,DJK Schwarz-Weiß Neukölln,Patrick Boel,NA,TW,3,0,0,0,0
+344,DJK Schwarz-Weiß Neukölln,Justin Jakob,NA,RV,3,0,0,0,0
+345,DJK Schwarz-Weiß Neukölln,Luthando Saul,NA,IV,1,0,0,0,0
+346,DJK Schwarz-Weiß Neukölln,Josip Ramljak,NA,IV,2,0,0,0,0
+347,DJK Schwarz-Weiß Neukölln,Nico Lindner,NA,IV,2,0,0,0,0
+348,DJK Schwarz-Weiß Neukölln,Ali Mert Koca,NA,ZDM,1,0,0,0,0
+349,DJK Schwarz-Weiß Neukölln,Mike Rupprecht,NA,ZOM,1,0,0,0,0
+350,SF Charlottenburg-Wilmersdorf 03,Robin Gorr,NA,NA,1,0,0,0,0
+351,SF Charlottenburg-Wilmersdorf 03,Erik Kosky,NA,RV,3,0,0,0,0
+352,SF Charlottenburg-Wilmersdorf 03,Nicholas Jean-Louis,NA,LV,2,0,0,0,0
+353,SF Charlottenburg-Wilmersdorf 03,Levi Köhler,NA,IV,1,0,0,0,0
+354,SF Charlottenburg-Wilmersdorf 03,Mohammad Sabra,NA,NA,3,0,0,0,0
+355,SF Charlottenburg-Wilmersdorf 03,Koffi Ange Mickael Hermann Yao,NA,IV,3,0,0,0,0
+356,SF Charlottenburg-Wilmersdorf 03,Lasslo Jacobs,NA,IV,1,0,0,0,0
+357,SF Charlottenburg-Wilmersdorf 03,Philipp Aufschlag,NA,ZM,2,0,0,0,0
+358,SF Charlottenburg-Wilmersdorf 03,Bakary Diakite,NA,ST,3,0,0,0,0
+359,SF Charlottenburg-Wilmersdorf 03,Hussein Sabah,NA,IV,1,0,0,0,0
+360,SF Charlottenburg-Wilmersdorf 03,Niklas Höhne,NA,TW,2,0,0,0,0
+361,SF Charlottenburg-Wilmersdorf 03,Lasse Kollof,NA,NA,1,0,0,0,0
+362,SF Charlottenburg-Wilmersdorf 03,Oskar Dornheim,NA,ZM,3,0,0,0,0
+363,SF Charlottenburg-Wilmersdorf 03,Nuno Tyrese Nuamah Dos Santos,NA,NA,2,0,0,0,0
+364,SF Charlottenburg-Wilmersdorf 03,Dhia Mayel,NA,NA,1,0,0,0,0
+365,SF Charlottenburg-Wilmersdorf 03,Othmann Jamali Idrissi,NA,NA,1,0,0,0,0
+366,SF Charlottenburg-Wilmersdorf 03,Salmane Adib,NA,NA,1,0,0,0,0
+367,SF Charlottenburg-Wilmersdorf 03,Nazir Boukari Yabara,NA,NA,1,0,0,0,0
+368,SF Charlottenburg-Wilmersdorf 03,Janek Wendt,NA,IV,2,0,0,0,0
+369,SF Charlottenburg-Wilmersdorf 03,Raphael Liwschiz,NA,NA,1,0,0,0,0
+370,SF Charlottenburg-Wilmersdorf 03,Lucas Dziadek,NA,IV,2,0,0,0,0

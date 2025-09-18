@@ -1,17 +1,17 @@
 team,Spiele,E5,E4,E3,E2,E1,Tore,Dif,Pkt,#
-SF Johannisthal,2,NA,NA,NA,S,S,12:2,10,3,1
-FC Internationale Berlin,2,NA,NA,NA,S,S,9:2,7,3,2
-1.FC Schöneberg,2,NA,NA,NA,S,S,9:3,6,3,3
-Friedenauer TSC,2,NA,NA,NA,S,S,5:1,4,3,4
-BSV 1892,2,NA,NA,NA,N,S,6:4,2,1.5,5
-BSV Hürtürkel,2,NA,NA,NA,N,S,6:5,1,1.5,6
-DJK Schwarz-Weiß Neukölln,2,NA,NA,NA,S,N,4:4,0,1.5,7
-Pfeffersport,2,NA,NA,NA,S,N,4:4,0,1.5,8
-SC Borsigwalde,2,NA,NA,NA,S,N,3:3,0,1.5,9
-SV Empor Berlin II,2,NA,NA,NA,N,S,6:7,-1,1.5,10
-Berlin Hilalspor,2,NA,NA,NA,N,S,6:8,-2,1.5,11
-Berliner SC II,2,NA,NA,NA,S,N,4:9,-5,1.5,12
-BFC Preussen II,2,NA,NA,NA,N,N,2:7,-5,0,13
-SC Berliner Amateure,2,NA,NA,NA,N,N,2:7,-5,0,14
-SF Charlottenburg-Wilmersdorf 03,2,NA,NA,NA,N,N,1:6,-5,0,15
-Berolina Mitte,2,NA,NA,NA,N,N,1:8,-7,0,16
+SF Johannisthal,3,NA,NA,S,S,S,16:2,14,3,1
+FC Internationale Berlin,3,NA,NA,S,S,S,15:3,12,3,2
+BSV 1892,3,NA,NA,N,S,S,11:5,6,2,3
+1.FC Schöneberg,3,NA,NA,S,S,N,11:8,3,2,4
+SC Borsigwalde,3,NA,NA,S,N,S,5:3,2,2,5
+Friedenauer TSC,3,NA,NA,S,S,N,6:7,-1,2,6
+Berliner SC II,3,NA,NA,S,N,S,6:9,-3,2,7
+BFC Preussen II,3,NA,NA,N,N,S,5:7,-2,1,8
+BSV Hürtürkel,3,NA,NA,N,S,N,7:10,-3,1,9
+DJK Schwarz-Weiß Neukölln,3,NA,NA,S,N,N,4:7,-3,1,10
+SV Empor Berlin II,3,NA,NA,N,S,N,6:9,-3,1,11
+Berlin Hilalspor,3,NA,NA,N,S,N,6:10,-4,1,12
+Berolina Mitte,3,NA,NA,N,N,S,6:10,-4,1,13
+Pfeffersport,3,NA,NA,S,N,N,4:8,-4,1,14
+SC Berliner Amateure,3,NA,NA,N,N,U,3:8,-5,0.333,15
+SF Charlottenburg-Wilmersdorf 03,3,NA,NA,N,N,U,2:7,-5,0.333,16

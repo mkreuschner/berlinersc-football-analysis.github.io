@@ -269,15 +269,15 @@ Spieltag,Heim,Auswärts,H_tore,A_tore
 5,Berliner SC,Frohnauer SC,NA,NA
 5,Polar Pinguin Berlin,Berlin Türkspor,NA,NA
 5,TSV Mariendorf 1897,VfB Fortuna Biesdorf,NA,NA
-4,SSC Südwest 1947,TSV Rudow Berlin,NA,NA
-4,Berlin Türkspor,FSV Spandauer Kickers,NA,NA
-4,VSG Altglienicke II,SC Charlottenburg,NA,NA
-4,VfB Fortuna Biesdorf,Füchse Berlin,NA,NA
-4,Sp.Vg. Blau Weiß 1890 Berlin,TSV Mariendorf 1897,NA,NA
-4,SV BW Hohen Neuendorf,SFC Stern 1900,NA,NA
-4,Frohnauer SC,SV Empor Berlin,NA,NA
-4,Berliner SC,1. FC Wilmersdorf,NA,NA
-4,SC Staaken,Polar Pinguin Berlin,NA,NA
+4,SSC Südwest 1947,TSV Rudow Berlin,1,2
+4,Berlin Türkspor,FSV Spandauer Kickers,0,2
+4,VSG Altglienicke II,SC Charlottenburg,3,1
+4,VfB Fortuna Biesdorf,Füchse Berlin,0,4
+4,Sp.Vg. Blau Weiß 1890 Berlin,TSV Mariendorf 1897,3,3
+4,SV BW Hohen Neuendorf,SFC Stern 1900,2,2
+4,Frohnauer SC,SV Empor Berlin,7,1
+4,Berliner SC,1. FC Wilmersdorf,0,1
+4,SC Staaken,Polar Pinguin Berlin,2,4
 3,SSC Südwest 1947,VSG Altglienicke II,1,0
 3,1. FC Wilmersdorf,SC Staaken,0,0
 3,TSV Rudow Berlin,VfB Fortuna Biesdorf,1,2
@@ -293,7 +293,7 @@ Spieltag,Heim,Auswärts,H_tore,A_tore
 2,FSV Spandauer Kickers,Berliner SC,2,1
 2,TSV Rudow Berlin,Frohnauer SC,2,2
 2,Berlin Türkspor,VfB Fortuna Biesdorf,4,1
-2,SC Staaken,VSG Altglienicke II,NA,NA
+2,SC Staaken,VSG Altglienicke II,2,2
 2,SC Charlottenburg,Füchse Berlin,1,2
 2,SFC Stern 1900,TSV Mariendorf 1897,3,2
 1,Sp.Vg. Blau Weiß 1890 Berlin,Polar Pinguin Berlin,3,0
