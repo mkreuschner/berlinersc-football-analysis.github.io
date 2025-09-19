@@ -1,42 +1,42 @@
 Rank,Team,Name,Nr,Pos,Spiele,Scorerpoints,Tore,Assists,Ratio
-1,SF Johannisthal,Lukas Ferl,10,ST,3,6,5,1,37.5
-2,1.FC Schöneberg,Salih Uzun,NA,NA,3,5,3,2,45.5
-3,FC Internationale Berlin,Gaston Ignacio Nieto,NA,ST,3,5,5,0,33.3
-4,SF Johannisthal,Yoshua Lüdtke,9,LM,3,5,4,1,31.2
-5,1.FC Schöneberg,Enes Uzun,NA,NA,3,4,4,0,36.4
-6,FC Internationale Berlin,Santiago Henrich Paya,NA,RM,3,4,4,0,26.7
+1,SF Johannisthal,Lukas Ferl,10,ST,3,6,5,1,38
+2,1.FC Schöneberg,Salih Uzun,NA,NA,3,5,3,2,46
+3,FC Internationale Berlin,Gaston Ignacio Nieto,NA,ST,3,5,5,0,33
+4,SF Johannisthal,Yoshua Lüdtke,9,LM,3,5,4,1,31
+5,1.FC Schöneberg,Enes Uzun,NA,NA,3,4,4,0,36
+6,FC Internationale Berlin,Santiago Henrich Paya,NA,RM,3,4,4,0,27
 7,SF Johannisthal,Nikolas Müller,17,LM,3,4,2,2,25
 8,SF Johannisthal,Lukas Olff,11,RV,2,4,1,3,25
 9,Berlin Hilalspor,Mohamad-Ali Chawraba,NA,LM,2,3,3,0,50
-10,BSV Hürtürkel,Leopold Antonius Bussmann,NA,RM,3,3,2,1,42.9
-11,BSV 1892,El-Amin Elsaadawi,NA,NA,3,3,1,2,27.3
-12,SF Johannisthal,Patrick Kroll,13,NA,1,3,1,2,18.8
-13,SC Berliner Amateure,Asbjørn Kistrup Barfod,NA,NA,2,2,1,1,66.7
+10,BSV Hürtürkel,Leopold Antonius Bussmann,NA,RM,3,3,2,1,43
+11,BSV 1892,El-Amin Elsaadawi,NA,NA,3,3,1,2,27
+12,SF Johannisthal,Patrick Kroll,13,NA,1,3,1,2,19
+13,SC Berliner Amateure,Asbjørn Kistrup Barfod,NA,NA,2,2,1,1,67
 14,Pfeffersport,William Scarlett,NA,NA,3,2,2,0,50
 15,DJK Schwarz-Weiß Neukölln,Glian Hoeri,NA,NA,3,2,1,1,50
 16,DJK Schwarz-Weiß Neukölln,Tobias Schmidt,NA,RM,2,2,0,2,50
 17,BFC Preussen II,Georgios Mikelatze,29,ST,2,2,2,0,40
-18,Berliner SC II,Kevin Uwe Einspannier,6,ZM,3,2,2,0,33.3
-19,Berliner SC II,Tim Niedenhoff,19,IV,3,2,1,1,33.3
-20,Friedenauer TSC,Tim Gandert,NA,NA,2,2,2,0,33.3
-21,Friedenauer TSC,Ihab Al-Khalaf,NA,NA,1,2,2,0,33.3
-22,Berolina Mitte,Felix Opoku,14,ST,3,2,2,0,33.3
-23,SV Empor Berlin II,Nico Bochnia,9,ST,2,2,2,0,33.3
-24,SV Empor Berlin II,Luis Ploschenz,NA,NA,1,2,2,0,33.3
-25,BSV Hürtürkel,Onur Yüksek,NA,NA,3,2,2,0,28.6
-26,BSV Hürtürkel,Umut Yüksek,NA,NA,3,2,2,0,28.6
-27,1.FC Schöneberg,Emin Musa Cetintas,NA,RM,3,2,0,2,18.2
-28,1.FC Schöneberg,Yildiray Demir,NA,ZDM,3,2,1,1,18.2
-29,1.FC Schöneberg,Burak Cabuk,NA,RM,3,2,2,0,18.2
-30,BSV 1892,Paul Busche,NA,ST,2,2,2,0,18.2
-31,BSV 1892,Julius Zauner,NA,RM,3,2,2,0,18.2
-32,FC Internationale Berlin,Nicholas Cartwright Stanley,NA,ST,3,2,2,0,13.3
-33,FC Internationale Berlin,Maxwell Stanley,NA,ST,2,2,2,0,13.3
+18,Berliner SC II,Kevin Uwe Einspannier,6,ZM,3,2,2,0,33
+19,Berliner SC II,Tim Niedenhoff,19,IV,3,2,1,1,33
+20,Friedenauer TSC,Tim Gandert,NA,NA,2,2,2,0,33
+21,Friedenauer TSC,Ihab Al-Khalaf,NA,NA,1,2,2,0,33
+22,Berolina Mitte,Felix Opoku,14,ST,3,2,2,0,33
+23,SV Empor Berlin II,Nico Bochnia,9,ST,2,2,2,0,33
+24,SV Empor Berlin II,Luis Ploschenz,NA,NA,1,2,2,0,33
+25,BSV Hürtürkel,Onur Yüksek,NA,NA,3,2,2,0,29
+26,BSV Hürtürkel,Umut Yüksek,NA,NA,3,2,2,0,29
+27,1.FC Schöneberg,Emin Musa Cetintas,NA,RM,3,2,0,2,18
+28,1.FC Schöneberg,Yildiray Demir,NA,ZDM,3,2,1,1,18
+29,1.FC Schöneberg,Burak Cabuk,NA,RM,3,2,2,0,18
+30,BSV 1892,Paul Busche,NA,ST,2,2,2,0,18
+31,BSV 1892,Julius Zauner,NA,RM,3,2,2,0,18
+32,FC Internationale Berlin,Nicholas Cartwright Stanley,NA,ST,3,2,2,0,13
+33,FC Internationale Berlin,Maxwell Stanley,NA,ST,2,2,2,0,13
 34,SF Charlottenburg-Wilmersdorf 03,Maximilian Kocher,NA,LM,3,1,1,0,50
 35,SF Charlottenburg-Wilmersdorf 03,Johannes Gehring,NA,ZM,3,1,1,0,50
-36,SC Berliner Amateure,Joscha Schulte-Holtey,NA,NA,2,1,0,1,33.3
-37,SC Berliner Amateure,Jan Schönball,NA,NA,1,1,1,0,33.3
-38,SC Berliner Amateure,Ben Kozak,NA,NA,1,1,1,0,33.3
+36,SC Berliner Amateure,Joscha Schulte-Holtey,NA,NA,2,1,0,1,33
+37,SC Berliner Amateure,Jan Schönball,NA,NA,1,1,1,0,33
+38,SC Berliner Amateure,Ben Kozak,NA,NA,1,1,1,0,33
 39,Pfeffersport,Jonathan Grunert,NA,ST,2,1,1,0,25
 40,Pfeffersport,Mohammad Barakat,NA,RM,3,1,0,1,25
 41,Pfeffersport,Paul Oskar Schirp,NA,ZM,2,1,1,0,25
@@ -52,38 +52,38 @@ Rank,Team,Name,Nr,Pos,Spiele,Scorerpoints,Tore,Assists,Ratio
 51,BFC Preussen II,Leo Sommerfeld,3,IV,3,1,1,0,20
 52,BFC Preussen II,Rommel Abou-Chaker,13,ZOM,2,1,1,0,20
 53,BFC Preussen II,Hugo Timur,NA,LM,2,1,1,0,20
-54,Berliner SC II,Nikolaos Kaggelidids,15,LV,3,1,1,0,16.7
-55,Berliner SC II,Fabian Niedenhoff,NA,IV,1,1,1,0,16.7
-56,Berliner SC II,Konstantin Joseski,14,RV,3,1,1,0,16.7
-57,Berlin Hilalspor,Okan Ekmekci,NA,NA,3,1,1,0,16.7
-58,Berlin Hilalspor,Volkan Neziroglu,NA,ST,3,1,1,0,16.7
-59,Berlin Hilalspor,Hasan Köse,NA,ZM,2,1,1,0,16.7
-60,Friedenauer TSC,Carl Prümke,NA,ZDM,2,1,1,0,16.7
-61,Friedenauer TSC,Tarkan Taskiran,NA,NA,2,1,0,1,16.7
-62,Friedenauer TSC,Diego Joaquin Lopez Martinez,NA,NA,1,1,1,0,16.7
-63,Friedenauer TSC,Dominik Plohmann,NA,NA,1,1,0,1,16.7
-64,Berolina Mitte,Leandro Ngomane,NA,RM,2,1,1,0,16.7
-65,Berolina Mitte,Valentin Wiegand,7,ZDM,1,1,1,0,16.7
-66,Berolina Mitte,Jhon Fernando Garces Daza,10,NA,3,1,1,0,16.7
-67,SV Empor Berlin II,Emile Ako,18,ZDM,3,1,1,0,16.7
-68,SV Empor Berlin II,Billy Bradley Tuckerman,12,LM,2,1,1,0,16.7
-69,BSV Hürtürkel,Kubilay Yilmaz,NA,ST,3,1,0,1,14.3
-70,1.FC Schöneberg,Samer Abou Khalil,NA,NA,1,1,0,1,9.1
-71,1.FC Schöneberg,Emre Gedek,NA,NA,3,1,0,1,9.1
-72,1.FC Schöneberg,Morrez Nhacuonga,NA,NA,2,1,1,0,9.1
-73,BSV 1892,Yunus Malik,NA,LV,2,1,1,0,9.1
-74,BSV 1892,Chidera Iwuozor,NA,LV,3,1,1,0,9.1
-75,BSV 1892,Nick Bechler,NA,IV,2,1,1,0,9.1
-76,BSV 1892,Karl Anker,NA,IV,3,1,1,0,9.1
-77,BSV 1892,Lennard Schleifenbaum,NA,ZDM,3,1,1,0,9.1
-78,BSV 1892,David Bellin,NA,ST,3,1,1,0,9.1
-79,FC Internationale Berlin,Nikita Ovcharov,NA,NA,2,1,1,0,6.7
-80,FC Internationale Berlin,Luis Driemel,NA,IV,2,1,1,0,6.7
-81,SF Johannisthal,Max Mittelstädt,31,RM,2,1,0,1,6.2
-82,SF Johannisthal,Max Hoffmann,19,LV,2,1,1,0,6.2
-83,SF Johannisthal,Jonathan Behrend,7,ZDM,2,1,1,0,6.2
-84,SF Johannisthal,Eric Warncke,33,LM,3,1,1,0,6.2
-85,SF Johannisthal,Marvin Hilgendorf,NA,RV,1,1,0,1,6.2
+54,Berliner SC II,Nikolaos Kaggelidids,15,LV,3,1,1,0,17
+55,Berliner SC II,Fabian Niedenhoff,NA,IV,1,1,1,0,17
+56,Berliner SC II,Konstantin Joseski,14,RV,3,1,1,0,17
+57,Berlin Hilalspor,Okan Ekmekci,NA,NA,3,1,1,0,17
+58,Berlin Hilalspor,Volkan Neziroglu,NA,ST,3,1,1,0,17
+59,Berlin Hilalspor,Hasan Köse,NA,ZM,2,1,1,0,17
+60,Friedenauer TSC,Carl Prümke,NA,ZDM,2,1,1,0,17
+61,Friedenauer TSC,Tarkan Taskiran,NA,NA,2,1,0,1,17
+62,Friedenauer TSC,Diego Joaquin Lopez Martinez,NA,NA,1,1,1,0,17
+63,Friedenauer TSC,Dominik Plohmann,NA,NA,1,1,0,1,17
+64,Berolina Mitte,Leandro Ngomane,NA,RM,2,1,1,0,17
+65,Berolina Mitte,Valentin Wiegand,7,ZDM,1,1,1,0,17
+66,Berolina Mitte,Jhon Fernando Garces Daza,10,NA,3,1,1,0,17
+67,SV Empor Berlin II,Emile Ako,18,ZDM,3,1,1,0,17
+68,SV Empor Berlin II,Billy Bradley Tuckerman,12,LM,2,1,1,0,17
+69,BSV Hürtürkel,Kubilay Yilmaz,NA,ST,3,1,0,1,14
+70,1.FC Schöneberg,Samer Abou Khalil,NA,NA,1,1,0,1,9
+71,1.FC Schöneberg,Emre Gedek,NA,NA,3,1,0,1,9
+72,1.FC Schöneberg,Morrez Nhacuonga,NA,NA,2,1,1,0,9
+73,BSV 1892,Yunus Malik,NA,LV,2,1,1,0,9
+74,BSV 1892,Chidera Iwuozor,NA,LV,3,1,1,0,9
+75,BSV 1892,Nick Bechler,NA,IV,2,1,1,0,9
+76,BSV 1892,Karl Anker,NA,IV,3,1,1,0,9
+77,BSV 1892,Lennard Schleifenbaum,NA,ZDM,3,1,1,0,9
+78,BSV 1892,David Bellin,NA,ST,3,1,1,0,9
+79,FC Internationale Berlin,Nikita Ovcharov,NA,NA,2,1,1,0,7
+80,FC Internationale Berlin,Luis Driemel,NA,IV,2,1,1,0,7
+81,SF Johannisthal,Max Mittelstädt,31,RM,2,1,0,1,6
+82,SF Johannisthal,Max Hoffmann,19,LV,2,1,1,0,6
+83,SF Johannisthal,Jonathan Behrend,7,ZDM,2,1,1,0,6
+84,SF Johannisthal,Eric Warncke,33,LM,3,1,1,0,6
+85,SF Johannisthal,Marvin Hilgendorf,NA,RV,1,1,0,1,6
 86,Berliner SC II,Danilo Arsic,11,NA,1,0,0,0,0
 87,Berliner SC II,Leon Ibrom,4,IV,1,0,0,0,0
 88,Berliner SC II,Jakob Baum,20,LM,3,0,0,0,0
