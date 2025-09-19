@@ -223,6 +223,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
     html += '</tbody></table>' + tableBoxEnd();
     container.innerHTML = html;
+    // Nur für Tabellen im Tabellen-Tab einfärben
+    if (container.id === 'table-container-tabellen') {
+      const tableEl = container.querySelector('table');
+      colorizeRanking(tableEl);
+    }
   }
 
   // Custom-Renderer: identisch, aber mit horizontalem Scroll-Container
@@ -262,6 +267,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
     html += '</tbody></table></div>' + tableBoxEnd();
     container.innerHTML = html;
+    // Nur für Tabellen im Tabellen-Tab einfärben
+    if (container.id === 'table-container-tabellen') {
+      const tableEl = container.querySelector('table');
+      colorizeRanking(tableEl);
+    }
   }
 
   // ==============================
@@ -577,6 +587,29 @@ document.addEventListener('DOMContentLoaded', () => {
         playerContainer.innerHTML = '<p style="text-align:center;">Fehler beim Laden der Bestenliste.</p>';
       });
   }
+
+
+  // --- Rang-Highlighting -------------------------------------
+  function colorizeRanking(table) {
+    if (!table) return;
+
+    const tbody = table.tBodies && table.tBodies[0] ? table.tBodies[0] : table;
+    const rows = Array.from(tbody.querySelectorAll('tr')).filter(r => !r.querySelector('th'));
+    if (!rows.length) return;
+
+    // Vorherige Klassen entfernen
+    rows.forEach(r => r.classList.remove('rank-1','rank-2','rank-bottom'));
+
+    const n = rows.length;
+    if (n >= 1) rows[0].classList.add('rank-1');   // 1. Platz
+
+    // letzte 3
+    const lastCount = Math.min(3, n);
+    for (let i = n - lastCount; i < n; i++) {
+      if (i >= 0) rows[i].classList.add('rank-bottom');
+    }
+  }
+
 
   // Bootstrapping
   initSpieltag();

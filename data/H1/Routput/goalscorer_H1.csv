@@ -26,9 +26,9 @@ Rank,Team,Name,Nr,Pos,Spiele,Tore
 25,Füchse Berlin,Furkan Yildirim,13,ZDM,4,2
 26,SC Staaken,Kevin Flemming,10,NA,3,2
 27,SC Staaken,Erhan Bahceci,28,NA,2,2
-28,Berliner SC,Stephan Ngah,19,LM,4,1
+28,Berliner SC,Stephan Ngah,19,ST,4,1
 29,Berliner SC,Alexander Lorenz,14,ST,4,1
-30,Berliner SC,Leon Cheung,8,ZM,3,1
+30,Berliner SC,Leon Cheung,8,ZOM,3,1
 31,Berliner SC,Justin Maximilian Neumann,17,ZM,4,1
 32,VSG Altglienicke II,Emir Bakal,7,RM,4,1
 33,VSG Altglienicke II,Stanley Cross,0,ZM,2,1
@@ -54,7 +54,7 @@ Rank,Team,Name,Nr,Pos,Spiele,Tore
 53,Berlin Türkspor,Panagiotis Vassiliadis,2,IV,4,1
 54,Frohnauer SC,Philipp Walter,20,LM,4,1
 55,Frohnauer SC,Lasse Eickhoff,92,NA,2,1
-56,Frohnauer SC,Luis Seiffert,22,NA,4,1
+56,Frohnauer SC,Luis Seiffert,22,ZDM,4,1
 57,Frohnauer SC,Maximilian Mundt,24,RM,4,1
 58,SC Charlottenburg,Janos Löbe,0,LM,3,1
 59,SC Charlottenburg,Kingsley Chigozie Onyemaobi,4,ST,3,1
@@ -86,7 +86,7 @@ Rank,Team,Name,Nr,Pos,Spiele,Tore
 85,Berliner SC,Max-Fabian Wölker,18,NA,1,0
 86,Berliner SC,Jonas Wortmann,0,NA,0,0
 87,Berliner SC,Lion Schumann,10,RM,3,0
-88,Berliner SC,Nathanel Osaroboh Simon,24,NA,1,0
+88,Berliner SC,Nathanel Osaroboh Simon,24,LV,1,0
 89,Berliner SC,Kota Murakami,0,NA,0,0
 90,Berliner SC,Luis-Raymond Bossard,11,RV,4,0
 91,Berliner SC,Tom Köster,1,TW,4,0

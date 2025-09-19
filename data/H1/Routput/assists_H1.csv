@@ -4,14 +4,14 @@ Rank,Team,Name,Nr,Pos,Spiele,Assists
 3,Sp.Vg. Blau Weiß 1890 Berlin,Fabian Engel,55,ZDM,2,2
 4,TSV Mariendorf 1897,Erik-Paul Pfannschmidt,6,ZM,4,2
 5,Berlin Türkspor,Artin Zardoshtian,27,ZDM,4,2
-6,Frohnauer SC,Luis Seiffert,22,NA,4,2
+6,Frohnauer SC,Luis Seiffert,22,ZDM,4,2
 7,Frohnauer SC,Tidjan Barnes,23,ZDM,4,2
 8,Frohnauer SC,Bachar Said,21,NA,3,2
 9,SV Empor Berlin,Mathias Felix Wenger,25,RV,3,2
 10,SV BW Hohen Neuendorf,Leon Draski,8,NA,3,2
 11,SV BW Hohen Neuendorf,Nick Przesang,30,NA,4,2
 12,Berliner SC,Lion Schumann,10,RM,3,1
-13,Berliner SC,Stephan Ngah,19,LM,4,1
+13,Berliner SC,Stephan Ngah,19,ST,4,1
 14,Berliner SC,Luis-Raymond Bossard,11,RV,4,1
 15,Berliner SC,Lucky Ugbogbo,20,LM,3,1
 16,VSG Altglienicke II,Emir Bakal,7,RM,4,1
@@ -55,7 +55,7 @@ Rank,Team,Name,Nr,Pos,Spiele,Assists
 54,SC Staaken,Deniz Aksakal,17,IV,3,1
 55,Berliner SC,Max-Fabian Wölker,18,NA,1,0
 56,Berliner SC,Jonas Wortmann,0,NA,0,0
-57,Berliner SC,Nathanel Osaroboh Simon,24,NA,1,0
+57,Berliner SC,Nathanel Osaroboh Simon,24,LV,1,0
 58,Berliner SC,Kota Murakami,0,NA,0,0
 59,Berliner SC,Tom Köster,1,TW,4,0
 60,Berliner SC,Bara Abu Hamid,0,NA,0,0
@@ -70,7 +70,7 @@ Rank,Team,Name,Nr,Pos,Spiele,Assists
 69,Berliner SC,Konstantin Joseski,0,NA,0,0
 70,Berliner SC,Alexander Lorenz,14,ST,4,0
 71,Berliner SC,Nico Pellatz,0,NA,0,0
-72,Berliner SC,Leon Cheung,8,ZM,3,0
+72,Berliner SC,Leon Cheung,8,ZOM,3,0
 73,Berliner SC,Oktay Öztürk,6,IV,4,0
 74,Berliner SC,Justin Maximilian Neumann,17,ZM,4,0
 75,Berliner SC,Benjamin Trojahn,16,LV,4,0

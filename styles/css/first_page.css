@@ -1,6 +1,9 @@
 @font-face {
-    font-family: 'Inconsolata';
-    src: url('/Users/mkreuschnervsp/git/berlinersc-football-analysis.github.io/styles/fonts/Inconsolata/static/Inconsolata-Regular.ttf') format('ttf');
+  font-family: 'Inconsolata';
+  src: url('styles/fonts/Inconsolata/static/Inconsolata-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
 }
 
 h1.title {
@@ -115,3 +118,12 @@ width: 70%;
   white-space: nowrap;     /* verhindert Umbrüche, sorgt für echtes Seitwärts-Scrollen */
 }
 
+/* Rang-Farben (sanft) */
+tr.rank-1 > td { background:#d9f7be; }     /* 1. Platz: grün   */
+tr.rank-2 > td { background:#fff4b8; }     /* 2. Platz: gelb   */
+tr.rank-bottom > td { background:#ffd6d6; } /* letzte 3: rot    */
+
+/* Optional: leichter Hover */
+tbody tr.rank-1:hover > *,
+tbody tr.rank-2:hover > *,
+tbody tr.rank-bottom:hover > * { filter:brightness(0.98); }

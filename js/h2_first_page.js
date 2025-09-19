@@ -26,6 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const playerSelect       = document.getElementById('tableSelect-player') || document.getElementById('tableSelect-h2-player') || document.getElementById('tableSelect-player-h2');
   const playerContainer    = document.getElementById('table-container-player') || document.getElementById('table-container-h2-player') || document.getElementById('table-container-player-h2');
 
+  const isTabellenContainer = (el) => el && el === tabellenContainer;
   // --- Data state ---
   let matchdaysData = [];
   let currentMatchday = 1;
@@ -214,6 +215,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
     html += '</tbody></table>' + tableBoxEnd();
     container.innerHTML = html;
+    // Nur für Tabellen im Tabellen-Tab einfärben
+    if (isTabellenContainer(container)) {
+      const tableEl = container.querySelector('table');
+      colorizeRanking(tableEl);
+    }
   }
 
   function displayFormattedTable(data, container) {
@@ -260,6 +266,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
     html += '</tbody></table>' + tableBoxEnd();
     container.innerHTML = html;
+
+    // Nur für Tabellen im Tabellen-Tab einfärben
+    if (isTabellenContainer(container)) {
+      const tableEl = container.querySelector('table');
+      colorizeRanking(tableEl);
+    }
   }
 
   function displayFilteredTableCustom(data, container, columnsToShow, opts = {}) {
@@ -297,6 +309,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
     html += '</tbody></table>' + tableBoxEnd();
     container.innerHTML = html;
+    // Nur für Tabellen im Tabellen-Tab einfärben
+    if (isTabellenContainer(container)) {
+      const tableEl = container.querySelector('table');
+      colorizeRanking(tableEl);
+    }
   }
 
   // ==============================
@@ -619,6 +636,29 @@ document.addEventListener('DOMContentLoaded', () => {
         console.error('Fehler beim Laden der Bestenliste:', err);
         playerContainer.innerHTML = '<p style="text-align:center;">Fehler beim Laden der Bestenliste.</p>';
       });
+  }
+
+
+  // --- Rang-Highlighting -------------------------------------
+  function colorizeRanking(table) {
+    if (!table) return;
+
+    const tbody = table.tBodies && table.tBodies[0] ? table.tBodies[0] : table;
+    const rows = Array.from(tbody.querySelectorAll('tr')).filter(r => !r.querySelector('th'));
+    if (!rows.length) return;
+
+    // Vorherige Klassen entfernen
+    rows.forEach(r => r.classList.remove('rank-1','rank-2','rank-bottom'));
+
+    const n = rows.length;
+    if (n >= 1) rows[0].classList.add('rank-1');   // 1. Platz
+    if (n >= 2) rows[1].classList.add('rank-2');   // 2. Platz
+
+    // letzte 3
+    const lastCount = Math.min(3, n);
+    for (let i = n - lastCount; i < n; i++) {
+      if (i >= 0) rows[i].classList.add('rank-bottom');
+    }
   }
 
   // Bootstrapping
