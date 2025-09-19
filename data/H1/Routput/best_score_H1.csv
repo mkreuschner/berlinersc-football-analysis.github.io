@@ -24,7 +24,7 @@ Rank,Team,Nr,Name,Pos,Spielzeit,matches_played_ratio,playtime_ratio,points_per_g
 23,VSG Altglienicke II,7,Emir Bakal,RM,337,1,0.94,0.58,0.25,0.25,0.73
 24,VSG Altglienicke II,6,Yousif El Sadani,NA,360,1,1,0.58,0.25,0,0.73
 25,Berlin Türkspor,10,Halit Bacak,RM,360,1,1,0.5,0.11,0.5,0.72
-26,Frohnauer SC,27,Erik Hollnagel,ZDM,281,1,0.78,0.83,0,0.5,0.72
+26,Frohnauer SC,27,Erik Hollnagel,IV,281,1,0.78,0.83,0,0.5,0.72
 27,FSV Spandauer Kickers,0,Tugay Uzan,ST,224,0.75,0.83,1,0.14,0.33,0.72
 28,Füchse Berlin,9,Yannick Wilhelm,LV,255,0.75,0.94,1,0,0,0.72
 29,SV BW Hohen Neuendorf,18,Jeremy Domke,IV,321,1,0.89,0.83,0,0,0.72
@@ -105,7 +105,7 @@ Rank,Team,Nr,Name,Pos,Spielzeit,matches_played_ratio,playtime_ratio,points_per_g
 104,TSV Mariendorf 1897,0,Pascal Jan Wedemann,IV,180,0.5,1,0.67,0,0.5,0.62
 105,TSV Mariendorf 1897,6,Erik-Paul Pfannschmidt,ZM,281,1,0.78,0.42,0.22,0,0.62
 106,Berlin Türkspor,25,Mapalo Korntreff,LM,258,0.75,0.96,0.5,0.11,0,0.62
-107,Frohnauer SC,24,Maximilian Mundt,RM,188,1,0.52,0.83,0.07,0,0.62
+107,Frohnauer SC,24,Maximilian Mundt,LV,188,1,0.52,0.83,0.07,0,0.62
 108,Frohnauer SC,8,Nando Hofmann,IV,201,0.75,0.74,0.78,0,0.33,0.62
 109,SC Charlottenburg,7,Marvin Michels,ZDM,360,1,1,0.25,0,0.25,0.62
 110,SC Charlottenburg,25,Marc Reichel,IV,360,1,1,0.25,0,0.25,0.62
@@ -183,7 +183,7 @@ Rank,Team,Nr,Name,Pos,Spielzeit,matches_played_ratio,playtime_ratio,points_per_g
 182,Sp.Vg. Blau Weiß 1890 Berlin,34,Nireas Igkmpinompa,ZDM,155,1,0.43,0.58,0,0,0.52
 183,Sp.Vg. Blau Weiß 1890 Berlin,22,Mohamed Saloun Touré,RM,200,0.75,0.74,0.44,0,0,0.52
 184,TSV Mariendorf 1897,8,Wesa Den Araujo Van-Dunem,NA,202,1,0.56,0.33,0.11,0,0.52
-185,Frohnauer SC,92,Lasse Eickhoff,NA,80,0.5,0.44,1,0.07,0,0.52
+185,Frohnauer SC,92,Lasse Eickhoff,ST,80,0.5,0.44,1,0.07,0,0.52
 186,SV Empor Berlin,33,Tarik Khettal,IV,270,0.75,1,0.11,0,0,0.52
 187,Berliner SC,24,Nathanel Osaroboh Simon,LV,59,0.25,0.66,1,0,0,0.51
 188,Sp.Vg. Blau Weiß 1890 Berlin,0,Florian Kohls,ZM,116,0.5,0.64,0.67,0.18,0,0.51

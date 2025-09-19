@@ -115,8 +115,8 @@ Rank,Team,Name,Nr,Pos,Spiele,Scorerpoints,Tore,Assists,Ratio
 114,SV BW Hohen Neuendorf,Martin Urbanski,10,NA,3,1,1,0,9
 115,SV BW Hohen Neuendorf,Julian Butt,0,NA,2,1,0,1,9
 116,SV BW Hohen Neuendorf,Tim Niederau,20,NA,2,1,1,0,9
-117,Frohnauer SC,Lasse Eickhoff,92,NA,2,1,1,0,7
-118,Frohnauer SC,Maximilian Mundt,24,RM,4,1,1,0,7
+117,Frohnauer SC,Lasse Eickhoff,92,ST,2,1,1,0,7
+118,Frohnauer SC,Maximilian Mundt,24,LV,4,1,1,0,7
 119,Frohnauer SC,Oscar Adams Llorente,0,NA,1,1,0,1,7
 120,Frohnauer SC,Adrian Domke,4,IV,3,1,0,1,7
 121,Berliner SC,Max-Fabian Wölker,18,NA,1,0,0,0,0
@@ -267,7 +267,7 @@ Rank,Team,Name,Nr,Pos,Spiele,Scorerpoints,Tore,Assists,Ratio
 266,Frohnauer SC,Sebastian Paul,1,TW,4,0,0,0,0
 267,Frohnauer SC,Dominik Lindhammer,6,NA,4,0,0,0,0
 268,Frohnauer SC,Nando Hofmann,8,IV,3,0,0,0,0
-269,Frohnauer SC,Erik Hollnagel,27,ZDM,4,0,0,0,0
+269,Frohnauer SC,Erik Hollnagel,27,IV,4,0,0,0,0
 270,SC Charlottenburg,Marvin Michels,7,ZDM,4,0,0,0,0
 271,SC Charlottenburg,Justin Seidel,30,TW,4,0,0,0,0
 272,SC Charlottenburg,Adrian Droszczak,15,IV,3,0,0,0,0
