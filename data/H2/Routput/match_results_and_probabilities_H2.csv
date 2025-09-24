@@ -23,130 +23,130 @@
 3,"1.FC Schöneberg","Berolina Mitte",2,5,NA,NA,NA
 3,"BSV Hürtürkel","BSV 1892",1,5,NA,NA,NA
 3,"SF Charlottenburg-Wilmersdorf 03","SC Berliner Amateure",1,1,NA,NA,NA
-4,"FC Internationale Berlin","BFC Preussen II",NA,NA,0.448,0.296,0.257
-4,"DJK Schwarz-Weiß Neukölln","1.FC Schöneberg",NA,NA,0.331,0.347,0.322
-4,"BSV 1892","Friedenauer TSC",NA,NA,0.369,0.33,0.302
-4,"Berlin Hilalspor","SC Borsigwalde",NA,NA,0.331,0.347,0.322
-4,"SC Berliner Amateure","SV Empor Berlin II",NA,NA,0.343,0.342,0.315
-4,"SF Johannisthal","SF Charlottenburg-Wilmersdorf 03",NA,NA,0.474,0.285,0.241
-4,"Berolina Mitte","Pfeffersport",NA,NA,0.369,0.33,0.302
-4,"Berliner SC II","BSV Hürtürkel",NA,NA,0.408,0.313,0.28
+4,"FC Internationale Berlin","BFC Preussen II",4,0,NA,NA,NA
+4,"DJK Schwarz-Weiß Neukölln","1.FC Schöneberg",0,3,NA,NA,NA
+4,"BSV 1892","Friedenauer TSC",1,4,NA,NA,NA
+4,"Berlin Hilalspor","SC Borsigwalde",3,2,NA,NA,NA
+4,"SC Berliner Amateure","SV Empor Berlin II",2,0,NA,NA,NA
+4,"SF Johannisthal","SF Charlottenburg-Wilmersdorf 03",3,1,NA,NA,NA
+4,"Berolina Mitte","Pfeffersport",1,3,NA,NA,NA
+4,"Berliner SC II","BSV Hürtürkel",1,0,NA,NA,NA
 5,"BFC Preussen II","BSV 1892",NA,NA,0.331,0.347,0.322
 5,"Friedenauer TSC","Berliner SC II",NA,NA,0.369,0.33,0.302
-5,"Pfeffersport","DJK Schwarz-Weiß Neukölln",NA,NA,0.369,0.33,0.302
-5,"SV Empor Berlin II","SF Johannisthal",NA,NA,0.309,0.336,0.356
-5,"BSV Hürtürkel","Berlin Hilalspor",NA,NA,0.369,0.33,0.302
+5,"Pfeffersport","DJK Schwarz-Weiß Neukölln",NA,NA,0.408,0.313,0.28
+5,"SV Empor Berlin II","SF Johannisthal",NA,NA,0.288,0.319,0.393
+5,"BSV Hürtürkel","Berlin Hilalspor",NA,NA,0.331,0.347,0.322
 5,"SF Charlottenburg-Wilmersdorf 03","Berolina Mitte",NA,NA,0.343,0.342,0.315
 5,"1.FC Schöneberg","FC Internationale Berlin",NA,NA,0.331,0.347,0.322
-5,"SC Borsigwalde","SC Berliner Amateure",NA,NA,0.434,0.301,0.264
+5,"SC Borsigwalde","SC Berliner Amateure",NA,NA,0.394,0.318,0.287
 6,"FC Internationale Berlin","Pfeffersport",NA,NA,0.448,0.296,0.257
-6,"Berliner SC II","BFC Preussen II",NA,NA,0.408,0.313,0.28
+6,"Berliner SC II","BFC Preussen II",NA,NA,0.448,0.296,0.257
 6,"DJK Schwarz-Weiß Neukölln","SF Charlottenburg-Wilmersdorf 03",NA,NA,0.394,0.318,0.287
-6,"BSV 1892","1.FC Schöneberg",NA,NA,0.369,0.33,0.302
-6,"BSV Hürtürkel","Friedenauer TSC",NA,NA,0.331,0.347,0.322
+6,"BSV 1892","1.FC Schöneberg",NA,NA,0.331,0.347,0.322
+6,"BSV Hürtürkel","Friedenauer TSC",NA,NA,0.309,0.336,0.356
 6,"Berlin Hilalspor","SC Berliner Amateure",NA,NA,0.394,0.318,0.287
-6,"SF Johannisthal","SC Borsigwalde",NA,NA,0.408,0.313,0.28
+6,"SF Johannisthal","SC Borsigwalde",NA,NA,0.448,0.296,0.257
 6,"Berolina Mitte","SV Empor Berlin II",NA,NA,0.369,0.33,0.302
 7,"BFC Preussen II","BSV Hürtürkel",NA,NA,0.369,0.33,0.302
-7,"Pfeffersport","BSV 1892",NA,NA,0.331,0.347,0.322
+7,"Pfeffersport","BSV 1892",NA,NA,0.369,0.33,0.302
 7,"SV Empor Berlin II","DJK Schwarz-Weiß Neukölln",NA,NA,0.369,0.33,0.302
 7,"1.FC Schöneberg","Berliner SC II",NA,NA,0.369,0.33,0.302
-7,"SF Charlottenburg-Wilmersdorf 03","FC Internationale Berlin",NA,NA,0.295,0.325,0.38
+7,"SF Charlottenburg-Wilmersdorf 03","FC Internationale Berlin",NA,NA,0.274,0.309,0.417
 7,"SC Berliner Amateure","SF Johannisthal",NA,NA,0.295,0.325,0.38
 7,"Friedenauer TSC","Berlin Hilalspor",NA,NA,0.408,0.313,0.28
 7,"SC Borsigwalde","Berolina Mitte",NA,NA,0.408,0.313,0.28
-8,"FC Internationale Berlin","BSV 1892",NA,NA,0.408,0.313,0.28
-8,"SV Empor Berlin II","Pfeffersport",NA,NA,0.369,0.33,0.302
-8,"DJK Schwarz-Weiß Neukölln","Berliner SC II",NA,NA,0.331,0.347,0.322
-8,"Berlin Hilalspor","SF Charlottenburg-Wilmersdorf 03",NA,NA,0.394,0.318,0.287
-8,"SC Berliner Amateure","BFC Preussen II",NA,NA,0.343,0.342,0.315
+8,"FC Internationale Berlin","BSV 1892",NA,NA,0.448,0.296,0.257
+8,"SV Empor Berlin II","Pfeffersport",NA,NA,0.331,0.347,0.322
+8,"DJK Schwarz-Weiß Neukölln","Berliner SC II",NA,NA,0.309,0.336,0.356
+8,"Berlin Hilalspor","SF Charlottenburg-Wilmersdorf 03",NA,NA,0.434,0.301,0.264
+8,"SC Berliner Amateure","BFC Preussen II",NA,NA,0.381,0.324,0.294
 8,"SF Johannisthal","Friedenauer TSC",NA,NA,0.408,0.313,0.28
-8,"SC Borsigwalde","1.FC Schöneberg",NA,NA,0.369,0.33,0.302
+8,"SC Borsigwalde","1.FC Schöneberg",NA,NA,0.331,0.347,0.322
 8,"Berolina Mitte","BSV Hürtürkel",NA,NA,0.369,0.33,0.302
-9,"BFC Preussen II","SF Johannisthal",NA,NA,0.309,0.336,0.356
-9,"Pfeffersport","SC Borsigwalde",NA,NA,0.331,0.347,0.322
+9,"BFC Preussen II","SF Johannisthal",NA,NA,0.288,0.319,0.393
+9,"Pfeffersport","SC Borsigwalde",NA,NA,0.369,0.33,0.302
 9,"Berliner SC II","FC Internationale Berlin",NA,NA,0.331,0.347,0.322
-9,"BSV 1892","Berlin Hilalspor",NA,NA,0.408,0.313,0.28
+9,"BSV 1892","Berlin Hilalspor",NA,NA,0.369,0.33,0.302
 9,"1.FC Schöneberg","SC Berliner Amateure",NA,NA,0.434,0.301,0.264
 9,"BSV Hürtürkel","DJK Schwarz-Weiß Neukölln",NA,NA,0.369,0.33,0.302
-9,"Friedenauer TSC","Berolina Mitte",NA,NA,0.408,0.313,0.28
+9,"Friedenauer TSC","Berolina Mitte",NA,NA,0.448,0.296,0.257
 9,"SF Charlottenburg-Wilmersdorf 03","SV Empor Berlin II",NA,NA,0.343,0.342,0.315
-10,"FC Internationale Berlin","SV Empor Berlin II",NA,NA,0.448,0.296,0.257
+10,"FC Internationale Berlin","SV Empor Berlin II",NA,NA,0.488,0.279,0.233
 10,"DJK Schwarz-Weiß Neukölln","SC Borsigwalde",NA,NA,0.331,0.347,0.322
 10,"BSV 1892","SF Charlottenburg-Wilmersdorf 03",NA,NA,0.434,0.301,0.264
-10,"BSV Hürtürkel","1.FC Schöneberg",NA,NA,0.331,0.347,0.322
+10,"BSV Hürtürkel","1.FC Schöneberg",NA,NA,0.309,0.336,0.356
 10,"Berliner SC II","Pfeffersport",NA,NA,0.408,0.313,0.28
 10,"Berlin Hilalspor","SF Johannisthal",NA,NA,0.309,0.336,0.356
-10,"Friedenauer TSC","BFC Preussen II",NA,NA,0.408,0.313,0.28
-10,"Berolina Mitte","SC Berliner Amateure",NA,NA,0.394,0.318,0.287
-11,"BFC Preussen II","1.FC Schöneberg",NA,NA,0.331,0.347,0.322
+10,"Friedenauer TSC","BFC Preussen II",NA,NA,0.448,0.296,0.257
+10,"Berolina Mitte","SC Berliner Amateure",NA,NA,0.356,0.336,0.308
+11,"BFC Preussen II","1.FC Schöneberg",NA,NA,0.309,0.336,0.356
 11,"FC Internationale Berlin","SC Berliner Amateure",NA,NA,0.474,0.285,0.241
-11,"Berliner SC II","SV Empor Berlin II",NA,NA,0.408,0.313,0.28
-11,"DJK Schwarz-Weiß Neukölln","SF Johannisthal",NA,NA,0.309,0.336,0.356
+11,"Berliner SC II","SV Empor Berlin II",NA,NA,0.448,0.296,0.257
+11,"DJK Schwarz-Weiß Neukölln","SF Johannisthal",NA,NA,0.288,0.319,0.393
 11,"BSV 1892","SC Borsigwalde",NA,NA,0.369,0.33,0.302
 11,"BSV Hürtürkel","SF Charlottenburg-Wilmersdorf 03",NA,NA,0.394,0.318,0.287
-11,"Berlin Hilalspor","Berolina Mitte",NA,NA,0.369,0.33,0.302
+11,"Berlin Hilalspor","Berolina Mitte",NA,NA,0.408,0.313,0.28
 11,"Friedenauer TSC","Pfeffersport",NA,NA,0.408,0.313,0.28
-12,"Pfeffersport","BFC Preussen II",NA,NA,0.369,0.33,0.302
+12,"Pfeffersport","BFC Preussen II",NA,NA,0.408,0.313,0.28
 12,"SV Empor Berlin II","BSV Hürtürkel",NA,NA,0.369,0.33,0.302
-12,"SF Charlottenburg-Wilmersdorf 03","Friedenauer TSC",NA,NA,0.315,0.341,0.343
+12,"SF Charlottenburg-Wilmersdorf 03","Friedenauer TSC",NA,NA,0.295,0.325,0.38
 12,"Berlin Hilalspor","1.FC Schöneberg",NA,NA,0.331,0.347,0.322
-12,"SC Berliner Amateure","BSV 1892",NA,NA,0.315,0.341,0.343
+12,"SC Berliner Amateure","BSV 1892",NA,NA,0.343,0.342,0.315
 12,"SF Johannisthal","FC Internationale Berlin",NA,NA,0.369,0.33,0.302
-12,"SC Borsigwalde","Berliner SC II",NA,NA,0.369,0.33,0.302
+12,"SC Borsigwalde","Berliner SC II",NA,NA,0.331,0.347,0.322
 12,"Berolina Mitte","DJK Schwarz-Weiß Neukölln",NA,NA,0.369,0.33,0.302
 13,"1.FC Schöneberg","Friedenauer TSC",NA,NA,0.369,0.33,0.302
-13,"BFC Preussen II","Berlin Hilalspor",NA,NA,0.369,0.33,0.302
-13,"SF Johannisthal","Berolina Mitte",NA,NA,0.448,0.296,0.257
-13,"SC Berliner Amateure","DJK Schwarz-Weiß Neukölln",NA,NA,0.343,0.342,0.315
-13,"SC Borsigwalde","FC Internationale Berlin",NA,NA,0.331,0.347,0.322
+13,"BFC Preussen II","Berlin Hilalspor",NA,NA,0.331,0.347,0.322
+13,"SF Johannisthal","Berolina Mitte",NA,NA,0.488,0.279,0.233
+13,"SC Berliner Amateure","DJK Schwarz-Weiß Neukölln",NA,NA,0.381,0.324,0.294
+13,"SC Borsigwalde","FC Internationale Berlin",NA,NA,0.309,0.336,0.356
 13,"SV Empor Berlin II","BSV 1892",NA,NA,0.331,0.347,0.322
-13,"SF Charlottenburg-Wilmersdorf 03","Berliner SC II",NA,NA,0.315,0.341,0.343
-13,"Pfeffersport","BSV Hürtürkel",NA,NA,0.369,0.33,0.302
+13,"SF Charlottenburg-Wilmersdorf 03","Berliner SC II",NA,NA,0.295,0.325,0.38
+13,"Pfeffersport","BSV Hürtürkel",NA,NA,0.408,0.313,0.28
 14,"BFC Preussen II","SF Charlottenburg-Wilmersdorf 03",NA,NA,0.394,0.318,0.287
-14,"FC Internationale Berlin","Berolina Mitte",NA,NA,0.448,0.296,0.257
+14,"FC Internationale Berlin","Berolina Mitte",NA,NA,0.488,0.279,0.233
 14,"Berliner SC II","SC Berliner Amateure",NA,NA,0.434,0.301,0.264
-14,"DJK Schwarz-Weiß Neukölln","Berlin Hilalspor",NA,NA,0.369,0.33,0.302
-14,"BSV 1892","SF Johannisthal",NA,NA,0.331,0.347,0.322
+14,"DJK Schwarz-Weiß Neukölln","Berlin Hilalspor",NA,NA,0.331,0.347,0.322
+14,"BSV 1892","SF Johannisthal",NA,NA,0.309,0.336,0.356
 14,"BSV Hürtürkel","SC Borsigwalde",NA,NA,0.331,0.347,0.322
 14,"1.FC Schöneberg","Pfeffersport",NA,NA,0.408,0.313,0.28
-14,"Friedenauer TSC","SV Empor Berlin II",NA,NA,0.408,0.313,0.28
-15,"FC Internationale Berlin","BSV Hürtürkel",NA,NA,0.448,0.296,0.257
-15,"DJK Schwarz-Weiß Neukölln","Friedenauer TSC",NA,NA,0.331,0.347,0.322
-15,"BSV 1892","Berliner SC II",NA,NA,0.369,0.33,0.302
-15,"Berlin Hilalspor","SV Empor Berlin II",NA,NA,0.369,0.33,0.302
+14,"Friedenauer TSC","SV Empor Berlin II",NA,NA,0.448,0.296,0.257
+15,"FC Internationale Berlin","BSV Hürtürkel",NA,NA,0.488,0.279,0.233
+15,"DJK Schwarz-Weiß Neukölln","Friedenauer TSC",NA,NA,0.309,0.336,0.356
+15,"BSV 1892","Berliner SC II",NA,NA,0.331,0.347,0.322
+15,"Berlin Hilalspor","SV Empor Berlin II",NA,NA,0.408,0.313,0.28
 15,"SC Berliner Amateure","Pfeffersport",NA,NA,0.343,0.342,0.315
 15,"SF Johannisthal","1.FC Schöneberg",NA,NA,0.408,0.313,0.28
 15,"SC Borsigwalde","SF Charlottenburg-Wilmersdorf 03",NA,NA,0.434,0.301,0.264
 15,"Berolina Mitte","BFC Preussen II",NA,NA,0.369,0.33,0.302
 16,"SC Borsigwalde","BFC Preussen II",NA,NA,0.408,0.313,0.28
 16,"Berlin Hilalspor","FC Internationale Berlin",NA,NA,0.309,0.336,0.356
-16,"Berolina Mitte","Berliner SC II",NA,NA,0.331,0.347,0.322
+16,"Berolina Mitte","Berliner SC II",NA,NA,0.309,0.336,0.356
 16,"SC Berliner Amateure","Friedenauer TSC",NA,NA,0.315,0.341,0.343
-16,"SF Charlottenburg-Wilmersdorf 03","Pfeffersport",NA,NA,0.343,0.342,0.315
+16,"SF Charlottenburg-Wilmersdorf 03","Pfeffersport",NA,NA,0.315,0.341,0.343
 16,"DJK Schwarz-Weiß Neukölln","BSV 1892",NA,NA,0.331,0.347,0.322
-16,"SV Empor Berlin II","1.FC Schöneberg",NA,NA,0.331,0.347,0.322
-16,"SF Johannisthal","BSV Hürtürkel",NA,NA,0.448,0.296,0.257
-17,"BSV 1892","FC Internationale Berlin",NA,NA,0.331,0.347,0.322
-17,"Pfeffersport","SV Empor Berlin II",NA,NA,0.369,0.33,0.302
-17,"Berliner SC II","DJK Schwarz-Weiß Neukölln",NA,NA,0.408,0.313,0.28
-17,"SF Charlottenburg-Wilmersdorf 03","Berlin Hilalspor",NA,NA,0.343,0.342,0.315
-17,"BFC Preussen II","SC Berliner Amateure",NA,NA,0.394,0.318,0.287
+16,"SV Empor Berlin II","1.FC Schöneberg",NA,NA,0.309,0.336,0.356
+16,"SF Johannisthal","BSV Hürtürkel",NA,NA,0.488,0.279,0.233
+17,"BSV 1892","FC Internationale Berlin",NA,NA,0.309,0.336,0.356
+17,"Pfeffersport","SV Empor Berlin II",NA,NA,0.408,0.313,0.28
+17,"Berliner SC II","DJK Schwarz-Weiß Neukölln",NA,NA,0.448,0.296,0.257
+17,"SF Charlottenburg-Wilmersdorf 03","Berlin Hilalspor",NA,NA,0.315,0.341,0.343
+17,"BFC Preussen II","SC Berliner Amateure",NA,NA,0.356,0.336,0.308
 17,"Friedenauer TSC","SF Johannisthal",NA,NA,0.331,0.347,0.322
-17,"1.FC Schöneberg","SC Borsigwalde",NA,NA,0.369,0.33,0.302
+17,"1.FC Schöneberg","SC Borsigwalde",NA,NA,0.408,0.313,0.28
 17,"BSV Hürtürkel","Berolina Mitte",NA,NA,0.369,0.33,0.302
-18,"SF Johannisthal","BFC Preussen II",NA,NA,0.448,0.296,0.257
-18,"SC Borsigwalde","Pfeffersport",NA,NA,0.408,0.313,0.28
+18,"SF Johannisthal","BFC Preussen II",NA,NA,0.488,0.279,0.233
+18,"SC Borsigwalde","Pfeffersport",NA,NA,0.369,0.33,0.302
 18,"FC Internationale Berlin","Berliner SC II",NA,NA,0.408,0.313,0.28
-18,"Berlin Hilalspor","BSV 1892",NA,NA,0.331,0.347,0.322
+18,"Berlin Hilalspor","BSV 1892",NA,NA,0.369,0.33,0.302
 18,"SC Berliner Amateure","1.FC Schöneberg",NA,NA,0.315,0.341,0.343
 18,"DJK Schwarz-Weiß Neukölln","BSV Hürtürkel",NA,NA,0.369,0.33,0.302
-18,"Berolina Mitte","Friedenauer TSC",NA,NA,0.331,0.347,0.322
+18,"Berolina Mitte","Friedenauer TSC",NA,NA,0.309,0.336,0.356
 18,"SV Empor Berlin II","SF Charlottenburg-Wilmersdorf 03",NA,NA,0.394,0.318,0.287
-19,"BSV Hürtürkel","FC Internationale Berlin",NA,NA,0.309,0.336,0.356
-19,"Friedenauer TSC","DJK Schwarz-Weiß Neukölln",NA,NA,0.408,0.313,0.28
-19,"Berliner SC II","BSV 1892",NA,NA,0.369,0.33,0.302
-19,"SV Empor Berlin II","Berlin Hilalspor",NA,NA,0.369,0.33,0.302
+19,"BSV Hürtürkel","FC Internationale Berlin",NA,NA,0.288,0.319,0.393
+19,"Friedenauer TSC","DJK Schwarz-Weiß Neukölln",NA,NA,0.448,0.296,0.257
+19,"Berliner SC II","BSV 1892",NA,NA,0.408,0.313,0.28
+19,"SV Empor Berlin II","Berlin Hilalspor",NA,NA,0.331,0.347,0.322
 19,"Pfeffersport","SC Berliner Amateure",NA,NA,0.394,0.318,0.287
 19,"1.FC Schöneberg","SF Johannisthal",NA,NA,0.331,0.347,0.322
 19,"SF Charlottenburg-Wilmersdorf 03","SC Borsigwalde",NA,NA,0.315,0.341,0.343
@@ -156,86 +156,86 @@
 20,"SF Johannisthal","Pfeffersport",NA,NA,0.448,0.296,0.257
 20,"SC Borsigwalde","SV Empor Berlin II",NA,NA,0.408,0.313,0.28
 20,"Berlin Hilalspor","Berliner SC II",NA,NA,0.331,0.347,0.322
-20,"Berolina Mitte","1.FC Schöneberg",NA,NA,0.331,0.347,0.322
+20,"Berolina Mitte","1.FC Schöneberg",NA,NA,0.309,0.336,0.356
 20,"BSV 1892","BSV Hürtürkel",NA,NA,0.408,0.313,0.28
-20,"SC Berliner Amateure","SF Charlottenburg-Wilmersdorf 03",NA,NA,0.369,0.33,0.302
-21,"BFC Preussen II","FC Internationale Berlin",NA,NA,0.309,0.336,0.356
-21,"1.FC Schöneberg","DJK Schwarz-Weiß Neukölln",NA,NA,0.408,0.313,0.28
-21,"Friedenauer TSC","BSV 1892",NA,NA,0.369,0.33,0.302
-21,"SC Borsigwalde","Berlin Hilalspor",NA,NA,0.408,0.313,0.28
-21,"SV Empor Berlin II","SC Berliner Amateure",NA,NA,0.394,0.318,0.287
-21,"SF Charlottenburg-Wilmersdorf 03","SF Johannisthal",NA,NA,0.295,0.325,0.38
-21,"Pfeffersport","Berolina Mitte",NA,NA,0.369,0.33,0.302
-21,"BSV Hürtürkel","Berliner SC II",NA,NA,0.331,0.347,0.322
-22,"1.FC Schöneberg","BFC Preussen II",NA,NA,0.408,0.313,0.28
+20,"SC Berliner Amateure","SF Charlottenburg-Wilmersdorf 03",NA,NA,0.408,0.313,0.28
+21,"BFC Preussen II","FC Internationale Berlin",NA,NA,0.288,0.319,0.393
+21,"1.FC Schöneberg","DJK Schwarz-Weiß Neukölln",NA,NA,0.448,0.296,0.257
+21,"Friedenauer TSC","BSV 1892",NA,NA,0.408,0.313,0.28
+21,"SC Borsigwalde","Berlin Hilalspor",NA,NA,0.369,0.33,0.302
+21,"SV Empor Berlin II","SC Berliner Amateure",NA,NA,0.356,0.336,0.308
+21,"SF Charlottenburg-Wilmersdorf 03","SF Johannisthal",NA,NA,0.274,0.309,0.417
+21,"Pfeffersport","Berolina Mitte",NA,NA,0.408,0.313,0.28
+21,"BSV Hürtürkel","Berliner SC II",NA,NA,0.309,0.336,0.356
+22,"1.FC Schöneberg","BFC Preussen II",NA,NA,0.448,0.296,0.257
 22,"SC Berliner Amateure","FC Internationale Berlin",NA,NA,0.295,0.325,0.38
-22,"SV Empor Berlin II","Berliner SC II",NA,NA,0.331,0.347,0.322
-22,"SF Johannisthal","DJK Schwarz-Weiß Neukölln",NA,NA,0.448,0.296,0.257
+22,"SV Empor Berlin II","Berliner SC II",NA,NA,0.309,0.336,0.356
+22,"SF Johannisthal","DJK Schwarz-Weiß Neukölln",NA,NA,0.488,0.279,0.233
 22,"SC Borsigwalde","BSV 1892",NA,NA,0.369,0.33,0.302
 22,"SF Charlottenburg-Wilmersdorf 03","BSV Hürtürkel",NA,NA,0.343,0.342,0.315
-22,"Berolina Mitte","Berlin Hilalspor",NA,NA,0.369,0.33,0.302
+22,"Berolina Mitte","Berlin Hilalspor",NA,NA,0.331,0.347,0.322
 22,"Pfeffersport","Friedenauer TSC",NA,NA,0.331,0.347,0.322
 23,"BSV 1892","BFC Preussen II",NA,NA,0.408,0.313,0.28
 23,"Berliner SC II","Friedenauer TSC",NA,NA,0.369,0.33,0.302
-23,"DJK Schwarz-Weiß Neukölln","Pfeffersport",NA,NA,0.369,0.33,0.302
-23,"SF Johannisthal","SV Empor Berlin II",NA,NA,0.448,0.296,0.257
-23,"Berlin Hilalspor","BSV Hürtürkel",NA,NA,0.369,0.33,0.302
+23,"DJK Schwarz-Weiß Neukölln","Pfeffersport",NA,NA,0.331,0.347,0.322
+23,"SF Johannisthal","SV Empor Berlin II",NA,NA,0.488,0.279,0.233
+23,"Berlin Hilalspor","BSV Hürtürkel",NA,NA,0.408,0.313,0.28
 23,"Berolina Mitte","SF Charlottenburg-Wilmersdorf 03",NA,NA,0.394,0.318,0.287
 23,"FC Internationale Berlin","1.FC Schöneberg",NA,NA,0.408,0.313,0.28
-23,"SC Berliner Amateure","SC Borsigwalde",NA,NA,0.315,0.341,0.343
+23,"SC Berliner Amateure","SC Borsigwalde",NA,NA,0.343,0.342,0.315
 24,"Pfeffersport","FC Internationale Berlin",NA,NA,0.309,0.336,0.356
-24,"BFC Preussen II","Berliner SC II",NA,NA,0.331,0.347,0.322
+24,"BFC Preussen II","Berliner SC II",NA,NA,0.309,0.336,0.356
 24,"SF Charlottenburg-Wilmersdorf 03","DJK Schwarz-Weiß Neukölln",NA,NA,0.343,0.342,0.315
-24,"1.FC Schöneberg","BSV 1892",NA,NA,0.369,0.33,0.302
-24,"Friedenauer TSC","BSV Hürtürkel",NA,NA,0.408,0.313,0.28
+24,"1.FC Schöneberg","BSV 1892",NA,NA,0.408,0.313,0.28
+24,"Friedenauer TSC","BSV Hürtürkel",NA,NA,0.448,0.296,0.257
 24,"SC Berliner Amateure","Berlin Hilalspor",NA,NA,0.343,0.342,0.315
-24,"SC Borsigwalde","SF Johannisthal",NA,NA,0.331,0.347,0.322
+24,"SC Borsigwalde","SF Johannisthal",NA,NA,0.309,0.336,0.356
 24,"SV Empor Berlin II","Berolina Mitte",NA,NA,0.369,0.33,0.302
 25,"BSV Hürtürkel","BFC Preussen II",NA,NA,0.369,0.33,0.302
-25,"BSV 1892","Pfeffersport",NA,NA,0.408,0.313,0.28
+25,"BSV 1892","Pfeffersport",NA,NA,0.369,0.33,0.302
 25,"DJK Schwarz-Weiß Neukölln","SV Empor Berlin II",NA,NA,0.369,0.33,0.302
 25,"Berliner SC II","1.FC Schöneberg",NA,NA,0.369,0.33,0.302
-25,"FC Internationale Berlin","SF Charlottenburg-Wilmersdorf 03",NA,NA,0.474,0.285,0.241
+25,"FC Internationale Berlin","SF Charlottenburg-Wilmersdorf 03",NA,NA,0.514,0.269,0.217
 25,"SF Johannisthal","SC Berliner Amateure",NA,NA,0.474,0.285,0.241
 25,"Berlin Hilalspor","Friedenauer TSC",NA,NA,0.331,0.347,0.322
 25,"Berolina Mitte","SC Borsigwalde",NA,NA,0.331,0.347,0.322
 26,"BFC Preussen II","SV Empor Berlin II",NA,NA,0.369,0.33,0.302
-26,"FC Internationale Berlin","DJK Schwarz-Weiß Neukölln",NA,NA,0.448,0.296,0.257
-26,"1.FC Schöneberg","SF Charlottenburg-Wilmersdorf 03",NA,NA,0.434,0.301,0.264
+26,"FC Internationale Berlin","DJK Schwarz-Weiß Neukölln",NA,NA,0.488,0.279,0.233
+26,"1.FC Schöneberg","SF Charlottenburg-Wilmersdorf 03",NA,NA,0.474,0.285,0.241
 26,"Pfeffersport","Berlin Hilalspor",NA,NA,0.369,0.33,0.302
-26,"BSV Hürtürkel","SC Berliner Amateure",NA,NA,0.394,0.318,0.287
+26,"BSV Hürtürkel","SC Berliner Amateure",NA,NA,0.356,0.336,0.308
 26,"Berliner SC II","SF Johannisthal",NA,NA,0.331,0.347,0.322
-26,"Friedenauer TSC","SC Borsigwalde",NA,NA,0.369,0.33,0.302
+26,"Friedenauer TSC","SC Borsigwalde",NA,NA,0.408,0.313,0.28
 26,"BSV 1892","Berolina Mitte",NA,NA,0.408,0.313,0.28
-27,"SV Empor Berlin II","FC Internationale Berlin",NA,NA,0.309,0.336,0.356
+27,"SV Empor Berlin II","FC Internationale Berlin",NA,NA,0.288,0.319,0.393
 27,"SC Borsigwalde","DJK Schwarz-Weiß Neukölln",NA,NA,0.408,0.313,0.28
 27,"SF Charlottenburg-Wilmersdorf 03","BSV 1892",NA,NA,0.315,0.341,0.343
-27,"1.FC Schöneberg","BSV Hürtürkel",NA,NA,0.408,0.313,0.28
+27,"1.FC Schöneberg","BSV Hürtürkel",NA,NA,0.448,0.296,0.257
 27,"Pfeffersport","Berliner SC II",NA,NA,0.331,0.347,0.322
 27,"SF Johannisthal","Berlin Hilalspor",NA,NA,0.448,0.296,0.257
-27,"BFC Preussen II","Friedenauer TSC",NA,NA,0.331,0.347,0.322
-27,"SC Berliner Amateure","Berolina Mitte",NA,NA,0.343,0.342,0.315
-28,"BFC Preussen II","Pfeffersport",NA,NA,0.369,0.33,0.302
+27,"BFC Preussen II","Friedenauer TSC",NA,NA,0.309,0.336,0.356
+27,"SC Berliner Amateure","Berolina Mitte",NA,NA,0.381,0.324,0.294
+28,"BFC Preussen II","Pfeffersport",NA,NA,0.331,0.347,0.322
 28,"BSV Hürtürkel","SV Empor Berlin II",NA,NA,0.369,0.33,0.302
-28,"Friedenauer TSC","SF Charlottenburg-Wilmersdorf 03",NA,NA,0.434,0.301,0.264
+28,"Friedenauer TSC","SF Charlottenburg-Wilmersdorf 03",NA,NA,0.474,0.285,0.241
 28,"1.FC Schöneberg","Berlin Hilalspor",NA,NA,0.408,0.313,0.28
-28,"BSV 1892","SC Berliner Amateure",NA,NA,0.434,0.301,0.264
+28,"BSV 1892","SC Berliner Amateure",NA,NA,0.394,0.318,0.287
 28,"FC Internationale Berlin","SF Johannisthal",NA,NA,0.369,0.33,0.302
-28,"Berliner SC II","SC Borsigwalde",NA,NA,0.369,0.33,0.302
+28,"Berliner SC II","SC Borsigwalde",NA,NA,0.408,0.313,0.28
 28,"DJK Schwarz-Weiß Neukölln","Berolina Mitte",NA,NA,0.369,0.33,0.302
 29,"SF Charlottenburg-Wilmersdorf 03","BFC Preussen II",NA,NA,0.343,0.342,0.315
-29,"Berolina Mitte","FC Internationale Berlin",NA,NA,0.309,0.336,0.356
+29,"Berolina Mitte","FC Internationale Berlin",NA,NA,0.288,0.319,0.393
 29,"SC Berliner Amateure","Berliner SC II",NA,NA,0.315,0.341,0.343
-29,"Berlin Hilalspor","DJK Schwarz-Weiß Neukölln",NA,NA,0.369,0.33,0.302
-29,"SF Johannisthal","BSV 1892",NA,NA,0.408,0.313,0.28
+29,"Berlin Hilalspor","DJK Schwarz-Weiß Neukölln",NA,NA,0.408,0.313,0.28
+29,"SF Johannisthal","BSV 1892",NA,NA,0.448,0.296,0.257
 29,"SC Borsigwalde","BSV Hürtürkel",NA,NA,0.408,0.313,0.28
 29,"Pfeffersport","1.FC Schöneberg",NA,NA,0.331,0.347,0.322
-29,"SV Empor Berlin II","Friedenauer TSC",NA,NA,0.331,0.347,0.322
+29,"SV Empor Berlin II","Friedenauer TSC",NA,NA,0.309,0.336,0.356
 30,"Friedenauer TSC","1.FC Schöneberg",NA,NA,0.369,0.33,0.302
-30,"Berlin Hilalspor","BFC Preussen II",NA,NA,0.369,0.33,0.302
-30,"Berolina Mitte","SF Johannisthal",NA,NA,0.309,0.336,0.356
-30,"DJK Schwarz-Weiß Neukölln","SC Berliner Amateure",NA,NA,0.394,0.318,0.287
-30,"FC Internationale Berlin","SC Borsigwalde",NA,NA,0.408,0.313,0.28
+30,"Berlin Hilalspor","BFC Preussen II",NA,NA,0.408,0.313,0.28
+30,"Berolina Mitte","SF Johannisthal",NA,NA,0.288,0.319,0.393
+30,"DJK Schwarz-Weiß Neukölln","SC Berliner Amateure",NA,NA,0.356,0.336,0.308
+30,"FC Internationale Berlin","SC Borsigwalde",NA,NA,0.448,0.296,0.257
 30,"BSV 1892","SV Empor Berlin II",NA,NA,0.408,0.313,0.28
-30,"Berliner SC II","SF Charlottenburg-Wilmersdorf 03",NA,NA,0.434,0.301,0.264
-30,"BSV Hürtürkel","Pfeffersport",NA,NA,0.369,0.33,0.302
+30,"Berliner SC II","SF Charlottenburg-Wilmersdorf 03",NA,NA,0.474,0.285,0.241
+30,"BSV Hürtürkel","Pfeffersport",NA,NA,0.331,0.347,0.322

@@ -71,24 +71,24 @@ matchday,H,A,Tore_H,Tore_A,where
 4,SV Empor Berlin,Frohnauer SC,1,7,away
 4,1. FC Wilmersdorf,Berliner SC,1,0,away
 4,Polar Pinguin Berlin,SC Staaken,4,2,away
-5,1. FC Wilmersdorf,TSV Rudow Berlin,NA,NA,home
+5,1. FC Wilmersdorf,TSV Rudow Berlin,2,0,home
 5,Füchse Berlin,VSG Altglienicke II,NA,NA,home
-5,SFC Stern 1900,SC Staaken,NA,NA,home
-5,SV Empor Berlin,Sp.Vg. Blau Weiß 1890 Berlin,NA,NA,home
-5,FSV Spandauer Kickers,SSC Südwest 1947,NA,NA,home
-5,SC Charlottenburg,SV BW Hohen Neuendorf,NA,NA,home
-5,Berliner SC,Frohnauer SC,NA,NA,home
-5,Polar Pinguin Berlin,Berlin Türkspor,NA,NA,home
-5,TSV Mariendorf 1897,VfB Fortuna Biesdorf,NA,NA,home
-5,TSV Rudow Berlin,1. FC Wilmersdorf,NA,NA,away
+5,SFC Stern 1900,SC Staaken,2,1,home
+5,SV Empor Berlin,Sp.Vg. Blau Weiß 1890 Berlin,5,2,home
+5,FSV Spandauer Kickers,SSC Südwest 1947,1,1,home
+5,SC Charlottenburg,SV BW Hohen Neuendorf,4,0,home
+5,Berliner SC,Frohnauer SC,2,1,home
+5,Polar Pinguin Berlin,Berlin Türkspor,4,5,home
+5,TSV Mariendorf 1897,VfB Fortuna Biesdorf,4,2,home
+5,TSV Rudow Berlin,1. FC Wilmersdorf,0,2,away
 5,VSG Altglienicke II,Füchse Berlin,NA,NA,away
-5,SC Staaken,SFC Stern 1900,NA,NA,away
-5,Sp.Vg. Blau Weiß 1890 Berlin,SV Empor Berlin,NA,NA,away
-5,SSC Südwest 1947,FSV Spandauer Kickers,NA,NA,away
-5,SV BW Hohen Neuendorf,SC Charlottenburg,NA,NA,away
-5,Frohnauer SC,Berliner SC,NA,NA,away
-5,Berlin Türkspor,Polar Pinguin Berlin,NA,NA,away
-5,VfB Fortuna Biesdorf,TSV Mariendorf 1897,NA,NA,away
+5,SC Staaken,SFC Stern 1900,1,2,away
+5,Sp.Vg. Blau Weiß 1890 Berlin,SV Empor Berlin,2,5,away
+5,SSC Südwest 1947,FSV Spandauer Kickers,1,1,away
+5,SV BW Hohen Neuendorf,SC Charlottenburg,0,4,away
+5,Frohnauer SC,Berliner SC,1,2,away
+5,Berlin Türkspor,Polar Pinguin Berlin,5,4,away
+5,VfB Fortuna Biesdorf,TSV Mariendorf 1897,2,4,away
 6,SV Empor Berlin,SFC Stern 1900,NA,NA,home
 6,Sp.Vg. Blau Weiß 1890 Berlin,TSV Rudow Berlin,NA,NA,home
 6,Frohnauer SC,FSV Spandauer Kickers,NA,NA,home

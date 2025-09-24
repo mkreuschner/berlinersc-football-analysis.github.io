@@ -207,14 +207,14 @@ Spieltag,Heim,Auswärts,H_tore,A_tore
 5,SF Charlottenburg-Wilmersdorf 03,Berolina Mitte,NA,NA
 5,1.FC Schöneberg,FC Internationale Berlin,NA,NA
 5,SC Borsigwalde,SC Berliner Amateure,NA,NA
-4,FC Internationale Berlin,BFC Preussen II,NA,NA
-4,DJK Schwarz-Weiß Neukölln,1.FC Schöneberg,NA,NA
-4,BSV 1892,Friedenauer TSC,NA,NA
-4,Berlin Hilalspor,SC Borsigwalde,NA,NA
-4,SC Berliner Amateure,SV Empor Berlin II,NA,NA
-4,SF Johannisthal,SF Charlottenburg-Wilmersdorf 03,NA,NA
-4,Berolina Mitte,Pfeffersport,NA,NA
-4,Berliner SC II,BSV Hürtürkel,NA,NA
+4,FC Internationale Berlin,BFC Preussen II,4,0
+4,DJK Schwarz-Weiß Neukölln,1.FC Schöneberg,0,3
+4,BSV 1892,Friedenauer TSC,1,4
+4,Berlin Hilalspor,SC Borsigwalde,3,2
+4,SC Berliner Amateure,SV Empor Berlin II,2,0
+4,SF Johannisthal,SF Charlottenburg-Wilmersdorf 03,3,1
+4,Berolina Mitte,Pfeffersport,1,3
+4,Berliner SC II,BSV Hürtürkel,1,0
 3,BFC Preussen II,DJK Schwarz-Weiß Neukölln,3,0
 3,Friedenauer TSC,FC Internationale Berlin,1,6
 3,Pfeffersport,SF Johannisthal,0,4

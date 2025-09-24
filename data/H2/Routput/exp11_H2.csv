@@ -1,274 +1,346 @@
 Team,Formation,Anzahl,Total_Spiele,Wahrscheinlichkeit,dreier_kette,vierer_kette,Starting11_Team,Starting11_Position,Starting11_Nummer,Starting11_Name,Starting11_Weighted_Score
-1.FC Schöneberg,4-2-3-1,2,3,67%,Nein,Ja,1.FC Schöneberg,RM,NA,Burak Cabuk,0.76
-1.FC Schöneberg,4-2-3-1,2,3,67%,Nein,Ja,1.FC Schöneberg,ZDM,NA,Sean Franz,0.75
-1.FC Schöneberg,4-2-3-1,2,3,67%,Nein,Ja,1.FC Schöneberg,ZDM,NA,Yildiray Demir,0.74
-1.FC Schöneberg,4-2-3-1,2,3,67%,Nein,Ja,1.FC Schöneberg,RV,NA,Emin Musa Cetintas,0.72
-1.FC Schöneberg,4-2-3-1,2,3,67%,Nein,Ja,1.FC Schöneberg,IV,NA,Kani Özdil,0.72
-1.FC Schöneberg,4-2-3-1,2,3,67%,Nein,Ja,1.FC Schöneberg,LV,NA,Dogukan Degirmenci,0.69
-1.FC Schöneberg,4-2-3-1,2,3,67%,Nein,Ja,1.FC Schöneberg,IV,NA,Radovan-Damjan Stojanovic,0.67
-1.FC Schöneberg,4-2-3-1,2,3,67%,Nein,Ja,1.FC Schöneberg,TW,NA,Janik Meyer,0.63
-1.FC Schöneberg,4-2-3-1,2,3,67%,Nein,Ja,1.FC Schöneberg,LM,NA,Daniel Müller,0
-BFC Preussen II,4-1-3-2,1,3,33%,Nein,Ja,BFC Preussen II,TW,NA,Adam Lamkaddam,0.72
-BFC Preussen II,4-1-3-2,1,3,33%,Nein,Ja,BFC Preussen II,IV,3,Leo Sommerfeld,0.68
-BFC Preussen II,4-1-3-2,1,3,33%,Nein,Ja,BFC Preussen II,ST,29,Georgios Mikelatze,0.68
-BFC Preussen II,4-1-3-2,1,3,33%,Nein,Ja,BFC Preussen II,LM,8,Magnus Stahlberg,0.67
-BFC Preussen II,4-1-3-2,1,3,33%,Nein,Ja,BFC Preussen II,LV,19,Abdallah Ferchichi,0.63
-BFC Preussen II,4-1-3-2,1,3,33%,Nein,Ja,BFC Preussen II,ZDM,30,Yasin Demir,0.62
-BFC Preussen II,4-1-3-2,1,3,33%,Nein,Ja,BFC Preussen II,IV,16,Kiminu Mayoungou,0.59
-BFC Preussen II,4-1-3-2,1,3,33%,Nein,Ja,BFC Preussen II,RV,NA,Jerome Kortebusch,0.59
-BFC Preussen II,4-1-3-2,1,3,33%,Nein,Ja,BFC Preussen II,RM,22,Atacan Özcan,0.59
-BFC Preussen II,4-1-3-2,1,3,33%,Nein,Ja,BFC Preussen II,ST,NA,Ugurcan Yilmaz,0.52
-BFC Preussen II,4-1-3-2,1,3,33%,Nein,Ja,BFC Preussen II,ZOM,13,Rommel Abou-Chaker,0.35
-BFC Preussen II,4-2-3-1,2,3,67%,Nein,Ja,BFC Preussen II,TW,NA,Adam Lamkaddam,0.72
-BFC Preussen II,4-2-3-1,2,3,67%,Nein,Ja,BFC Preussen II,IV,3,Leo Sommerfeld,0.68
-BFC Preussen II,4-2-3-1,2,3,67%,Nein,Ja,BFC Preussen II,ST,29,Georgios Mikelatze,0.68
-BFC Preussen II,4-2-3-1,2,3,67%,Nein,Ja,BFC Preussen II,LM,8,Magnus Stahlberg,0.67
-BFC Preussen II,4-2-3-1,2,3,67%,Nein,Ja,BFC Preussen II,LV,19,Abdallah Ferchichi,0.63
-BFC Preussen II,4-2-3-1,2,3,67%,Nein,Ja,BFC Preussen II,ZDM,30,Yasin Demir,0.62
-BFC Preussen II,4-2-3-1,2,3,67%,Nein,Ja,BFC Preussen II,IV,16,Kiminu Mayoungou,0.59
-BFC Preussen II,4-2-3-1,2,3,67%,Nein,Ja,BFC Preussen II,RV,NA,Jerome Kortebusch,0.59
-BFC Preussen II,4-2-3-1,2,3,67%,Nein,Ja,BFC Preussen II,RM,22,Atacan Özcan,0.59
-BFC Preussen II,4-2-3-1,2,3,67%,Nein,Ja,BFC Preussen II,ZOM,13,Rommel Abou-Chaker,0.35
-BFC Preussen II,4-2-3-1,2,3,67%,Nein,Ja,BFC Preussen II,ZDM,NA,Tim Henseler,0.29
-BSV 1892,3-4-1-2,1,3,33%,Ja,Nein,BSV 1892,TW,NA,Hendrik Lüttschwager,0.73
-BSV 1892,3-4-1-2,1,3,33%,Ja,Nein,BSV 1892,IV,NA,Niklas Jost,0.72
-BSV 1892,3-4-1-2,1,3,33%,Ja,Nein,BSV 1892,ST,NA,David Bellin,0.72
-BSV 1892,3-4-1-2,1,3,33%,Ja,Nein,BSV 1892,IV,NA,Stefano Tedesco,0.72
-BSV 1892,3-4-1-2,1,3,33%,Ja,Nein,BSV 1892,IV,NA,Karl Anker,0.7
-BSV 1892,3-4-1-2,1,3,33%,Ja,Nein,BSV 1892,ZDM,NA,Lennard Schleifenbaum,0.68
-BSV 1892,3-4-1-2,1,3,33%,Ja,Nein,BSV 1892,LM,NA,Tim Paschke,0.68
-BSV 1892,3-4-1-2,1,3,33%,Ja,Nein,BSV 1892,RM,NA,Julius Zauner,0.66
-BSV 1892,3-4-1-2,1,3,33%,Ja,Nein,BSV 1892,ST,NA,Paul Busche,0.64
-BSV 1892,3-4-1-2,1,3,33%,Ja,Nein,BSV 1892,ZOM,NA,Dominik Hinze,0.52
-BSV 1892,4-4-2,1,3,33%,Nein,Ja,BSV 1892,TW,NA,Hendrik Lüttschwager,0.73
-BSV 1892,4-4-2,1,3,33%,Nein,Ja,BSV 1892,IV,NA,Niklas Jost,0.72
-BSV 1892,4-4-2,1,3,33%,Nein,Ja,BSV 1892,ST,NA,David Bellin,0.72
-BSV 1892,4-4-2,1,3,33%,Nein,Ja,BSV 1892,IV,NA,Stefano Tedesco,0.72
-BSV 1892,4-4-2,1,3,33%,Nein,Ja,BSV 1892,RM,NA,Karl Anker,0.7
-BSV 1892,4-4-2,1,3,33%,Nein,Ja,BSV 1892,RV,NA,Nikita Charkov,0.68
-BSV 1892,4-4-2,1,3,33%,Nein,Ja,BSV 1892,ZM,NA,Lennard Schleifenbaum,0.68
-BSV 1892,4-4-2,1,3,33%,Nein,Ja,BSV 1892,LM,NA,Tim Paschke,0.68
-BSV 1892,4-4-2,1,3,33%,Nein,Ja,BSV 1892,ST,NA,Julius Zauner,0.66
-BSV 1892,4-4-2,1,3,33%,Nein,Ja,BSV 1892,ZM,NA,Nick Bechler,0.63
-BSV 1892,4-4-2,1,3,33%,Nein,Ja,BSV 1892,LV,NA,Chidera Iwuozor,0.55
-BSV 1892,5-3-2,1,3,33%,Nein,Nein,BSV 1892,TW,NA,Hendrik Lüttschwager,0.73
-BSV 1892,5-3-2,1,3,33%,Nein,Nein,BSV 1892,IV,NA,Niklas Jost,0.72
-BSV 1892,5-3-2,1,3,33%,Nein,Nein,BSV 1892,ST,NA,David Bellin,0.72
-BSV 1892,5-3-2,1,3,33%,Nein,Nein,BSV 1892,IV,NA,Stefano Tedesco,0.72
-BSV 1892,5-3-2,1,3,33%,Nein,Nein,BSV 1892,IV,NA,Karl Anker,0.7
-BSV 1892,5-3-2,1,3,33%,Nein,Nein,BSV 1892,RV,NA,Nikita Charkov,0.68
-BSV 1892,5-3-2,1,3,33%,Nein,Nein,BSV 1892,ZM,NA,Lennard Schleifenbaum,0.68
-BSV 1892,5-3-2,1,3,33%,Nein,Nein,BSV 1892,ST,NA,Julius Zauner,0.66
-BSV 1892,5-3-2,1,3,33%,Nein,Nein,BSV 1892,ZM,NA,Nick Bechler,0.63
-BSV 1892,5-3-2,1,3,33%,Nein,Nein,BSV 1892,LV,NA,Chidera Iwuozor,0.55
-BSV 1892,5-3-2,1,3,33%,Nein,Nein,BSV 1892,ZM,NA,Benjamin Schnack,0.5
-BSV Hürtürkel,4-2-3-1,2,3,67%,Nein,Ja,BSV Hürtürkel,RM,NA,Leopold Antonius Bussmann,0.7
-BSV Hürtürkel,4-2-3-1,2,3,67%,Nein,Ja,BSV Hürtürkel,TW,NA,Abdullah Usame Karadeniz,0.68
-BSV Hürtürkel,4-2-3-1,2,3,67%,Nein,Ja,BSV Hürtürkel,IV,NA,Ali Tanis,0.63
-BSV Hürtürkel,4-2-3-1,2,3,67%,Nein,Ja,BSV Hürtürkel,ZDM,NA,Harun Efe Kurnaz,0.6
-BSV Hürtürkel,4-2-3-1,2,3,67%,Nein,Ja,BSV Hürtürkel,ST,NA,Kubilay Yilmaz,0.59
-BSV Hürtürkel,4-2-3-1,2,3,67%,Nein,Ja,BSV Hürtürkel,IV,NA,Serkan Türkoglu,0.59
-BSV Hürtürkel,4-2-3-1,2,3,67%,Nein,Ja,BSV Hürtürkel,ZDM,NA,Dursun Tunahan Akdag,0.58
-BSV Hürtürkel,4-2-3-1,2,3,67%,Nein,Ja,BSV Hürtürkel,RV,NA,Emre Kücükodabasi,0.57
-BSV Hürtürkel,4-2-3-1,2,3,67%,Nein,Ja,BSV Hürtürkel,LV,NA,Hamza El Kassem,0.11
-Berlin Hilalspor,4-4-1-1,1,3,33%,Nein,Ja,Berlin Hilalspor,LM,NA,Mohamad-Ali Chawraba,0.69
-Berlin Hilalspor,4-4-1-1,1,3,33%,Nein,Ja,Berlin Hilalspor,ST,NA,Volkan Neziroglu,0.65
-Berlin Hilalspor,4-4-1-1,1,3,33%,Nein,Ja,Berlin Hilalspor,TW,NA,Mohammed Fadel,0.63
-Berlin Hilalspor,4-4-1-1,1,3,33%,Nein,Ja,Berlin Hilalspor,ST,NA,Bilgehan Hancer,0.61
-Berlin Hilalspor,4-4-1-1,1,3,33%,Nein,Ja,Berlin Hilalspor,RM,NA,Armin Asotic,0.6
-Berlin Hilalspor,4-4-1-1,1,3,33%,Nein,Ja,Berlin Hilalspor,IV,NA,Ömer Tanis,0.59
-Berlin Hilalspor,4-4-1-1,1,3,33%,Nein,Ja,Berlin Hilalspor,LV,NA,Mortaza Rahimi,0.59
-Berlin Hilalspor,4-4-1-1,1,3,33%,Nein,Ja,Berlin Hilalspor,IV,NA,Görkem Yilmaz,0.53
-Berlin Hilalspor,4-4-1-1,1,3,33%,Nein,Ja,Berlin Hilalspor,RV,NA,Dogus Güngör,0.48
-Berlin Hilalspor,4-4-1-1,1,3,33%,Nein,Ja,Berlin Hilalspor,ZM,NA,Hasan Köse,0.47
-Berlin Hilalspor,4-4-1-1,1,3,33%,Nein,Ja,Berlin Hilalspor,ZM,NA,Taha Aslan,0.42
-Berlin Hilalspor,4-4-2,2,3,67%,Nein,Ja,Berlin Hilalspor,LM,NA,Mohamad-Ali Chawraba,0.69
-Berlin Hilalspor,4-4-2,2,3,67%,Nein,Ja,Berlin Hilalspor,ST,NA,Volkan Neziroglu,0.65
-Berlin Hilalspor,4-4-2,2,3,67%,Nein,Ja,Berlin Hilalspor,TW,NA,Mohammed Fadel,0.63
-Berlin Hilalspor,4-4-2,2,3,67%,Nein,Ja,Berlin Hilalspor,ST,NA,Bilgehan Hancer,0.61
-Berlin Hilalspor,4-4-2,2,3,67%,Nein,Ja,Berlin Hilalspor,RM,NA,Armin Asotic,0.6
-Berlin Hilalspor,4-4-2,2,3,67%,Nein,Ja,Berlin Hilalspor,IV,NA,Ömer Tanis,0.59
-Berlin Hilalspor,4-4-2,2,3,67%,Nein,Ja,Berlin Hilalspor,LV,NA,Mortaza Rahimi,0.59
-Berlin Hilalspor,4-4-2,2,3,67%,Nein,Ja,Berlin Hilalspor,IV,NA,Görkem Yilmaz,0.53
-Berlin Hilalspor,4-4-2,2,3,67%,Nein,Ja,Berlin Hilalspor,RV,NA,Dogus Güngör,0.48
-Berlin Hilalspor,4-4-2,2,3,67%,Nein,Ja,Berlin Hilalspor,ZM,NA,Hasan Köse,0.47
-Berlin Hilalspor,4-4-2,2,3,67%,Nein,Ja,Berlin Hilalspor,ZM,NA,Taha Aslan,0.42
-Berliner SC II,4-2-2-2,2,3,67%,Nein,Ja,Berliner SC II,TW,21,Jesse Kreuschner,0.75
-Berliner SC II,4-2-2-2,2,3,67%,Nein,Ja,Berliner SC II,ZM,6,Kevin Uwe Einspannier,0.75
-Berliner SC II,4-2-2-2,2,3,67%,Nein,Ja,Berliner SC II,RV,14,Konstantin Joseski,0.74
-Berliner SC II,4-2-2-2,2,3,67%,Nein,Ja,Berliner SC II,IV,19,Tim Niedenhoff,0.72
-Berliner SC II,4-2-2-2,2,3,67%,Nein,Ja,Berliner SC II,IV,5,Dominique Leitner,0.72
-Berliner SC II,4-2-2-2,2,3,67%,Nein,Ja,Berliner SC II,ST,10,Erhan Kücükosman,0.71
-Berliner SC II,4-2-2-2,2,3,67%,Nein,Ja,Berliner SC II,LV,2,Jakob Heilmann,0.69
-Berliner SC II,4-2-2-2,2,3,67%,Nein,Ja,Berliner SC II,ST,7,Linus Dersch,0.61
-Berliner SC II,4-2-2-2,2,3,67%,Nein,Ja,Berliner SC II,ZM,15,Nikolaos Kaggelidids,0.6
-Berliner SC II,4-2-2-2,2,3,67%,Nein,Ja,Berliner SC II,LM,20,Jakob Baum,0.59
-Berliner SC II,4-2-2-2,2,3,67%,Nein,Ja,Berliner SC II,RM,18,Bryan Lilja,0.56
-Berliner SC II,4-4-2,1,3,33%,Nein,Ja,Berliner SC II,TW,21,Jesse Kreuschner,0.75
-Berliner SC II,4-4-2,1,3,33%,Nein,Ja,Berliner SC II,ZM,6,Kevin Uwe Einspannier,0.75
-Berliner SC II,4-4-2,1,3,33%,Nein,Ja,Berliner SC II,RV,14,Konstantin Joseski,0.74
-Berliner SC II,4-4-2,1,3,33%,Nein,Ja,Berliner SC II,IV,19,Tim Niedenhoff,0.72
-Berliner SC II,4-4-2,1,3,33%,Nein,Ja,Berliner SC II,IV,5,Dominique Leitner,0.72
-Berliner SC II,4-4-2,1,3,33%,Nein,Ja,Berliner SC II,ST,10,Erhan Kücükosman,0.71
-Berliner SC II,4-4-2,1,3,33%,Nein,Ja,Berliner SC II,LV,2,Jakob Heilmann,0.69
-Berliner SC II,4-4-2,1,3,33%,Nein,Ja,Berliner SC II,ST,7,Linus Dersch,0.61
-Berliner SC II,4-4-2,1,3,33%,Nein,Ja,Berliner SC II,ZM,15,Nikolaos Kaggelidids,0.6
-Berliner SC II,4-4-2,1,3,33%,Nein,Ja,Berliner SC II,LM,20,Jakob Baum,0.59
-Berliner SC II,4-4-2,1,3,33%,Nein,Ja,Berliner SC II,RM,18,Bryan Lilja,0.56
-Berolina Mitte,4-2-3-1,3,3,100%,Nein,Ja,Berolina Mitte,ZOM,NA,Rio Wermer,0.7
-Berolina Mitte,4-2-3-1,3,3,100%,Nein,Ja,Berolina Mitte,RV,5,Marc Oliver Schlarmann,0.63
-Berolina Mitte,4-2-3-1,3,3,100%,Nein,Ja,Berolina Mitte,IV,NA,Fabio Benabid,0.62
-Berolina Mitte,4-2-3-1,3,3,100%,Nein,Ja,Berolina Mitte,ZDM,4,Yann Metzmacher,0.61
-Berolina Mitte,4-2-3-1,3,3,100%,Nein,Ja,Berolina Mitte,IV,3,Floris Lucas Georgi,0.58
-Berolina Mitte,4-2-3-1,3,3,100%,Nein,Ja,Berolina Mitte,ST,14,Felix Opoku,0.57
-Berolina Mitte,4-2-3-1,3,3,100%,Nein,Ja,Berolina Mitte,LV,NA,Andreas Gefnider,0.54
-Berolina Mitte,4-2-3-1,3,3,100%,Nein,Ja,Berolina Mitte,RM,NA,Leandro Ngomane,0.53
-Berolina Mitte,4-2-3-1,3,3,100%,Nein,Ja,Berolina Mitte,LM,9,Moritz Müller,0.52
-Berolina Mitte,4-2-3-1,3,3,100%,Nein,Ja,Berolina Mitte,TW,20,Tim Wolf-Triebel,0.52
-Berolina Mitte,4-2-3-1,3,3,100%,Nein,Ja,Berolina Mitte,ZDM,7,Valentin Wiegand,0.41
-DJK Schwarz-Weiß Neukölln,4-2-3-1,3,3,100%,Nein,Ja,DJK Schwarz-Weiß Neukölln,LV,NA,Dorian Kühn,0.67
-DJK Schwarz-Weiß Neukölln,4-2-3-1,3,3,100%,Nein,Ja,DJK Schwarz-Weiß Neukölln,RM,NA,Tobias Schmidt,0.67
-DJK Schwarz-Weiß Neukölln,4-2-3-1,3,3,100%,Nein,Ja,DJK Schwarz-Weiß Neukölln,TW,NA,Patrick Boel,0.67
-DJK Schwarz-Weiß Neukölln,4-2-3-1,3,3,100%,Nein,Ja,DJK Schwarz-Weiß Neukölln,LM,NA,Vittorio Achour,0.65
-DJK Schwarz-Weiß Neukölln,4-2-3-1,3,3,100%,Nein,Ja,DJK Schwarz-Weiß Neukölln,ZDM,NA,Christoph Ruden,0.62
-DJK Schwarz-Weiß Neukölln,4-2-3-1,3,3,100%,Nein,Ja,DJK Schwarz-Weiß Neukölln,ST,NA,Norman Guski,0.59
-DJK Schwarz-Weiß Neukölln,4-2-3-1,3,3,100%,Nein,Ja,DJK Schwarz-Weiß Neukölln,RV,NA,Barkan Köprülügil,0.58
-DJK Schwarz-Weiß Neukölln,4-2-3-1,3,3,100%,Nein,Ja,DJK Schwarz-Weiß Neukölln,ZDM,NA,Julian Kirsch,0.54
-DJK Schwarz-Weiß Neukölln,4-2-3-1,3,3,100%,Nein,Ja,DJK Schwarz-Weiß Neukölln,IV,NA,Josip Ramljak,0.54
-DJK Schwarz-Weiß Neukölln,4-2-3-1,3,3,100%,Nein,Ja,DJK Schwarz-Weiß Neukölln,IV,NA,Nico Lindner,0.5
-DJK Schwarz-Weiß Neukölln,4-2-3-1,3,3,100%,Nein,Ja,DJK Schwarz-Weiß Neukölln,ZOM,NA,Alisan Erdogan,0.44
-FC Internationale Berlin,3-4-3,1,3,33%,Ja,Nein,FC Internationale Berlin,ST,NA,Gaston Ignacio Nieto,0.85
-FC Internationale Berlin,3-4-3,1,3,33%,Ja,Nein,FC Internationale Berlin,ST,NA,Nicholas Cartwright Stanley,0.82
-FC Internationale Berlin,3-4-3,1,3,33%,Ja,Nein,FC Internationale Berlin,RM,NA,Santiago Henrich Paya,0.81
-FC Internationale Berlin,3-4-3,1,3,33%,Ja,Nein,FC Internationale Berlin,TW,NA,Alexander Schulze,0.8
-FC Internationale Berlin,3-4-3,1,3,33%,Ja,Nein,FC Internationale Berlin,IV,NA,Jascha Robin Wörteler,0.78
-FC Internationale Berlin,3-4-3,1,3,33%,Ja,Nein,FC Internationale Berlin,LM,NA,Giovanni Marigo,0.75
-FC Internationale Berlin,3-4-3,1,3,33%,Ja,Nein,FC Internationale Berlin,IV,NA,Luis Driemel,0.75
-FC Internationale Berlin,3-4-3,1,3,33%,Ja,Nein,FC Internationale Berlin,IV,NA,Nicolas Costa Echeverria,0.74
-FC Internationale Berlin,3-4-3,1,3,33%,Ja,Nein,FC Internationale Berlin,ZM,NA,Enrique Freitag,0.7
-FC Internationale Berlin,3-4-3,1,3,33%,Ja,Nein,FC Internationale Berlin,ZM,NA,Akiyasu Tsuchiya,0.64
-FC Internationale Berlin,3-4-3,1,3,33%,Ja,Nein,FC Internationale Berlin,ST,NA,Maxwell Stanley,0.64
-FC Internationale Berlin,3-5-2,1,3,33%,Ja,Nein,FC Internationale Berlin,ST,NA,Gaston Ignacio Nieto,0.85
-FC Internationale Berlin,3-5-2,1,3,33%,Ja,Nein,FC Internationale Berlin,ST,NA,Nicholas Cartwright Stanley,0.82
-FC Internationale Berlin,3-5-2,1,3,33%,Ja,Nein,FC Internationale Berlin,RM,NA,Santiago Henrich Paya,0.81
-FC Internationale Berlin,3-5-2,1,3,33%,Ja,Nein,FC Internationale Berlin,TW,NA,Alexander Schulze,0.8
-FC Internationale Berlin,3-5-2,1,3,33%,Ja,Nein,FC Internationale Berlin,IV,NA,Jascha Robin Wörteler,0.78
-FC Internationale Berlin,3-5-2,1,3,33%,Ja,Nein,FC Internationale Berlin,LM,NA,Giovanni Marigo,0.75
-FC Internationale Berlin,3-5-2,1,3,33%,Ja,Nein,FC Internationale Berlin,IV,NA,Luis Driemel,0.75
-FC Internationale Berlin,3-5-2,1,3,33%,Ja,Nein,FC Internationale Berlin,IV,NA,Nicolas Costa Echeverria,0.74
-FC Internationale Berlin,3-5-2,1,3,33%,Ja,Nein,FC Internationale Berlin,ZM,NA,Enrique Freitag,0.7
-FC Internationale Berlin,3-5-2,1,3,33%,Ja,Nein,FC Internationale Berlin,ZM,NA,Akiyasu Tsuchiya,0.64
-FC Internationale Berlin,3-5-2,1,3,33%,Ja,Nein,FC Internationale Berlin,ZM,NA,Franzisko Bätz,0.61
-FC Internationale Berlin,4-1-4-1,1,3,33%,Nein,Ja,FC Internationale Berlin,ST,NA,Gaston Ignacio Nieto,0.85
-FC Internationale Berlin,4-1-4-1,1,3,33%,Nein,Ja,FC Internationale Berlin,RM,NA,Santiago Henrich Paya,0.81
-FC Internationale Berlin,4-1-4-1,1,3,33%,Nein,Ja,FC Internationale Berlin,TW,NA,Alexander Schulze,0.8
-FC Internationale Berlin,4-1-4-1,1,3,33%,Nein,Ja,FC Internationale Berlin,IV,NA,Jascha Robin Wörteler,0.78
-FC Internationale Berlin,4-1-4-1,1,3,33%,Nein,Ja,FC Internationale Berlin,LM,NA,Giovanni Marigo,0.75
-FC Internationale Berlin,4-1-4-1,1,3,33%,Nein,Ja,FC Internationale Berlin,IV,NA,Luis Driemel,0.75
-FC Internationale Berlin,4-1-4-1,1,3,33%,Nein,Ja,FC Internationale Berlin,LV,NA,Antonio Boeddinghaus,0.72
-FC Internationale Berlin,4-1-4-1,1,3,33%,Nein,Ja,FC Internationale Berlin,ZOM,NA,Akiyasu Tsuchiya,0.64
-Friedenauer TSC,4-1-4-1,1,3,33%,Nein,Ja,Friedenauer TSC,RV,NA,Paul Kleinfeldt,0.73
-Friedenauer TSC,4-1-4-1,1,3,33%,Nein,Ja,Friedenauer TSC,IV,NA,Kenney Kojo Sey,0.72
-Friedenauer TSC,4-1-4-1,1,3,33%,Nein,Ja,Friedenauer TSC,ZOM,NA,Marten Niemeyer,0.71
-Friedenauer TSC,4-1-4-1,1,3,33%,Nein,Ja,Friedenauer TSC,RM,NA,Iven Stritzke,0.64
-Friedenauer TSC,4-1-4-1,1,3,33%,Nein,Ja,Friedenauer TSC,LV,NA,Kevin Woithe,0.61
-Friedenauer TSC,4-1-4-1,1,3,33%,Nein,Ja,Friedenauer TSC,TW,NA,Niklas Rother,0.59
-Friedenauer TSC,4-1-4-1,1,3,33%,Nein,Ja,Friedenauer TSC,IV,NA,Finley Fuchs,0.59
-Friedenauer TSC,4-1-4-1,1,3,33%,Nein,Ja,Friedenauer TSC,LM,NA,Joshua Fuchs,0.51
-Friedenauer TSC,4-1-4-1,1,3,33%,Nein,Ja,Friedenauer TSC,ST,NA,Maximilian Reinhard Schubart,0.46
-Friedenauer TSC,4-1-4-1,1,3,33%,Nein,Ja,Friedenauer TSC,ZDM,NA,Theo Prümke,0.45
-Friedenauer TSC,4-1-4-1,1,3,33%,Nein,Ja,Friedenauer TSC,ZOM,NA,Patrick Magiera,0.23
-Pfeffersport,4-3-3,2,3,67%,Nein,Ja,Pfeffersport,LM,NA,Manuel Goudjo Aguigah,0.72
-Pfeffersport,4-3-3,2,3,67%,Nein,Ja,Pfeffersport,RV,NA,Carl Zimmering,0.68
-Pfeffersport,4-3-3,2,3,67%,Nein,Ja,Pfeffersport,ZM,NA,Paul Oskar Schirp,0.66
-Pfeffersport,4-3-3,2,3,67%,Nein,Ja,Pfeffersport,IV,NA,Philipp Pilz,0.65
-Pfeffersport,4-3-3,2,3,67%,Nein,Ja,Pfeffersport,IV,NA,Heinrich Sander,0.65
-Pfeffersport,4-3-3,2,3,67%,Nein,Ja,Pfeffersport,LV,NA,Mohamed Boudlal,0.63
-Pfeffersport,4-3-3,2,3,67%,Nein,Ja,Pfeffersport,TW,NA,Zorc Kolfenbach,0.63
-Pfeffersport,4-3-3,2,3,67%,Nein,Ja,Pfeffersport,ST,NA,Jonathan Grunert,0.62
-Pfeffersport,4-3-3,2,3,67%,Nein,Ja,Pfeffersport,ZM,NA,Julian Marcell,0.56
-Pfeffersport,4-3-3,2,3,67%,Nein,Ja,Pfeffersport,RM,NA,Mohammad Barakat,0.54
-Pfeffersport,4-3-3,2,3,67%,Nein,Ja,Pfeffersport,ZM,NA,Benedict Klenk,0.49
-SC Borsigwalde,3-2-3-2,1,3,33%,Ja,Nein,SC Borsigwalde,IV,NA,Khaled El-Okkla,0.73
-SC Borsigwalde,3-2-3-2,1,3,33%,Ja,Nein,SC Borsigwalde,RM,NA,Nick Thalke,0.73
-SC Borsigwalde,3-2-3-2,1,3,33%,Ja,Nein,SC Borsigwalde,IV,NA,Mohammed Mustafa Acar,0.73
-SC Borsigwalde,3-2-3-2,1,3,33%,Ja,Nein,SC Borsigwalde,ZDM,NA,Kevin Kummer,0.72
-SC Borsigwalde,3-2-3-2,1,3,33%,Ja,Nein,SC Borsigwalde,ZDM,NA,Sadjad Rassuli,0.7
-SC Borsigwalde,3-2-3-2,1,3,33%,Ja,Nein,SC Borsigwalde,ST,NA,Marcel Bubner,0.68
-SC Borsigwalde,3-2-3-2,1,3,33%,Ja,Nein,SC Borsigwalde,TW,NA,Nikola Siljanoski,0.68
-SC Borsigwalde,3-2-3-2,1,3,33%,Ja,Nein,SC Borsigwalde,IV,NA,Prince Selemani Angali,0.63
-SC Borsigwalde,3-2-3-2,1,3,33%,Ja,Nein,SC Borsigwalde,ZOM,NA,Marcel Knaack,0.51
-SC Borsigwalde,3-2-3-2,1,3,33%,Ja,Nein,SC Borsigwalde,ST,NA,Adam Barnat,0.44
-SC Borsigwalde,4-1-4-1,1,3,33%,Nein,Ja,SC Borsigwalde,IV,NA,Khaled El-Okkla,0.73
-SC Borsigwalde,4-1-4-1,1,3,33%,Nein,Ja,SC Borsigwalde,RM,NA,Nick Thalke,0.73
-SC Borsigwalde,4-1-4-1,1,3,33%,Nein,Ja,SC Borsigwalde,IV,NA,Mohammed Mustafa Acar,0.73
-SC Borsigwalde,4-1-4-1,1,3,33%,Nein,Ja,SC Borsigwalde,ZDM,NA,Kevin Kummer,0.72
-SC Borsigwalde,4-1-4-1,1,3,33%,Nein,Ja,SC Borsigwalde,ZOM,NA,Sadjad Rassuli,0.7
-SC Borsigwalde,4-1-4-1,1,3,33%,Nein,Ja,SC Borsigwalde,ST,NA,Marcel Bubner,0.68
-SC Borsigwalde,4-1-4-1,1,3,33%,Nein,Ja,SC Borsigwalde,TW,NA,Nikola Siljanoski,0.68
-SC Borsigwalde,4-1-4-1,1,3,33%,Nein,Ja,SC Borsigwalde,RV,NA,Prince Selemani Angali,0.63
-SC Borsigwalde,4-1-4-1,1,3,33%,Nein,Ja,SC Borsigwalde,LV,NA,Mostafa Kassem,0.61
-SC Borsigwalde,4-1-4-1,1,3,33%,Nein,Ja,SC Borsigwalde,ZOM,NA,Marcel Knaack,0.51
-SF Charlottenburg-Wilmersdorf 03,4-5-1,2,3,67%,Nein,Ja,SF Charlottenburg-Wilmersdorf 03,ZM,NA,Johannes Gehring,0.65
-SF Charlottenburg-Wilmersdorf 03,4-5-1,2,3,67%,Nein,Ja,SF Charlottenburg-Wilmersdorf 03,LM,NA,Maximilian Kocher,0.64
-SF Charlottenburg-Wilmersdorf 03,4-5-1,2,3,67%,Nein,Ja,SF Charlottenburg-Wilmersdorf 03,ST,NA,Bakary Diakite,0.61
-SF Charlottenburg-Wilmersdorf 03,4-5-1,2,3,67%,Nein,Ja,SF Charlottenburg-Wilmersdorf 03,RV,NA,Erik Kosky,0.58
-SF Charlottenburg-Wilmersdorf 03,4-5-1,2,3,67%,Nein,Ja,SF Charlottenburg-Wilmersdorf 03,IV,NA,Koffi Ange Mickael Hermann Yao,0.58
-SF Charlottenburg-Wilmersdorf 03,4-5-1,2,3,67%,Nein,Ja,SF Charlottenburg-Wilmersdorf 03,ZM,NA,Oskar Dornheim,0.54
-SF Charlottenburg-Wilmersdorf 03,4-5-1,2,3,67%,Nein,Ja,SF Charlottenburg-Wilmersdorf 03,TW,NA,Niklas Höhne,0.51
-SF Charlottenburg-Wilmersdorf 03,4-5-1,2,3,67%,Nein,Ja,SF Charlottenburg-Wilmersdorf 03,IV,NA,Lucas Dziadek,0.51
-SF Charlottenburg-Wilmersdorf 03,4-5-1,2,3,67%,Nein,Ja,SF Charlottenburg-Wilmersdorf 03,ZM,NA,Philipp Aufschlag,0.46
-SF Charlottenburg-Wilmersdorf 03,4-5-1,2,3,67%,Nein,Ja,SF Charlottenburg-Wilmersdorf 03,LV,NA,Nicholas Jean-Louis,0.39
-SF Charlottenburg-Wilmersdorf 03,5-4-1,1,3,33%,Nein,Nein,SF Charlottenburg-Wilmersdorf 03,ZM,NA,Johannes Gehring,0.65
-SF Charlottenburg-Wilmersdorf 03,5-4-1,1,3,33%,Nein,Nein,SF Charlottenburg-Wilmersdorf 03,LM,NA,Maximilian Kocher,0.64
-SF Charlottenburg-Wilmersdorf 03,5-4-1,1,3,33%,Nein,Nein,SF Charlottenburg-Wilmersdorf 03,ST,NA,Bakary Diakite,0.61
-SF Charlottenburg-Wilmersdorf 03,5-4-1,1,3,33%,Nein,Nein,SF Charlottenburg-Wilmersdorf 03,RV,NA,Erik Kosky,0.58
-SF Charlottenburg-Wilmersdorf 03,5-4-1,1,3,33%,Nein,Nein,SF Charlottenburg-Wilmersdorf 03,IV,NA,Koffi Ange Mickael Hermann Yao,0.58
-SF Charlottenburg-Wilmersdorf 03,5-4-1,1,3,33%,Nein,Nein,SF Charlottenburg-Wilmersdorf 03,ZM,NA,Oskar Dornheim,0.54
-SF Charlottenburg-Wilmersdorf 03,5-4-1,1,3,33%,Nein,Nein,SF Charlottenburg-Wilmersdorf 03,TW,NA,Niklas Höhne,0.51
-SF Charlottenburg-Wilmersdorf 03,5-4-1,1,3,33%,Nein,Nein,SF Charlottenburg-Wilmersdorf 03,IV,NA,Lucas Dziadek,0.51
-SF Charlottenburg-Wilmersdorf 03,5-4-1,1,3,33%,Nein,Nein,SF Charlottenburg-Wilmersdorf 03,IV,NA,Lasslo Jacobs,0.47
-SF Charlottenburg-Wilmersdorf 03,5-4-1,1,3,33%,Nein,Nein,SF Charlottenburg-Wilmersdorf 03,LV,NA,Nicholas Jean-Louis,0.39
-SF Johannisthal,4-2-3-1,1,3,33%,Nein,Ja,SF Johannisthal,LM,17,Nikolas Müller,0.82
-SF Johannisthal,4-2-3-1,1,3,33%,Nein,Ja,SF Johannisthal,RM,9,Yoshua Lüdtke,0.81
-SF Johannisthal,4-2-3-1,1,3,33%,Nein,Ja,SF Johannisthal,TW,1,Toni Ölke,0.8
-SF Johannisthal,4-2-3-1,1,3,33%,Nein,Ja,SF Johannisthal,IV,2,Lars Walden,0.8
-SF Johannisthal,4-2-3-1,1,3,33%,Nein,Ja,SF Johannisthal,RV,11,Lukas Olff,0.78
-SF Johannisthal,4-2-3-1,1,3,33%,Nein,Ja,SF Johannisthal,LV,4,Jakob Dörre,0.74
-SF Johannisthal,4-2-3-1,1,3,33%,Nein,Ja,SF Johannisthal,ZDM,6,Colin Gonda,0.7
-SF Johannisthal,4-2-3-1,1,3,33%,Nein,Ja,SF Johannisthal,ST,10,Lukas Ferl,0.7
-SF Johannisthal,4-2-3-1,1,3,33%,Nein,Ja,SF Johannisthal,ZDM,7,Jonathan Behrend,0.69
-SF Johannisthal,4-2-3-1,1,3,33%,Nein,Ja,SF Johannisthal,IV,3,Yannik Pilz,0.61
-SF Johannisthal,4-3-3,2,3,67%,Nein,Ja,SF Johannisthal,LM,17,Nikolas Müller,0.82
-SF Johannisthal,4-3-3,2,3,67%,Nein,Ja,SF Johannisthal,RM,9,Yoshua Lüdtke,0.81
-SF Johannisthal,4-3-3,2,3,67%,Nein,Ja,SF Johannisthal,TW,1,Toni Ölke,0.8
-SF Johannisthal,4-3-3,2,3,67%,Nein,Ja,SF Johannisthal,IV,2,Lars Walden,0.8
-SF Johannisthal,4-3-3,2,3,67%,Nein,Ja,SF Johannisthal,RV,11,Lukas Olff,0.78
-SF Johannisthal,4-3-3,2,3,67%,Nein,Ja,SF Johannisthal,LV,4,Jakob Dörre,0.74
-SF Johannisthal,4-3-3,2,3,67%,Nein,Ja,SF Johannisthal,ZM,31,Max Mittelstädt,0.73
-SF Johannisthal,4-3-3,2,3,67%,Nein,Ja,SF Johannisthal,ZM,6,Colin Gonda,0.7
-SF Johannisthal,4-3-3,2,3,67%,Nein,Ja,SF Johannisthal,ST,10,Lukas Ferl,0.7
-SF Johannisthal,4-3-3,2,3,67%,Nein,Ja,SF Johannisthal,ZM,7,Jonathan Behrend,0.69
-SF Johannisthal,4-3-3,2,3,67%,Nein,Ja,SF Johannisthal,IV,3,Yannik Pilz,0.61
-SV Empor Berlin II,4-2-3-1,1,3,33%,Nein,Ja,SV Empor Berlin II,LM,12,Billy Bradley Tuckerman,0.67
-SV Empor Berlin II,4-2-3-1,1,3,33%,Nein,Ja,SV Empor Berlin II,TW,33,Janne Henrik Bloch,0.63
-SV Empor Berlin II,4-2-3-1,1,3,33%,Nein,Ja,SV Empor Berlin II,ZDM,18,Emile Ako,0.62
-SV Empor Berlin II,4-2-3-1,1,3,33%,Nein,Ja,SV Empor Berlin II,IV,4,Marian Popp,0.62
-SV Empor Berlin II,4-2-3-1,1,3,33%,Nein,Ja,SV Empor Berlin II,RM,3,Niclas Nixdorf,0.6
-SV Empor Berlin II,4-2-3-1,1,3,33%,Nein,Ja,SV Empor Berlin II,IV,5,Jannick Wollmann,0.59
-SV Empor Berlin II,4-2-3-1,1,3,33%,Nein,Ja,SV Empor Berlin II,LV,15,Philipp Macketanz,0.57
-SV Empor Berlin II,4-2-3-1,1,3,33%,Nein,Ja,SV Empor Berlin II,ST,9,Nico Bochnia,0.57
-SV Empor Berlin II,4-2-3-1,1,3,33%,Nein,Ja,SV Empor Berlin II,ZDM,17,Julian Duczmal,0.57
-SV Empor Berlin II,4-2-3-1,1,3,33%,Nein,Ja,SV Empor Berlin II,RV,2,Pascal Bräkow,0.55
-SV Empor Berlin II,4-2-3-1,1,3,33%,Nein,Ja,SV Empor Berlin II,ZOM,NA,Anushan Rajaratnam,0.47
-SV Empor Berlin II,4-4-2,1,3,33%,Nein,Ja,SV Empor Berlin II,LM,12,Billy Bradley Tuckerman,0.67
-SV Empor Berlin II,4-4-2,1,3,33%,Nein,Ja,SV Empor Berlin II,TW,33,Janne Henrik Bloch,0.63
-SV Empor Berlin II,4-4-2,1,3,33%,Nein,Ja,SV Empor Berlin II,ZM,18,Emile Ako,0.62
-SV Empor Berlin II,4-4-2,1,3,33%,Nein,Ja,SV Empor Berlin II,IV,4,Marian Popp,0.62
-SV Empor Berlin II,4-4-2,1,3,33%,Nein,Ja,SV Empor Berlin II,RM,3,Niclas Nixdorf,0.6
-SV Empor Berlin II,4-4-2,1,3,33%,Nein,Ja,SV Empor Berlin II,IV,5,Jannick Wollmann,0.59
-SV Empor Berlin II,4-4-2,1,3,33%,Nein,Ja,SV Empor Berlin II,LV,15,Philipp Macketanz,0.57
-SV Empor Berlin II,4-4-2,1,3,33%,Nein,Ja,SV Empor Berlin II,ST,9,Nico Bochnia,0.57
-SV Empor Berlin II,4-4-2,1,3,33%,Nein,Ja,SV Empor Berlin II,ZM,17,Julian Duczmal,0.57
-SV Empor Berlin II,4-4-2,1,3,33%,Nein,Ja,SV Empor Berlin II,ST,19,Rafael Mentrup,0.56
-SV Empor Berlin II,4-4-2,1,3,33%,Nein,Ja,SV Empor Berlin II,RV,2,Pascal Bräkow,0.55
+1.FC Schöneberg,4-2-3-1,3,4,75%,Nein,Ja,1.FC Schöneberg,ZOM,NA,Yildiray Demir,0.78
+1.FC Schöneberg,4-2-3-1,3,4,75%,Nein,Ja,1.FC Schöneberg,ZDM,NA,Burak Cabuk,0.78
+1.FC Schöneberg,4-2-3-1,3,4,75%,Nein,Ja,1.FC Schöneberg,RV,NA,Emin Musa Cetintas,0.75
+1.FC Schöneberg,4-2-3-1,3,4,75%,Nein,Ja,1.FC Schöneberg,IV,NA,Kani Özdil,0.74
+1.FC Schöneberg,4-2-3-1,3,4,75%,Nein,Ja,1.FC Schöneberg,LV,NA,Atakan Gündogdu,0.7
+1.FC Schöneberg,4-2-3-1,3,4,75%,Nein,Ja,1.FC Schöneberg,ZDM,NA,Radovan-Damjan Stojanovic,0.69
+1.FC Schöneberg,4-2-3-1,3,4,75%,Nein,Ja,1.FC Schöneberg,LM,NA,Daniel Müller,0.61
+1.FC Schöneberg,4-2-3-1,3,4,75%,Nein,Ja,1.FC Schöneberg,TW,NA,Janik Meyer,0.61
+1.FC Schöneberg,4-2-3-1,3,4,75%,Nein,Ja,1.FC Schöneberg,IV,NA,Youssef Fakhro,0.58
+1.FC Schöneberg,4-2-3-1,3,4,75%,Nein,Ja,1.FC Schöneberg,RM,NA,Dolunay Sabahat,0.48
+BFC Preussen II,4-1-3-2,1,4,25%,Nein,Ja,BFC Preussen II,IV,3,Leo Sommerfeld,0.66
+BFC Preussen II,4-1-3-2,1,4,25%,Nein,Ja,BFC Preussen II,LM,8,Magnus Stahlberg,0.65
+BFC Preussen II,4-1-3-2,1,4,25%,Nein,Ja,BFC Preussen II,ST,29,Georgios Mikelatze,0.65
+BFC Preussen II,4-1-3-2,1,4,25%,Nein,Ja,BFC Preussen II,TW,NA,Adam Lamkaddam,0.61
+BFC Preussen II,4-1-3-2,1,4,25%,Nein,Ja,BFC Preussen II,LV,19,Abdallah Ferchichi,0.57
+BFC Preussen II,4-1-3-2,1,4,25%,Nein,Ja,BFC Preussen II,ZOM,30,Yasin Demir,0.56
+BFC Preussen II,4-1-3-2,1,4,25%,Nein,Ja,BFC Preussen II,RV,NA,Jerome Kortebusch,0.55
+BFC Preussen II,4-1-3-2,1,4,25%,Nein,Ja,BFC Preussen II,RM,22,Atacan Özcan,0.53
+BFC Preussen II,4-1-3-2,1,4,25%,Nein,Ja,BFC Preussen II,IV,16,Kiminu Mayoungou,0.52
+BFC Preussen II,4-1-3-2,1,4,25%,Nein,Ja,BFC Preussen II,ST,NA,Ugurcan Yilmaz,0.49
+BFC Preussen II,4-1-3-2,1,4,25%,Nein,Ja,BFC Preussen II,ZDM,NA,Tim Henseler,0.27
+BFC Preussen II,4-2-3-1,2,4,50%,Nein,Ja,BFC Preussen II,IV,3,Leo Sommerfeld,0.66
+BFC Preussen II,4-2-3-1,2,4,50%,Nein,Ja,BFC Preussen II,LM,8,Magnus Stahlberg,0.65
+BFC Preussen II,4-2-3-1,2,4,50%,Nein,Ja,BFC Preussen II,ST,29,Georgios Mikelatze,0.65
+BFC Preussen II,4-2-3-1,2,4,50%,Nein,Ja,BFC Preussen II,TW,NA,Adam Lamkaddam,0.61
+BFC Preussen II,4-2-3-1,2,4,50%,Nein,Ja,BFC Preussen II,LV,19,Abdallah Ferchichi,0.57
+BFC Preussen II,4-2-3-1,2,4,50%,Nein,Ja,BFC Preussen II,ZOM,30,Yasin Demir,0.56
+BFC Preussen II,4-2-3-1,2,4,50%,Nein,Ja,BFC Preussen II,RV,NA,Jerome Kortebusch,0.55
+BFC Preussen II,4-2-3-1,2,4,50%,Nein,Ja,BFC Preussen II,RM,22,Atacan Özcan,0.53
+BFC Preussen II,4-2-3-1,2,4,50%,Nein,Ja,BFC Preussen II,IV,16,Kiminu Mayoungou,0.52
+BFC Preussen II,4-2-3-1,2,4,50%,Nein,Ja,BFC Preussen II,ZDM,NA,Tim Henseler,0.27
+BFC Preussen II,4-4-2,1,4,25%,Nein,Ja,BFC Preussen II,IV,3,Leo Sommerfeld,0.66
+BFC Preussen II,4-4-2,1,4,25%,Nein,Ja,BFC Preussen II,LM,8,Magnus Stahlberg,0.65
+BFC Preussen II,4-4-2,1,4,25%,Nein,Ja,BFC Preussen II,ST,29,Georgios Mikelatze,0.65
+BFC Preussen II,4-4-2,1,4,25%,Nein,Ja,BFC Preussen II,TW,NA,Adam Lamkaddam,0.61
+BFC Preussen II,4-4-2,1,4,25%,Nein,Ja,BFC Preussen II,LV,19,Abdallah Ferchichi,0.57
+BFC Preussen II,4-4-2,1,4,25%,Nein,Ja,BFC Preussen II,RV,NA,Jerome Kortebusch,0.55
+BFC Preussen II,4-4-2,1,4,25%,Nein,Ja,BFC Preussen II,RM,22,Atacan Özcan,0.53
+BFC Preussen II,4-4-2,1,4,25%,Nein,Ja,BFC Preussen II,IV,16,Kiminu Mayoungou,0.52
+BFC Preussen II,4-4-2,1,4,25%,Nein,Ja,BFC Preussen II,ST,NA,Ugurcan Yilmaz,0.49
+BSV 1892,3-4-1-2,1,4,25%,Ja,Nein,BSV 1892,TW,NA,Hendrik Lüttschwager,0.69
+BSV 1892,3-4-1-2,1,4,25%,Ja,Nein,BSV 1892,IV,NA,Niklas Jost,0.67
+BSV 1892,3-4-1-2,1,4,25%,Ja,Nein,BSV 1892,ST,NA,David Bellin,0.67
+BSV 1892,3-4-1-2,1,4,25%,Ja,Nein,BSV 1892,IV,NA,Stefano Tedesco,0.66
+BSV 1892,3-4-1-2,1,4,25%,Ja,Nein,BSV 1892,ST,NA,Julius Zauner,0.65
+BSV 1892,3-4-1-2,1,4,25%,Ja,Nein,BSV 1892,ZDM,NA,Lennard Schleifenbaum,0.65
+BSV 1892,3-4-1-2,1,4,25%,Ja,Nein,BSV 1892,IV,NA,Karl Anker,0.62
+BSV 1892,3-4-1-2,1,4,25%,Ja,Nein,BSV 1892,LM,NA,Tim Paschke,0.61
+BSV 1892,3-4-1-2,1,4,25%,Ja,Nein,BSV 1892,RM,NA,Nikita Charkov,0.56
+BSV 1892,3-4-1-2,1,4,25%,Ja,Nein,BSV 1892,ZOM,NA,Dominik Hinze,0.52
+BSV 1892,4-4-2,2,4,50%,Nein,Ja,BSV 1892,TW,NA,Hendrik Lüttschwager,0.69
+BSV 1892,4-4-2,2,4,50%,Nein,Ja,BSV 1892,IV,NA,Niklas Jost,0.67
+BSV 1892,4-4-2,2,4,50%,Nein,Ja,BSV 1892,ST,NA,David Bellin,0.67
+BSV 1892,4-4-2,2,4,50%,Nein,Ja,BSV 1892,IV,NA,Stefano Tedesco,0.66
+BSV 1892,4-4-2,2,4,50%,Nein,Ja,BSV 1892,ST,NA,Julius Zauner,0.65
+BSV 1892,4-4-2,2,4,50%,Nein,Ja,BSV 1892,ZM,NA,Lennard Schleifenbaum,0.65
+BSV 1892,4-4-2,2,4,50%,Nein,Ja,BSV 1892,RV,NA,Karl Anker,0.62
+BSV 1892,4-4-2,2,4,50%,Nein,Ja,BSV 1892,ZM,NA,Tim Paschke,0.61
+BSV 1892,4-4-2,2,4,50%,Nein,Ja,BSV 1892,RM,NA,Nikita Charkov,0.56
+BSV 1892,4-4-2,2,4,50%,Nein,Ja,BSV 1892,LV,NA,Chidera Iwuozor,0.5
+BSV 1892,4-4-2,2,4,50%,Nein,Ja,BSV 1892,LM,NA,Joscha Yanar,0.46
+BSV 1892,5-3-2,1,4,25%,Nein,Nein,BSV 1892,TW,NA,Hendrik Lüttschwager,0.69
+BSV 1892,5-3-2,1,4,25%,Nein,Nein,BSV 1892,IV,NA,Niklas Jost,0.67
+BSV 1892,5-3-2,1,4,25%,Nein,Nein,BSV 1892,ST,NA,David Bellin,0.67
+BSV 1892,5-3-2,1,4,25%,Nein,Nein,BSV 1892,IV,NA,Stefano Tedesco,0.66
+BSV 1892,5-3-2,1,4,25%,Nein,Nein,BSV 1892,ST,NA,Julius Zauner,0.65
+BSV 1892,5-3-2,1,4,25%,Nein,Nein,BSV 1892,ZM,NA,Lennard Schleifenbaum,0.65
+BSV 1892,5-3-2,1,4,25%,Nein,Nein,BSV 1892,RV,NA,Karl Anker,0.62
+BSV 1892,5-3-2,1,4,25%,Nein,Nein,BSV 1892,ZM,NA,Tim Paschke,0.61
+BSV 1892,5-3-2,1,4,25%,Nein,Nein,BSV 1892,IV,NA,Nick Bechler,0.59
+BSV 1892,5-3-2,1,4,25%,Nein,Nein,BSV 1892,LV,NA,Chidera Iwuozor,0.5
+BSV 1892,5-3-2,1,4,25%,Nein,Nein,BSV 1892,ZM,NA,Benjamin Schnack,0.46
+BSV Hürtürkel,4-2-3-1,3,4,75%,Nein,Ja,BSV Hürtürkel,RM,NA,Leopold Antonius Bussmann,0.68
+BSV Hürtürkel,4-2-3-1,3,4,75%,Nein,Ja,BSV Hürtürkel,IV,NA,Ali Tanis,0.61
+BSV Hürtürkel,4-2-3-1,3,4,75%,Nein,Ja,BSV Hürtürkel,TW,NA,Abdullah Usame Karadeniz,0.58
+BSV Hürtürkel,4-2-3-1,3,4,75%,Nein,Ja,BSV Hürtürkel,ST,NA,Kubilay Yilmaz,0.57
+BSV Hürtürkel,4-2-3-1,3,4,75%,Nein,Ja,BSV Hürtürkel,IV,NA,Serkan Türkoglu,0.57
+BSV Hürtürkel,4-2-3-1,3,4,75%,Nein,Ja,BSV Hürtürkel,ZDM,NA,Harun Efe Kurnaz,0.56
+BSV Hürtürkel,4-2-3-1,3,4,75%,Nein,Ja,BSV Hürtürkel,ZDM,NA,Dursun Tunahan Akdag,0.53
+BSV Hürtürkel,4-2-3-1,3,4,75%,Nein,Ja,BSV Hürtürkel,RV,NA,Emre Kücükodabasi,0.52
+BSV Hürtürkel,4-2-3-1,3,4,75%,Nein,Ja,BSV Hürtürkel,LV,NA,Younes Missaoui,0.41
+Berlin Hilalspor,4-2-3-1,1,4,25%,Nein,Ja,Berlin Hilalspor,ST,NA,Volkan Neziroglu,0.73
+Berlin Hilalspor,4-2-3-1,1,4,25%,Nein,Ja,Berlin Hilalspor,RV,NA,Mortaza Rahimi,0.66
+Berlin Hilalspor,4-2-3-1,1,4,25%,Nein,Ja,Berlin Hilalspor,IV,NA,Görkem Yilmaz,0.66
+Berlin Hilalspor,4-2-3-1,1,4,25%,Nein,Ja,Berlin Hilalspor,ZOM,NA,Bilgehan Hancer,0.65
+Berlin Hilalspor,4-2-3-1,1,4,25%,Nein,Ja,Berlin Hilalspor,IV,NA,Ömer Tanis,0.62
+Berlin Hilalspor,4-2-3-1,1,4,25%,Nein,Ja,Berlin Hilalspor,LM,NA,Mohamad-Ali Chawraba,0.62
+Berlin Hilalspor,4-2-3-1,1,4,25%,Nein,Ja,Berlin Hilalspor,TW,NA,Chakourou Garba,0.61
+Berlin Hilalspor,4-2-3-1,1,4,25%,Nein,Ja,Berlin Hilalspor,RM,NA,Ramdane Wahabou,0.59
+Berlin Hilalspor,4-2-3-1,1,4,25%,Nein,Ja,Berlin Hilalspor,LV,NA,Willy Akanakimana,0.55
+Berlin Hilalspor,4-2-3-1,1,4,25%,Nein,Ja,Berlin Hilalspor,ZDM,NA,Samet Balci,0.41
+Berlin Hilalspor,4-2-3-1,1,4,25%,Nein,Ja,Berlin Hilalspor,ZDM,NA,Ilker Hasret Demir,0.32
+Berlin Hilalspor,4-4-1-1,1,4,25%,Nein,Ja,Berlin Hilalspor,ST,NA,Volkan Neziroglu,0.73
+Berlin Hilalspor,4-4-1-1,1,4,25%,Nein,Ja,Berlin Hilalspor,RV,NA,Mortaza Rahimi,0.66
+Berlin Hilalspor,4-4-1-1,1,4,25%,Nein,Ja,Berlin Hilalspor,ST,NA,Görkem Yilmaz,0.66
+Berlin Hilalspor,4-4-1-1,1,4,25%,Nein,Ja,Berlin Hilalspor,IV,NA,Ömer Tanis,0.62
+Berlin Hilalspor,4-4-1-1,1,4,25%,Nein,Ja,Berlin Hilalspor,LM,NA,Mohamad-Ali Chawraba,0.62
+Berlin Hilalspor,4-4-1-1,1,4,25%,Nein,Ja,Berlin Hilalspor,TW,NA,Chakourou Garba,0.61
+Berlin Hilalspor,4-4-1-1,1,4,25%,Nein,Ja,Berlin Hilalspor,RM,NA,Ramdane Wahabou,0.59
+Berlin Hilalspor,4-4-1-1,1,4,25%,Nein,Ja,Berlin Hilalspor,LV,NA,Willy Akanakimana,0.55
+Berlin Hilalspor,4-4-1-1,1,4,25%,Nein,Ja,Berlin Hilalspor,IV,NA,Ensar Gün,0.45
+Berlin Hilalspor,4-4-1-1,1,4,25%,Nein,Ja,Berlin Hilalspor,ZM,NA,Taha Aslan,0.41
+Berlin Hilalspor,4-4-1-1,1,4,25%,Nein,Ja,Berlin Hilalspor,ZM,NA,Hasan Köse,0.41
+Berlin Hilalspor,4-4-2,2,4,50%,Nein,Ja,Berlin Hilalspor,ST,NA,Volkan Neziroglu,0.73
+Berlin Hilalspor,4-4-2,2,4,50%,Nein,Ja,Berlin Hilalspor,RV,NA,Mortaza Rahimi,0.66
+Berlin Hilalspor,4-4-2,2,4,50%,Nein,Ja,Berlin Hilalspor,ST,NA,Görkem Yilmaz,0.66
+Berlin Hilalspor,4-4-2,2,4,50%,Nein,Ja,Berlin Hilalspor,IV,NA,Ömer Tanis,0.62
+Berlin Hilalspor,4-4-2,2,4,50%,Nein,Ja,Berlin Hilalspor,LM,NA,Mohamad-Ali Chawraba,0.62
+Berlin Hilalspor,4-4-2,2,4,50%,Nein,Ja,Berlin Hilalspor,TW,NA,Chakourou Garba,0.61
+Berlin Hilalspor,4-4-2,2,4,50%,Nein,Ja,Berlin Hilalspor,RM,NA,Ramdane Wahabou,0.59
+Berlin Hilalspor,4-4-2,2,4,50%,Nein,Ja,Berlin Hilalspor,LV,NA,Willy Akanakimana,0.55
+Berlin Hilalspor,4-4-2,2,4,50%,Nein,Ja,Berlin Hilalspor,IV,NA,Ensar Gün,0.45
+Berlin Hilalspor,4-4-2,2,4,50%,Nein,Ja,Berlin Hilalspor,ZM,NA,Taha Aslan,0.41
+Berlin Hilalspor,4-4-2,2,4,50%,Nein,Ja,Berlin Hilalspor,ZM,NA,Hasan Köse,0.41
+Berliner SC II,4-2-2-2,3,4,75%,Nein,Ja,Berliner SC II,ZM,6,Kevin Uwe Einspannier,0.77
+Berliner SC II,4-2-2-2,3,4,75%,Nein,Ja,Berliner SC II,RM,14,Konstantin Joseski,0.75
+Berliner SC II,4-2-2-2,3,4,75%,Nein,Ja,Berliner SC II,IV,5,Dominique Leitner,0.74
+Berliner SC II,4-2-2-2,3,4,75%,Nein,Ja,Berliner SC II,ST,10,Erhan Kücükosman,0.73
+Berliner SC II,4-2-2-2,3,4,75%,Nein,Ja,Berliner SC II,LV,2,Jakob Heilmann,0.72
+Berliner SC II,4-2-2-2,3,4,75%,Nein,Ja,Berliner SC II,IV,19,Tim Niedenhoff,0.72
+Berliner SC II,4-2-2-2,3,4,75%,Nein,Ja,Berliner SC II,RV,0,Simon Riedel,0.7
+Berliner SC II,4-2-2-2,3,4,75%,Nein,Ja,Berliner SC II,ST,7,Linus Dersch,0.7
+Berliner SC II,4-2-2-2,3,4,75%,Nein,Ja,Berliner SC II,TW,21,Jesse Kreuschner,0.69
+Berliner SC II,4-2-2-2,3,4,75%,Nein,Ja,Berliner SC II,ZM,15,Nikolaos Kaggelidids,0.66
+Berliner SC II,4-2-2-2,3,4,75%,Nein,Ja,Berliner SC II,LM,18,Bryan Lilja,0.61
+Berliner SC II,4-4-2,1,4,25%,Nein,Ja,Berliner SC II,ZM,6,Kevin Uwe Einspannier,0.77
+Berliner SC II,4-4-2,1,4,25%,Nein,Ja,Berliner SC II,RM,14,Konstantin Joseski,0.75
+Berliner SC II,4-4-2,1,4,25%,Nein,Ja,Berliner SC II,IV,5,Dominique Leitner,0.74
+Berliner SC II,4-4-2,1,4,25%,Nein,Ja,Berliner SC II,ST,10,Erhan Kücükosman,0.73
+Berliner SC II,4-4-2,1,4,25%,Nein,Ja,Berliner SC II,LV,2,Jakob Heilmann,0.72
+Berliner SC II,4-4-2,1,4,25%,Nein,Ja,Berliner SC II,IV,19,Tim Niedenhoff,0.72
+Berliner SC II,4-4-2,1,4,25%,Nein,Ja,Berliner SC II,RV,0,Simon Riedel,0.7
+Berliner SC II,4-4-2,1,4,25%,Nein,Ja,Berliner SC II,ST,7,Linus Dersch,0.7
+Berliner SC II,4-4-2,1,4,25%,Nein,Ja,Berliner SC II,TW,21,Jesse Kreuschner,0.69
+Berliner SC II,4-4-2,1,4,25%,Nein,Ja,Berliner SC II,ZM,15,Nikolaos Kaggelidids,0.66
+Berliner SC II,4-4-2,1,4,25%,Nein,Ja,Berliner SC II,LM,18,Bryan Lilja,0.61
+Berolina Mitte,4-2-3-1,4,4,100%,Nein,Ja,Berolina Mitte,ZDM,NA,Rio Wermer,0.6
+Berolina Mitte,4-2-3-1,4,4,100%,Nein,Ja,Berolina Mitte,RV,5,Marc Oliver Schlarmann,0.59
+Berolina Mitte,4-2-3-1,4,4,100%,Nein,Ja,Berolina Mitte,IV,3,Floris Lucas Georgi,0.58
+Berolina Mitte,4-2-3-1,4,4,100%,Nein,Ja,Berolina Mitte,IV,NA,Fabio Benabid,0.58
+Berolina Mitte,4-2-3-1,4,4,100%,Nein,Ja,Berolina Mitte,ST,14,Felix Opoku,0.57
+Berolina Mitte,4-2-3-1,4,4,100%,Nein,Ja,Berolina Mitte,ZDM,4,Yann Metzmacher,0.54
+Berolina Mitte,4-2-3-1,4,4,100%,Nein,Ja,Berolina Mitte,RM,NA,Leandro Ngomane,0.52
+Berolina Mitte,4-2-3-1,4,4,100%,Nein,Ja,Berolina Mitte,TW,20,Tim Wolf-Triebel,0.51
+Berolina Mitte,4-2-3-1,4,4,100%,Nein,Ja,Berolina Mitte,LV,NA,Andreas Gefnider,0.5
+Berolina Mitte,4-2-3-1,4,4,100%,Nein,Ja,Berolina Mitte,ZOM,19,Steven Buchweitz,0.49
+Berolina Mitte,4-2-3-1,4,4,100%,Nein,Ja,Berolina Mitte,LM,9,Moritz Müller,0.48
+DJK Schwarz-Weiß Neukölln,4-2-3-1,4,4,100%,Nein,Ja,DJK Schwarz-Weiß Neukölln,LV,NA,Dorian Kühn,0.65
+DJK Schwarz-Weiß Neukölln,4-2-3-1,4,4,100%,Nein,Ja,DJK Schwarz-Weiß Neukölln,RM,NA,Tobias Schmidt,0.64
+DJK Schwarz-Weiß Neukölln,4-2-3-1,4,4,100%,Nein,Ja,DJK Schwarz-Weiß Neukölln,TW,NA,Patrick Boel,0.64
+DJK Schwarz-Weiß Neukölln,4-2-3-1,4,4,100%,Nein,Ja,DJK Schwarz-Weiß Neukölln,ZDM,NA,Christoph Ruden,0.61
+DJK Schwarz-Weiß Neukölln,4-2-3-1,4,4,100%,Nein,Ja,DJK Schwarz-Weiß Neukölln,RV,NA,Barkan Köprülügil,0.58
+DJK Schwarz-Weiß Neukölln,4-2-3-1,4,4,100%,Nein,Ja,DJK Schwarz-Weiß Neukölln,LM,NA,Vittorio Achour,0.57
+DJK Schwarz-Weiß Neukölln,4-2-3-1,4,4,100%,Nein,Ja,DJK Schwarz-Weiß Neukölln,ST,NA,Norman Guski,0.53
+DJK Schwarz-Weiß Neukölln,4-2-3-1,4,4,100%,Nein,Ja,DJK Schwarz-Weiß Neukölln,IV,NA,Josip Ramljak,0.53
+DJK Schwarz-Weiß Neukölln,4-2-3-1,4,4,100%,Nein,Ja,DJK Schwarz-Weiß Neukölln,ZDM,NA,Julian Kirsch,0.49
+DJK Schwarz-Weiß Neukölln,4-2-3-1,4,4,100%,Nein,Ja,DJK Schwarz-Weiß Neukölln,IV,NA,Nico Lindner,0.45
+DJK Schwarz-Weiß Neukölln,4-2-3-1,4,4,100%,Nein,Ja,DJK Schwarz-Weiß Neukölln,ZOM,NA,Alisan Erdogan,0.42
+FC Internationale Berlin,3-4-3,2,4,50%,Ja,Nein,FC Internationale Berlin,ST,NA,Gaston Ignacio Nieto,0.84
+FC Internationale Berlin,3-4-3,2,4,50%,Ja,Nein,FC Internationale Berlin,RM,NA,Santiago Henrich Paya,0.83
+FC Internationale Berlin,3-4-3,2,4,50%,Ja,Nein,FC Internationale Berlin,ST,NA,Nicholas Cartwright Stanley,0.82
+FC Internationale Berlin,3-4-3,2,4,50%,Ja,Nein,FC Internationale Berlin,LM,NA,Giovanni Marigo,0.77
+FC Internationale Berlin,3-4-3,2,4,50%,Ja,Nein,FC Internationale Berlin,IV,NA,Jascha Robin Wörteler,0.75
+FC Internationale Berlin,3-4-3,2,4,50%,Ja,Nein,FC Internationale Berlin,IV,NA,Nicolas Costa Echeverria,0.75
+FC Internationale Berlin,3-4-3,2,4,50%,Ja,Nein,FC Internationale Berlin,TW,NA,Alexander Schulze,0.74
+FC Internationale Berlin,3-4-3,2,4,50%,Ja,Nein,FC Internationale Berlin,IV,NA,Luis Driemel,0.74
+FC Internationale Berlin,3-4-3,2,4,50%,Ja,Nein,FC Internationale Berlin,ST,NA,Maxwell Stanley,0.67
+FC Internationale Berlin,3-4-3,2,4,50%,Ja,Nein,FC Internationale Berlin,ZM,NA,Enrique Freitag,0.66
+FC Internationale Berlin,3-4-3,2,4,50%,Ja,Nein,FC Internationale Berlin,ZM,NA,Akiyasu Tsuchiya,0.65
+FC Internationale Berlin,3-5-2,1,4,25%,Ja,Nein,FC Internationale Berlin,ST,NA,Gaston Ignacio Nieto,0.84
+FC Internationale Berlin,3-5-2,1,4,25%,Ja,Nein,FC Internationale Berlin,RM,NA,Santiago Henrich Paya,0.83
+FC Internationale Berlin,3-5-2,1,4,25%,Ja,Nein,FC Internationale Berlin,ST,NA,Nicholas Cartwright Stanley,0.82
+FC Internationale Berlin,3-5-2,1,4,25%,Ja,Nein,FC Internationale Berlin,LM,NA,Giovanni Marigo,0.77
+FC Internationale Berlin,3-5-2,1,4,25%,Ja,Nein,FC Internationale Berlin,IV,NA,Jascha Robin Wörteler,0.75
+FC Internationale Berlin,3-5-2,1,4,25%,Ja,Nein,FC Internationale Berlin,IV,NA,Nicolas Costa Echeverria,0.75
+FC Internationale Berlin,3-5-2,1,4,25%,Ja,Nein,FC Internationale Berlin,TW,NA,Alexander Schulze,0.74
+FC Internationale Berlin,3-5-2,1,4,25%,Ja,Nein,FC Internationale Berlin,IV,NA,Luis Driemel,0.74
+FC Internationale Berlin,3-5-2,1,4,25%,Ja,Nein,FC Internationale Berlin,ZM,NA,Enrique Freitag,0.66
+FC Internationale Berlin,3-5-2,1,4,25%,Ja,Nein,FC Internationale Berlin,ZM,NA,Akiyasu Tsuchiya,0.65
+FC Internationale Berlin,3-5-2,1,4,25%,Ja,Nein,FC Internationale Berlin,ZM,NA,Franzisko Bätz,0.56
+FC Internationale Berlin,4-1-4-1,1,4,25%,Nein,Ja,FC Internationale Berlin,ST,NA,Gaston Ignacio Nieto,0.84
+FC Internationale Berlin,4-1-4-1,1,4,25%,Nein,Ja,FC Internationale Berlin,RM,NA,Santiago Henrich Paya,0.83
+FC Internationale Berlin,4-1-4-1,1,4,25%,Nein,Ja,FC Internationale Berlin,LM,NA,Giovanni Marigo,0.77
+FC Internationale Berlin,4-1-4-1,1,4,25%,Nein,Ja,FC Internationale Berlin,IV,NA,Jascha Robin Wörteler,0.75
+FC Internationale Berlin,4-1-4-1,1,4,25%,Nein,Ja,FC Internationale Berlin,IV,NA,Nicolas Costa Echeverria,0.75
+FC Internationale Berlin,4-1-4-1,1,4,25%,Nein,Ja,FC Internationale Berlin,TW,NA,Alexander Schulze,0.74
+FC Internationale Berlin,4-1-4-1,1,4,25%,Nein,Ja,FC Internationale Berlin,LV,NA,Antonio Boeddinghaus,0.74
+FC Internationale Berlin,4-1-4-1,1,4,25%,Nein,Ja,FC Internationale Berlin,ZOM,NA,Akiyasu Tsuchiya,0.65
+Friedenauer TSC,3-4-3,1,4,25%,Ja,Nein,Friedenauer TSC,ZM,NA,Louis Anthony Guske,0.77
+Friedenauer TSC,3-4-3,1,4,25%,Ja,Nein,Friedenauer TSC,IV,NA,Paul Kleinfeldt,0.75
+Friedenauer TSC,3-4-3,1,4,25%,Ja,Nein,Friedenauer TSC,IV,NA,Kenney Kojo Sey,0.72
+Friedenauer TSC,3-4-3,1,4,25%,Ja,Nein,Friedenauer TSC,ST,NA,Ihab Al-Khalaf,0.69
+Friedenauer TSC,3-4-3,1,4,25%,Ja,Nein,Friedenauer TSC,TW,NA,Teoman Saatci,0.68
+Friedenauer TSC,3-4-3,1,4,25%,Ja,Nein,Friedenauer TSC,IV,NA,Joshua Fuchs,0.63
+Friedenauer TSC,3-4-3,1,4,25%,Ja,Nein,Friedenauer TSC,LM,NA,Finley Fuchs,0.61
+Friedenauer TSC,3-4-3,1,4,25%,Ja,Nein,Friedenauer TSC,ZM,NA,Kevin Woithe,0.6
+Friedenauer TSC,3-4-3,1,4,25%,Ja,Nein,Friedenauer TSC,ST,NA,Eray Krüger,0.59
+Friedenauer TSC,3-4-3,1,4,25%,Ja,Nein,Friedenauer TSC,RM,NA,Iven Stritzke,0.58
+Friedenauer TSC,3-4-3,1,4,25%,Ja,Nein,Friedenauer TSC,ST,NA,Maximilian Reinhard Schubart,0.49
+Friedenauer TSC,4-1-4-1,1,4,25%,Nein,Ja,Friedenauer TSC,IV,NA,Paul Kleinfeldt,0.75
+Friedenauer TSC,4-1-4-1,1,4,25%,Nein,Ja,Friedenauer TSC,IV,NA,Kenney Kojo Sey,0.72
+Friedenauer TSC,4-1-4-1,1,4,25%,Nein,Ja,Friedenauer TSC,ST,NA,Ihab Al-Khalaf,0.69
+Friedenauer TSC,4-1-4-1,1,4,25%,Nein,Ja,Friedenauer TSC,TW,NA,Teoman Saatci,0.68
+Friedenauer TSC,4-1-4-1,1,4,25%,Nein,Ja,Friedenauer TSC,ZOM,NA,Marten Niemeyer,0.65
+Friedenauer TSC,4-1-4-1,1,4,25%,Nein,Ja,Friedenauer TSC,LM,NA,Joshua Fuchs,0.63
+Friedenauer TSC,4-1-4-1,1,4,25%,Nein,Ja,Friedenauer TSC,LV,NA,Kevin Woithe,0.6
+Friedenauer TSC,4-1-4-1,1,4,25%,Nein,Ja,Friedenauer TSC,RM,NA,Iven Stritzke,0.58
+Friedenauer TSC,4-1-4-1,1,4,25%,Nein,Ja,Friedenauer TSC,ZDM,NA,Theo Prümke,0.53
+Friedenauer TSC,4-1-4-1,1,4,25%,Nein,Ja,Friedenauer TSC,ZOM,NA,Patrick Magiera,0.36
+Pfeffersport,4-1-2-3,1,4,25%,Nein,Ja,Pfeffersport,LM,NA,Manuel Goudjo Aguigah,0.74
+Pfeffersport,4-1-2-3,1,4,25%,Nein,Ja,Pfeffersport,RV,NA,Carl Zimmering,0.73
+Pfeffersport,4-1-2-3,1,4,25%,Nein,Ja,Pfeffersport,ST,NA,William Scarlett,0.71
+Pfeffersport,4-1-2-3,1,4,25%,Nein,Ja,Pfeffersport,LV,NA,Mohamed Boudlal,0.7
+Pfeffersport,4-1-2-3,1,4,25%,Nein,Ja,Pfeffersport,IV,NA,Philipp Pilz,0.69
+Pfeffersport,4-1-2-3,1,4,25%,Nein,Ja,Pfeffersport,IV,NA,Heinrich Sander,0.65
+Pfeffersport,4-1-2-3,1,4,25%,Nein,Ja,Pfeffersport,TW,NA,Zorc Kolfenbach,0.61
+Pfeffersport,4-1-2-3,1,4,25%,Nein,Ja,Pfeffersport,ZOM,NA,Linus Debrodt,0.59
+Pfeffersport,4-1-2-3,1,4,25%,Nein,Ja,Pfeffersport,ZOM,NA,Friedrich Würzner,0.56
+Pfeffersport,4-1-2-3,1,4,25%,Nein,Ja,Pfeffersport,RM,NA,Mohammad Barakat,0.56
+Pfeffersport,4-3-3,2,4,50%,Nein,Ja,Pfeffersport,LM,NA,Manuel Goudjo Aguigah,0.74
+Pfeffersport,4-3-3,2,4,50%,Nein,Ja,Pfeffersport,RV,NA,Carl Zimmering,0.73
+Pfeffersport,4-3-3,2,4,50%,Nein,Ja,Pfeffersport,ST,NA,William Scarlett,0.71
+Pfeffersport,4-3-3,2,4,50%,Nein,Ja,Pfeffersport,LV,NA,Mohamed Boudlal,0.7
+Pfeffersport,4-3-3,2,4,50%,Nein,Ja,Pfeffersport,IV,NA,Philipp Pilz,0.69
+Pfeffersport,4-3-3,2,4,50%,Nein,Ja,Pfeffersport,IV,NA,Heinrich Sander,0.65
+Pfeffersport,4-3-3,2,4,50%,Nein,Ja,Pfeffersport,TW,NA,Zorc Kolfenbach,0.61
+Pfeffersport,4-3-3,2,4,50%,Nein,Ja,Pfeffersport,ZM,NA,Paul Oskar Schirp,0.6
+Pfeffersport,4-3-3,2,4,50%,Nein,Ja,Pfeffersport,RM,NA,Mohammad Barakat,0.56
+Pfeffersport,4-3-3,2,4,50%,Nein,Ja,Pfeffersport,ZM,NA,Julian Marcell,0.51
+Pfeffersport,4-3-3,2,4,50%,Nein,Ja,Pfeffersport,ZM,NA,Benedict Klenk,0.5
+SC Borsigwalde,3-2-3-2,1,4,25%,Ja,Nein,SC Borsigwalde,IV,NA,Khaled El-Okkla,0.69
+SC Borsigwalde,3-2-3-2,1,4,25%,Ja,Nein,SC Borsigwalde,RM,NA,Nick Thalke,0.69
+SC Borsigwalde,3-2-3-2,1,4,25%,Ja,Nein,SC Borsigwalde,ZDM,NA,Kevin Kummer,0.69
+SC Borsigwalde,3-2-3-2,1,4,25%,Ja,Nein,SC Borsigwalde,IV,NA,Mohammed Mustafa Acar,0.69
+SC Borsigwalde,3-2-3-2,1,4,25%,Ja,Nein,SC Borsigwalde,TW,NA,Nikola Siljanoski,0.66
+SC Borsigwalde,3-2-3-2,1,4,25%,Ja,Nein,SC Borsigwalde,ZDM,NA,Sadjad Rassuli,0.64
+SC Borsigwalde,3-2-3-2,1,4,25%,Ja,Nein,SC Borsigwalde,ST,NA,Marcel Bubner,0.63
+SC Borsigwalde,3-2-3-2,1,4,25%,Ja,Nein,SC Borsigwalde,IV,NA,Prince Selemani Angali,0.55
+SC Borsigwalde,3-2-3-2,1,4,25%,Ja,Nein,SC Borsigwalde,ZOM,NA,Ammar Memidzan,0.48
+SC Borsigwalde,3-2-3-2,1,4,25%,Ja,Nein,SC Borsigwalde,ST,NA,Adam Barnat,0.46
+SC Borsigwalde,4-1-4-1,1,4,25%,Nein,Ja,SC Borsigwalde,IV,NA,Khaled El-Okkla,0.69
+SC Borsigwalde,4-1-4-1,1,4,25%,Nein,Ja,SC Borsigwalde,RM,NA,Nick Thalke,0.69
+SC Borsigwalde,4-1-4-1,1,4,25%,Nein,Ja,SC Borsigwalde,ZDM,NA,Kevin Kummer,0.69
+SC Borsigwalde,4-1-4-1,1,4,25%,Nein,Ja,SC Borsigwalde,IV,NA,Mohammed Mustafa Acar,0.69
+SC Borsigwalde,4-1-4-1,1,4,25%,Nein,Ja,SC Borsigwalde,TW,NA,Nikola Siljanoski,0.66
+SC Borsigwalde,4-1-4-1,1,4,25%,Nein,Ja,SC Borsigwalde,ZOM,NA,Sadjad Rassuli,0.64
+SC Borsigwalde,4-1-4-1,1,4,25%,Nein,Ja,SC Borsigwalde,ST,NA,Marcel Bubner,0.63
+SC Borsigwalde,4-1-4-1,1,4,25%,Nein,Ja,SC Borsigwalde,LV,NA,Mostafa Kassem,0.55
+SC Borsigwalde,4-1-4-1,1,4,25%,Nein,Ja,SC Borsigwalde,RV,NA,Prince Selemani Angali,0.55
+SC Borsigwalde,4-1-4-1,1,4,25%,Nein,Ja,SC Borsigwalde,ZOM,NA,Ammar Memidzan,0.48
+SC Borsigwalde,4-2-3-1,1,4,25%,Nein,Ja,SC Borsigwalde,IV,NA,Khaled El-Okkla,0.69
+SC Borsigwalde,4-2-3-1,1,4,25%,Nein,Ja,SC Borsigwalde,RM,NA,Nick Thalke,0.69
+SC Borsigwalde,4-2-3-1,1,4,25%,Nein,Ja,SC Borsigwalde,ZDM,NA,Kevin Kummer,0.69
+SC Borsigwalde,4-2-3-1,1,4,25%,Nein,Ja,SC Borsigwalde,IV,NA,Mohammed Mustafa Acar,0.69
+SC Borsigwalde,4-2-3-1,1,4,25%,Nein,Ja,SC Borsigwalde,TW,NA,Nikola Siljanoski,0.66
+SC Borsigwalde,4-2-3-1,1,4,25%,Nein,Ja,SC Borsigwalde,ZDM,NA,Sadjad Rassuli,0.64
+SC Borsigwalde,4-2-3-1,1,4,25%,Nein,Ja,SC Borsigwalde,ST,NA,Marcel Bubner,0.63
+SC Borsigwalde,4-2-3-1,1,4,25%,Nein,Ja,SC Borsigwalde,LV,NA,Mostafa Kassem,0.55
+SC Borsigwalde,4-2-3-1,1,4,25%,Nein,Ja,SC Borsigwalde,RV,NA,Prince Selemani Angali,0.55
+SC Borsigwalde,4-2-3-1,1,4,25%,Nein,Ja,SC Borsigwalde,ZOM,NA,Ammar Memidzan,0.48
+SF Charlottenburg-Wilmersdorf 03,4-5-1,2,4,50%,Nein,Ja,SF Charlottenburg-Wilmersdorf 03,ZM,NA,Johannes Gehring,0.62
+SF Charlottenburg-Wilmersdorf 03,4-5-1,2,4,50%,Nein,Ja,SF Charlottenburg-Wilmersdorf 03,RV,NA,Erik Kosky,0.57
+SF Charlottenburg-Wilmersdorf 03,4-5-1,2,4,50%,Nein,Ja,SF Charlottenburg-Wilmersdorf 03,LM,NA,Maximilian Kocher,0.56
+SF Charlottenburg-Wilmersdorf 03,4-5-1,2,4,50%,Nein,Ja,SF Charlottenburg-Wilmersdorf 03,ST,NA,Bakary Diakite,0.55
+SF Charlottenburg-Wilmersdorf 03,4-5-1,2,4,50%,Nein,Ja,SF Charlottenburg-Wilmersdorf 03,ZM,NA,Oskar Dornheim,0.55
+SF Charlottenburg-Wilmersdorf 03,4-5-1,2,4,50%,Nein,Ja,SF Charlottenburg-Wilmersdorf 03,IV,NA,Koffi Ange Mickael Hermann Yao,0.53
+SF Charlottenburg-Wilmersdorf 03,4-5-1,2,4,50%,Nein,Ja,SF Charlottenburg-Wilmersdorf 03,TW,NA,Niklas Höhne,0.52
+SF Charlottenburg-Wilmersdorf 03,4-5-1,2,4,50%,Nein,Ja,SF Charlottenburg-Wilmersdorf 03,IV,NA,Lasslo Jacobs,0.49
+SF Charlottenburg-Wilmersdorf 03,4-5-1,2,4,50%,Nein,Ja,SF Charlottenburg-Wilmersdorf 03,LV,NA,Lucas Dziadek,0.47
+SF Charlottenburg-Wilmersdorf 03,4-5-1,2,4,50%,Nein,Ja,SF Charlottenburg-Wilmersdorf 03,ZM,NA,Philipp Aufschlag,0.46
+SF Charlottenburg-Wilmersdorf 03,5-3-2,1,4,25%,Nein,Nein,SF Charlottenburg-Wilmersdorf 03,ZM,NA,Johannes Gehring,0.62
+SF Charlottenburg-Wilmersdorf 03,5-3-2,1,4,25%,Nein,Nein,SF Charlottenburg-Wilmersdorf 03,RV,NA,Erik Kosky,0.57
+SF Charlottenburg-Wilmersdorf 03,5-3-2,1,4,25%,Nein,Nein,SF Charlottenburg-Wilmersdorf 03,ST,NA,Bakary Diakite,0.55
+SF Charlottenburg-Wilmersdorf 03,5-3-2,1,4,25%,Nein,Nein,SF Charlottenburg-Wilmersdorf 03,ZM,NA,Oskar Dornheim,0.55
+SF Charlottenburg-Wilmersdorf 03,5-3-2,1,4,25%,Nein,Nein,SF Charlottenburg-Wilmersdorf 03,IV,NA,Koffi Ange Mickael Hermann Yao,0.53
+SF Charlottenburg-Wilmersdorf 03,5-3-2,1,4,25%,Nein,Nein,SF Charlottenburg-Wilmersdorf 03,TW,NA,Niklas Höhne,0.52
+SF Charlottenburg-Wilmersdorf 03,5-3-2,1,4,25%,Nein,Nein,SF Charlottenburg-Wilmersdorf 03,IV,NA,Lasslo Jacobs,0.49
+SF Charlottenburg-Wilmersdorf 03,5-3-2,1,4,25%,Nein,Nein,SF Charlottenburg-Wilmersdorf 03,IV,NA,Janek Wendt,0.49
+SF Charlottenburg-Wilmersdorf 03,5-3-2,1,4,25%,Nein,Nein,SF Charlottenburg-Wilmersdorf 03,LV,NA,Lucas Dziadek,0.47
+SF Charlottenburg-Wilmersdorf 03,5-3-2,1,4,25%,Nein,Nein,SF Charlottenburg-Wilmersdorf 03,ZM,NA,Philipp Aufschlag,0.46
+SF Charlottenburg-Wilmersdorf 03,5-3-2,1,4,25%,Nein,Nein,SF Charlottenburg-Wilmersdorf 03,ST,NA,Dhia Mayel,0.3
+SF Charlottenburg-Wilmersdorf 03,5-4-1,1,4,25%,Nein,Nein,SF Charlottenburg-Wilmersdorf 03,ZM,NA,Johannes Gehring,0.62
+SF Charlottenburg-Wilmersdorf 03,5-4-1,1,4,25%,Nein,Nein,SF Charlottenburg-Wilmersdorf 03,RV,NA,Erik Kosky,0.57
+SF Charlottenburg-Wilmersdorf 03,5-4-1,1,4,25%,Nein,Nein,SF Charlottenburg-Wilmersdorf 03,LM,NA,Maximilian Kocher,0.56
+SF Charlottenburg-Wilmersdorf 03,5-4-1,1,4,25%,Nein,Nein,SF Charlottenburg-Wilmersdorf 03,ST,NA,Bakary Diakite,0.55
+SF Charlottenburg-Wilmersdorf 03,5-4-1,1,4,25%,Nein,Nein,SF Charlottenburg-Wilmersdorf 03,ZM,NA,Oskar Dornheim,0.55
+SF Charlottenburg-Wilmersdorf 03,5-4-1,1,4,25%,Nein,Nein,SF Charlottenburg-Wilmersdorf 03,IV,NA,Koffi Ange Mickael Hermann Yao,0.53
+SF Charlottenburg-Wilmersdorf 03,5-4-1,1,4,25%,Nein,Nein,SF Charlottenburg-Wilmersdorf 03,TW,NA,Niklas Höhne,0.52
+SF Charlottenburg-Wilmersdorf 03,5-4-1,1,4,25%,Nein,Nein,SF Charlottenburg-Wilmersdorf 03,IV,NA,Lasslo Jacobs,0.49
+SF Charlottenburg-Wilmersdorf 03,5-4-1,1,4,25%,Nein,Nein,SF Charlottenburg-Wilmersdorf 03,IV,NA,Janek Wendt,0.49
+SF Charlottenburg-Wilmersdorf 03,5-4-1,1,4,25%,Nein,Nein,SF Charlottenburg-Wilmersdorf 03,LV,NA,Lucas Dziadek,0.47
+SF Johannisthal,4-2-3-1,1,4,25%,Nein,Ja,SF Johannisthal,TW,1,Toni Ölke,0.81
+SF Johannisthal,4-2-3-1,1,4,25%,Nein,Ja,SF Johannisthal,IV,2,Lars Walden,0.8
+SF Johannisthal,4-2-3-1,1,4,25%,Nein,Ja,SF Johannisthal,LM,17,Nikolas Müller,0.79
+SF Johannisthal,4-2-3-1,1,4,25%,Nein,Ja,SF Johannisthal,RM,31,Max Mittelstädt,0.75
+SF Johannisthal,4-2-3-1,1,4,25%,Nein,Ja,SF Johannisthal,RV,11,Lukas Olff,0.73
+SF Johannisthal,4-2-3-1,1,4,25%,Nein,Ja,SF Johannisthal,ZDM,6,Colin Gonda,0.72
+SF Johannisthal,4-2-3-1,1,4,25%,Nein,Ja,SF Johannisthal,ZDM,7,Jonathan Behrend,0.72
+SF Johannisthal,4-2-3-1,1,4,25%,Nein,Ja,SF Johannisthal,LV,19,Max Hoffmann,0.71
+SF Johannisthal,4-2-3-1,1,4,25%,Nein,Ja,SF Johannisthal,ST,10,Lukas Ferl,0.71
+SF Johannisthal,4-2-3-1,1,4,25%,Nein,Ja,SF Johannisthal,IV,NA,Benjamin Mujic,0.68
+SF Johannisthal,4-3-3,3,4,75%,Nein,Ja,SF Johannisthal,TW,1,Toni Ölke,0.81
+SF Johannisthal,4-3-3,3,4,75%,Nein,Ja,SF Johannisthal,IV,2,Lars Walden,0.8
+SF Johannisthal,4-3-3,3,4,75%,Nein,Ja,SF Johannisthal,LM,17,Nikolas Müller,0.79
+SF Johannisthal,4-3-3,3,4,75%,Nein,Ja,SF Johannisthal,ZM,31,Max Mittelstädt,0.75
+SF Johannisthal,4-3-3,3,4,75%,Nein,Ja,SF Johannisthal,RM,9,Yoshua Lüdtke,0.74
+SF Johannisthal,4-3-3,3,4,75%,Nein,Ja,SF Johannisthal,RV,11,Lukas Olff,0.73
+SF Johannisthal,4-3-3,3,4,75%,Nein,Ja,SF Johannisthal,ZM,6,Colin Gonda,0.72
+SF Johannisthal,4-3-3,3,4,75%,Nein,Ja,SF Johannisthal,ZM,7,Jonathan Behrend,0.72
+SF Johannisthal,4-3-3,3,4,75%,Nein,Ja,SF Johannisthal,LV,19,Max Hoffmann,0.71
+SF Johannisthal,4-3-3,3,4,75%,Nein,Ja,SF Johannisthal,ST,10,Lukas Ferl,0.71
+SF Johannisthal,4-3-3,3,4,75%,Nein,Ja,SF Johannisthal,IV,NA,Benjamin Mujic,0.68
+SV Empor Berlin II,4-1-4-1,1,4,25%,Nein,Ja,SV Empor Berlin II,LM,12,Billy Bradley Tuckerman,0.63
+SV Empor Berlin II,4-1-4-1,1,4,25%,Nein,Ja,SV Empor Berlin II,TW,33,Janne Henrik Bloch,0.61
+SV Empor Berlin II,4-1-4-1,1,4,25%,Nein,Ja,SV Empor Berlin II,RM,3,Niclas Nixdorf,0.58
+SV Empor Berlin II,4-1-4-1,1,4,25%,Nein,Ja,SV Empor Berlin II,IV,4,Marian Popp,0.58
+SV Empor Berlin II,4-1-4-1,1,4,25%,Nein,Ja,SV Empor Berlin II,ZDM,17,Julian Duczmal,0.57
+SV Empor Berlin II,4-1-4-1,1,4,25%,Nein,Ja,SV Empor Berlin II,IV,5,Jannick Wollmann,0.56
+SV Empor Berlin II,4-1-4-1,1,4,25%,Nein,Ja,SV Empor Berlin II,LV,8,Reyaj Shrestha,0.56
+SV Empor Berlin II,4-1-4-1,1,4,25%,Nein,Ja,SV Empor Berlin II,RV,2,Pascal Bräkow,0.53
+SV Empor Berlin II,4-1-4-1,1,4,25%,Nein,Ja,SV Empor Berlin II,ST,9,Nico Bochnia,0.52
+SV Empor Berlin II,4-1-4-1,1,4,25%,Nein,Ja,SV Empor Berlin II,ZOM,NA,Anushan Rajaratnam,0.5
+SV Empor Berlin II,4-1-4-1,1,4,25%,Nein,Ja,SV Empor Berlin II,ZOM,NA,Erik Hegenbarth,0.37
+SV Empor Berlin II,4-2-3-1,1,4,25%,Nein,Ja,SV Empor Berlin II,LM,12,Billy Bradley Tuckerman,0.63
+SV Empor Berlin II,4-2-3-1,1,4,25%,Nein,Ja,SV Empor Berlin II,TW,33,Janne Henrik Bloch,0.61
+SV Empor Berlin II,4-2-3-1,1,4,25%,Nein,Ja,SV Empor Berlin II,RM,3,Niclas Nixdorf,0.58
+SV Empor Berlin II,4-2-3-1,1,4,25%,Nein,Ja,SV Empor Berlin II,IV,4,Marian Popp,0.58
+SV Empor Berlin II,4-2-3-1,1,4,25%,Nein,Ja,SV Empor Berlin II,ZDM,17,Julian Duczmal,0.57
+SV Empor Berlin II,4-2-3-1,1,4,25%,Nein,Ja,SV Empor Berlin II,IV,5,Jannick Wollmann,0.56
+SV Empor Berlin II,4-2-3-1,1,4,25%,Nein,Ja,SV Empor Berlin II,ZDM,18,Emile Ako,0.56
+SV Empor Berlin II,4-2-3-1,1,4,25%,Nein,Ja,SV Empor Berlin II,LV,8,Reyaj Shrestha,0.56
+SV Empor Berlin II,4-2-3-1,1,4,25%,Nein,Ja,SV Empor Berlin II,RV,2,Pascal Bräkow,0.53
+SV Empor Berlin II,4-2-3-1,1,4,25%,Nein,Ja,SV Empor Berlin II,ST,9,Nico Bochnia,0.52
+SV Empor Berlin II,4-2-3-1,1,4,25%,Nein,Ja,SV Empor Berlin II,ZOM,NA,Anushan Rajaratnam,0.5
+SV Empor Berlin II,4-4-2,1,4,25%,Nein,Ja,SV Empor Berlin II,LM,12,Billy Bradley Tuckerman,0.63
+SV Empor Berlin II,4-4-2,1,4,25%,Nein,Ja,SV Empor Berlin II,TW,33,Janne Henrik Bloch,0.61
+SV Empor Berlin II,4-4-2,1,4,25%,Nein,Ja,SV Empor Berlin II,RM,3,Niclas Nixdorf,0.58
+SV Empor Berlin II,4-4-2,1,4,25%,Nein,Ja,SV Empor Berlin II,IV,4,Marian Popp,0.58
+SV Empor Berlin II,4-4-2,1,4,25%,Nein,Ja,SV Empor Berlin II,ZM,17,Julian Duczmal,0.57
+SV Empor Berlin II,4-4-2,1,4,25%,Nein,Ja,SV Empor Berlin II,IV,5,Jannick Wollmann,0.56
+SV Empor Berlin II,4-4-2,1,4,25%,Nein,Ja,SV Empor Berlin II,ZM,18,Emile Ako,0.56
+SV Empor Berlin II,4-4-2,1,4,25%,Nein,Ja,SV Empor Berlin II,LV,8,Reyaj Shrestha,0.56
+SV Empor Berlin II,4-4-2,1,4,25%,Nein,Ja,SV Empor Berlin II,RV,2,Pascal Bräkow,0.53
+SV Empor Berlin II,4-4-2,1,4,25%,Nein,Ja,SV Empor Berlin II,ST,9,Nico Bochnia,0.52
+SV Empor Berlin II,4-4-2,1,4,25%,Nein,Ja,SV Empor Berlin II,ST,NA,Anushan Rajaratnam,0.5
