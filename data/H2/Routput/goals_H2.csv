@@ -25,7 +25,8 @@ Demir,1.FC Schöneberg,SV Empor Berlin II,36,3:1
 Nhacuonga,1.FC Schöneberg,SV Empor Berlin II,47,4:1
 E. Uzun,1.FC Schöneberg,SV Empor Berlin II,50,5:1
 Cabuk,1.FC Schöneberg,SV Empor Berlin II,80,6:2
-"Eigentor, 2:0 (11.) U. Yüksek",BSV Hürtürkel,SF Johannisthal,7,1:0
+Eigentor,BSV Hürtürkel,SF Johannisthal,7,1:0
+U. Yüksek,BSV Hürtürkel,SF Johannisthal,11,2:0
 Bubner,SC Borsigwalde,BFC Preussen II,19,0:1
 Knaack,SC Borsigwalde,BFC Preussen II,42,0:2
 Dniel Nzongo,SC Borsigwalde,BFC Preussen II,86,0:3
@@ -64,7 +65,7 @@ Ferl,SF Johannisthal,Berliner SC II,90,8:0
 Mikelatze,BFC Preussen II,SV Empor Berlin II,67,1:1
 M. Stanley,FC Internationale Berlin,DJK Schwarz-Weiß Neukölln,76,0:1
 N. Stanley,FC Internationale Berlin,DJK Schwarz-Weiß Neukölln,86,0:2
-Uzun,1.FC Schöneberg,SF Charlottenburg-Wilmersdorf 03,6,0:1
+E. Uzun,1.FC Schöneberg,SF Charlottenburg-Wilmersdorf 03,6,0:1
 E. Uzun,1.FC Schöneberg,SF Charlottenburg-Wilmersdorf 03,64,0:2
 Cabuk,1.FC Schöneberg,SF Charlottenburg-Wilmersdorf 03,85,0:3
 Scarlett,Pfeffersport,Berlin Hilalspor,3,0:1
@@ -91,6 +92,7 @@ Gehring,SF Charlottenburg-Wilmersdorf 03,SC Berliner Amateure,84,1:1
 Driemel,FC Internationale Berlin,Friedenauer TSC,30,0:1
 M. Stanley,FC Internationale Berlin,Friedenauer TSC,40,0:2
 Henrich Paya,FC Internationale Berlin,Friedenauer TSC,52,0:3
+Nieto,FC Internationale Berlin,Friedenauer TSC,75,1:4
 Nieto,FC Internationale Berlin,Friedenauer TSC,84,1:5
 Ovcharov,FC Internationale Berlin,Friedenauer TSC,89,1:6
 Lüdtke,SF Johannisthal,Pfeffersport,11,0:1
@@ -107,7 +109,8 @@ Opoku,Berolina Mitte,1.FC Schöneberg,81,2:5
 Bechler,BSV 1892,BSV Hürtürkel,10,0:1
 Busche,BSV 1892,BSV Hürtürkel,78,1:2
 Zauner,BSV 1892,BSV Hürtürkel,82,1:3
-"Zauner, 1:5 (90.) Schleifenbaum",BSV 1892,BSV Hürtürkel,85,1:4
+Zauner,BSV 1892,BSV Hürtürkel,85,1:4
+Schleifenbaum,BSV 1892,BSV Hürtürkel,90,1:5
 Kozak,SC Berliner Amateure,SF Charlottenburg-Wilmersdorf 03,75,0:1
 Paya,FC Internationale Berlin,BFC Preussen II,17,1:0
 Schindler,FC Internationale Berlin,BFC Preussen II,47,2:0
@@ -131,7 +134,9 @@ Fuchs,Friedenauer TSC,BSV 1892,2,0:1
 Krüger,Friedenauer TSC,BSV 1892,38,0:2
 Guske,Friedenauer TSC,BSV 1892,44,0:3
 Krüger,Friedenauer TSC,BSV 1892,82,1:4
-"Knaack, 0:2 (45.+3) Crone",SC Borsigwalde,Berlin Hilalspor,39,0:1
+Knaack,SC Borsigwalde,Berlin Hilalspor,39,0:1
+Crone,SC Borsigwalde,Berlin Hilalspor,45,0:2
 Häger,SF Charlottenburg-Wilmersdorf 03,SF Johannisthal,82,2:1
-"Debrodt, 0:2 (58.) Scarlett",Pfeffersport,Berolina Mitte,20,0:1
+Debrodt,Pfeffersport,Berolina Mitte,20,0:1
+Scarlett,Pfeffersport,Berolina Mitte,58,0:2
 Scarlett,Pfeffersport,Berolina Mitte,75,0:3
